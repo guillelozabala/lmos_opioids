@@ -156,7 +156,7 @@ for time in list_of_years:
     demo_states = demo_states[['year', 'state_fip', 'population'] + [col for col in demo_states.columns if col.endswith('_ratio')]]
 
     # Save the data
-    demo_states.to_csv(f'./data/intermediate/county_demographics/county_demographics_{time}.csv',sep=',',index=False)
-    demo_county.to_csv(f'./data/intermediate/state_demographics/state_demographics_{time}.csv',sep=',',index=False)
+    demo_county.to_csv(f'./data/intermediate/county_demographics/county_demographics_{time}.csv',sep=',',index=False)
+    demo_states.to_csv(f'./data/intermediate/state_demographics/state_demographics_{time}.csv',sep=',',index=False)
 
 
