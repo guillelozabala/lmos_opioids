@@ -4,6 +4,8 @@ The csv files at ./data/source/county_demographics/ are a split of the .txt file
 
 The sector composition of the counties is obtained from https://www.census.gov/programs-surveys/cbp/data/datasets.html. The data on the rollout of the PDMPs come from Horwitz et al. (2020)
 
+The minimum wage data is webscraped from https://www.dol.gov/agencies/whd/state/minimum-wage/history. The script thar retrieves the data can be found at the auxiliary respository
+
 **References**:
 
 Horwitz JR, Davis C, McClelland L, Fordon R, Meara E. The importance of data source in prescription drug monitoring program research. Health Serv Res. 2021; 56: 268–274. https://doi.org/10.1111/1475-6773.13548
