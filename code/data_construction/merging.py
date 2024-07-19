@@ -103,8 +103,6 @@ print(demographics)
 ### Load the minimum wage data ######################################################################
 
 # Load the minimum wage data
-
-# Read the minimum wage data from the specified file
 minwage = pd.read_csv(f'./data/intermediate/minimum_wage/minwage_clean_states.csv')
 
 # Rename the columns to match the desired names
@@ -185,9 +183,6 @@ sector_shares_cov.columns = 'emp_' + sector_shares_cov.columns + '_ratio'
 # Rename the columns 'emp_year_ratio' and 'emp_fips_ratio' to 'year' and 'fips' respectively
 sector_shares_cov = sector_shares_cov.rename({'emp_year_ratio' : 'year', 'emp_fips_ratio' : 'fips'}, axis=1)
 
-#sector_shares_cov['state_code'] = sector_shares_cov['fips'].str[:2]
-#sector_shares_cov['county_code'] = sector_shares_cov['fips'].str[2:]
-
 print(sector_shares_cov)
 
 # Extract the first two digits of the 'naics' column and create a new column 'naics_4digits'
@@ -195,6 +190,7 @@ sector_shares['naics_3digits'] = sector_shares['naics'].astype(str).str[:3] + '0
 
 # Group the data by 'naics_4digits', 'year', and 'fips' and sum the 'emp' and 'emp_ratio' columns
 sector_shares = sector_shares.groupby(['naics_3digits', 'year', 'fips'])[['emp','emp_ratio']].sum().reset_index()
+# lo de arriba esta mal, los ratios no se suman, se promedian
 
 sector_shares.rename(columns={'naics_3digits': 'naics'}, inplace=True)
 
@@ -272,6 +268,9 @@ for year in year_range:
 
 fips_wage_distributions = pd.DataFrame(wage_distributions)
 
+fips_wage_distributions[h_columns] = fips_wage_distributions[h_columns].apply(pd.to_numeric, errors='coerce').astype(float)
+
+
 print(fips_wage_distributions)
 
 ### Load the overdose deaths data ####################################################################
@@ -338,7 +337,21 @@ merged_data = pd.merge(merged_data, sector_shares_cov, on=['fips', 'year'], how=
 merged_data = pd.merge(merged_data, fips_wage_distributions, on=['fips', 'year'], how='inner')
 merged_data = pd.merge(merged_data, od_deaths_total, on=['fips', 'year'], how='inner')
 
+merged_data['log_minw'] = np.log(merged_data['min_wage'])
+merged_data['log_h_pct10'] = np.log(merged_data['h_pct10'])
+merged_data['log_h_pct25'] = np.log(merged_data['h_pct25'])
+merged_data['log_h_pct50'] = np.log(merged_data['h_pct50'])
+merged_data['log_h_pct75'] = np.log(merged_data['h_pct75'])
+merged_data['log_h_pct90'] = np.log(merged_data['h_pct90'])
+
+merged_data['kaitz_pct10'] = merged_data['log_minw'] - merged_data['log_h_pct10']
+merged_data['kaitz_pct25'] = merged_data['log_minw'] - merged_data['log_h_pct25']
+merged_data['kaitz_pct50'] = merged_data['log_minw'] - merged_data['log_h_pct50']
+merged_data['kaitz_pct75'] = merged_data['log_minw'] - merged_data['log_h_pct75']
+merged_data['kaitz_pct90'] = merged_data['log_minw'] - merged_data['log_h_pct90']
+
 print(merged_data)
 
 # Save the merged data to a CSV file
 merged_data.to_csv('./data/processed/merged_data.csv', index=False)
+

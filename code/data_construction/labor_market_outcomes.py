@@ -16,6 +16,9 @@ dfips = pd.read_csv(r'./data/source/fips/county_fips_master.csv',encoding = "ISO
 dfips_ct = dfips[['fips','county_name','state_abbr','state_name']]
 dfips_st = dfips[['state','state_name','state_abbr']]
 
+# Drop duplicate rows based on the 'state_abbr' column
+dfips_st = dfips_st.drop_duplicates(subset='state_abbr').reset_index(drop=True)
+
 # Convert the 'fips' column to string and pad with zeros to make it 5 characters long
 dfips_ct['fips'] = dfips_ct['fips'].astype(str).str.rjust(5,'0')
 dfips_st['state'] = dfips_st['state'].astype('Int64').astype(str).str.rjust(2,'0')
@@ -146,3 +149,65 @@ for time in list_of_years_states:
         
         # Save the final DataFrame as a CSV file
         i_df_st_final.to_csv(f'./data/intermediate/labor_market_outcomes_states/{k}_{time}.csv', sep=',', index=False)
+
+
+####
+
+# Read the data 
+df_st = pd.read_csv(f'./data/source/labor_market_outcomes_states/lmos_data_2003.csv')
+
+# Drop the 'footnote_codes' column from the DataFrame
+df_st = df_st.drop('footnote_codes', axis=1)
+
+# Rename the columns of the DataFrame
+df_st = df_st.rename(
+    columns = {
+        df_st.columns.values.tolist()[0]: 'series_id',
+        df_st.columns.values.tolist()[1]: 'year',
+        df_st.columns.values.tolist()[2]: 'period',
+        df_st.columns.values.tolist()[3]: 'value'
+    }
+)
+
+# Extract the state and county FIPS codes from the 'series_id' column
+df_st['state_fip'] = df_st['series_id'].str.slice(5, 7)
+
+# Extract the series code, which represents the type of labor market outcome
+df_st['series'] = df_st['series_id'].str.slice(18, 20)
+
+# Extract the month from the 'period' column
+df_st['month'] = df_st['period'].str.slice(1, 3)
+
+# Drop Puerto Rico and Census Regions and Divisions
+df_st = df_st[~df_st['state_fip'].isin(['72', '80'])]
+
+# Filter the 'df_st' DataFrame to include only rows with series code '03' (unemployment rate) and exclude rows with period 'M13' (annual)
+df_st_unemp_rate = df_st.drop(df_st[(df_st.series != '03') | (df_st.period == 'M13')].index)
+
+# Filter the 'df_st' DataFrame to include only rows with series code '04' (unemployment) and exclude rows with period 'M13' (annual)
+df_st_unemp = df_st.drop(df_st[(df_st.series != '04') | (df_st.period == 'M13')].index)
+
+# Filter the 'df_st' DataFrame to include only rows with series code '05' (employment) and exclude rows with period 'M13' (annual)
+df_st_emp = df_st.drop(df_st[(df_st.series != '05') | (df_st.period == 'M13')].index)
+
+# Filter the 'df_st' DataFrame to include only rows with series code '06' (labor force) and exclude rows with period 'M13' (annual)
+df_st_lab_force = df_st.drop(df_st[(df_st.series != '06') | (df_st.period == 'M13')].index)
+
+# Create a dictionary to store the DataFrames for different labor market outcomes
+df_st_dict = {
+    'unemployment_rate': df_st_unemp_rate,
+    'unemployment': df_st_unemp,
+    'employment': df_st_emp,
+    'labor_force': df_st_lab_force
+}
+
+# Iterate over the dictionary items
+for k, i_df_st in df_st_dict.items():
+    # Drop unnecessary columns from each DataFrame
+    i_df_st = i_df_st.drop(['series_id', 'series', 'period'], axis=1)
+    
+    # Merge each DataFrame with the 'dfips_st' DataFrame based on the 'state_fip' column
+    i_df_st_final = i_df_st.merge(dfips_st, on='state_fip')
+    
+    # Save the final DataFrame as a CSV file
+    i_df_st_final.to_csv(f'./data/intermediate/labor_market_outcomes_states/{k}_2003.csv', sep=',', index=False)
