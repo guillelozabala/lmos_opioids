@@ -342,4 +342,3 @@ print(merged_data)
 
 # Save the merged data to a CSV file
 merged_data.to_csv('./data/processed/merged_data.csv', index=False)
-
