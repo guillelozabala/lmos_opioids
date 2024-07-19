@@ -11,14 +11,14 @@ columns_to_add = ['h_pct10', 'h_pct25', 'h_pct75', 'h_pct90']
 folder_path = os.getcwd()
 
 # Get the list of files in the current folder
-file_names = os.listdir(folder_path + '\\data\\source\\industry_wage_distribution')
+file_names = os.listdir(folder_path + '\\data\\source\\industry_wage_distribution_four_codes')
 
 for files in file_names:
     # Extract the year from the file name
     year = re.findall(r'(?<!\d)\d{2}(?!\d)', files)[0]
     if year in ['97', '98', '99', '00', '01']:
         # Open the zip file for the corresponding year
-        file = zipfile.ZipFile(f'./data/source/industry_wage_distribution/oes'+ year +'in3.zip')
+        file = zipfile.ZipFile(f'./data/source/industry_wage_distribution_four_codes/oes'+ year +'in3.zip')
         # Get the name of the file inside the zip
         file_name = file.namelist()[0]
         # Determine the number of rows to skip based on the year
@@ -37,11 +37,11 @@ for files in file_names:
         else:
             complete_year = '20' + year
         # Save the DataFrame to a CSV file with the complete year in the file name
-        df.to_csv(f'./data/intermediate/industry_wage_distribution/industry_wages'+ complete_year + '.csv', sep=',', index=False)
+        df.to_csv(f'./data/intermediate/industry_wage_distribution_four_codes/industry_wages'+ complete_year + '.csv', sep=',', index=False)
     elif year in ['12', '13']:
         # Open the zip files for the corresponding year
-        file_1 = zipfile.ZipFile(f'./data/source/industry_wage_distribution/oesm'+ year +'in4_1.zip')
-        file_2 = zipfile.ZipFile(f'./data/source/industry_wage_distribution/oesm'+ year +'in4_2.zip')
+        file_1 = zipfile.ZipFile(f'./data/source/industry_wage_distribution_four_codes/oesm'+ year +'in4_1.zip')
+        file_2 = zipfile.ZipFile(f'./data/source/industry_wage_distribution_four_codes/oesm'+ year +'in4_2.zip')
         # Get the name of the file inside the zips
         file_name_1 = file_1.namelist()[0]
         file_name_2 = file_2.namelist()[0]
@@ -56,13 +56,13 @@ for files in file_names:
         df = df[['naics', 'occ_code', 'tot_emp', 'h_median'] + columns_to_add]
         # Save the DataFrame to a CSV file with the complete year in the file name
         complete_year = '20' + year
-        df.to_csv(f'./data/intermediate/industry_wage_distribution/industry_wages'+ complete_year + '.csv', sep=',', index=False)
+        df.to_csv(f'./data/intermediate/industry_wage_distribution_four_codes/industry_wages'+ complete_year + '.csv', sep=',', index=False)
     else:
         # Open the zip file for the corresponding year
         if year == '02':
-            file = zipfile.ZipFile(f'./data/source/industry_wage_distribution/oes'+ year +'in4.zip')
+            file = zipfile.ZipFile(f'./data/source/industry_wage_distribution_four_codes/oes'+ year +'in4.zip')
         else:
-            file = zipfile.ZipFile(f'./data/source/industry_wage_distribution/oesm'+ year +'in4.zip')
+            file = zipfile.ZipFile(f'./data/source/industry_wage_distribution_four_codes/oesm'+ year +'in4.zip')
         # Get the name of the file inside the zip
         file_name = file.namelist()[0]
         # Read the Excel file inside the zip
@@ -73,4 +73,26 @@ for files in file_names:
         df = df[['naics', 'occ_code', 'tot_emp', 'h_median'] + columns_to_add]
         # Save the DataFrame to a CSV file with the complete year in the file name
         complete_year = '20' + year
-        df.to_csv(f'./data/intermediate/industry_wage_distribution/industry_wages'+ complete_year + '.csv', sep=',', index=False)
+        df.to_csv(f'./data/intermediate/industry_wage_distribution_four_codes/industry_wages'+ complete_year + '.csv', sep=',', index=False)
+
+### For three digit NAICS codes
+
+# Get the list of files in the current folder
+file_names = os.listdir(folder_path + '\\data\\source\\industry_wage_distribution_three_codes')
+
+for files in file_names:
+    # Extract the year from the file name
+    year = re.findall(r'(?<!\d)\d{2}(?!\d)', files)[0]
+    # Open the zip file for the corresponding year
+    file = zipfile.ZipFile(f'./data/source/industry_wage_distribution_three_codes/oesm'+ year +'in4.zip')
+    # Get the name of the file inside the zip
+    file_name = file.namelist()[0]
+    # Read the Excel file inside the zip
+    df = pd.read_excel(io.BytesIO(file.open(file_name).read()))
+    # Lowercase the column names
+    df.columns = map(str.lower, df.columns)
+    # Select the desired columns from the DataFrame
+    df = df[['naics', 'occ_code', 'tot_emp', 'h_median'] + columns_to_add]
+    # Save the DataFrame to a CSV file with the complete year in the file name
+    complete_year = '20' + year
+    df.to_csv(f'./data/intermediate/industry_wage_distribution_three_codes/industry_wages'+ complete_year + '.csv', sep=',', index=False)
