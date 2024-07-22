@@ -14,7 +14,7 @@ list_of_years = set([file.split('_')[-1].split('.')[0] for file in file_list])
 for year in list_of_years:
 
     # Read the data from the file
-    file_path = './data/source/job_openings/job_openings_2003.csv'
+    file_path = f'./data/source/job_openings/job_openings_{year}.csv'
     data = pd.read_csv(file_path)
 
     # Extract relevant information from the 'series_id' column

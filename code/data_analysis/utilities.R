@@ -100,7 +100,8 @@ prep_data <- function(
     a_min = a_min,
     a_max = a_max,
     ytildename = paste0(yname, "_tilde"),
-    only_full_horizon = only_full_horizon
+    only_full_horizon = only_full_horizon,
+    compute_var_me = compute_var_me
   )
 
   object <- list(df_indcp = df_indcp, info = info)
@@ -166,8 +167,10 @@ compute_projection <- function(object) {
         by = c(aname, kname)
       ) |>
       dplyr::mutate(
-        !!paste0("var_", ytildename, "_estimated") := (!!rlang::sym(paste0("sd_", ytildename)))^2 - (!!rlang::sym("sd_epsilon"))^2,
-        !!paste0("sd_", ytildename, "_estimated") := sqrt(dplyr::if_else(!!rlang::sym(paste0("var_", ytildename, "_estimated")) > 0,
+        !!paste0("var_", ytildename, "_estimated")
+        := (!!rlang::sym(paste0("sd_", ytildename)))^2 - (!!rlang::sym("sd_epsilon"))^2,
+        !!paste0("sd_", ytildename, "_estimated")
+        := sqrt(dplyr::if_else(!!rlang::sym(paste0("var_", ytildename, "_estimated")) > 0,
         !!rlang::sym(paste0("var_", ytildename, "_estimated")), 0))
       ) |>
       dplyr::select(

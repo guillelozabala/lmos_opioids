@@ -161,7 +161,7 @@ sector_shares = sector_shares.drop('emp_ratio',axis=1)
 sector_shares['fips'] = sector_shares['fips'].astype(str).str.rjust(5, '0')
 sector_shares['state_fip'] = sector_shares['fips'].astype(str).str[:2]
 
-# Group the data by 'naics', 'year', and 'state_fip' and sum the 'emp' and 'emp_ratio' columns
+# Group the data by 'naics', 'year', and 'state_fip' and sum the 'emp' columns
 sector_shares = sector_shares.groupby(['naics', 'year', 'state_fip'])['emp'].sum().reset_index()
 
 print(sector_shares)
@@ -196,7 +196,7 @@ sector_shares_cov = sector_shares_cov.reset_index()
 sector_shares_cov.columns = 'emp_' + sector_shares_cov.columns + '_ratio'
 
 # Rename the columns 'emp_year_ratio' and 'emp_fips_ratio' to 'year' and 'state_fip' respectively
-sector_shares_cov = sector_shares_cov.rename({'emp_year_ratio' : 'year', 'emp_fips_ratio' : 'state_fip'}, axis=1)
+sector_shares_cov = sector_shares_cov.rename({'emp_year_ratio' : 'year', 'emp_state_fip_ratio' : 'state_fip'}, axis=1)
 
 print(sector_shares_cov)
 
@@ -216,6 +216,127 @@ sector_shares.rename(columns={'naics_3digits': 'naics'}, inplace=True)
 
 print(sector_shares)
 
+### Load the vacancies data ##########################################################################
+
+# Get the list of files in the directory
+file_list_jobs = os.listdir('./data/intermediate/job_openings')
+
+# Extract unique prefixes from the file names (lower bar followed by number)
+variables_jobs = set([re.search(pattern, file).group() for file in file_list_jobs])
+
+# Create a dictionary to store labor market outcomes data for each variable
+job_openings_years = {var: {} for var in variables_jobs}
+
+# Iterate over each variable
+for var in variables_jobs:
+    # Define the pattern to find files related to the variable
+    pattern_find = rf"{var}_\d+"
+    # Find the files that match the pattern
+    files_to_open = [re.search(pattern_find, file).group() for file in file_list_jobs if re.search(pattern_find, file)]
+    # Iterate over each file
+    for file in files_to_open:
+        # Read the file and store the data in the dictionary
+        job_openings_years[var][file] = pd.read_csv(f'./data/intermediate/job_openings/{file}.csv')
+
+# Create a dictionary to store concatenated labor market outcomes data for each variable
+job_openings = {var: {} for var in variables_jobs}
+
+# Iterate over each variable
+for var in variables_jobs:
+    # Create a list to store the dataframes for each file
+    df_names = []
+    # Get the keys (file names) for the variable
+    jobs_keys = job_openings_years[var].keys()
+    # Iterate over each key
+    for var_keys in jobs_keys:
+        # Get the dataframe for the key
+        temp_df = job_openings_years[var][var_keys]
+        # Rename the 'value' column to the variable name
+        temp_df.rename(columns={'       value': var}, inplace=True)
+        # Append the dataframe to the list
+        df_names.append(temp_df)
+    # Concatenate the dataframes and store the result in the dictionary
+    job_openings[var] = pd.concat(df_names)
+
+# Identify common columns
+common_columns = set.intersection(*(set(df.columns) for df in job_openings.values()))
+
+# Convert set of common columns to a list
+common_columns = list(common_columns)
+
+# Merge all dataframes in the dictionary based on the common columns
+merged_jobs = list(job_openings.values())[0]
+for df in list(job_openings.values())[1:]:
+    merged_jobs = pd.merge(merged_jobs, df, on=common_columns, how='outer')
+
+# Select the rows with years between initial_year and last_year
+merged_jobs = merged_jobs[(merged_jobs['year'] >= initial_year) & (merged_jobs['year'] <= last_year)]
+merged_jobs[list(variables_jobs)] = merged_jobs[list(variables_jobs)].apply(pd.to_numeric, errors='coerce').astype(float)
+
+print(merged_jobs)
+
+### Load the wage distribution data ##################################################################
+
+# Load the industry wage distribution data
+wage_dist_df = []
+for year in year_range:
+    dist_data = pd.read_csv(f'./data/intermediate/industry_wage_distribution_states/industry_wages{year}.csv')
+    dist_data['year'] = year
+    dist_data = dist_data[dist_data['occ_code'] == '00-0000']
+    dist_data = dist_data.drop('occ_code', axis=1)
+    dist_data = dist_data.rename(columns={'h_median':'h_pct50'})
+    if 'area_title' in dist_data.columns:
+        dist_data.rename(columns={'area_title': 'state'}, inplace=True)
+    wage_dist_df.append(dist_data)
+state_wage_dist = pd.concat(wage_dist_df)
+
+# Drop rows where state is Guam, Puerto Rico, or Virgin Islands
+state_wage_dist = state_wage_dist[~state_wage_dist['state'].isin(['Guam', 'Puerto Rico', 'Virgin Islands'])]
+
+h_columns = [col for col in state_wage_dist.columns if col.startswith('h_')]
+state_wage_dist[h_columns] = state_wage_dist[h_columns].apply(pd.to_numeric, errors='coerce').astype(float)
+
+print(state_wage_dist)
+
+### Load the overdose deaths data ####################################################################
+
+###
+
+# Merge the dataframes
+
+# Merge the labor market outcomes data with the county demographics data
+
+merged_data = pd.merge(merged_lmos, demographics, on=['state_fip', 'year'], how='inner')
+merged_data['lab_force_rate'] = (merged_data['labor_force'] / merged_data['working_age_pop'] * 100).round(4)
+
+merged_data = pd.merge(merged_data, minwage, on=['state_name', 'year'], how='inner')
+
+merged_data = pd.merge(merged_data, pdmps, on=['state_name'], how='inner')
+
+merged_jobs.rename(columns={'state_code': 'state_fip'}, inplace=True)
+merged_data = pd.merge(merged_data, merged_jobs, on=['state_fip', 'year'], how='inner')
+
+merged_data = pd.merge(merged_data, sector_shares_cov, on=['state_fip', 'year'], how='inner')
+
+merged_jobs.rename(columns={'area': 'state_fip'}, inplace=True)
+merged_data = pd.merge(merged_data, state_wage_dist, on=['state_fip', 'year'], how='inner')
 
 
-# wage distributionas at the state level and vacancies
+merged_data['log_minw'] = np.log(merged_data['min_wage'])
+merged_data['log_h_pct10'] = np.log(merged_data['h_pct10'])
+merged_data['log_h_pct25'] = np.log(merged_data['h_pct25'])
+merged_data['log_h_pct50'] = np.log(merged_data['h_pct50'])
+merged_data['log_h_pct75'] = np.log(merged_data['h_pct75'])
+merged_data['log_h_pct90'] = np.log(merged_data['h_pct90'])
+
+merged_data['kaitz_pct10'] = merged_data['log_minw'] - merged_data['log_h_pct10']
+merged_data['kaitz_pct25'] = merged_data['log_minw'] - merged_data['log_h_pct25']
+merged_data['kaitz_pct50'] = merged_data['log_minw'] - merged_data['log_h_pct50']
+merged_data['kaitz_pct75'] = merged_data['log_minw'] - merged_data['log_h_pct75']
+merged_data['kaitz_pct90'] = merged_data['log_minw'] - merged_data['log_h_pct90']
+
+print(merged_data)
+
+# Save the merged data to a CSV file
+merged_data.to_csv('./data/processed/merged_data_states.csv', index=False)
+

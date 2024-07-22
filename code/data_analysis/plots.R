@@ -1,7 +1,8 @@
-KaitzDensitiesPlot <- function(df) {
+kait_densities_plot <- function(df) {
 
   # Define the plot title
-  plot_title <- "Distribution of Kaitz-p indices across counties, for different \n percentiles at treatment (Must Query PDMP)"
+  plot_title <- "Distribution of Kaitz-p indices across counties,
+  for different \n percentiles at treatment (Must Query PDMP)"
 
   # Get the column names of the dataframe
   df_colnames <- df |> colnames()
@@ -17,43 +18,43 @@ KaitzDensitiesPlot <- function(df) {
     "0.50" = "#5aa800",
     "0.75" = "#f29318",
     "0.90" = "#B79F00"
-    )
+  )
 
   # Create the densities plot
   densities_plot <- ggplot2::ggplot(df) +
     geom_density(
       aes(x = kaitz_pct10, ..count.. / sum(..count..), color = "0.10"),
       linewidth = 1
-      ) +
+    ) +
     geom_density(
       aes(x = kaitz_pct25, ..count.. / sum(..count..), color = "0.25"),
       linewidth = 1
-      ) +
+    ) +
     geom_density(
       aes(x = kaitz_pct50, ..count.. / sum(..count..), color = "0.50"),
       linewidth = 1
-      ) +
+    ) +
     geom_density(
       aes(x = kaitz_pct75, ..count.. / sum(..count..), color = "0.75"),
       linewidth = 1
-      ) +
+    ) +
     geom_density(
       aes(x = kaitz_pct90, ..count.. / sum(..count..), color = "0.90"),
       linewidth = 1
-      ) +
+    ) +
     scale_color_manual(
       name = element_blank(),
       values = density_colors
-      )  +
+    )  +
     ylab(
       ""
-      ) +
+    ) +
     xlab(
       "Kaitz-p index"
-      ) +
+    ) +
     labs(
       title = plot_title
-      )
+    )
 
   # Customize the plot appearance
   densities_plot <- densities_plot +
@@ -62,13 +63,13 @@ KaitzDensitiesPlot <- function(df) {
       text = element_text(size = 16, family = "serif"),
       plot.title = element_text(hjust = 0.5, lineheight = 1.1),
       legend.position = c(0.10, 0.80)
-      )
+    )
 
   return(densities_plot)
 
 }
 
-TitleAndColors <- function(policy, outcome, percentile) {
+title_and_colors <- function(outcome, percentile) {
 
   # Define the possible percentiles
   percentiles <- c("0.10", "0.25", "0.50", "0.75", "0.90")
@@ -80,13 +81,7 @@ TitleAndColors <- function(policy, outcome, percentile) {
     print("Percentile must be 0.10, 0.25, 0.50, 0.75 or 0.90")
   }
 
-  if (policy == "mop"){
-    policy_title <- "Modern System PDMPs"
-  } else if (policy == "pmq") {
-    policy_title <- "Must Query PDMPs"
-  }
-
-  if (outcome == "unem_rate") {
+  if (outcome == "unemployment_rate") {
     outcome_title <- "unemployment rate"
     plot_color <- "#0098e9"
     plot_yrange <- ylim(-1.5, 4.0)
@@ -113,37 +108,40 @@ TitleAndColors <- function(policy, outcome, percentile) {
   }
 
   # Store the naming details in a vector
-  titles_and_colors <- c(percentile_name, plot_color, plot_yrange, 
-                        policy_title, outcome_title)
+  titles_and_colors <- c(
+    percentile_name,
+    plot_color,
+    plot_yrange,
+    outcome_title
+  )
 
   return(titles_and_colors)
 
 }
 
-IndividualEffectsPlot <- function(df,
-                                  periods,
-                                  percentile) {
+ind_effects_plot <- function(df, periods, percentile) {
 
   # Get the column names of the dataframe
   df_colnames <- df |> colnames()
 
   # Obtain the policy from treatment name
-  policy_name <- df_colnames[grep("first_treatment_", colnames(df))]
-  policy <- sub("first_treatment_", "", policy_name)
+  #policy_name <- "first_treatment_pmq"
+  policy <- "pmq"
+  
 
   # Obtain the outcome from dependend name
   outcome_name <- df_colnames[grep("_tilde", colnames(df))]
   outcome <- sub("_tilde", "", outcome_name)
 
   # Get the naming details for the plot
-  naming <- TitleAndColors(policy, outcome, percentile)
+  naming <- title_and_colors(outcome, percentile)
 
   # Extract the naming details
   percentile_name <- naming[[1]]
   plot_color <- naming[[2]]
   plot_yrange <- naming[[3]]
-  policy_title  <- naming[[4]]
-  outcome_title <- naming[[5]]
+  policy_title <- "Must Query PDMPs"
+  outcome_title <- naming[[4]]
 
   # Create the plot title
   plot_title <- paste0(
@@ -163,15 +161,14 @@ IndividualEffectsPlot <- function(df,
   for (period in periods){
 
     # Select the data for the specific period and policy
-    plot_data <- df[df[[paste0("relative_to_treat_", policy)]] == period, ]
+    plot_data <- df[df[["relative_to_treat_pmq"]] == period, ]
 
     # Perform binscatter regression
     binscatter <- binsreg::binsreg(
       y = plot_data[[outcome_name]],
       x = plot_data[[percentile_name]],
       data = plot_data,
-      ci = TRUE,
-      noplot = TRUE
+      ci = TRUE
     )
 
     # Extract the binscatter data
@@ -298,7 +295,7 @@ IndividualEffectsPlot <- function(df,
     top = lab_top
   )
 
-  return(c(plot_grid,bins_collection))
+  return(c(plot_grid, bins_collection))
 
 }
 

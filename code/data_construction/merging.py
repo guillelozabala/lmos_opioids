@@ -75,8 +75,6 @@ for df in list(labor_market_outcomes.values())[1:]:
 merged_lmos = merged_lmos[(merged_lmos['year'] >= initial_year) & (merged_lmos['year'] <= last_year)]
 merged_lmos[list(variables_lmos)] = merged_lmos[list(variables_lmos)].apply(pd.to_numeric, errors='coerce').astype(float)
 
-print(merged_lmos)
-
 ### Load the county demographics data ###############################################################
 
 # Load the county demographics data for each year and concatenate them into a single dataframe
@@ -98,8 +96,6 @@ demographics["working_age_pop_weight"] = demographics[working_ages].sum(axis=1, 
 # Calculate the working age population
 demographics["working_age_pop"] = demographics["working_age_pop_weight"] * demographics["population"]
 
-print(demographics)
-
 ### Load the minimum wage data ######################################################################
 
 # Load the minimum wage data
@@ -117,8 +113,6 @@ minwage = minwage[minwage['state_name'] != 'Federal (FLSA)']
 
 # Filter out the rows where the year is not within the specified range
 minwage = minwage[(minwage['year'] >= initial_year) & (minwage['year'] <= last_year)]
-
-print(minwage)
 
 ### Load the PDMPs data ##############################################################################
 
@@ -142,8 +136,6 @@ pdmps['first_treatment_pmq'] = (pdmps['pmq_year'] - 1960) * 12 + pdmps['pmq_mont
 # Rename state column
 pdmps.rename(columns={'state': 'state_name'}, inplace=True)
 
-print(pdmps)
-
 ### Load the sector composition data #################################################################
 
 # Obtain the sector composition data for each year
@@ -153,23 +145,41 @@ for year in year_range:
     sector_data['year'] = year
     sectors_df.append(sector_data)
 sector_shares = pd.concat(sectors_df)
+# Drop the 'emp_ratio' column from the 'sector_shares' dataframe
+sector_shares = sector_shares.drop('emp_ratio', axis=1)
 
-print(sector_shares)
+# Convert the 'fips' column to a string and pad it with leading zeros to make it 5 digits long
+sector_shares['fips'] = sector_shares['fips'].astype(str).str.rjust(5, '0')
+
+# Extract the first two digits of the 'fips' column and create a new column 'state_fip'
+sector_shares['state_fip'] = sector_shares['fips'].astype(str).str[:2]
+
+# Group the data by 'naics', 'year', and 'fips' and sum the 'emp' columns
+sector_shares = sector_shares.groupby(['naics', 'year', 'fips'])['emp'].sum().reset_index()
 
 # Create a copy of the sector_shares dataframe (covariaes)
 sector_shares_cov = sector_shares.copy()
-
-# Drop the 'emp' column
-sector_shares_cov = sector_shares_cov.drop('emp',axis=1)
 
 # Extract the first two digits of the 'naics' column and create a new column 'naics_2digits'
 sector_shares_cov['naics_2digits'] = sector_shares_cov['naics'].astype(str).str[:2]
 
 # Group the data by 'naics_2digits', 'year', and 'fips' and sum the 'emp' and 'emp_ratio' columns
-sector_shares_cov = sector_shares_cov.groupby(['naics_2digits', 'year', 'fips'])['emp_ratio'].sum().reset_index()
+sector_shares_cov = sector_shares_cov.groupby(['naics_2digits', 'year', 'fips'])['emp'].sum().reset_index()
+
+# Group the data by 'year' and 'fips' and sum the 'emp' column to get the total employment for each state
+state_employment = sector_shares.groupby(['year', 'fips'])['emp'].sum().reset_index()
+
+# Merge the sector_shares_cov dataframe with the state_employment dataframe on 'year' and 'fips'
+sector_shares_cov = pd.merge(sector_shares_cov, state_employment, on=['year', 'fips'], suffixes=('', '_total'))
+
+# Calculate the employment ratio by dividing the 'emp' column by the 'emp_total' column
+sector_shares_cov['emp_ratio'] = (sector_shares_cov['emp'] / sector_shares_cov['emp_total']).round(4)
+
+# Drop the 'emp' and 'emp_total' columns from the sector_shares_cov dataframe
+sector_shares_cov = sector_shares_cov.drop(['emp', 'emp_total'], axis=1)
 
 # Pivot the sector_shares_cov dataframe to have 'naics_2digits' as columns
-sector_shares_cov = sector_shares_cov.pivot_table(index=['year','fips'], columns='naics_2digits')
+sector_shares_cov = sector_shares_cov.pivot_table(index=['year', 'fips'], columns='naics_2digits')
 
 # Drop the top level of the column index
 sector_shares_cov.columns = sector_shares_cov.columns.droplevel().rename(None)
@@ -181,79 +191,61 @@ sector_shares_cov = sector_shares_cov.reset_index()
 sector_shares_cov.columns = 'emp_' + sector_shares_cov.columns + '_ratio'
 
 # Rename the columns 'emp_year_ratio' and 'emp_fips_ratio' to 'year' and 'fips' respectively
-sector_shares_cov = sector_shares_cov.rename({'emp_year_ratio' : 'year', 'emp_fips_ratio' : 'fips'}, axis=1)
+sector_shares_cov = sector_shares_cov.rename({'emp_year_ratio': 'year', 'emp_fips_ratio': 'fips'}, axis=1)
 
-print(sector_shares_cov)
-
-# Extract the first two digits of the 'naics' column and create a new column 'naics_4digits'
+# Extract the first three digits of the 'naics' column and create a new column 'naics_3digits'
 sector_shares['naics_3digits'] = sector_shares['naics'].astype(str).str[:3] + '000'
 
-# Group the data by 'naics_4digits', 'year', and 'fips' and sum the 'emp' and 'emp_ratio' columns
-sector_shares = sector_shares.groupby(['naics_3digits', 'year', 'fips'])[['emp','emp_ratio']].sum().reset_index()
-# lo de arriba esta mal, los ratios no se suman, se promedian
+# Group the data by 'naics_3digits', 'year', and 'fips' and sum the 'emp' column
+sector_shares = sector_shares.groupby(['naics_3digits', 'year', 'fips'])[['emp']].sum().reset_index()
 
+# Merge the sector_shares dataframe with the state_employment dataframe on 'year' and 'fips'
+sector_shares = pd.merge(sector_shares, state_employment, on=['year', 'fips'], suffixes=('', '_total'))
+
+# Calculate the employment ratio by dividing the 'emp' column by the 'emp_total' column
+sector_shares['emp_ratio'] = (sector_shares['emp'] / sector_shares['emp_total']).round(4)
+
+# Drop the 'emp_total' column from the sector_shares dataframe
+sector_shares = sector_shares.drop(['emp_total'], axis=1)
+
+# Rename the 'naics_3digits' column to 'naics'
 sector_shares.rename(columns={'naics_3digits': 'naics'}, inplace=True)
-
-print(sector_shares)
 
 ### Load the industry wage distribution data ##########################################################
 
-# Load the industry wage distribution data
 wage_dist_df = []
 for year in year_range:
-    dist_data = pd.read_csv(f'./data/intermediate/industry_wage_distribution/industry_wages{year}.csv')
+    # Load the industry wage distribution data for each year
+    dist_data = pd.read_csv(f'./data/intermediate/industry_wage_distribution_three_codes/industry_wages{year}.csv')
+    # Add the 'year' column to the dataframe
     dist_data['year'] = year
+    # Filter the data to keep only the rows with the industry totals
     dist_data = dist_data[dist_data['occ_code'] == '00-0000']
     dist_data = dist_data.drop('occ_code', axis=1)
+    # Rename the 'h_median' column to 'h_pct50'
     dist_data = dist_data.rename(columns={'h_median':'h_pct50'})
+    # Append the dataframe to the list
     wage_dist_df.append(dist_data)
+# Concatenate the dataframes in the list
 industry_wage_dist = pd.concat(wage_dist_df)
 
-print(industry_wage_dist)
+# Make sure the 'naics' column is a string and pad it with leading zeros to make it 6 digits long
+industry_wage_dist['naics'] = industry_wage_dist['naics'].astype(str).str.rjust(6, '0')
 
-industry_wage_dist['naics_3digits'] = industry_wage_dist['naics'].astype(str).str[:3] + '000'
-industry_wage_dist['tot_emp'] = pd.to_numeric(industry_wage_dist['tot_emp'], errors='coerce')
-unique_naics = industry_wage_dist['naics_3digits'].unique().tolist()
+# Merge the industry wage distribution data with the sector shares data
+county_wage_dist = pd.merge(industry_wage_dist, sector_shares, on=['naics', 'year'], how='outer')
 
-h_columns = [col for col in industry_wage_dist.columns if col.startswith('h_')]
-
-ind_wage_dist_3naics = []
-for year in year_range:
-    for cod in unique_naics:
-        split_4naics = industry_wage_dist[(industry_wage_dist['naics_3digits'] == cod) & (industry_wage_dist['year'] == year)]
-        if not split_4naics.empty:
-            row = {
-                'year': year,
-                'naics': cod,
-                'h_pct10':  np.percentile(split_4naics['h_pct10'], 10, method='inverted_cdf',  weights=split_4naics['tot_emp']),
-                'h_pct25':  np.percentile(split_4naics['h_pct25'], 25, method='inverted_cdf',  weights=split_4naics['tot_emp']),
-                'h_pct50':  np.percentile(split_4naics['h_pct50'], 50, method='inverted_cdf',  weights=split_4naics['tot_emp']),
-                'h_pct75':  np.percentile(split_4naics['h_pct75'], 75, method='inverted_cdf',  weights=split_4naics['tot_emp']),
-                'h_pct90':  np.percentile(split_4naics['h_pct90'], 90, method='inverted_cdf',  weights=split_4naics['tot_emp'])
-            }
-            ind_wage_dist_3naics.append(row)
-
-ind_wage_dist_final = pd.DataFrame(ind_wage_dist_3naics)
-
-
-missing_naics_sshares = [naic for naic in sector_shares['naics'].unique().tolist() if naic not in ind_wage_dist_final['naics'].unique().tolist()]
-missing_naics_sshares
-missing_naics_wdist =  [naic for naic in ind_wage_dist_final['naics'].unique().tolist() if naic not in sector_shares['naics'].unique().tolist()]
-missing_naics_wdist
-
-common_naics = set.intersection(set(sector_shares['naics'].unique()), set(ind_wage_dist_final['naics'].unique()))
-common_naics
-
-county_wage_dist = pd.merge(ind_wage_dist_final, sector_shares, on=['naics', 'year'], how='outer')
-county_wage_dist
-
+# Transform the 'fips' column to an integer
 county_wage_dist['fips'] = county_wage_dist['fips'].astype("Int64")
 
 wage_distributions = []
 for year in year_range:
     for fips in unique_fips:
+        # Split the data by 'fips' and 'year'
         split_3naics = county_wage_dist[(county_wage_dist['fips'] == fips) & (county_wage_dist['year'] == year)]
+        # Filter out the rows where 'emp' is equal to zero
         split_3naics = split_3naics[split_3naics['emp'] != 0]
+        # Calculate the percentiles for the wage distribution weighted by employment
         if not split_3naics.empty:
             row = {
                 'year': year,
@@ -264,14 +256,17 @@ for year in year_range:
                 'h_pct75':  np.nanpercentile(split_3naics['h_pct75'], 75, method='inverted_cdf',  weights=split_3naics['emp']),
                 'h_pct90':  np.nanpercentile(split_3naics['h_pct90'], 90, method='inverted_cdf',  weights=split_3naics['emp'])
             }
+            # Append the row to the list
             wage_distributions.append(row)
 
+# Create a dataframe from the list
 fips_wage_distributions = pd.DataFrame(wage_distributions)
 
+# Obtain the percentile columns
+h_columns = [col for col in industry_wage_dist.columns if col.startswith('h_')]
+
+# Convert the columns to numeric
 fips_wage_distributions[h_columns] = fips_wage_distributions[h_columns].apply(pd.to_numeric, errors='coerce').astype(float)
-
-
-print(fips_wage_distributions)
 
 ### Load the overdose deaths data ####################################################################
 od_deaths_total = pd.read_csv(f'./data/source/overdose_deaths_total/NCHS_Drug_Poisoning_Mortality_by_County_United_States.csv')
@@ -292,65 +287,36 @@ print(od_deaths_total)
 # Merge the dataframes
 
 # Merge the labor market outcomes data with the county demographics data
-
-# Identify the missing FIPS codes
-missing_fips_lmos = [fips for fips in unique_fips if fips not in merged_lmos['fips'].unique()]
-missing_counties_lmos = fips_details[fips_details['fips'].isin(missing_fips_lmos)].iloc[:, [1,3]]
-
-# Identify the missing FIPS codes
-missing_fips_demo = [fips for fips in unique_fips if fips not in demographics['fips'].unique()]
-missing_counties_demo = fips_details[fips_details['fips'].isin(missing_fips_demo)].iloc[:, [1,3]]
-
-# missing_fips_demo_1 = [fips for fips in demographics['fips'].unique().tolist() if fips not in unique_fips]
-#
-# https://seer.cancer.gov/seerstat/variables/countyattribs/ruralurban.html
-# 2201 -> Prince of Wales - Outer Ketchickan Census Area
-# 2232 -> Skagway-Hoonah-Angoon Census Area
-# 2280 -> Wrangell-Petersburg Census Area
-# 51917 -> grouped county, Bedford City (51515) and County (51019)
-# 99999 -> Unknown/missing
-
-missing_fips_lmos + missing_fips_demo
-
 merged_data = pd.merge(merged_lmos, demographics, on=['fips', 'year'], how='inner')
 
+# Obtain labor force part ratio
 merged_data['lab_force_rate'] = (merged_data['labor_force'] / merged_data['working_age_pop'] * 100).round(4)
 
-# obtain labor force part ratio etc
-
-sorted(minwage['state_name'].unique()) == sorted(fips_details['state_name'].unique())
-sorted(merged_lmos['state_name'].unique()) == sorted(fips_details['state_name'].unique())
-
+# Merge with the minimum wage data
 merged_data = pd.merge(merged_data, minwage, on=['state_name', 'year'], how='inner')
 
-sorted(merged_data['state_name'].unique()) == sorted(pdmps['state_name'].unique())
-
+# Merge with the PDMPs data
 merged_data = pd.merge(merged_data, pdmps, on=['state_name'], how='inner')
 
-missing_fips_sshares = [fips for fips in unique_fips if fips not in sector_shares_cov['fips'].unique()]
-missing_counties_sshares = fips_details[fips_details['fips'].isin(missing_fips_sshares)].iloc[:, [1,3]]
-
-[fips for fips in sector_shares_cov['fips'].unique().tolist() if fips not in unique_fips]
-# thats a lot, check
-
+# Merge with the sector composition data
 merged_data = pd.merge(merged_data, sector_shares_cov, on=['fips', 'year'], how='inner')
+
+# Merge with the wage distribution data
 merged_data = pd.merge(merged_data, fips_wage_distributions, on=['fips', 'year'], how='inner')
+
+# Merge with the overdose deaths data
 merged_data = pd.merge(merged_data, od_deaths_total, on=['fips', 'year'], how='inner')
 
+# Obtain the log values
 merged_data['log_minw'] = np.log(merged_data['min_wage'])
-merged_data['log_h_pct10'] = np.log(merged_data['h_pct10'])
-merged_data['log_h_pct25'] = np.log(merged_data['h_pct25'])
-merged_data['log_h_pct50'] = np.log(merged_data['h_pct50'])
-merged_data['log_h_pct75'] = np.log(merged_data['h_pct75'])
-merged_data['log_h_pct90'] = np.log(merged_data['h_pct90'])
+merged_data[['log_h_pct10', 'log_h_pct25', 'log_h_pct50', 'log_h_pct75', 'log_h_pct90']] = np.log(merged_data[['h_pct10', 'h_pct25', 'h_pct50', 'h_pct75', 'h_pct90']])
 
+# Calculate the Kaitz index for different percentiles
 merged_data['kaitz_pct10'] = merged_data['log_minw'] - merged_data['log_h_pct10']
 merged_data['kaitz_pct25'] = merged_data['log_minw'] - merged_data['log_h_pct25']
 merged_data['kaitz_pct50'] = merged_data['log_minw'] - merged_data['log_h_pct50']
 merged_data['kaitz_pct75'] = merged_data['log_minw'] - merged_data['log_h_pct75']
 merged_data['kaitz_pct90'] = merged_data['log_minw'] - merged_data['log_h_pct90']
-
-print(merged_data)
 
 # Save the merged data to a CSV file
 merged_data.to_csv('./data/processed/merged_data.csv', index=False)

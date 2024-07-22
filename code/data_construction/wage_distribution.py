@@ -3,6 +3,8 @@ import zipfile
 import io
 import os
 import re
+import xlrd
+import openpyxl
 
 # Define the columns to add
 columns_to_add = ['h_pct10', 'h_pct25', 'h_pct75', 'h_pct90']
@@ -96,3 +98,63 @@ for files in file_names:
     # Save the DataFrame to a CSV file with the complete year in the file name
     complete_year = '20' + year
     df.to_csv(f'./data/intermediate/industry_wage_distribution_three_codes/industry_wages'+ complete_year + '.csv', sep=',', index=False)
+
+### For state-level distribution
+
+columns_to_add_st = ['h_wpct10', 'h_wpct25', 'h_wpct75', 'h_wpct90']
+
+# Get the list of files in the current folder
+file_names = os.listdir(folder_path + '\\data\\source\\industry_wage_distribution_states')
+
+for files in file_names:
+    # Extract the year from the file name
+    year = re.findall(r'(?<!\d)\d{2}(?!\d)', files)[0]
+    if year in ['98', '99', '00', '01', '02']:
+        # Open the zip file for the corresponding year
+        file = zipfile.ZipFile(f'./data/source/industry_wage_distribution_states/oes'+ year +'st.zip')
+        # Get the name of the file inside the zip
+        file_name = file.namelist()[0]
+        # Determine the number of rows to skip based on the year
+        skipper = 41*(year == '98') + 43*(year == '99') + 42*(year == '00') + 0
+        # Read the Excel file inside the zip, skipping the specified number of rows and using the specified header row
+        df = pd.read_excel(io.BytesIO(file.open(file_name).read()), skiprows=skipper, header=0)
+        # Lowercase the column names
+        df.columns = map(str.lower, df.columns)
+        # Select the desired columns from the DataFrame
+        df = df[['area', 'state', 'occ_code', 'tot_emp', 'h_median'] + columns_to_add_st]
+        df.rename(columns={'h_wpct10': 'h_pct10', 'h_wpct25': 'h_pct25', 'h_wpct75': 'h_pct75', 'h_wpct90': 'h_pct90'}, inplace=True)
+        # Determine the complete year based on the year
+        if year in ['98', '99']:
+            complete_year = '19' + year
+        else:
+            complete_year = '20' + year
+        # Save the DataFrame to a CSV file with the complete year in the file name
+        df.to_csv(f'./data/intermediate/industry_wage_distribution_states/industry_wages'+ complete_year + '.csv', sep=',', index=False)
+    elif year in ['19', '20', '21', '22', '23']:
+                # Open the zip file for the corresponding year
+        file = zipfile.ZipFile(f'./data/source/industry_wage_distribution_states/oesm'+ year +'st.zip')
+        # Get the name of the file inside the zip
+        file_name = file.namelist()[0]
+        # Read the Excel file inside the zip
+        df = pd.read_excel(io.BytesIO(file.open(file_name).read()))
+        # Lowercase the column names
+        df.columns = map(str.lower, df.columns)
+        # Select the desired columns from the DataFrame
+        df = df[['area', 'area_title', 'occ_code', 'tot_emp', 'h_median'] + columns_to_add]
+        # Save the DataFrame to a CSV file with the complete year in the file name
+        complete_year = '20' + year
+        df.to_csv(f'./data/intermediate/industry_wage_distribution_states/industry_wages'+ complete_year + '.csv', sep=',', index=False)
+    else:
+        # Open the zip file for the corresponding year
+        file = zipfile.ZipFile(f'./data/source/industry_wage_distribution_states/oesm'+ year +'st.zip')
+        # Get the name of the file inside the zip
+        file_name = file.namelist()[0]
+        # Read the Excel file inside the zip
+        df = pd.read_excel(io.BytesIO(file.open(file_name).read()))
+        # Lowercase the column names
+        df.columns = map(str.lower, df.columns)
+        # Select the desired columns from the DataFrame
+        df = df[['area', 'state', 'occ_code', 'tot_emp', 'h_median'] + columns_to_add]
+        # Save the DataFrame to a CSV file with the complete year in the file name
+        complete_year = '20' + year
+        df.to_csv(f'./data/intermediate/industry_wage_distribution_states/industry_wages'+ complete_year + '.csv', sep=',', index=False)

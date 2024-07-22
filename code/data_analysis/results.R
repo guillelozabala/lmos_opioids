@@ -28,7 +28,7 @@ df_pmq <- read.csv(
   data_location_pmq,
   header = TRUE,
   sep = ","
-  )
+)
 
 # Include relative-to-treatement time markers and presc per capita
 df_pmq <- df_pmq |>
@@ -42,93 +42,133 @@ df_pmq <- df_pmq |>
 names_covar_pmq <- names(
   df_pmq[, c(grep("_ratio$", colnames(df_pmq)),
         grep("model_values", colnames(df_pmq)))]
-  )
+)
 
 # Prepare the covariates (as formula)
 covariates_pmq <- paste(
   names_covar_pmq,
   collapse = " + "
+)
+
+unem_rate_pmq_effects  <- df_pmq |>
+  indiv_effects(
+    yname = "unemployment_rate",
+    iname = "fips",
+    tname = "time_marker",
+    kname = "relative_to_treat_pmq",
+    aname = "first_treatment_pmq",
+    covariates = covariates_pmq,
+    only_full_horizon = FALSE
   )
 
-sapply(df_pmq, class)
-# Compute the coefficient values
-unem_rate_pmq_effects  <- df_pmq |>
-  IndEffects(yname = "unemployment_rate",
-            iname = "fips",
-            tname = "time_marker",
-            kname = "relative_to_treat_pmq",
-            aname = "first_treatment_pmq",
-            covariates = covariates_pmq,
-            only_full_horizon = FALSE)
-
-emp_rate_pmq_effects  <- df_pmq |>
-  IndEffects(yname = "emp_rate",
-            iname = "fips",
-            tname = "time_marker",
-            kname = "relative_to_treat_pmq",
-            aname = "first_treatment_pmq",
-            covariates = covariates_pmq,
-            only_full_horizon = FALSE)
-
 lab_force_rate_pmq_effects  <- df_pmq |>
-  IndEffects(yname = "lab_force_rate",
-            iname = "fips",
-            tname = "time_marker",
-            kname = "relative_to_treat_pmq",
-            aname = "first_treatment_pmq",
-            covariates = covariates_pmq,
-            only_full_horizon = FALSE)
+  indiv_effects(
+    yname = "lab_force_rate",
+    iname = "fips",
+    tname = "time_marker",
+    kname = "relative_to_treat_pmq",
+    aname = "first_treatment_pmq",
+    covariates = covariates_pmq,
+    only_full_horizon = FALSE
+  )
 
 # Set plot locations
 pmq_unrate_10_loc <- paste(location, "slides/pmq10_unemp_rate.png", sep = "/")
-pmq_emrate_10_loc <- paste(location, "slides/pmq10_emp_rate.png", sep = "/")
 pmq_lfrate_10_loc <- paste(location, "slides/pmq10_lab_for_rate.png", sep = "/")
 
-# Set plot datasets
 pmq_unrate_plot_df <- unem_rate_pmq_effects$df_indcp
-pmq_emrate_plot_df <- emp_rate_pmq_effects$df_indcp
 pmq_lfrate_plot_df <- lab_force_rate_pmq_effects$df_indcp
 
 # Display and save the results for participation rates
 png(filename = pmq_lfrate_10_loc, width = 600, height = 539)
-IndividualEffectsPlot(
+ind_effects_plot(
   pmq_lfrate_plot_df,
   c(1, 6, 12, 24),
   percentiles[1]
 )
 dev.off()
 
-binscatter <- binsreg::binsreg(
-      y = pmq_lfrate_plot_df[["lab_force_rate"]],
-      x = pmq_lfrate_plot_df[["kaitz_pct10"]],
-      data = pmq_lfrate_plot_df,
-      ci = TRUE
-    )
-
-# Display and save the results for unemployment rates
+# Display and save the results for participation rates
 png(filename = pmq_unrate_10_loc, width = 600, height = 539)
-IndividualEffectsPlot(
+ind_effects_plot(
   pmq_unrate_plot_df,
   c(1, 6, 12, 24),
   percentiles[1]
 )
 dev.off()
 
-# Display and save the results for employment rates
-png(filename = pmq_emrate_10_loc, width = 600, height = 539)
-IndividualEffectsPlot(
-  pmq_emrate_plot_df,
+
+data_states_location <- "C:/Users/g-mart36/Documents/GitHub/lmos_opioids/data/processed/merged_data_states.csv"
+
+# Load the data -- State-level data
+df_pmq_states <- read.csv(
+  data_states_location,
+  header = TRUE,
+  sep = ","
+)
+
+# Change in python file
+df_pmq_states <- df_pmq_states %>%
+  mutate(, as.numeric))
+
+# Include relative-to-treatement time markers and presc per capita
+df_pmq_states <- df_pmq_states |>
+  dplyr::mutate(
+    time_marker = (year - 1960) * 12 + month,
+    relative_to_treat_pmq = time_marker - first_treatment_pmq #,
+    #dosage_unit_pc = round(dosage_unit / population, 3)
+)
+
+# Select the covariate columns
+names_covar_pmq_states <- names(
+  df_pmq_states[, c(
+    grep("_ratio$", colnames(df_pmq_states)),
+    grep("model_values", colnames(df_pmq_states))
+  )]
+)
+
+# Prepare the covariates (as formula)
+covariates_pmq_states <- paste(
+  names_covar_pmq_states,
+  collapse = " + "
+)
+
+unem_rate_pmq_effects_states  <- df_pmq_states |>
+  indiv_effects(
+    yname = "unemployment_rate",
+    iname = "state_fip",
+    tname = "time_marker",
+    kname = "relative_to_treat_pmq",
+    aname = "first_treatment_pmq",
+    covariates = covariates_pmq,
+    only_full_horizon = FALSE
+  )
+
+lab_force_rate_pmq_effects_states  <- df_pmq_states |>
+  indiv_effects(
+    yname = "lab_force_rate",
+    iname = "state_fip",
+    tname = "time_marker",
+    kname = "relative_to_treat_pmq",
+    aname = "first_treatment_pmq",
+    covariates = covariates_pmq,
+    only_full_horizon = FALSE
+  )
+
+ind_effects_plot(
+  pmq_lfrate_plot_df,
   c(1, 6, 12, 24),
   percentiles[1]
 )
-dev.off()
+
+
+
 
 # Time averages
 
 # Set plot locations
-pmq_unrate_10_ta_loc <- paste(location, "slides/pmq10_unemp_rate_ta.png", sep = "/")
-pmq_emrate_10_ta_loc <- paste(location, "slides/pmq10_emp_rate_ta.png", sep = "/")
-pmq_lfrate_10_ta_loc <- paste(location, "slides/pmq10_lab_for_rate_ta.png", sep = "/")
+pmq_unrate_10_ta_loc <- paste(location, "slides/pmq10_unemp_rate_ta_states.png", sep = "/")
+pmq_lfrate_10_ta_loc <- paste(location, "slides/pmq10_lab_for_rate_ta_states.png", sep = "/")
 
 # Display and save the results for participation rates
 png(filename = pmq_lfrate_10_ta_loc, width = 600, height = 539)
@@ -237,7 +277,7 @@ covariates_pmq_p <- paste(
 
 # Compute the coefficient values
 unem_rate_pmq_effects_p  <- df_pmq |>
-  IndEffects(yname = "unem_rate",
+  indiv_effects(yname = "unem_rate",
             iname = "fips",
             tname = "time_marker",
             kname = "relative_to_treat_pmq",
@@ -246,7 +286,7 @@ unem_rate_pmq_effects_p  <- df_pmq |>
             only_full_horizon = FALSE)
 
 emp_rate_pmq_effects_p  <- df_pmq |>
-  IndEffects(yname = "emp_rate",
+  indiv_effects(yname = "emp_rate",
             iname = "fips",
             tname = "time_marker",
             kname = "relative_to_treat_pmq",
@@ -255,7 +295,7 @@ emp_rate_pmq_effects_p  <- df_pmq |>
             only_full_horizon = FALSE)
 
 lab_force_rate_pmq_effects_p  <- df_pmq |>
-  IndEffects(yname = "lab_force_rate",
+  indiv_effects(yname = "lab_force_rate",
             iname = "fips",
             tname = "time_marker",
             kname = "relative_to_treat_pmq",
@@ -335,7 +375,7 @@ opioid_deaths_covariates_pmq <- paste(
   )
 
 opioids_pmq_effects  <- df_opioid_deaths |>
-  IndEffects(yname = "deaths_pc",
+  indiv_effects(yname = "deaths_pc",
             iname = "state_code",
             tname = "year",
             kname = "relative_to_treat_pmq",
@@ -348,7 +388,7 @@ opioids_pmq_effects <- opioids_pmq_effects$df_indcp
 df_heroin_deaths <- df_opioid_deaths[df_opioid_deaths$cause_of_death == "Heroin", ]
 
 heroin_pmq_effects  <- df_heroin_deaths |>
-  IndEffects(yname = "deaths_pc",
+  indiv_effects(yname = "deaths_pc",
             iname = "state_code",
             tname = "year",
             kname = "relative_to_treat_pmq",
@@ -398,7 +438,7 @@ heroin_time_avg_plot <- heroin_time_avg_plot +
 df_methadone_deaths <- df_opioid_deaths[df_opioid_deaths$cause_of_death == "Methadone",]
 
 methadone_pmq_effects  <- df_methadone_deaths |>
-  IndEffects(yname = "deaths_pc",
+  indiv_effects(yname = "deaths_pc",
             iname = "state_code",
             tname = "year",
             kname = "relative_to_treat_pmq",
@@ -448,7 +488,7 @@ methadone_time_avg_plot <- methadone_time_avg_plot +
 df_otheropioids_deaths <- df_opioid_deaths[df_opioid_deaths$cause_of_death == "Other opioids",]
 
 otheropioids_pmq_effects  <- df_otheropioids_deaths |>
-  IndEffects(yname = "deaths_pc",
+  indiv_effects(yname = "deaths_pc",
             iname = "state_code",
             tname = "year",
             kname = "relative_to_treat_pmq",
@@ -498,7 +538,7 @@ otheropioids_time_avg_plot <- otheropioids_time_avg_plot +
 df_synopioids_deaths <- df_opioid_deaths[df_opioid_deaths$cause_of_death == "Other synthetic narcotics",]
 
 synopioids_pmq_effects  <- df_synopioids_deaths |>
-  IndEffects(yname = "deaths_pc",
+  indiv_effects(yname = "deaths_pc",
             iname = "state_code",
             tname = "year",
             kname = "relative_to_treat_pmq",
@@ -607,7 +647,7 @@ covariates_prescriptions_pmq <- paste(
 df_prescriptions_pmq[['relative_to_treat_pmq']] = df_prescriptions_pmq[['year']] - df_prescriptions_pmq[['pmq_year']]
 
 prescriptions_pmq_effects  <- df_prescriptions_pmq |>
-  IndEffects(yname = "dosage_unit_pc",
+  indiv_effects(yname = "dosage_unit_pc",
             iname = "fips",
             tname = "time_marker",
             kname = "relative_to_treat_pmq",
