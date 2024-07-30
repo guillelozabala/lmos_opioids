@@ -98,6 +98,7 @@ ind_effects_plot(
 dev.off()
 
 
+
 data_states_location <- "C:/Users/g-mart36/Documents/GitHub/lmos_opioids/data/processed/merged_data_states.csv"
 
 # Load the data -- State-level data
@@ -106,10 +107,6 @@ df_pmq_states <- read.csv(
   header = TRUE,
   sep = ","
 )
-
-# Change in python file
-df_pmq_states <- df_pmq_states %>%
-  mutate(, as.numeric))
 
 # Include relative-to-treatement time markers and presc per capita
 df_pmq_states <- df_pmq_states |>
@@ -155,13 +152,58 @@ lab_force_rate_pmq_effects_states  <- df_pmq_states |>
     only_full_horizon = FALSE
   )
 
-ind_effects_plot(
-  pmq_lfrate_plot_df,
+pmq_unrate_plot_df_states  <- unem_rate_pmq_effects_states$df_indcp
+pmq_lfrate_plot_df_states  <- lab_force_rate_pmq_effects_states$df_indcp
+
+ind_effects_plot_states(
+  pmq_lfrate_plot_df_states,
   c(1, 6, 12, 24),
   percentiles[1]
 )
 
+ind_effects_plot(
+  pmq_unrate_plot_df_states,
+  c(1, 6, 12, 24),
+  percentiles[1]
+)
 
+plot_data <- unem_rate_pmq_effects_states[unem_rate_pmq_effects_states[["relative_to_treat_pmq"]] == 1, ]
+
+# Perform binscatter regression
+binscatter <- binsreg::binsreg(
+  y = plot_data[['unemployment_rate_tilde']],
+  x = plot_data[["unemployed_per_job_opening_ratio_rate"]],
+  data = plot_data,
+  ci = TRUE
+)
+
+# Extract the binscatter data
+binscatter_data <- binscatter$data.plot$`Group Full Sample`$data.bin
+
+# Create an empty matrix to store the results
+bins_plot_df <- matrix(0, nrow(binscatter_data), 4)
+
+# Iterate over each bin
+for (i in seq_len(nrow(binscatter_data))) {
+  # Get the left and right endpoints of the bin
+  bin_lside <- binscatter_data[["left.endpoint"]][i]
+  bin_rside <- binscatter_data[["right.endpoint"]][i]
+
+  # Select the data within the bin
+  l_hand_side <- plot_data[['unemployed_per_job_opening_ratio_rate']] >= bin_lside
+  r_hand_side <- plot_data[['unemployed_per_job_opening_ratio_rate']] <= bin_rside
+  c_interv <- plot_data[(l_hand_side) & (r_hand_side), ]
+
+  # Calculate the mean and confidence interval for the bin
+  bins_plot_df[i, 1] <- mean(c_interv[['lab_force_rate_tilde']], na.rm = TRUE)
+  within_bin_var <- var(c_interv[['lab_force_rate_tilde']], na.rm = TRUE)
+  interv_scope <- qnorm(0.025) * sqrt(within_bin_var / nrow(c_interv))
+  bins_plot_df[i, 2] <- bins_plot_df[i, 1] - interv_scope
+  bins_plot_df[i, 3] <- bins_plot_df[i, 1] + interv_scope
+}
+
+# Add the x values to the bins_plot_df matrix
+bins_plot_df[, 4] <- binscatter$data.plot$`Group Full Sample`$data.dots$x
 
 
 # Time averages

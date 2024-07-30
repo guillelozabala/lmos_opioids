@@ -299,6 +299,182 @@ ind_effects_plot <- function(df, periods, percentile) {
 
 }
 
+ind_effects_plot_states <- function(df, periods, percentile) {
+
+  # Get the column names of the dataframe
+  df_colnames <- df |> colnames()
+
+  # Obtain the outcome from dependend name
+  outcome_name <- df_colnames[grep("_tilde", colnames(df))]
+  outcome <- sub("_tilde", "", outcome_name)
+
+  # Get the naming details for the plot
+  naming <- title_and_colors(outcome, percentile)
+
+  # Extract the naming details
+  percentile_name <- naming[[1]]
+  plot_color <- naming[[2]]
+  plot_yrange <- naming[[3]]
+  policy_title <- "Must Query PDMPs"
+  outcome_title <- naming[[4]]
+
+  # Create the plot title
+  plot_title <- paste0(
+    "Effects of ",
+    policy_title,
+    " on ",
+    outcome_title,
+    "\n by minimum wage bindingness (Kaitz-",
+    percentile,
+    " index)"
+  )
+
+  # Create an empty list to store the plots
+  plot_collection <- list()
+  bins_collection <- list()
+
+  for (period in periods){
+
+    # Select the data for the specific period and policy
+    plot_data <- df[df[["relative_to_treat_pmq"]] == period, ]
+
+    # Perform binscatter regression
+    binscatter <- binsreg::binsreg(
+      y = plot_data[[outcome_name]],
+      x = plot_data[["unemployed_per_job_opening_ratio_rate"]],
+      data = plot_data,
+      ci = TRUE
+    )
+
+    # Extract the binscatter data
+    binscatter_data <- binscatter$data.plot$`Group Full Sample`$data.bin
+
+    # Create an empty matrix to store the results
+    bins_plot_df <- matrix(0, nrow(binscatter_data), 4)
+
+    # Iterate over each bin
+    for (i in seq_len(nrow(binscatter_data))) {
+      # Get the left and right endpoints of the bin
+      bin_lside <- binscatter_data[["left.endpoint"]][i]
+      bin_rside <- binscatter_data[["right.endpoint"]][i]
+
+      # Select the data within the bin
+      l_hand_side <- plot_data[['unemployed_per_job_opening_ratio_rate']] >= bin_lside
+      r_hand_side <- plot_data[['unemployed_per_job_opening_ratio_rate']] <= bin_rside
+      c_interv <- plot_data[(l_hand_side) & (r_hand_side), ]
+
+      # Calculate the mean and confidence interval for the bin
+      bins_plot_df[i, 1] <- mean(c_interv[[outcome_name]], na.rm = TRUE)
+      within_bin_var <- var(c_interv[[outcome_name]], na.rm = TRUE)
+      interv_scope <- qnorm(0.025) * sqrt(within_bin_var / nrow(c_interv))
+      bins_plot_df[i, 2] <- bins_plot_df[i, 1] - interv_scope
+      bins_plot_df[i, 3] <- bins_plot_df[i, 1] + interv_scope
+    }
+
+    # Add the x values to the bins_plot_df matrix
+    bins_plot_df[, 4] <- binscatter$data.plot$`Group Full Sample`$data.dots$x
+
+    # Convert the bins_plot_df matrix to a tibble for easier manipulation
+    bins_plot_df <- tibble::as_tibble(bins_plot_df)
+
+    # Rename the columns of the tibble
+    names(bins_plot_df) <- c("fit", "ci.l", "ci.r", "x")
+
+    # Create the time_period variable for the plot title
+    time_period <- paste0("t = ", gsub("V", "", period))
+
+    # Create the binscatter plot
+    plot <- ggplot2::ggplot(
+      bins_plot_df,
+      aes(x = x, y = fit)
+      ) +
+      geom_point(
+        color = plot_color
+      ) +
+      geom_line(
+        color = plot_color
+      ) +
+      geom_errorbar(
+        aes(ymin = ci.l, ymax = ci.r),
+        color = plot_color
+      ) +
+      plot_yrange +
+      xlim(0.5, 2.0) +
+      ylab(
+        ""
+      ) +
+      xlab(
+        ""
+      ) +
+      labs(
+        title = time_period
+      ) +
+      geom_hline(
+        yintercept = 0,
+        linetype = 5,
+        color = "#000000",
+        linewidth = 0.5
+    )
+
+    # Add the theme to the plot
+    plot <- plot +
+      theme_classic() +
+      theme(
+        text = element_text(size = 12, family = "serif"),
+        plot.title = element_text(hjust = 0.5)
+      )
+
+    # Store the plot
+    plot_collection[[paste0("plot_", period)]] <- plot
+    bins_collection[[paste0("bins_", period)]] <- bins_plot_df
+
+  }
+
+  # If only one period is selected, return a single plot
+  if (length(periods) == 1) {
+    # Select the plot
+    single_plot <- plot_collection[[paste0("plot_", periods)]]
+    # Adapt aesthetics
+    single_plot <- single_plot +
+      ylab(
+        "Individual effects"
+      ) +
+      xlab(
+        "unemployed_per_job_opening_ratio_rate"
+      ) +
+      labs(
+        title = plot_title
+      )
+    return(single_plot)
+  }
+
+  # Set the font size and family for the labels and title
+  setting_labs <- grid::gpar(fontsize = 17, fontfamily = "serif")
+  setting_title <- grid::gpar(fontsize = 20, fontfamily = "serif")
+
+  # Create a textGrob for the label on the left side of the plot
+  lab_left <- grid::textGrob("Individual effects", rot = 90, gp = setting_labs)
+
+  # Create a textGrob for the label on the bottom of the plot
+  lab_bottom <- grid::textGrob("unemployed_per_job_opening_ratio_rate", gp = setting_labs)
+
+  # Create a textGrob for the title of the plot
+  lab_top <- grid::textGrob(plot_title, gp = setting_title)
+
+  # Arrange the plots in a grid layout with 2 columns
+  plot_grid <- gridExtra::grid.arrange(
+    grobs = plot_collection,
+    ncol = 2,
+    left = lab_left,
+    bottom = lab_bottom,
+    top = lab_top
+  )
+
+  return(c(plot_grid, bins_collection))
+
+}
+
+
 TimeAveragesPlot <- function(df, percentile, up_to, with_data = FALSE) {
 
   # Get the column names of the dataframe
