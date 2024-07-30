@@ -79,8 +79,6 @@ for df in list(labor_market_outcomes.values())[1:]:
 merged_lmos = merged_lmos[(merged_lmos['year'] >= initial_year) & (merged_lmos['year'] <= last_year)]
 merged_lmos[list(variables_lmos)] = merged_lmos[list(variables_lmos)].apply(pd.to_numeric, errors='coerce').astype(float)
 
-print(merged_lmos)
-
 ### Load the county demographics data ###############################################################
 
 # Load the county demographics data for each year and concatenate them into a single dataframe
@@ -102,8 +100,6 @@ demographics["working_age_pop_weight"] = demographics[working_ages].sum(axis=1, 
 # Calculate the working age population
 demographics["working_age_pop"] = demographics["working_age_pop_weight"] * demographics["population"]
 
-print(demographics)
-
 ### Load the minimum wage data ######################################################################
 
 # Load the minimum wage data
@@ -121,8 +117,6 @@ minwage = minwage[minwage['state_name'] != 'Federal (FLSA)']
 
 # Filter out the rows where the year is not within the specified range
 minwage = minwage[(minwage['year'] >= initial_year) & (minwage['year'] <= last_year)]
-
-print(minwage)
 
 ### Load the PDMPs data ##############################################################################
 
@@ -145,8 +139,6 @@ pdmps['first_treatment_pmq'] = (pdmps['pmq_year'] - 1960) * 12 + pdmps['pmq_mont
 
 # Rename state column
 pdmps.rename(columns={'state': 'state_name'}, inplace=True)
-
-print(pdmps)
 
 ### Load the sector composition data #################################################################
 
@@ -275,7 +267,7 @@ for df in list(job_openings.values())[1:]:
 merged_jobs = merged_jobs[(merged_jobs['year'] >= initial_year) & (merged_jobs['year'] <= last_year)]
 merged_jobs[list(variables_jobs)] = merged_jobs[list(variables_jobs)].apply(pd.to_numeric, errors='coerce').astype(float)
 
-print(merged_jobs)
+merged_jobs.rename(columns={'state_code': 'state_fip'}, inplace=True)
 
 ### Load the wage distribution data ##################################################################
 
@@ -302,7 +294,25 @@ print(state_wage_dist)
 
 ### Load the overdose deaths data ####################################################################
 
-###
+od_deaths_total = pd.read_csv(f'./data/source/overdose_deaths_total/NCHS_Drug_Poisoning_Mortality_by_County_United_States.csv')
+
+od_deaths_total = od_deaths_total[['FIPS','FIPS State', 'Year', 'Model-based Death Rate', 'Population']]
+
+od_deaths_total['Population'] = od_deaths_total['Population'].str.replace(',', '').astype(int)
+
+od_deaths_total['Model-based Death Rate'] = od_deaths_total['Model-based Death Rate'].astype(float)
+
+od_deaths_total['Model-based Total Deaths'] = od_deaths_total['Model-based Death Rate'] * od_deaths_total['Population'] * 0.00001
+
+od_deaths_total = od_deaths_total.groupby(['FIPS State', 'Year'])['Model-based Total Deaths'].sum().reset_index()
+
+od_deaths_total = od_deaths_total.rename(columns={
+    'FIPS State': 'state_fip',
+    'Year': 'year',
+    'Model-based Total Deaths': 'model_deaths_total'
+    })
+
+# opioids
 
 ### Load the prescriptions data ######################################################################
 
@@ -331,33 +341,24 @@ prescriptions = prescriptions.rename(columns={
     })
 
 
-# Merge the dataframes
-
-# Merge the labor market outcomes data with the county demographics data
+### Merge the datasets ###############################################################################
 
 merged_data = pd.merge(merged_lmos, demographics, on=['state_fip', 'year'], how='inner')
-set.intersection(set(merged_lmos.columns), set(demographics.columns))
-
-merged_data['lab_force_rate'] = (merged_data['labor_force'] / merged_data['working_age_pop'] * 100).round(4)
 
 merged_data = pd.merge(merged_data, minwage, on=['state_name', 'year'], how='inner')
-set.intersection(set(merged_data.columns), set(minwage.columns))
 
 merged_data = pd.merge(merged_data, pdmps, on=['state_name'], how='inner')
-set.intersection(set(merged_data.columns), set(pdmps.columns))
 
-merged_jobs.rename(columns={'state_code': 'state_fip'}, inplace=True)
 merged_data = pd.merge(merged_data, merged_jobs, on=['state_fip', 'year', 'month'], how='inner')
-set.intersection(set(merged_data.columns), set(merged_jobs.columns))
 
 merged_data['state_fip'] = merged_data['state_fip'].astype(str).str.rjust(2, '0')
 merged_data = pd.merge(merged_data, sector_shares_cov, on=['state_fip', 'year'], how='inner')
-set.intersection(set(merged_data.columns), set(sector_shares_cov.columns))
 
 state_wage_dist.rename(columns={'area': 'state_fip'}, inplace=True)
 state_wage_dist['state_fip'] = state_wage_dist['state_fip'].astype(str).str.rjust(2, '0')
 merged_data = pd.merge(merged_data, state_wage_dist, on=['state_fip', 'year'], how='inner')
-set.intersection(set(merged_data.columns), set(state_wage_dist.columns))
+
+merged_data['lab_force_rate'] = (merged_data['labor_force'] / merged_data['working_age_pop'] * 100).round(4)
 
 merged_data['log_minw'] = np.log(merged_data['min_wage'])
 merged_data['log_h_pct10'] = np.log(merged_data['h_pct10'])
@@ -375,6 +376,13 @@ merged_data['kaitz_pct90'] = merged_data['log_minw'] - merged_data['log_h_pct90'
 # Convert 'year' and 'month' columns to integers
 merged_data['year'] = merged_data['year'].astype('Int64')
 merged_data['month'] = merged_data['month'].astype('Int64')
+merged_data['state_fip'] = merged_data['state_fip'].astype('Int64')
+
+merged_data = pd.merge(merged_data, od_deaths_total, on=['state_fip', 'year'], how='inner')
+
+prescriptions['state_fip'] = prescriptions['state_fip'].astype('Int64')
+
+merged_data = pd.merge(merged_data, prescriptions, on=['state_fip', 'year', 'month'], how='inner')
 
 print(merged_data)
 
