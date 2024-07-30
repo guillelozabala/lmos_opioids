@@ -21,7 +21,8 @@ source(paste(getwd(), "plots.R", sep = "/"))
 percentiles <- c("0.10", "0.25", "0.50", "0.75", "0.90")
 
 # Load data's location
-data_location_pmq <- "C:/Users/g-mart36/Documents/GitHub/lmos_opioids/data/processed/merged_data.csv"
+# data_location_pmq <- "C:/Users/g-mart36/Documents/GitHub/lmos_opioids/data/processed/merged_data.csv"
+data_location_pmq <- "C:/Users/guill/Documents/GitHub/lmos_opioids/data/processed/merged_data.csv"
 
 # Load the data for Must Query PDMPs
 df_pmq <- read.csv(
@@ -51,30 +52,30 @@ covariates_pmq <- paste(
 )
 
 unem_rate_pmq_effects  <- df_pmq |>
-  indiv_effects(
-    yname = "unemployment_rate",
-    iname = "fips",
-    tname = "time_marker",
-    kname = "relative_to_treat_pmq",
-    aname = "first_treatment_pmq",
-    covariates = covariates_pmq,
-    only_full_horizon = FALSE
-  )
+    indiv_effects(
+      yname = "unemployment_rate",
+      iname = "fips",
+      tname = "time_marker",
+      kname = "relative_to_treat_pmq",
+      aname = "first_treatment_pmq",
+      covariates = covariates_pmq,
+      only_full_horizon = FALSE
+    )
 
 lab_force_rate_pmq_effects  <- df_pmq |>
-  indiv_effects(
-    yname = "lab_force_rate",
-    iname = "fips",
-    tname = "time_marker",
-    kname = "relative_to_treat_pmq",
-    aname = "first_treatment_pmq",
-    covariates = covariates_pmq,
-    only_full_horizon = FALSE
-  )
+    indiv_effects(
+      yname = "lab_force_rate",
+      iname = "fips",
+      tname = "time_marker",
+      kname = "relative_to_treat_pmq",
+      aname = "first_treatment_pmq",
+      covariates = covariates_pmq,
+      only_full_horizon = FALSE
+    )
 
 # Set plot locations
-pmq_unrate_10_loc <- paste(location, "slides/pmq10_unemp_rate.png", sep = "/")
-pmq_lfrate_10_loc <- paste(location, "slides/pmq10_lab_for_rate.png", sep = "/")
+pmq_unrate_10_loc <- "C:/Users/guill/Documents/GitHub/lmos_opioids/results/pmq10_unemp_rate.png"
+pmq_lfrate_10_loc <- "C:/Users/guill/Documents/GitHub/lmos_opioids/results/pmq10_lab_for_rate.png"
 
 pmq_unrate_plot_df <- unem_rate_pmq_effects$df_indcp
 pmq_lfrate_plot_df <- lab_force_rate_pmq_effects$df_indcp
@@ -98,7 +99,9 @@ ind_effects_plot(
 dev.off()
 
 
-data_states_location <- "C:/Users/g-mart36/Documents/GitHub/lmos_opioids/data/processed/merged_data_states.csv"
+
+#data_states_location <- "C:/Users/g-mart36/Documents/GitHub/lmos_opioids/data/processed/merged_data_states.csv"
+data_states_location <- "C:/Users/guill/Documents/GitHub/lmos_opioids/data/processed/merged_data_states.csv"
 
 # Load the data -- State-level data
 df_pmq_states <- read.csv(
@@ -109,7 +112,7 @@ df_pmq_states <- read.csv(
 
 # Change in python file
 df_pmq_states <- df_pmq_states %>%
-  mutate(, as.numeric))
+  mutate(, as.numeric)
 
 # Include relative-to-treatement time markers and presc per capita
 df_pmq_states <- df_pmq_states |>
@@ -134,35 +137,233 @@ covariates_pmq_states <- paste(
 )
 
 unem_rate_pmq_effects_states  <- df_pmq_states |>
-  indiv_effects(
-    yname = "unemployment_rate",
-    iname = "state_fip",
-    tname = "time_marker",
-    kname = "relative_to_treat_pmq",
-    aname = "first_treatment_pmq",
-    covariates = covariates_pmq,
-    only_full_horizon = FALSE
-  )
+    indiv_effects(
+      yname = "unemployment_rate",
+      iname = "state_fip",
+      tname = "time_marker",
+      kname = "relative_to_treat_pmq",
+      aname = "first_treatment_pmq",
+      covariates = covariates_pmq,
+      only_full_horizon = FALSE
+    )
 
 lab_force_rate_pmq_effects_states  <- df_pmq_states |>
-  indiv_effects(
-    yname = "lab_force_rate",
-    iname = "state_fip",
-    tname = "time_marker",
-    kname = "relative_to_treat_pmq",
-    aname = "first_treatment_pmq",
-    covariates = covariates_pmq,
-    only_full_horizon = FALSE
+    indiv_effects(
+      yname = "lab_force_rate",
+      iname = "state_fip",
+      tname = "time_marker",
+      kname = "relative_to_treat_pmq",
+      aname = "first_treatment_pmq",
+      covariates = covariates_pmq,
+      only_full_horizon = FALSE
+    )
+
+pmq_unrate_plot_df_states <- unem_rate_pmq_effects_states$df_indcp
+pmq_lfrate_plot_df_states <- lab_force_rate_pmq_effects_states$df_indcp
+
+rel_treat_1 <- pmq_lfrate_plot_df_states[pmq_lfrate_plot_df_states$relative_to_treat_pmq == 1,]
+
+plot(rel_treat_1$lab_force_rate_tilde, rel_treat_1$unemployed_per_job_opening_ratio_rate, type = "p")
+plot(rel_treat_1$lab_force_rate_tilde, rel_treat_1$job_openings, type = "p")
+
+pmq_untojobopen_t1_loc <- "C:/Users/guill/Documents/GitHub/lmos_opioids/results/pmq_untojobopen_t1.png"
+pmq_hires_t1_loc <- "C:/Users/guill/Documents/GitHub/lmos_opioids/results/pmq_hires_t1.png"
+pmq_hiresrate_t1_loc <- "C:/Users/guill/Documents/GitHub/lmos_opioids/results/pmq_hiresrate_t1.png"
+pmq_jobopen_t1_loc <- "C:/Users/guill/Documents/GitHub/lmos_opioids/results/pmq_jobopen_t1.png"
+pmq_jobopen_ratio_t1_loc <- "C:/Users/guill/Documents/GitHub/lmos_opioids/results/pmq_jobopen_ratio_t1.png"
+pmq_layoffs_t1_loc <- "C:/Users/guill/Documents/GitHub/lmos_opioids/results/pmq_layoffs_t1.png"
+pmq_layoffs_rate_t1_loc <- "C:/Users/guill/Documents/GitHub/lmos_opioids/results/pmq_layoffs_rate_t1.png"
+pmq_totalsep_t1_loc <- "C:/Users/guill/Documents/GitHub/lmos_opioids/results/pmq_totalsep_t1.png"
+pmq_totalsep_rate_t1_loc <- "C:/Users/guill/Documents/GitHub/lmos_opioids/results/pmq_totalsep_rate_t1.png"
+pmq_quits_t1_loc <- "C:/Users/guill/Documents/GitHub/lmos_opioids/results/pmq_quits_t1.png"
+pmq_quits_rate_t1_loc <- "C:/Users/guill/Documents/GitHub/lmos_opioids/results/pmq_quits_rate_t1.png"
+
+ggplot(rel_treat_1, aes(x = unemployed_per_job_opening_ratio_rate, y = lab_force_rate_tilde)) +
+  geom_point(
+    size = 5,
+    color = "#0098e9"
+  ) +
+  theme_classic() +
+  geom_smooth(method = "lm", se = FALSE) +
+  annotate("text", x = 3.0, y = -2.0, label = paste("Intercept:", round(coef(lm(unemployed_per_job_opening_ratio_rate ~ lab_force_rate_tilde, data = rel_treat_1))[1], 2)), parse = TRUE) +
+  annotate("text", x = 3.0, y = -2.1, label = paste("Slope:", round(coef(lm(unemployed_per_job_opening_ratio_rate ~ lab_force_rate_tilde, data = rel_treat_1))[2], 2)), parse = TRUE) +
+  ylab("") +
+  xlab("") + 
+  labs(title = "Effects of Must Query PDMPs on labor force rate by\nunemployed-per-job-opening rate, period after treatment") +
+  theme(
+    text = element_text(size = 20, family = "serif"),
+    plot.title = element_text(hjust = 0.5)
   )
 
-ind_effects_plot(
-  pmq_lfrate_plot_df,
-  c(1, 6, 12, 24),
-  percentiles[1]
-)
+ggplot(rel_treat_1, aes(x = hires, y = lab_force_rate_tilde)) +
+  geom_point(
+    size = 5,
+    color = "#0098e9"
+  ) +
+  theme_classic() +
+  geom_smooth(method = "lm", se = FALSE) +
+  annotate("text", x = 580, y = -2.0, label = paste("Intercept:", round(coef(lm(hires ~ lab_force_rate_tilde, data = rel_treat_1))[1], 2)), parse = TRUE) +
+  annotate("text", x = 580, y = -2.1, label = paste("Slope:", round(coef(lm(hires~ lab_force_rate_tilde, data = rel_treat_1))[2], 2)), parse = TRUE) +
+  ylab("") +
+  xlab("") +
+  labs(title = "Effects of Must Query PDMPs on labor force rate by\nhires, period after treatment") +
+  theme(
+    text = element_text(size = 20, family = "serif"),
+    plot.title = element_text(hjust = 0.5)
+  )
 
+ggplot(rel_treat_1, aes(x = hires_rate, y = lab_force_rate_tilde)) +
+  geom_point(
+    size = 5,
+    color = "#0098e9"
+  ) +
+  theme_classic() +
+  geom_smooth(method = "lm", se = FALSE) +
+  annotate("text", x = 5, y = -2.0, label = paste("Intercept:", round(coef(lm(hires_rate ~ lab_force_rate_tilde, data = rel_treat_1))[1], 2)), parse = TRUE) +
+  annotate("text", x = 5, y = -2.1, label = paste("Slope:", round(coef(lm(hires_rate ~ lab_force_rate_tilde, data = rel_treat_1))[2], 2)), parse = TRUE) +
+  ylab("") +
+  xlab("") +
+  labs(title = "Effects of Must Query PDMPs on labor force rate by\nhires rate, period after treatment") +
+  theme(
+    text = element_text(size = 20, family = "serif"),
+    plot.title = element_text(hjust = 0.5)
+  )
 
+ggplot(rel_treat_1, aes(x = job_openings, y = lab_force_rate_tilde)) +
+  geom_point(
+    size = 5,
+    color = "#0098e9"
+  ) +
+  theme_classic() +
+  geom_smooth(method = "lm", se = FALSE) +
+  annotate("text", x = 780, y = -2.0, label = paste("Intercept:", round(coef(lm(job_openings ~ lab_force_rate_tilde, data = rel_treat_1))[1], 2)), parse = TRUE) +
+  annotate("text", x = 780, y = -2.1, label = paste("Slope:", round(coef(lm(job_openings ~ lab_force_rate_tilde, data = rel_treat_1))[2], 2)), parse = TRUE) +
+  ylab("") +
+  xlab("") +
+  labs(title = "Effects of Must Query PDMPs on labor force rate by\njob openings, period after treatment") +
+  theme(
+    text = element_text(size = 20, family = "serif"),
+    plot.title = element_text(hjust = 0.5)
+  )
 
+ggplot(rel_treat_1, aes(x = job_openings_rate, y = lab_force_rate_tilde)) +
+  geom_point(
+    size = 5,
+    color = "#0098e9"
+  ) +
+  theme_classic() +
+  geom_smooth(method = "lm", se = FALSE) +
+  annotate("text", x = 6.0, y = -2.0, label = paste("Intercept:", round(coef(lm(job_openings_rate ~ lab_force_rate_tilde, data = rel_treat_1))[1], 2)), parse = TRUE) +
+  annotate("text", x = 6.0, y = -2.1, label = paste("Slope:", round(coef(lm(job_openings_rate ~ lab_force_rate_tilde, data = rel_treat_1))[2], 2)), parse = TRUE) +
+  ylab("") +
+  xlab("") +
+  labs(title = "Effects of Must Query PDMPs on labor force rate by\njob openings rates, period after treatment") +
+  theme(
+    text = element_text(size = 20, family = "serif"),
+    plot.title = element_text(hjust = 0.5)
+  )
+
+ggplot(rel_treat_1, aes(x = layoffs, y = lab_force_rate_tilde)) +
+  geom_point(
+    size = 5,
+    color = "#0098e9"
+  ) +
+  theme_classic() +
+  geom_smooth(method = "lm", se = FALSE) +
+  annotate("text", x = 175, y = -2.0, label = paste("Intercept:", round(coef(lm(layoffs ~ lab_force_rate_tilde, data = rel_treat_1))[1], 2)), parse = TRUE) +
+  annotate("text", x = 175, y = -2.1, label = paste("Slope:", round(coef(lm(layoffs ~ lab_force_rate_tilde, data = rel_treat_1))[2], 2)), parse = TRUE) +
+  ylab("") +
+  xlab("") +
+  labs(title = "Effects of Must Query PDMPs on labor force rate by\nlayoffs, period after treatment") +
+  theme(
+    text = element_text(size = 20, family = "serif"),
+    plot.title = element_text(hjust = 0.5)
+  )
+
+ggplot(rel_treat_1, aes(x = layoffs_rate, y = lab_force_rate_tilde)) +
+  geom_point(
+    size = 5,
+    color = "#0098e9"
+  ) +
+  theme_classic() +
+  geom_smooth(method = "lm", se = FALSE) +
+  annotate("text", x = 2.0, y = -2.0, label = paste("Intercept:", round(coef(lm(layoffs_rate ~ lab_force_rate_tilde, data = rel_treat_1))[1], 2)), parse = TRUE) +
+  annotate("text", x = 2.0, y = -2.1, label = paste("Slope:", round(coef(lm(layoffs_rate ~ lab_force_rate_tilde, data = rel_treat_1))[2], 2)), parse = TRUE) +
+  ylab("") +
+  xlab("") +
+  labs(title = "Effects of Must Query PDMPs on labor force rate by\nlayoffs rates, period after treatment") +
+  theme(
+    text = element_text(size = 20, family = "serif"),
+    plot.title = element_text(hjust = 0.5)
+  )
+
+ggplot(rel_treat_1, aes(x = total_separations, y = lab_force_rate_tilde)) +
+  geom_point(
+    size = 5,
+    color = "#0098e9"
+  ) +
+  theme_classic() +
+  geom_smooth(method = "lm", se = FALSE) +
+  annotate("text", x = 530, y = -2.0, label = paste("Intercept:", round(coef(lm(total_separations ~ lab_force_rate_tilde, data = rel_treat_1))[1], 2)), parse = TRUE) +
+  annotate("text", x = 530, y = -2.1, label = paste("Slope:", round(coef(lm(total_separations ~ lab_force_rate_tilde, data = rel_treat_1))[2], 2)), parse = TRUE) +
+  ylab("") +
+  xlab("") +
+  labs(title = "Effects of Must Query PDMPs on labor force rate by\ntotal separations, period after treatment") +
+  theme(
+    text = element_text(size = 20, family = "serif"),
+    plot.title = element_text(hjust = 0.5)
+  )
+
+ggplot(rel_treat_1, aes(x = total_separations_rate, y = lab_force_rate_tilde)) +
+  geom_point(
+    size = 5,
+    color = "#0098e9"
+  ) +
+  theme_classic() +
+  geom_smooth(method = "lm", se = FALSE) +
+  annotate("text", x = 5.2, y = -2.0, label = paste("Intercept:", round(coef(lm(total_separations_rate ~ lab_force_rate_tilde, data = rel_treat_1))[1], 2)), parse = TRUE) +
+  annotate("text", x = 5.2, y = -2.1, label = paste("Slope:", round(coef(lm(total_separations_rate ~ lab_force_rate_tilde, data = rel_treat_1))[2], 2)), parse = TRUE) +
+  ylab("") +
+  xlab("") +
+  labs(title = "Effects of Must Query PDMPs on labor force rate by\ntotal separations rate, period after treatment") +
+  theme(
+    text = element_text(size = 20, family = "serif"),
+    plot.title = element_text(hjust = 0.5)
+  )
+
+ggplot(rel_treat_1, aes(x = quits, y = lab_force_rate_tilde)) +
+  geom_point(
+    size = 5,
+    color = "#0098e9"
+  ) +
+  theme_classic() +
+  geom_smooth(method = "lm", se = FALSE) +
+  annotate("text", x = 300, y = -2.0, label = paste("Intercept:", round(coef(lm(quits ~ lab_force_rate_tilde, data = rel_treat_1))[1], 2)), parse = TRUE) +
+  annotate("text", x = 300, y = -2.1, label = paste("Slope:", round(coef(lm(quits ~ lab_force_rate_tilde, data = rel_treat_1))[2], 2)), parse = TRUE) +
+  ylab("") +
+  xlab("") +
+  labs(title = "Effects of Must Query PDMPs on labor force rate by\nquits, period after treatment") +
+  theme(
+    text = element_text(size = 20, family = "serif"),
+    plot.title = element_text(hjust = 0.5)
+  )
+
+ggplot(rel_treat_1, aes(x = quits_rate, y = lab_force_rate_tilde)) +
+  geom_point(
+    size = 5,
+    color = "#0098e9"
+  ) +
+  theme_classic() +
+  geom_smooth(method = "lm", se = FALSE) +
+  annotate("text", x = 3.5, y = -2.0, label = paste("Intercept:", round(coef(lm(quits_rate ~ lab_force_rate_tilde, data = rel_treat_1))[1], 2)), parse = TRUE) +
+  annotate("text", x = 3.5, y = -2.1, label = paste("Slope:", round(coef(lm(quits_rate ~ lab_force_rate_tilde, data = rel_treat_1))[2], 2)), parse = TRUE) +
+  ylab("") +
+  xlab("") +
+  labs(title = "Effects of Must Query PDMPs on labor force rate by\nquits rates, period after treatment") +
+  theme(
+    text = element_text(size = 20, family = "serif"),
+    plot.title = element_text(hjust = 0.5)
+  )
 
 # Time averages
 

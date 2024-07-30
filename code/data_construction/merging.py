@@ -284,6 +284,10 @@ od_deaths_total = od_deaths_total.rename(columns={
 
 print(od_deaths_total)
 
+### Load the prescriptions data ######################################################################
+
+
+
 # Merge the dataframes
 
 # Merge the labor market outcomes data with the county demographics data
@@ -299,6 +303,7 @@ merged_data = pd.merge(merged_data, minwage, on=['state_name', 'year'], how='inn
 merged_data = pd.merge(merged_data, pdmps, on=['state_name'], how='inner')
 
 # Merge with the sector composition data
+sector_shares_cov['fips'] = sector_shares_cov['fips'].astype("Int64")
 merged_data = pd.merge(merged_data, sector_shares_cov, on=['fips', 'year'], how='inner')
 
 # Merge with the wage distribution data

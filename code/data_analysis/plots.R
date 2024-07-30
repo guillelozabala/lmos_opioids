@@ -127,7 +127,6 @@ ind_effects_plot <- function(df, periods, percentile) {
   # Obtain the policy from treatment name
   #policy_name <- "first_treatment_pmq"
   policy <- "pmq"
-  
 
   # Obtain the outcome from dependend name
   outcome_name <- df_colnames[grep("_tilde", colnames(df))]

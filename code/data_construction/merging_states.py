@@ -302,6 +302,9 @@ print(state_wage_dist)
 
 ###
 
+### Load the prescriptions data ######################################################################
+
+
 # Merge the dataframes
 
 # Merge the labor market outcomes data with the county demographics data
