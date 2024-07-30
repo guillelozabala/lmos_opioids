@@ -310,20 +310,28 @@ print(state_wage_dist)
 # Merge the labor market outcomes data with the county demographics data
 
 merged_data = pd.merge(merged_lmos, demographics, on=['state_fip', 'year'], how='inner')
+set.intersection(set(merged_lmos.columns), set(demographics.columns))
+
 merged_data['lab_force_rate'] = (merged_data['labor_force'] / merged_data['working_age_pop'] * 100).round(4)
 
 merged_data = pd.merge(merged_data, minwage, on=['state_name', 'year'], how='inner')
+set.intersection(set(merged_data.columns), set(minwage.columns))
 
 merged_data = pd.merge(merged_data, pdmps, on=['state_name'], how='inner')
+set.intersection(set(merged_data.columns), set(pdmps.columns))
 
 merged_jobs.rename(columns={'state_code': 'state_fip'}, inplace=True)
-merged_data = pd.merge(merged_data, merged_jobs, on=['state_fip', 'year'], how='inner')
+merged_data = pd.merge(merged_data, merged_jobs, on=['state_fip', 'year', 'month'], how='inner')
+set.intersection(set(merged_data.columns), set(merged_jobs.columns))
 
+merged_data['state_fip'] = merged_data['state_fip'].astype(str).str.rjust(2, '0')
 merged_data = pd.merge(merged_data, sector_shares_cov, on=['state_fip', 'year'], how='inner')
+set.intersection(set(merged_data.columns), set(sector_shares_cov.columns))
 
-merged_jobs.rename(columns={'area': 'state_fip'}, inplace=True)
+state_wage_dist.rename(columns={'area': 'state_fip'}, inplace=True)
+state_wage_dist['state_fip'] = state_wage_dist['state_fip'].astype(str).str.rjust(2, '0')
 merged_data = pd.merge(merged_data, state_wage_dist, on=['state_fip', 'year'], how='inner')
-
+set.intersection(set(merged_data.columns), set(state_wage_dist.columns))
 
 merged_data['log_minw'] = np.log(merged_data['min_wage'])
 merged_data['log_h_pct10'] = np.log(merged_data['h_pct10'])
@@ -337,6 +345,10 @@ merged_data['kaitz_pct25'] = merged_data['log_minw'] - merged_data['log_h_pct25'
 merged_data['kaitz_pct50'] = merged_data['log_minw'] - merged_data['log_h_pct50']
 merged_data['kaitz_pct75'] = merged_data['log_minw'] - merged_data['log_h_pct75']
 merged_data['kaitz_pct90'] = merged_data['log_minw'] - merged_data['log_h_pct90']
+
+# Convert 'year' and 'month' columns to integers
+merged_data['year'] = merged_data['year'].astype('Int64')
+merged_data['month'] = merged_data['month'].astype('Int64')
 
 print(merged_data)
 

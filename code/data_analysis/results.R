@@ -100,8 +100,7 @@ dev.off()
 
 
 
-#data_states_location <- "C:/Users/g-mart36/Documents/GitHub/lmos_opioids/data/processed/merged_data_states.csv"
-data_states_location <- "C:/Users/guill/Documents/GitHub/lmos_opioids/data/processed/merged_data_states.csv"
+data_states_location <- "C:/Users/g-mart36/Documents/GitHub/lmos_opioids/data/processed/merged_data_states.csv"
 
 # Load the data -- State-level data
 df_pmq_states <- read.csv(
@@ -109,10 +108,6 @@ df_pmq_states <- read.csv(
   header = TRUE,
   sep = ","
 )
-
-# Change in python file
-df_pmq_states <- df_pmq_states %>%
-  mutate(, as.numeric)
 
 # Include relative-to-treatement time markers and presc per capita
 df_pmq_states <- df_pmq_states |>
