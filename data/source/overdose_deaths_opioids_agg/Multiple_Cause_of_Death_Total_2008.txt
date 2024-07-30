@@ -1,0 +1,666 @@
+"Notes"	"State"	"State Code"	"Year"	"Year Code"	"Month"	"Month Code"	Deaths	Population	Crude Rate
+	"Alabama"	"01"	"2008"	"2008"	"Jan., 2008"	"2008/01"	10	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2008"	"2008"	"Feb., 2008"	"2008/02"	20	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2008"	"2008"	"Mar., 2008"	"2008/03"	14	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2008"	"2008"	"Apr., 2008"	"2008/04"	10	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2008"	"2008"	"May, 2008"	"2008/05"	17	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2008"	"2008"	"Jun., 2008"	"2008/06"	11	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2008"	"2008"	"Jul., 2008"	"2008/07"	14	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2008"	"2008"	"Aug., 2008"	"2008/08"	18	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2008"	"2008"	"Sep., 2008"	"2008/09"	14	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2008"	"2008"	"Oct., 2008"	"2008/10"	23	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2008"	"2008"	"Nov., 2008"	"2008/11"	17	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2008"	"2008"	"Dec., 2008"	"2008/12"	13	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2008"	"2008"	"Jan., 2008"	"2008/01"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2008"	"2008"	"Feb., 2008"	"2008/02"	11	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2008"	"2008"	"Mar., 2008"	"2008/03"	13	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2008"	"2008"	"Apr., 2008"	"2008/04"	11	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2008"	"2008"	"May, 2008"	"2008/05"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2008"	"2008"	"Jun., 2008"	"2008/06"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2008"	"2008"	"Jul., 2008"	"2008/07"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2008"	"2008"	"Aug., 2008"	"2008/08"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2008"	"2008"	"Sep., 2008"	"2008/09"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2008"	"2008"	"Oct., 2008"	"2008/10"	10	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2008"	"2008"	"Nov., 2008"	"2008/11"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2008"	"2008"	"Dec., 2008"	"2008/12"	Suppressed	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2008"	"2008"	"Jan., 2008"	"2008/01"	47	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2008"	"2008"	"Feb., 2008"	"2008/02"	36	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2008"	"2008"	"Mar., 2008"	"2008/03"	27	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2008"	"2008"	"Apr., 2008"	"2008/04"	38	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2008"	"2008"	"May, 2008"	"2008/05"	34	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2008"	"2008"	"Jun., 2008"	"2008/06"	33	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2008"	"2008"	"Jul., 2008"	"2008/07"	19	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2008"	"2008"	"Aug., 2008"	"2008/08"	41	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2008"	"2008"	"Sep., 2008"	"2008/09"	36	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2008"	"2008"	"Oct., 2008"	"2008/10"	43	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2008"	"2008"	"Nov., 2008"	"2008/11"	36	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2008"	"2008"	"Dec., 2008"	"2008/12"	33	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2008"	"2008"	"Jan., 2008"	"2008/01"	16	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2008"	"2008"	"Feb., 2008"	"2008/02"	16	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2008"	"2008"	"Mar., 2008"	"2008/03"	21	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2008"	"2008"	"Apr., 2008"	"2008/04"	14	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2008"	"2008"	"May, 2008"	"2008/05"	15	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2008"	"2008"	"Jun., 2008"	"2008/06"	18	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2008"	"2008"	"Jul., 2008"	"2008/07"	15	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2008"	"2008"	"Aug., 2008"	"2008/08"	13	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2008"	"2008"	"Sep., 2008"	"2008/09"	23	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2008"	"2008"	"Oct., 2008"	"2008/10"	12	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2008"	"2008"	"Nov., 2008"	"2008/11"	13	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2008"	"2008"	"Dec., 2008"	"2008/12"	18	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Jan., 2008"	"2008/01"	159	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Feb., 2008"	"2008/02"	142	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Mar., 2008"	"2008/03"	132	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Apr., 2008"	"2008/04"	138	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"May, 2008"	"2008/05"	129	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Jun., 2008"	"2008/06"	122	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Jul., 2008"	"2008/07"	135	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Aug., 2008"	"2008/08"	145	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Sep., 2008"	"2008/09"	129	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Oct., 2008"	"2008/10"	135	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Nov., 2008"	"2008/11"	133	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	"Dec., 2008"	"2008/12"	141	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2008"	"2008"	"Jan., 2008"	"2008/01"	20	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2008"	"2008"	"Feb., 2008"	"2008/02"	23	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2008"	"2008"	"Mar., 2008"	"2008/03"	16	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2008"	"2008"	"Apr., 2008"	"2008/04"	22	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2008"	"2008"	"May, 2008"	"2008/05"	25	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2008"	"2008"	"Jun., 2008"	"2008/06"	27	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2008"	"2008"	"Jul., 2008"	"2008/07"	26	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2008"	"2008"	"Aug., 2008"	"2008/08"	29	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2008"	"2008"	"Sep., 2008"	"2008/09"	30	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2008"	"2008"	"Oct., 2008"	"2008/10"	25	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2008"	"2008"	"Nov., 2008"	"2008/11"	31	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2008"	"2008"	"Dec., 2008"	"2008/12"	16	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2008"	"2008"	"Jan., 2008"	"2008/01"	19	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2008"	"2008"	"Feb., 2008"	"2008/02"	24	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2008"	"2008"	"Mar., 2008"	"2008/03"	17	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2008"	"2008"	"Apr., 2008"	"2008/04"	13	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2008"	"2008"	"May, 2008"	"2008/05"	17	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2008"	"2008"	"Jun., 2008"	"2008/06"	14	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2008"	"2008"	"Jul., 2008"	"2008/07"	18	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2008"	"2008"	"Aug., 2008"	"2008/08"	17	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2008"	"2008"	"Sep., 2008"	"2008/09"	14	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2008"	"2008"	"Oct., 2008"	"2008/10"	18	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2008"	"2008"	"Nov., 2008"	"2008/11"	21	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2008"	"2008"	"Dec., 2008"	"2008/12"	13	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2008"	"2008"	"Jan., 2008"	"2008/01"	Suppressed	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2008"	"2008"	"Feb., 2008"	"2008/02"	Suppressed	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2008"	"2008"	"Mar., 2008"	"2008/03"	Suppressed	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2008"	"2008"	"Apr., 2008"	"2008/04"	Suppressed	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2008"	"2008"	"May, 2008"	"2008/05"	Suppressed	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2008"	"2008"	"Jun., 2008"	"2008/06"	Suppressed	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2008"	"2008"	"Jul., 2008"	"2008/07"	Suppressed	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2008"	"2008"	"Aug., 2008"	"2008/08"	Suppressed	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2008"	"2008"	"Sep., 2008"	"2008/09"	Suppressed	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2008"	"2008"	"Oct., 2008"	"2008/10"	Suppressed	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2008"	"2008"	"Nov., 2008"	"2008/11"	10	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2008"	"2008"	"Dec., 2008"	"2008/12"	Suppressed	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2008"	"2008"	"Jan., 2008"	"2008/01"	Suppressed	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2008"	"2008"	"Feb., 2008"	"2008/02"	Suppressed	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2008"	"2008"	"Mar., 2008"	"2008/03"	Suppressed	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2008"	"2008"	"Apr., 2008"	"2008/04"	Suppressed	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2008"	"2008"	"May, 2008"	"2008/05"	Suppressed	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2008"	"2008"	"Jun., 2008"	"2008/06"	Suppressed	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2008"	"2008"	"Jul., 2008"	"2008/07"	Suppressed	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2008"	"2008"	"Aug., 2008"	"2008/08"	Suppressed	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2008"	"2008"	"Sep., 2008"	"2008/09"	0	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2008"	"2008"	"Oct., 2008"	"2008/10"	0	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2008"	"2008"	"Nov., 2008"	"2008/11"	0	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2008"	"2008"	"Dec., 2008"	"2008/12"	Suppressed	Not Applicable	Not Applicable
+	"Florida"	"12"	"2008"	"2008"	"Jan., 2008"	"2008/01"	117	Not Applicable	Not Applicable
+	"Florida"	"12"	"2008"	"2008"	"Feb., 2008"	"2008/02"	111	Not Applicable	Not Applicable
+	"Florida"	"12"	"2008"	"2008"	"Mar., 2008"	"2008/03"	152	Not Applicable	Not Applicable
+	"Florida"	"12"	"2008"	"2008"	"Apr., 2008"	"2008/04"	133	Not Applicable	Not Applicable
+	"Florida"	"12"	"2008"	"2008"	"May, 2008"	"2008/05"	124	Not Applicable	Not Applicable
+	"Florida"	"12"	"2008"	"2008"	"Jun., 2008"	"2008/06"	120	Not Applicable	Not Applicable
+	"Florida"	"12"	"2008"	"2008"	"Jul., 2008"	"2008/07"	87	Not Applicable	Not Applicable
+	"Florida"	"12"	"2008"	"2008"	"Aug., 2008"	"2008/08"	106	Not Applicable	Not Applicable
+	"Florida"	"12"	"2008"	"2008"	"Sep., 2008"	"2008/09"	104	Not Applicable	Not Applicable
+	"Florida"	"12"	"2008"	"2008"	"Oct., 2008"	"2008/10"	115	Not Applicable	Not Applicable
+	"Florida"	"12"	"2008"	"2008"	"Nov., 2008"	"2008/11"	112	Not Applicable	Not Applicable
+	"Florida"	"12"	"2008"	"2008"	"Dec., 2008"	"2008/12"	127	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2008"	"2008"	"Jan., 2008"	"2008/01"	39	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2008"	"2008"	"Feb., 2008"	"2008/02"	31	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2008"	"2008"	"Mar., 2008"	"2008/03"	39	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2008"	"2008"	"Apr., 2008"	"2008/04"	35	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2008"	"2008"	"May, 2008"	"2008/05"	17	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2008"	"2008"	"Jun., 2008"	"2008/06"	35	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2008"	"2008"	"Jul., 2008"	"2008/07"	24	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2008"	"2008"	"Aug., 2008"	"2008/08"	35	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2008"	"2008"	"Sep., 2008"	"2008/09"	24	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2008"	"2008"	"Oct., 2008"	"2008/10"	31	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2008"	"2008"	"Nov., 2008"	"2008/11"	40	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2008"	"2008"	"Dec., 2008"	"2008/12"	33	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2008"	"2008"	"Jan., 2008"	"2008/01"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2008"	"2008"	"Feb., 2008"	"2008/02"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2008"	"2008"	"Mar., 2008"	"2008/03"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2008"	"2008"	"Apr., 2008"	"2008/04"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2008"	"2008"	"May, 2008"	"2008/05"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2008"	"2008"	"Jun., 2008"	"2008/06"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2008"	"2008"	"Jul., 2008"	"2008/07"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2008"	"2008"	"Aug., 2008"	"2008/08"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2008"	"2008"	"Sep., 2008"	"2008/09"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2008"	"2008"	"Oct., 2008"	"2008/10"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2008"	"2008"	"Nov., 2008"	"2008/11"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2008"	"2008"	"Dec., 2008"	"2008/12"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2008"	"2008"	"Jan., 2008"	"2008/01"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2008"	"2008"	"Feb., 2008"	"2008/02"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2008"	"2008"	"Mar., 2008"	"2008/03"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2008"	"2008"	"Apr., 2008"	"2008/04"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2008"	"2008"	"May, 2008"	"2008/05"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2008"	"2008"	"Jun., 2008"	"2008/06"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2008"	"2008"	"Jul., 2008"	"2008/07"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2008"	"2008"	"Aug., 2008"	"2008/08"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2008"	"2008"	"Sep., 2008"	"2008/09"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2008"	"2008"	"Oct., 2008"	"2008/10"	10	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2008"	"2008"	"Nov., 2008"	"2008/11"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2008"	"2008"	"Dec., 2008"	"2008/12"	Suppressed	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2008"	"2008"	"Jan., 2008"	"2008/01"	35	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2008"	"2008"	"Feb., 2008"	"2008/02"	33	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2008"	"2008"	"Mar., 2008"	"2008/03"	38	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2008"	"2008"	"Apr., 2008"	"2008/04"	36	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2008"	"2008"	"May, 2008"	"2008/05"	33	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2008"	"2008"	"Jun., 2008"	"2008/06"	32	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2008"	"2008"	"Jul., 2008"	"2008/07"	45	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2008"	"2008"	"Aug., 2008"	"2008/08"	33	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2008"	"2008"	"Sep., 2008"	"2008/09"	35	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2008"	"2008"	"Oct., 2008"	"2008/10"	33	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2008"	"2008"	"Nov., 2008"	"2008/11"	31	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2008"	"2008"	"Dec., 2008"	"2008/12"	37	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2008"	"2008"	"Jan., 2008"	"2008/01"	17	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2008"	"2008"	"Feb., 2008"	"2008/02"	18	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2008"	"2008"	"Mar., 2008"	"2008/03"	15	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2008"	"2008"	"Apr., 2008"	"2008/04"	25	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2008"	"2008"	"May, 2008"	"2008/05"	25	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2008"	"2008"	"Jun., 2008"	"2008/06"	23	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2008"	"2008"	"Jul., 2008"	"2008/07"	28	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2008"	"2008"	"Aug., 2008"	"2008/08"	29	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2008"	"2008"	"Sep., 2008"	"2008/09"	19	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2008"	"2008"	"Oct., 2008"	"2008/10"	13	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2008"	"2008"	"Nov., 2008"	"2008/11"	30	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2008"	"2008"	"Dec., 2008"	"2008/12"	29	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2008"	"2008"	"Jan., 2008"	"2008/01"	13	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2008"	"2008"	"Feb., 2008"	"2008/02"	Suppressed	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2008"	"2008"	"Mar., 2008"	"2008/03"	10	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2008"	"2008"	"Apr., 2008"	"2008/04"	Suppressed	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2008"	"2008"	"May, 2008"	"2008/05"	14	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2008"	"2008"	"Jun., 2008"	"2008/06"	13	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2008"	"2008"	"Jul., 2008"	"2008/07"	Suppressed	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2008"	"2008"	"Aug., 2008"	"2008/08"	Suppressed	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2008"	"2008"	"Sep., 2008"	"2008/09"	12	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2008"	"2008"	"Oct., 2008"	"2008/10"	Suppressed	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2008"	"2008"	"Nov., 2008"	"2008/11"	12	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2008"	"2008"	"Dec., 2008"	"2008/12"	Suppressed	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2008"	"2008"	"Jan., 2008"	"2008/01"	Suppressed	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2008"	"2008"	"Feb., 2008"	"2008/02"	Suppressed	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2008"	"2008"	"Mar., 2008"	"2008/03"	Suppressed	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2008"	"2008"	"Apr., 2008"	"2008/04"	Suppressed	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2008"	"2008"	"May, 2008"	"2008/05"	Suppressed	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2008"	"2008"	"Jun., 2008"	"2008/06"	Suppressed	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2008"	"2008"	"Jul., 2008"	"2008/07"	10	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2008"	"2008"	"Aug., 2008"	"2008/08"	Suppressed	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2008"	"2008"	"Sep., 2008"	"2008/09"	Suppressed	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2008"	"2008"	"Oct., 2008"	"2008/10"	10	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2008"	"2008"	"Nov., 2008"	"2008/11"	11	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2008"	"2008"	"Dec., 2008"	"2008/12"	12	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2008"	"2008"	"Jan., 2008"	"2008/01"	34	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2008"	"2008"	"Feb., 2008"	"2008/02"	33	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2008"	"2008"	"Mar., 2008"	"2008/03"	28	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2008"	"2008"	"Apr., 2008"	"2008/04"	24	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2008"	"2008"	"May, 2008"	"2008/05"	42	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2008"	"2008"	"Jun., 2008"	"2008/06"	17	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2008"	"2008"	"Jul., 2008"	"2008/07"	28	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2008"	"2008"	"Aug., 2008"	"2008/08"	29	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2008"	"2008"	"Sep., 2008"	"2008/09"	31	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2008"	"2008"	"Oct., 2008"	"2008/10"	23	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2008"	"2008"	"Nov., 2008"	"2008/11"	24	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2008"	"2008"	"Dec., 2008"	"2008/12"	41	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2008"	"2008"	"Jan., 2008"	"2008/01"	Suppressed	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2008"	"2008"	"Feb., 2008"	"2008/02"	Suppressed	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2008"	"2008"	"Mar., 2008"	"2008/03"	10	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2008"	"2008"	"Apr., 2008"	"2008/04"	12	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2008"	"2008"	"May, 2008"	"2008/05"	10	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2008"	"2008"	"Jun., 2008"	"2008/06"	16	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2008"	"2008"	"Jul., 2008"	"2008/07"	11	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2008"	"2008"	"Aug., 2008"	"2008/08"	Suppressed	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2008"	"2008"	"Sep., 2008"	"2008/09"	Suppressed	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2008"	"2008"	"Oct., 2008"	"2008/10"	12	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2008"	"2008"	"Nov., 2008"	"2008/11"	Suppressed	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2008"	"2008"	"Dec., 2008"	"2008/12"	11	Not Applicable	Not Applicable
+	"Maine"	"23"	"2008"	"2008"	"Jan., 2008"	"2008/01"	Suppressed	Not Applicable	Not Applicable
+	"Maine"	"23"	"2008"	"2008"	"Feb., 2008"	"2008/02"	Suppressed	Not Applicable	Not Applicable
+	"Maine"	"23"	"2008"	"2008"	"Mar., 2008"	"2008/03"	15	Not Applicable	Not Applicable
+	"Maine"	"23"	"2008"	"2008"	"Apr., 2008"	"2008/04"	Suppressed	Not Applicable	Not Applicable
+	"Maine"	"23"	"2008"	"2008"	"May, 2008"	"2008/05"	11	Not Applicable	Not Applicable
+	"Maine"	"23"	"2008"	"2008"	"Jun., 2008"	"2008/06"	Suppressed	Not Applicable	Not Applicable
+	"Maine"	"23"	"2008"	"2008"	"Jul., 2008"	"2008/07"	11	Not Applicable	Not Applicable
+	"Maine"	"23"	"2008"	"2008"	"Aug., 2008"	"2008/08"	Suppressed	Not Applicable	Not Applicable
+	"Maine"	"23"	"2008"	"2008"	"Sep., 2008"	"2008/09"	10	Not Applicable	Not Applicable
+	"Maine"	"23"	"2008"	"2008"	"Oct., 2008"	"2008/10"	Suppressed	Not Applicable	Not Applicable
+	"Maine"	"23"	"2008"	"2008"	"Nov., 2008"	"2008/11"	Suppressed	Not Applicable	Not Applicable
+	"Maine"	"23"	"2008"	"2008"	"Dec., 2008"	"2008/12"	10	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2008"	"2008"	"Jan., 2008"	"2008/01"	27	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2008"	"2008"	"Feb., 2008"	"2008/02"	37	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2008"	"2008"	"Mar., 2008"	"2008/03"	38	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2008"	"2008"	"Apr., 2008"	"2008/04"	32	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2008"	"2008"	"May, 2008"	"2008/05"	36	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2008"	"2008"	"Jun., 2008"	"2008/06"	35	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2008"	"2008"	"Jul., 2008"	"2008/07"	30	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2008"	"2008"	"Aug., 2008"	"2008/08"	44	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2008"	"2008"	"Sep., 2008"	"2008/09"	31	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2008"	"2008"	"Oct., 2008"	"2008/10"	38	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2008"	"2008"	"Nov., 2008"	"2008/11"	35	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2008"	"2008"	"Dec., 2008"	"2008/12"	42	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2008"	"2008"	"Jan., 2008"	"2008/01"	25	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2008"	"2008"	"Feb., 2008"	"2008/02"	29	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2008"	"2008"	"Mar., 2008"	"2008/03"	33	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2008"	"2008"	"Apr., 2008"	"2008/04"	26	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2008"	"2008"	"May, 2008"	"2008/05"	28	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2008"	"2008"	"Jun., 2008"	"2008/06"	20	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2008"	"2008"	"Jul., 2008"	"2008/07"	23	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2008"	"2008"	"Aug., 2008"	"2008/08"	20	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2008"	"2008"	"Sep., 2008"	"2008/09"	22	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2008"	"2008"	"Oct., 2008"	"2008/10"	25	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2008"	"2008"	"Nov., 2008"	"2008/11"	28	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2008"	"2008"	"Dec., 2008"	"2008/12"	26	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2008"	"2008"	"Jan., 2008"	"2008/01"	54	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2008"	"2008"	"Feb., 2008"	"2008/02"	33	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2008"	"2008"	"Mar., 2008"	"2008/03"	65	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2008"	"2008"	"Apr., 2008"	"2008/04"	50	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2008"	"2008"	"May, 2008"	"2008/05"	45	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2008"	"2008"	"Jun., 2008"	"2008/06"	56	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2008"	"2008"	"Jul., 2008"	"2008/07"	44	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2008"	"2008"	"Aug., 2008"	"2008/08"	43	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2008"	"2008"	"Sep., 2008"	"2008/09"	48	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2008"	"2008"	"Oct., 2008"	"2008/10"	57	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2008"	"2008"	"Nov., 2008"	"2008/11"	52	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2008"	"2008"	"Dec., 2008"	"2008/12"	56	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2008"	"2008"	"Jan., 2008"	"2008/01"	14	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2008"	"2008"	"Feb., 2008"	"2008/02"	12	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2008"	"2008"	"Mar., 2008"	"2008/03"	13	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2008"	"2008"	"Apr., 2008"	"2008/04"	11	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2008"	"2008"	"May, 2008"	"2008/05"	14	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2008"	"2008"	"Jun., 2008"	"2008/06"	21	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2008"	"2008"	"Jul., 2008"	"2008/07"	17	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2008"	"2008"	"Aug., 2008"	"2008/08"	15	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2008"	"2008"	"Sep., 2008"	"2008/09"	12	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2008"	"2008"	"Oct., 2008"	"2008/10"	12	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2008"	"2008"	"Nov., 2008"	"2008/11"	18	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2008"	"2008"	"Dec., 2008"	"2008/12"	16	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2008"	"2008"	"Jan., 2008"	"2008/01"	Suppressed	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2008"	"2008"	"Feb., 2008"	"2008/02"	12	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2008"	"2008"	"Mar., 2008"	"2008/03"	11	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2008"	"2008"	"Apr., 2008"	"2008/04"	Suppressed	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2008"	"2008"	"May, 2008"	"2008/05"	Suppressed	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2008"	"2008"	"Jun., 2008"	"2008/06"	Suppressed	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2008"	"2008"	"Jul., 2008"	"2008/07"	13	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2008"	"2008"	"Aug., 2008"	"2008/08"	Suppressed	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2008"	"2008"	"Sep., 2008"	"2008/09"	Suppressed	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2008"	"2008"	"Oct., 2008"	"2008/10"	Suppressed	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2008"	"2008"	"Nov., 2008"	"2008/11"	Suppressed	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2008"	"2008"	"Dec., 2008"	"2008/12"	12	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2008"	"2008"	"Jan., 2008"	"2008/01"	35	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2008"	"2008"	"Feb., 2008"	"2008/02"	43	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2008"	"2008"	"Mar., 2008"	"2008/03"	35	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2008"	"2008"	"Apr., 2008"	"2008/04"	27	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2008"	"2008"	"May, 2008"	"2008/05"	28	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2008"	"2008"	"Jun., 2008"	"2008/06"	32	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2008"	"2008"	"Jul., 2008"	"2008/07"	40	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2008"	"2008"	"Aug., 2008"	"2008/08"	33	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2008"	"2008"	"Sep., 2008"	"2008/09"	38	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2008"	"2008"	"Oct., 2008"	"2008/10"	45	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2008"	"2008"	"Nov., 2008"	"2008/11"	35	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2008"	"2008"	"Dec., 2008"	"2008/12"	44	Not Applicable	Not Applicable
+	"Montana"	"30"	"2008"	"2008"	"Jan., 2008"	"2008/01"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2008"	"2008"	"Feb., 2008"	"2008/02"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2008"	"2008"	"Mar., 2008"	"2008/03"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2008"	"2008"	"Apr., 2008"	"2008/04"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2008"	"2008"	"May, 2008"	"2008/05"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2008"	"2008"	"Jun., 2008"	"2008/06"	10	Not Applicable	Not Applicable
+	"Montana"	"30"	"2008"	"2008"	"Jul., 2008"	"2008/07"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2008"	"2008"	"Aug., 2008"	"2008/08"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2008"	"2008"	"Sep., 2008"	"2008/09"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2008"	"2008"	"Oct., 2008"	"2008/10"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2008"	"2008"	"Nov., 2008"	"2008/11"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2008"	"2008"	"Dec., 2008"	"2008/12"	12	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2008"	"2008"	"Jan., 2008"	"2008/01"	0	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2008"	"2008"	"Feb., 2008"	"2008/02"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2008"	"2008"	"Mar., 2008"	"2008/03"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2008"	"2008"	"Apr., 2008"	"2008/04"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2008"	"2008"	"May, 2008"	"2008/05"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2008"	"2008"	"Jun., 2008"	"2008/06"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2008"	"2008"	"Jul., 2008"	"2008/07"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2008"	"2008"	"Aug., 2008"	"2008/08"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2008"	"2008"	"Sep., 2008"	"2008/09"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2008"	"2008"	"Oct., 2008"	"2008/10"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2008"	"2008"	"Nov., 2008"	"2008/11"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2008"	"2008"	"Dec., 2008"	"2008/12"	Suppressed	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2008"	"2008"	"Jan., 2008"	"2008/01"	32	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2008"	"2008"	"Feb., 2008"	"2008/02"	31	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2008"	"2008"	"Mar., 2008"	"2008/03"	29	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2008"	"2008"	"Apr., 2008"	"2008/04"	23	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2008"	"2008"	"May, 2008"	"2008/05"	18	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2008"	"2008"	"Jun., 2008"	"2008/06"	27	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2008"	"2008"	"Jul., 2008"	"2008/07"	33	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2008"	"2008"	"Aug., 2008"	"2008/08"	31	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2008"	"2008"	"Sep., 2008"	"2008/09"	28	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2008"	"2008"	"Oct., 2008"	"2008/10"	32	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2008"	"2008"	"Nov., 2008"	"2008/11"	27	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2008"	"2008"	"Dec., 2008"	"2008/12"	33	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2008"	"2008"	"Jan., 2008"	"2008/01"	Suppressed	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2008"	"2008"	"Feb., 2008"	"2008/02"	Suppressed	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2008"	"2008"	"Mar., 2008"	"2008/03"	Suppressed	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2008"	"2008"	"Apr., 2008"	"2008/04"	Suppressed	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2008"	"2008"	"May, 2008"	"2008/05"	Suppressed	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2008"	"2008"	"Jun., 2008"	"2008/06"	Suppressed	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2008"	"2008"	"Jul., 2008"	"2008/07"	12	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2008"	"2008"	"Aug., 2008"	"2008/08"	Suppressed	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2008"	"2008"	"Sep., 2008"	"2008/09"	Suppressed	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2008"	"2008"	"Oct., 2008"	"2008/10"	10	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2008"	"2008"	"Nov., 2008"	"2008/11"	Suppressed	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2008"	"2008"	"Dec., 2008"	"2008/12"	Suppressed	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2008"	"2008"	"Jan., 2008"	"2008/01"	21	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2008"	"2008"	"Feb., 2008"	"2008/02"	26	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2008"	"2008"	"Mar., 2008"	"2008/03"	25	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2008"	"2008"	"Apr., 2008"	"2008/04"	28	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2008"	"2008"	"May, 2008"	"2008/05"	31	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2008"	"2008"	"Jun., 2008"	"2008/06"	22	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2008"	"2008"	"Jul., 2008"	"2008/07"	25	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2008"	"2008"	"Aug., 2008"	"2008/08"	17	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2008"	"2008"	"Sep., 2008"	"2008/09"	19	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2008"	"2008"	"Oct., 2008"	"2008/10"	25	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2008"	"2008"	"Nov., 2008"	"2008/11"	20	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2008"	"2008"	"Dec., 2008"	"2008/12"	27	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2008"	"2008"	"Jan., 2008"	"2008/01"	29	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2008"	"2008"	"Feb., 2008"	"2008/02"	28	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2008"	"2008"	"Mar., 2008"	"2008/03"	27	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2008"	"2008"	"Apr., 2008"	"2008/04"	24	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2008"	"2008"	"May, 2008"	"2008/05"	30	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2008"	"2008"	"Jun., 2008"	"2008/06"	32	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2008"	"2008"	"Jul., 2008"	"2008/07"	25	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2008"	"2008"	"Aug., 2008"	"2008/08"	29	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2008"	"2008"	"Sep., 2008"	"2008/09"	28	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2008"	"2008"	"Oct., 2008"	"2008/10"	14	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2008"	"2008"	"Nov., 2008"	"2008/11"	15	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2008"	"2008"	"Dec., 2008"	"2008/12"	23	Not Applicable	Not Applicable
+	"New York"	"36"	"2008"	"2008"	"Jan., 2008"	"2008/01"	77	Not Applicable	Not Applicable
+	"New York"	"36"	"2008"	"2008"	"Feb., 2008"	"2008/02"	81	Not Applicable	Not Applicable
+	"New York"	"36"	"2008"	"2008"	"Mar., 2008"	"2008/03"	61	Not Applicable	Not Applicable
+	"New York"	"36"	"2008"	"2008"	"Apr., 2008"	"2008/04"	93	Not Applicable	Not Applicable
+	"New York"	"36"	"2008"	"2008"	"May, 2008"	"2008/05"	86	Not Applicable	Not Applicable
+	"New York"	"36"	"2008"	"2008"	"Jun., 2008"	"2008/06"	76	Not Applicable	Not Applicable
+	"New York"	"36"	"2008"	"2008"	"Jul., 2008"	"2008/07"	71	Not Applicable	Not Applicable
+	"New York"	"36"	"2008"	"2008"	"Aug., 2008"	"2008/08"	74	Not Applicable	Not Applicable
+	"New York"	"36"	"2008"	"2008"	"Sep., 2008"	"2008/09"	66	Not Applicable	Not Applicable
+	"New York"	"36"	"2008"	"2008"	"Oct., 2008"	"2008/10"	75	Not Applicable	Not Applicable
+	"New York"	"36"	"2008"	"2008"	"Nov., 2008"	"2008/11"	84	Not Applicable	Not Applicable
+	"New York"	"36"	"2008"	"2008"	"Dec., 2008"	"2008/12"	83	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2008"	"2008"	"Jan., 2008"	"2008/01"	57	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2008"	"2008"	"Feb., 2008"	"2008/02"	66	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2008"	"2008"	"Mar., 2008"	"2008/03"	69	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2008"	"2008"	"Apr., 2008"	"2008/04"	65	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2008"	"2008"	"May, 2008"	"2008/05"	82	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2008"	"2008"	"Jun., 2008"	"2008/06"	59	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2008"	"2008"	"Jul., 2008"	"2008/07"	78	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2008"	"2008"	"Aug., 2008"	"2008/08"	62	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2008"	"2008"	"Sep., 2008"	"2008/09"	69	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2008"	"2008"	"Oct., 2008"	"2008/10"	76	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2008"	"2008"	"Nov., 2008"	"2008/11"	61	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2008"	"2008"	"Dec., 2008"	"2008/12"	86	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2008"	"2008"	"Jan., 2008"	"2008/01"	0	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2008"	"2008"	"Feb., 2008"	"2008/02"	Suppressed	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2008"	"2008"	"Mar., 2008"	"2008/03"	0	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2008"	"2008"	"Apr., 2008"	"2008/04"	Suppressed	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2008"	"2008"	"May, 2008"	"2008/05"	Suppressed	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2008"	"2008"	"Jun., 2008"	"2008/06"	Suppressed	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2008"	"2008"	"Jul., 2008"	"2008/07"	Suppressed	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2008"	"2008"	"Aug., 2008"	"2008/08"	0	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2008"	"2008"	"Sep., 2008"	"2008/09"	Suppressed	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2008"	"2008"	"Oct., 2008"	"2008/10"	0	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2008"	"2008"	"Nov., 2008"	"2008/11"	Suppressed	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2008"	"2008"	"Dec., 2008"	"2008/12"	Suppressed	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2008"	"2008"	"Jan., 2008"	"2008/01"	56	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2008"	"2008"	"Feb., 2008"	"2008/02"	65	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2008"	"2008"	"Mar., 2008"	"2008/03"	53	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2008"	"2008"	"Apr., 2008"	"2008/04"	56	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2008"	"2008"	"May, 2008"	"2008/05"	80	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2008"	"2008"	"Jun., 2008"	"2008/06"	48	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2008"	"2008"	"Jul., 2008"	"2008/07"	65	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2008"	"2008"	"Aug., 2008"	"2008/08"	66	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2008"	"2008"	"Sep., 2008"	"2008/09"	56	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2008"	"2008"	"Oct., 2008"	"2008/10"	69	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2008"	"2008"	"Nov., 2008"	"2008/11"	70	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2008"	"2008"	"Dec., 2008"	"2008/12"	81	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2008"	"2008"	"Jan., 2008"	"2008/01"	41	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2008"	"2008"	"Feb., 2008"	"2008/02"	44	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2008"	"2008"	"Mar., 2008"	"2008/03"	39	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2008"	"2008"	"Apr., 2008"	"2008/04"	46	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2008"	"2008"	"May, 2008"	"2008/05"	29	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2008"	"2008"	"Jun., 2008"	"2008/06"	35	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2008"	"2008"	"Jul., 2008"	"2008/07"	33	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2008"	"2008"	"Aug., 2008"	"2008/08"	31	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2008"	"2008"	"Sep., 2008"	"2008/09"	38	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2008"	"2008"	"Oct., 2008"	"2008/10"	18	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2008"	"2008"	"Nov., 2008"	"2008/11"	23	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2008"	"2008"	"Dec., 2008"	"2008/12"	27	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2008"	"2008"	"Jan., 2008"	"2008/01"	22	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2008"	"2008"	"Feb., 2008"	"2008/02"	36	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2008"	"2008"	"Mar., 2008"	"2008/03"	30	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2008"	"2008"	"Apr., 2008"	"2008/04"	21	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2008"	"2008"	"May, 2008"	"2008/05"	29	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2008"	"2008"	"Jun., 2008"	"2008/06"	17	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2008"	"2008"	"Jul., 2008"	"2008/07"	23	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2008"	"2008"	"Aug., 2008"	"2008/08"	29	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2008"	"2008"	"Sep., 2008"	"2008/09"	23	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2008"	"2008"	"Oct., 2008"	"2008/10"	26	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2008"	"2008"	"Nov., 2008"	"2008/11"	28	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2008"	"2008"	"Dec., 2008"	"2008/12"	23	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2008"	"2008"	"Jan., 2008"	"2008/01"	46	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2008"	"2008"	"Feb., 2008"	"2008/02"	46	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2008"	"2008"	"Mar., 2008"	"2008/03"	37	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2008"	"2008"	"Apr., 2008"	"2008/04"	41	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2008"	"2008"	"May, 2008"	"2008/05"	49	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2008"	"2008"	"Jun., 2008"	"2008/06"	38	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2008"	"2008"	"Jul., 2008"	"2008/07"	47	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2008"	"2008"	"Aug., 2008"	"2008/08"	53	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2008"	"2008"	"Sep., 2008"	"2008/09"	40	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2008"	"2008"	"Oct., 2008"	"2008/10"	60	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2008"	"2008"	"Nov., 2008"	"2008/11"	50	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2008"	"2008"	"Dec., 2008"	"2008/12"	39	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2008"	"2008"	"Jan., 2008"	"2008/01"	Suppressed	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2008"	"2008"	"Feb., 2008"	"2008/02"	Suppressed	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2008"	"2008"	"Mar., 2008"	"2008/03"	10	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2008"	"2008"	"Apr., 2008"	"2008/04"	Suppressed	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2008"	"2008"	"May, 2008"	"2008/05"	Suppressed	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2008"	"2008"	"Jun., 2008"	"2008/06"	Suppressed	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2008"	"2008"	"Jul., 2008"	"2008/07"	Suppressed	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2008"	"2008"	"Aug., 2008"	"2008/08"	Suppressed	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2008"	"2008"	"Sep., 2008"	"2008/09"	Suppressed	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2008"	"2008"	"Oct., 2008"	"2008/10"	Suppressed	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2008"	"2008"	"Nov., 2008"	"2008/11"	Suppressed	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2008"	"2008"	"Dec., 2008"	"2008/12"	Suppressed	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2008"	"2008"	"Jan., 2008"	"2008/01"	18	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2008"	"2008"	"Feb., 2008"	"2008/02"	21	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2008"	"2008"	"Mar., 2008"	"2008/03"	21	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2008"	"2008"	"Apr., 2008"	"2008/04"	18	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2008"	"2008"	"May, 2008"	"2008/05"	15	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2008"	"2008"	"Jun., 2008"	"2008/06"	20	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2008"	"2008"	"Jul., 2008"	"2008/07"	16	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2008"	"2008"	"Aug., 2008"	"2008/08"	13	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2008"	"2008"	"Sep., 2008"	"2008/09"	Suppressed	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2008"	"2008"	"Oct., 2008"	"2008/10"	19	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2008"	"2008"	"Nov., 2008"	"2008/11"	15	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2008"	"2008"	"Dec., 2008"	"2008/12"	23	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2008"	"2008"	"Jan., 2008"	"2008/01"	Suppressed	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2008"	"2008"	"Feb., 2008"	"2008/02"	Suppressed	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2008"	"2008"	"Mar., 2008"	"2008/03"	Suppressed	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2008"	"2008"	"Apr., 2008"	"2008/04"	0	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2008"	"2008"	"May, 2008"	"2008/05"	Suppressed	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2008"	"2008"	"Jun., 2008"	"2008/06"	Suppressed	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2008"	"2008"	"Jul., 2008"	"2008/07"	Suppressed	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2008"	"2008"	"Aug., 2008"	"2008/08"	Suppressed	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2008"	"2008"	"Sep., 2008"	"2008/09"	Suppressed	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2008"	"2008"	"Oct., 2008"	"2008/10"	Suppressed	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2008"	"2008"	"Nov., 2008"	"2008/11"	Suppressed	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2008"	"2008"	"Dec., 2008"	"2008/12"	Suppressed	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2008"	"2008"	"Jan., 2008"	"2008/01"	37	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2008"	"2008"	"Feb., 2008"	"2008/02"	40	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2008"	"2008"	"Mar., 2008"	"2008/03"	31	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2008"	"2008"	"Apr., 2008"	"2008/04"	33	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2008"	"2008"	"May, 2008"	"2008/05"	35	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2008"	"2008"	"Jun., 2008"	"2008/06"	34	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2008"	"2008"	"Jul., 2008"	"2008/07"	30	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2008"	"2008"	"Aug., 2008"	"2008/08"	32	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2008"	"2008"	"Sep., 2008"	"2008/09"	47	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2008"	"2008"	"Oct., 2008"	"2008/10"	44	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2008"	"2008"	"Nov., 2008"	"2008/11"	55	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2008"	"2008"	"Dec., 2008"	"2008/12"	34	Not Applicable	Not Applicable
+	"Texas"	"48"	"2008"	"2008"	"Jan., 2008"	"2008/01"	90	Not Applicable	Not Applicable
+	"Texas"	"48"	"2008"	"2008"	"Feb., 2008"	"2008/02"	74	Not Applicable	Not Applicable
+	"Texas"	"48"	"2008"	"2008"	"Mar., 2008"	"2008/03"	81	Not Applicable	Not Applicable
+	"Texas"	"48"	"2008"	"2008"	"Apr., 2008"	"2008/04"	75	Not Applicable	Not Applicable
+	"Texas"	"48"	"2008"	"2008"	"May, 2008"	"2008/05"	86	Not Applicable	Not Applicable
+	"Texas"	"48"	"2008"	"2008"	"Jun., 2008"	"2008/06"	77	Not Applicable	Not Applicable
+	"Texas"	"48"	"2008"	"2008"	"Jul., 2008"	"2008/07"	73	Not Applicable	Not Applicable
+	"Texas"	"48"	"2008"	"2008"	"Aug., 2008"	"2008/08"	88	Not Applicable	Not Applicable
+	"Texas"	"48"	"2008"	"2008"	"Sep., 2008"	"2008/09"	73	Not Applicable	Not Applicable
+	"Texas"	"48"	"2008"	"2008"	"Oct., 2008"	"2008/10"	59	Not Applicable	Not Applicable
+	"Texas"	"48"	"2008"	"2008"	"Nov., 2008"	"2008/11"	43	Not Applicable	Not Applicable
+	"Texas"	"48"	"2008"	"2008"	"Dec., 2008"	"2008/12"	44	Not Applicable	Not Applicable
+	"Utah"	"49"	"2008"	"2008"	"Jan., 2008"	"2008/01"	24	Not Applicable	Not Applicable
+	"Utah"	"49"	"2008"	"2008"	"Feb., 2008"	"2008/02"	33	Not Applicable	Not Applicable
+	"Utah"	"49"	"2008"	"2008"	"Mar., 2008"	"2008/03"	28	Not Applicable	Not Applicable
+	"Utah"	"49"	"2008"	"2008"	"Apr., 2008"	"2008/04"	32	Not Applicable	Not Applicable
+	"Utah"	"49"	"2008"	"2008"	"May, 2008"	"2008/05"	23	Not Applicable	Not Applicable
+	"Utah"	"49"	"2008"	"2008"	"Jun., 2008"	"2008/06"	25	Not Applicable	Not Applicable
+	"Utah"	"49"	"2008"	"2008"	"Jul., 2008"	"2008/07"	28	Not Applicable	Not Applicable
+	"Utah"	"49"	"2008"	"2008"	"Aug., 2008"	"2008/08"	27	Not Applicable	Not Applicable
+	"Utah"	"49"	"2008"	"2008"	"Sep., 2008"	"2008/09"	28	Not Applicable	Not Applicable
+	"Utah"	"49"	"2008"	"2008"	"Oct., 2008"	"2008/10"	29	Not Applicable	Not Applicable
+	"Utah"	"49"	"2008"	"2008"	"Nov., 2008"	"2008/11"	33	Not Applicable	Not Applicable
+	"Utah"	"49"	"2008"	"2008"	"Dec., 2008"	"2008/12"	23	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2008"	"2008"	"Jan., 2008"	"2008/01"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2008"	"2008"	"Feb., 2008"	"2008/02"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2008"	"2008"	"Mar., 2008"	"2008/03"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2008"	"2008"	"Apr., 2008"	"2008/04"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2008"	"2008"	"May, 2008"	"2008/05"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2008"	"2008"	"Jun., 2008"	"2008/06"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2008"	"2008"	"Jul., 2008"	"2008/07"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2008"	"2008"	"Aug., 2008"	"2008/08"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2008"	"2008"	"Sep., 2008"	"2008/09"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2008"	"2008"	"Oct., 2008"	"2008/10"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2008"	"2008"	"Nov., 2008"	"2008/11"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2008"	"2008"	"Dec., 2008"	"2008/12"	Suppressed	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2008"	"2008"	"Jan., 2008"	"2008/01"	36	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2008"	"2008"	"Feb., 2008"	"2008/02"	42	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2008"	"2008"	"Mar., 2008"	"2008/03"	49	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2008"	"2008"	"Apr., 2008"	"2008/04"	34	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2008"	"2008"	"May, 2008"	"2008/05"	43	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2008"	"2008"	"Jun., 2008"	"2008/06"	34	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2008"	"2008"	"Jul., 2008"	"2008/07"	41	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2008"	"2008"	"Aug., 2008"	"2008/08"	43	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2008"	"2008"	"Sep., 2008"	"2008/09"	38	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2008"	"2008"	"Oct., 2008"	"2008/10"	46	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2008"	"2008"	"Nov., 2008"	"2008/11"	34	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2008"	"2008"	"Dec., 2008"	"2008/12"	39	Not Applicable	Not Applicable
+	"Washington"	"53"	"2008"	"2008"	"Jan., 2008"	"2008/01"	57	Not Applicable	Not Applicable
+	"Washington"	"53"	"2008"	"2008"	"Feb., 2008"	"2008/02"	62	Not Applicable	Not Applicable
+	"Washington"	"53"	"2008"	"2008"	"Mar., 2008"	"2008/03"	34	Not Applicable	Not Applicable
+	"Washington"	"53"	"2008"	"2008"	"Apr., 2008"	"2008/04"	54	Not Applicable	Not Applicable
+	"Washington"	"53"	"2008"	"2008"	"May, 2008"	"2008/05"	67	Not Applicable	Not Applicable
+	"Washington"	"53"	"2008"	"2008"	"Jun., 2008"	"2008/06"	49	Not Applicable	Not Applicable
+	"Washington"	"53"	"2008"	"2008"	"Jul., 2008"	"2008/07"	52	Not Applicable	Not Applicable
+	"Washington"	"53"	"2008"	"2008"	"Aug., 2008"	"2008/08"	33	Not Applicable	Not Applicable
+	"Washington"	"53"	"2008"	"2008"	"Sep., 2008"	"2008/09"	46	Not Applicable	Not Applicable
+	"Washington"	"53"	"2008"	"2008"	"Oct., 2008"	"2008/10"	55	Not Applicable	Not Applicable
+	"Washington"	"53"	"2008"	"2008"	"Nov., 2008"	"2008/11"	53	Not Applicable	Not Applicable
+	"Washington"	"53"	"2008"	"2008"	"Dec., 2008"	"2008/12"	65	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2008"	"2008"	"Jan., 2008"	"2008/01"	32	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2008"	"2008"	"Feb., 2008"	"2008/02"	21	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2008"	"2008"	"Mar., 2008"	"2008/03"	45	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2008"	"2008"	"Apr., 2008"	"2008/04"	29	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2008"	"2008"	"May, 2008"	"2008/05"	29	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2008"	"2008"	"Jun., 2008"	"2008/06"	29	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2008"	"2008"	"Jul., 2008"	"2008/07"	18	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2008"	"2008"	"Aug., 2008"	"2008/08"	30	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2008"	"2008"	"Sep., 2008"	"2008/09"	34	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2008"	"2008"	"Oct., 2008"	"2008/10"	26	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2008"	"2008"	"Nov., 2008"	"2008/11"	31	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2008"	"2008"	"Dec., 2008"	"2008/12"	43	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2008"	"2008"	"Jan., 2008"	"2008/01"	32	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2008"	"2008"	"Feb., 2008"	"2008/02"	41	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2008"	"2008"	"Mar., 2008"	"2008/03"	17	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2008"	"2008"	"Apr., 2008"	"2008/04"	26	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2008"	"2008"	"May, 2008"	"2008/05"	41	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2008"	"2008"	"Jun., 2008"	"2008/06"	26	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2008"	"2008"	"Jul., 2008"	"2008/07"	31	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2008"	"2008"	"Aug., 2008"	"2008/08"	19	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2008"	"2008"	"Sep., 2008"	"2008/09"	37	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2008"	"2008"	"Oct., 2008"	"2008/10"	28	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2008"	"2008"	"Nov., 2008"	"2008/11"	32	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2008"	"2008"	"Dec., 2008"	"2008/12"	27	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2008"	"2008"	"Jan., 2008"	"2008/01"	Suppressed	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2008"	"2008"	"Feb., 2008"	"2008/02"	Suppressed	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2008"	"2008"	"Mar., 2008"	"2008/03"	Suppressed	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2008"	"2008"	"Apr., 2008"	"2008/04"	Suppressed	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2008"	"2008"	"May, 2008"	"2008/05"	Suppressed	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2008"	"2008"	"Jun., 2008"	"2008/06"	Suppressed	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2008"	"2008"	"Jul., 2008"	"2008/07"	Suppressed	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2008"	"2008"	"Aug., 2008"	"2008/08"	Suppressed	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2008"	"2008"	"Sep., 2008"	"2008/09"	Suppressed	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2008"	"2008"	"Oct., 2008"	"2008/10"	0	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2008"	"2008"	"Nov., 2008"	"2008/11"	Suppressed	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2008"	"2008"	"Dec., 2008"	"2008/12"	Suppressed	Not Applicable	Not Applicable
+"---"
+"Dataset: Multiple Cause of Death, 1999-2020"
+"Query Parameters:"
+"MCD - ICD-10 Codes: T40.0 (Opium); T40.1 (Heroin); T40.2 (Other opioids); T40.3 (Methadone); T40.4 (Other synthetic narcotics)"
+"UCD - ICD-10 Codes: X40 (Accidental poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics); X41"
+"(Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not"
+"elsewhere classified); X42 (Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not"
+"elsewhere classified); X43 (Accidental poisoning by and exposure to other drugs acting on the autonomic nervous system); X44"
+"(Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances); X60 (Intentional"
+"self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics); X61 (Intentional self-poisoning by and"
+"exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified); X62"
+"(Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified); X63"
+"(Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system); X64 (Intentional"
+"self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances); X85 (Assault by drugs,"
+"medicaments and biological substances); Y10 (Poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics,"
+"undetermined intent); Y11 (Poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic"
+"drugs, not elsewhere classified, undetermined intent); Y12 (Poisoning by and exposure to narcotics and psychodysleptics"
+"[hallucinogens], not elsewhere classified, undetermined intent); Y13 (Poisoning by and exposure to other drugs acting on the"
+"autonomic nervous system, undetermined intent); Y14 (Poisoning by and exposure to other and unspecified drugs, medicaments and"
+"biological substances, undetermined intent)"
+"Year/Month: 2008"
+"Group By: State; Year; Month"
+"Show Totals: Disabled"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: Jul 30, 2024 7:00:03 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/mcd-icd10.html on Jul 30, 2024 7:00:03 AM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when Autopsy, Place of Death, Weekday or Month are grouped by or limited,"
+"due to lack of a valid population. More information: http://wonder.cdc.gov/wonder/help/mcd.html#NotApplicableRates."
+"2. Circumstances in Georgia for the years 2008 and 2009 have resulted in unusually high death counts for the ICD-10 cause of"
+"death code R99, ""Other ill-defined and unspecified causes of mortality."" Caution should be used in interpreting these data."
+"More information: http://wonder.cdc.gov/wonder/help/mcd.html#Georgia-Reporting-Anomalies."
+"3. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Assurance of Confidentiality."
+"4. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Unreliable."
+"5. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#ICD-10 Changes."

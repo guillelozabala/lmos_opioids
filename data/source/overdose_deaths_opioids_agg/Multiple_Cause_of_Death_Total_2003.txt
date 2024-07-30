@@ -1,0 +1,663 @@
+"Notes"	"State"	"State Code"	"Year"	"Year Code"	"Month"	"Month Code"	Deaths	Population	Crude Rate
+	"Alabama"	"01"	"2003"	"2003"	"Jan., 2003"	"2003/01"	Suppressed	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2003"	"2003"	"Feb., 2003"	"2003/02"	Suppressed	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2003"	"2003"	"Mar., 2003"	"2003/03"	Suppressed	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2003"	"2003"	"Apr., 2003"	"2003/04"	Suppressed	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2003"	"2003"	"May, 2003"	"2003/05"	Suppressed	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2003"	"2003"	"Jun., 2003"	"2003/06"	Suppressed	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2003"	"2003"	"Jul., 2003"	"2003/07"	Suppressed	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2003"	"2003"	"Aug., 2003"	"2003/08"	0	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2003"	"2003"	"Sep., 2003"	"2003/09"	Suppressed	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2003"	"2003"	"Oct., 2003"	"2003/10"	Suppressed	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2003"	"2003"	"Nov., 2003"	"2003/11"	Suppressed	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2003"	"2003"	"Dec., 2003"	"2003/12"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2003"	"2003"	"Jan., 2003"	"2003/01"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2003"	"2003"	"Feb., 2003"	"2003/02"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2003"	"2003"	"Mar., 2003"	"2003/03"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2003"	"2003"	"Apr., 2003"	"2003/04"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2003"	"2003"	"May, 2003"	"2003/05"	0	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2003"	"2003"	"Jun., 2003"	"2003/06"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2003"	"2003"	"Jul., 2003"	"2003/07"	0	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2003"	"2003"	"Aug., 2003"	"2003/08"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2003"	"2003"	"Sep., 2003"	"2003/09"	0	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2003"	"2003"	"Oct., 2003"	"2003/10"	0	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2003"	"2003"	"Nov., 2003"	"2003/11"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2003"	"2003"	"Dec., 2003"	"2003/12"	0	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2003"	"2003"	"Jan., 2003"	"2003/01"	23	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2003"	"2003"	"Feb., 2003"	"2003/02"	20	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2003"	"2003"	"Mar., 2003"	"2003/03"	21	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2003"	"2003"	"Apr., 2003"	"2003/04"	18	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2003"	"2003"	"May, 2003"	"2003/05"	19	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2003"	"2003"	"Jun., 2003"	"2003/06"	23	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2003"	"2003"	"Jul., 2003"	"2003/07"	31	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2003"	"2003"	"Aug., 2003"	"2003/08"	30	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2003"	"2003"	"Sep., 2003"	"2003/09"	23	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2003"	"2003"	"Oct., 2003"	"2003/10"	24	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2003"	"2003"	"Nov., 2003"	"2003/11"	23	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2003"	"2003"	"Dec., 2003"	"2003/12"	22	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2003"	"2003"	"Jan., 2003"	"2003/01"	Suppressed	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2003"	"2003"	"Feb., 2003"	"2003/02"	Suppressed	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2003"	"2003"	"Mar., 2003"	"2003/03"	Suppressed	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2003"	"2003"	"Apr., 2003"	"2003/04"	Suppressed	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2003"	"2003"	"May, 2003"	"2003/05"	Suppressed	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2003"	"2003"	"Jun., 2003"	"2003/06"	Suppressed	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2003"	"2003"	"Jul., 2003"	"2003/07"	Suppressed	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2003"	"2003"	"Aug., 2003"	"2003/08"	11	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2003"	"2003"	"Sep., 2003"	"2003/09"	10	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2003"	"2003"	"Oct., 2003"	"2003/10"	Suppressed	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2003"	"2003"	"Nov., 2003"	"2003/11"	Suppressed	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2003"	"2003"	"Dec., 2003"	"2003/12"	Suppressed	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Jan., 2003"	"2003/01"	127	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Feb., 2003"	"2003/02"	111	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Mar., 2003"	"2003/03"	103	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Apr., 2003"	"2003/04"	100	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"May, 2003"	"2003/05"	103	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Jun., 2003"	"2003/06"	120	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Jul., 2003"	"2003/07"	112	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Aug., 2003"	"2003/08"	88	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Sep., 2003"	"2003/09"	101	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Oct., 2003"	"2003/10"	81	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Nov., 2003"	"2003/11"	95	Not Applicable	Not Applicable
+	"California"	"06"	"2003"	"2003"	"Dec., 2003"	"2003/12"	82	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2003"	"2003"	"Jan., 2003"	"2003/01"	Suppressed	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2003"	"2003"	"Feb., 2003"	"2003/02"	Suppressed	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2003"	"2003"	"Mar., 2003"	"2003/03"	10	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2003"	"2003"	"Apr., 2003"	"2003/04"	15	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2003"	"2003"	"May, 2003"	"2003/05"	13	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2003"	"2003"	"Jun., 2003"	"2003/06"	Suppressed	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2003"	"2003"	"Jul., 2003"	"2003/07"	13	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2003"	"2003"	"Aug., 2003"	"2003/08"	Suppressed	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2003"	"2003"	"Sep., 2003"	"2003/09"	11	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2003"	"2003"	"Oct., 2003"	"2003/10"	11	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2003"	"2003"	"Nov., 2003"	"2003/11"	21	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2003"	"2003"	"Dec., 2003"	"2003/12"	15	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2003"	"2003"	"Jan., 2003"	"2003/01"	12	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2003"	"2003"	"Feb., 2003"	"2003/02"	Suppressed	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2003"	"2003"	"Mar., 2003"	"2003/03"	12	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2003"	"2003"	"Apr., 2003"	"2003/04"	13	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2003"	"2003"	"May, 2003"	"2003/05"	13	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2003"	"2003"	"Jun., 2003"	"2003/06"	17	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2003"	"2003"	"Jul., 2003"	"2003/07"	11	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2003"	"2003"	"Aug., 2003"	"2003/08"	12	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2003"	"2003"	"Sep., 2003"	"2003/09"	15	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2003"	"2003"	"Oct., 2003"	"2003/10"	10	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2003"	"2003"	"Nov., 2003"	"2003/11"	16	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2003"	"2003"	"Dec., 2003"	"2003/12"	11	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2003"	"2003"	"Jan., 2003"	"2003/01"	Suppressed	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2003"	"2003"	"Feb., 2003"	"2003/02"	Suppressed	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2003"	"2003"	"Mar., 2003"	"2003/03"	Suppressed	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2003"	"2003"	"Apr., 2003"	"2003/04"	Suppressed	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2003"	"2003"	"May, 2003"	"2003/05"	Suppressed	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2003"	"2003"	"Jun., 2003"	"2003/06"	Suppressed	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2003"	"2003"	"Jul., 2003"	"2003/07"	Suppressed	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2003"	"2003"	"Aug., 2003"	"2003/08"	Suppressed	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2003"	"2003"	"Sep., 2003"	"2003/09"	Suppressed	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2003"	"2003"	"Oct., 2003"	"2003/10"	0	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2003"	"2003"	"Nov., 2003"	"2003/11"	Suppressed	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2003"	"2003"	"Dec., 2003"	"2003/12"	Suppressed	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2003"	"2003"	"Jan., 2003"	"2003/01"	Suppressed	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2003"	"2003"	"Feb., 2003"	"2003/02"	Suppressed	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2003"	"2003"	"Mar., 2003"	"2003/03"	0	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2003"	"2003"	"Apr., 2003"	"2003/04"	0	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2003"	"2003"	"May, 2003"	"2003/05"	Suppressed	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2003"	"2003"	"Jun., 2003"	"2003/06"	Suppressed	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2003"	"2003"	"Jul., 2003"	"2003/07"	Suppressed	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2003"	"2003"	"Aug., 2003"	"2003/08"	Suppressed	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2003"	"2003"	"Sep., 2003"	"2003/09"	Suppressed	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2003"	"2003"	"Oct., 2003"	"2003/10"	0	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2003"	"2003"	"Nov., 2003"	"2003/11"	Suppressed	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2003"	"2003"	"Dec., 2003"	"2003/12"	Suppressed	Not Applicable	Not Applicable
+	"Florida"	"12"	"2003"	"2003"	"Jan., 2003"	"2003/01"	91	Not Applicable	Not Applicable
+	"Florida"	"12"	"2003"	"2003"	"Feb., 2003"	"2003/02"	78	Not Applicable	Not Applicable
+	"Florida"	"12"	"2003"	"2003"	"Mar., 2003"	"2003/03"	89	Not Applicable	Not Applicable
+	"Florida"	"12"	"2003"	"2003"	"Apr., 2003"	"2003/04"	94	Not Applicable	Not Applicable
+	"Florida"	"12"	"2003"	"2003"	"May, 2003"	"2003/05"	90	Not Applicable	Not Applicable
+	"Florida"	"12"	"2003"	"2003"	"Jun., 2003"	"2003/06"	81	Not Applicable	Not Applicable
+	"Florida"	"12"	"2003"	"2003"	"Jul., 2003"	"2003/07"	79	Not Applicable	Not Applicable
+	"Florida"	"12"	"2003"	"2003"	"Aug., 2003"	"2003/08"	94	Not Applicable	Not Applicable
+	"Florida"	"12"	"2003"	"2003"	"Sep., 2003"	"2003/09"	66	Not Applicable	Not Applicable
+	"Florida"	"12"	"2003"	"2003"	"Oct., 2003"	"2003/10"	89	Not Applicable	Not Applicable
+	"Florida"	"12"	"2003"	"2003"	"Nov., 2003"	"2003/11"	93	Not Applicable	Not Applicable
+	"Florida"	"12"	"2003"	"2003"	"Dec., 2003"	"2003/12"	60	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2003"	"2003"	"Jan., 2003"	"2003/01"	17	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2003"	"2003"	"Feb., 2003"	"2003/02"	19	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2003"	"2003"	"Mar., 2003"	"2003/03"	22	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2003"	"2003"	"Apr., 2003"	"2003/04"	18	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2003"	"2003"	"May, 2003"	"2003/05"	11	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2003"	"2003"	"Jun., 2003"	"2003/06"	10	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2003"	"2003"	"Jul., 2003"	"2003/07"	18	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2003"	"2003"	"Aug., 2003"	"2003/08"	18	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2003"	"2003"	"Sep., 2003"	"2003/09"	12	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2003"	"2003"	"Oct., 2003"	"2003/10"	Suppressed	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2003"	"2003"	"Nov., 2003"	"2003/11"	18	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2003"	"2003"	"Dec., 2003"	"2003/12"	23	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2003"	"2003"	"Jan., 2003"	"2003/01"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2003"	"2003"	"Feb., 2003"	"2003/02"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2003"	"2003"	"Mar., 2003"	"2003/03"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2003"	"2003"	"Apr., 2003"	"2003/04"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2003"	"2003"	"May, 2003"	"2003/05"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2003"	"2003"	"Jun., 2003"	"2003/06"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2003"	"2003"	"Jul., 2003"	"2003/07"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2003"	"2003"	"Aug., 2003"	"2003/08"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2003"	"2003"	"Sep., 2003"	"2003/09"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2003"	"2003"	"Oct., 2003"	"2003/10"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2003"	"2003"	"Nov., 2003"	"2003/11"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2003"	"2003"	"Dec., 2003"	"2003/12"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2003"	"2003"	"Jan., 2003"	"2003/01"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2003"	"2003"	"Feb., 2003"	"2003/02"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2003"	"2003"	"Mar., 2003"	"2003/03"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2003"	"2003"	"Apr., 2003"	"2003/04"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2003"	"2003"	"May, 2003"	"2003/05"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2003"	"2003"	"Jun., 2003"	"2003/06"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2003"	"2003"	"Jul., 2003"	"2003/07"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2003"	"2003"	"Aug., 2003"	"2003/08"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2003"	"2003"	"Sep., 2003"	"2003/09"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2003"	"2003"	"Oct., 2003"	"2003/10"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2003"	"2003"	"Nov., 2003"	"2003/11"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2003"	"2003"	"Dec., 2003"	"2003/12"	Suppressed	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2003"	"2003"	"Jan., 2003"	"2003/01"	19	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2003"	"2003"	"Feb., 2003"	"2003/02"	15	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2003"	"2003"	"Mar., 2003"	"2003/03"	14	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2003"	"2003"	"Apr., 2003"	"2003/04"	23	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2003"	"2003"	"May, 2003"	"2003/05"	12	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2003"	"2003"	"Jun., 2003"	"2003/06"	19	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2003"	"2003"	"Jul., 2003"	"2003/07"	15	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2003"	"2003"	"Aug., 2003"	"2003/08"	13	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2003"	"2003"	"Sep., 2003"	"2003/09"	15	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2003"	"2003"	"Oct., 2003"	"2003/10"	11	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2003"	"2003"	"Nov., 2003"	"2003/11"	Suppressed	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2003"	"2003"	"Dec., 2003"	"2003/12"	Suppressed	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2003"	"2003"	"Jan., 2003"	"2003/01"	10	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2003"	"2003"	"Feb., 2003"	"2003/02"	Suppressed	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2003"	"2003"	"Mar., 2003"	"2003/03"	Suppressed	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2003"	"2003"	"Apr., 2003"	"2003/04"	Suppressed	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2003"	"2003"	"May, 2003"	"2003/05"	Suppressed	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2003"	"2003"	"Jun., 2003"	"2003/06"	10	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2003"	"2003"	"Jul., 2003"	"2003/07"	10	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2003"	"2003"	"Aug., 2003"	"2003/08"	Suppressed	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2003"	"2003"	"Sep., 2003"	"2003/09"	10	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2003"	"2003"	"Oct., 2003"	"2003/10"	14	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2003"	"2003"	"Nov., 2003"	"2003/11"	Suppressed	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2003"	"2003"	"Dec., 2003"	"2003/12"	Suppressed	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2003"	"2003"	"Jan., 2003"	"2003/01"	Suppressed	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2003"	"2003"	"Feb., 2003"	"2003/02"	Suppressed	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2003"	"2003"	"Mar., 2003"	"2003/03"	Suppressed	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2003"	"2003"	"Apr., 2003"	"2003/04"	Suppressed	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2003"	"2003"	"May, 2003"	"2003/05"	Suppressed	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2003"	"2003"	"Jun., 2003"	"2003/06"	Suppressed	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2003"	"2003"	"Jul., 2003"	"2003/07"	Suppressed	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2003"	"2003"	"Aug., 2003"	"2003/08"	Suppressed	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2003"	"2003"	"Sep., 2003"	"2003/09"	Suppressed	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2003"	"2003"	"Oct., 2003"	"2003/10"	Suppressed	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2003"	"2003"	"Nov., 2003"	"2003/11"	0	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2003"	"2003"	"Dec., 2003"	"2003/12"	Suppressed	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2003"	"2003"	"Jan., 2003"	"2003/01"	Suppressed	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2003"	"2003"	"Feb., 2003"	"2003/02"	Suppressed	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2003"	"2003"	"Mar., 2003"	"2003/03"	12	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2003"	"2003"	"Apr., 2003"	"2003/04"	Suppressed	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2003"	"2003"	"May, 2003"	"2003/05"	Suppressed	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2003"	"2003"	"Jun., 2003"	"2003/06"	Suppressed	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2003"	"2003"	"Jul., 2003"	"2003/07"	Suppressed	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2003"	"2003"	"Aug., 2003"	"2003/08"	Suppressed	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2003"	"2003"	"Sep., 2003"	"2003/09"	Suppressed	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2003"	"2003"	"Oct., 2003"	"2003/10"	Suppressed	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2003"	"2003"	"Nov., 2003"	"2003/11"	Suppressed	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2003"	"2003"	"Dec., 2003"	"2003/12"	Suppressed	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2003"	"2003"	"Jan., 2003"	"2003/01"	22	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2003"	"2003"	"Feb., 2003"	"2003/02"	15	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2003"	"2003"	"Mar., 2003"	"2003/03"	23	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2003"	"2003"	"Apr., 2003"	"2003/04"	17	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2003"	"2003"	"May, 2003"	"2003/05"	19	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2003"	"2003"	"Jun., 2003"	"2003/06"	Suppressed	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2003"	"2003"	"Jul., 2003"	"2003/07"	22	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2003"	"2003"	"Aug., 2003"	"2003/08"	16	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2003"	"2003"	"Sep., 2003"	"2003/09"	14	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2003"	"2003"	"Oct., 2003"	"2003/10"	26	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2003"	"2003"	"Nov., 2003"	"2003/11"	14	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2003"	"2003"	"Dec., 2003"	"2003/12"	18	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2003"	"2003"	"Jan., 2003"	"2003/01"	Suppressed	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2003"	"2003"	"Feb., 2003"	"2003/02"	Suppressed	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2003"	"2003"	"Mar., 2003"	"2003/03"	Suppressed	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2003"	"2003"	"Apr., 2003"	"2003/04"	Suppressed	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2003"	"2003"	"May, 2003"	"2003/05"	Suppressed	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2003"	"2003"	"Jun., 2003"	"2003/06"	Suppressed	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2003"	"2003"	"Jul., 2003"	"2003/07"	Suppressed	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2003"	"2003"	"Aug., 2003"	"2003/08"	Suppressed	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2003"	"2003"	"Sep., 2003"	"2003/09"	10	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2003"	"2003"	"Oct., 2003"	"2003/10"	10	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2003"	"2003"	"Nov., 2003"	"2003/11"	13	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2003"	"2003"	"Dec., 2003"	"2003/12"	14	Not Applicable	Not Applicable
+	"Maine"	"23"	"2003"	"2003"	"Jan., 2003"	"2003/01"	Suppressed	Not Applicable	Not Applicable
+	"Maine"	"23"	"2003"	"2003"	"Feb., 2003"	"2003/02"	Suppressed	Not Applicable	Not Applicable
+	"Maine"	"23"	"2003"	"2003"	"Mar., 2003"	"2003/03"	11	Not Applicable	Not Applicable
+	"Maine"	"23"	"2003"	"2003"	"Apr., 2003"	"2003/04"	Suppressed	Not Applicable	Not Applicable
+	"Maine"	"23"	"2003"	"2003"	"May, 2003"	"2003/05"	Suppressed	Not Applicable	Not Applicable
+	"Maine"	"23"	"2003"	"2003"	"Jun., 2003"	"2003/06"	Suppressed	Not Applicable	Not Applicable
+	"Maine"	"23"	"2003"	"2003"	"Jul., 2003"	"2003/07"	Suppressed	Not Applicable	Not Applicable
+	"Maine"	"23"	"2003"	"2003"	"Aug., 2003"	"2003/08"	Suppressed	Not Applicable	Not Applicable
+	"Maine"	"23"	"2003"	"2003"	"Sep., 2003"	"2003/09"	Suppressed	Not Applicable	Not Applicable
+	"Maine"	"23"	"2003"	"2003"	"Oct., 2003"	"2003/10"	Suppressed	Not Applicable	Not Applicable
+	"Maine"	"23"	"2003"	"2003"	"Nov., 2003"	"2003/11"	Suppressed	Not Applicable	Not Applicable
+	"Maine"	"23"	"2003"	"2003"	"Dec., 2003"	"2003/12"	Suppressed	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2003"	"2003"	"Jan., 2003"	"2003/01"	Suppressed	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2003"	"2003"	"Feb., 2003"	"2003/02"	14	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2003"	"2003"	"Mar., 2003"	"2003/03"	Suppressed	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2003"	"2003"	"Apr., 2003"	"2003/04"	Suppressed	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2003"	"2003"	"May, 2003"	"2003/05"	14	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2003"	"2003"	"Jun., 2003"	"2003/06"	Suppressed	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2003"	"2003"	"Jul., 2003"	"2003/07"	10	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2003"	"2003"	"Aug., 2003"	"2003/08"	Suppressed	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2003"	"2003"	"Sep., 2003"	"2003/09"	Suppressed	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2003"	"2003"	"Oct., 2003"	"2003/10"	12	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2003"	"2003"	"Nov., 2003"	"2003/11"	10	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2003"	"2003"	"Dec., 2003"	"2003/12"	Suppressed	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2003"	"2003"	"Jan., 2003"	"2003/01"	14	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2003"	"2003"	"Feb., 2003"	"2003/02"	19	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2003"	"2003"	"Mar., 2003"	"2003/03"	14	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2003"	"2003"	"Apr., 2003"	"2003/04"	12	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2003"	"2003"	"May, 2003"	"2003/05"	12	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2003"	"2003"	"Jun., 2003"	"2003/06"	16	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2003"	"2003"	"Jul., 2003"	"2003/07"	20	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2003"	"2003"	"Aug., 2003"	"2003/08"	15	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2003"	"2003"	"Sep., 2003"	"2003/09"	16	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2003"	"2003"	"Oct., 2003"	"2003/10"	Suppressed	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2003"	"2003"	"Nov., 2003"	"2003/11"	Suppressed	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2003"	"2003"	"Dec., 2003"	"2003/12"	13	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2003"	"2003"	"Jan., 2003"	"2003/01"	19	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2003"	"2003"	"Feb., 2003"	"2003/02"	16	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2003"	"2003"	"Mar., 2003"	"2003/03"	13	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2003"	"2003"	"Apr., 2003"	"2003/04"	19	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2003"	"2003"	"May, 2003"	"2003/05"	18	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2003"	"2003"	"Jun., 2003"	"2003/06"	14	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2003"	"2003"	"Jul., 2003"	"2003/07"	40	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2003"	"2003"	"Aug., 2003"	"2003/08"	12	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2003"	"2003"	"Sep., 2003"	"2003/09"	16	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2003"	"2003"	"Oct., 2003"	"2003/10"	Suppressed	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2003"	"2003"	"Nov., 2003"	"2003/11"	23	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2003"	"2003"	"Dec., 2003"	"2003/12"	23	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2003"	"2003"	"Jan., 2003"	"2003/01"	Suppressed	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2003"	"2003"	"Feb., 2003"	"2003/02"	Suppressed	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2003"	"2003"	"Mar., 2003"	"2003/03"	Suppressed	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2003"	"2003"	"Apr., 2003"	"2003/04"	Suppressed	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2003"	"2003"	"May, 2003"	"2003/05"	Suppressed	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2003"	"2003"	"Jun., 2003"	"2003/06"	Suppressed	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2003"	"2003"	"Jul., 2003"	"2003/07"	Suppressed	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2003"	"2003"	"Aug., 2003"	"2003/08"	Suppressed	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2003"	"2003"	"Sep., 2003"	"2003/09"	Suppressed	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2003"	"2003"	"Oct., 2003"	"2003/10"	Suppressed	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2003"	"2003"	"Nov., 2003"	"2003/11"	10	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2003"	"2003"	"Dec., 2003"	"2003/12"	Suppressed	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2003"	"2003"	"Jan., 2003"	"2003/01"	Suppressed	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2003"	"2003"	"Feb., 2003"	"2003/02"	Suppressed	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2003"	"2003"	"Mar., 2003"	"2003/03"	Suppressed	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2003"	"2003"	"Apr., 2003"	"2003/04"	Suppressed	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2003"	"2003"	"May, 2003"	"2003/05"	Suppressed	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2003"	"2003"	"Jun., 2003"	"2003/06"	Suppressed	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2003"	"2003"	"Jul., 2003"	"2003/07"	Suppressed	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2003"	"2003"	"Aug., 2003"	"2003/08"	Suppressed	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2003"	"2003"	"Sep., 2003"	"2003/09"	Suppressed	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2003"	"2003"	"Oct., 2003"	"2003/10"	Suppressed	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2003"	"2003"	"Nov., 2003"	"2003/11"	Suppressed	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2003"	"2003"	"Dec., 2003"	"2003/12"	Suppressed	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2003"	"2003"	"Jan., 2003"	"2003/01"	20	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2003"	"2003"	"Feb., 2003"	"2003/02"	22	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2003"	"2003"	"Mar., 2003"	"2003/03"	19	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2003"	"2003"	"Apr., 2003"	"2003/04"	14	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2003"	"2003"	"May, 2003"	"2003/05"	23	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2003"	"2003"	"Jun., 2003"	"2003/06"	18	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2003"	"2003"	"Jul., 2003"	"2003/07"	22	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2003"	"2003"	"Aug., 2003"	"2003/08"	27	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2003"	"2003"	"Sep., 2003"	"2003/09"	21	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2003"	"2003"	"Oct., 2003"	"2003/10"	24	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2003"	"2003"	"Nov., 2003"	"2003/11"	25	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2003"	"2003"	"Dec., 2003"	"2003/12"	26	Not Applicable	Not Applicable
+	"Montana"	"30"	"2003"	"2003"	"Jan., 2003"	"2003/01"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2003"	"2003"	"Feb., 2003"	"2003/02"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2003"	"2003"	"Mar., 2003"	"2003/03"	0	Not Applicable	Not Applicable
+	"Montana"	"30"	"2003"	"2003"	"Apr., 2003"	"2003/04"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2003"	"2003"	"May, 2003"	"2003/05"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2003"	"2003"	"Jun., 2003"	"2003/06"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2003"	"2003"	"Jul., 2003"	"2003/07"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2003"	"2003"	"Aug., 2003"	"2003/08"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2003"	"2003"	"Sep., 2003"	"2003/09"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2003"	"2003"	"Oct., 2003"	"2003/10"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2003"	"2003"	"Nov., 2003"	"2003/11"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2003"	"2003"	"Dec., 2003"	"2003/12"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2003"	"2003"	"Jan., 2003"	"2003/01"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2003"	"2003"	"Feb., 2003"	"2003/02"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2003"	"2003"	"Mar., 2003"	"2003/03"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2003"	"2003"	"Apr., 2003"	"2003/04"	0	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2003"	"2003"	"May, 2003"	"2003/05"	0	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2003"	"2003"	"Jun., 2003"	"2003/06"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2003"	"2003"	"Jul., 2003"	"2003/07"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2003"	"2003"	"Aug., 2003"	"2003/08"	0	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2003"	"2003"	"Sep., 2003"	"2003/09"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2003"	"2003"	"Oct., 2003"	"2003/10"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2003"	"2003"	"Nov., 2003"	"2003/11"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2003"	"2003"	"Dec., 2003"	"2003/12"	Suppressed	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2003"	"2003"	"Jan., 2003"	"2003/01"	18	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2003"	"2003"	"Feb., 2003"	"2003/02"	Suppressed	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2003"	"2003"	"Mar., 2003"	"2003/03"	28	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2003"	"2003"	"Apr., 2003"	"2003/04"	25	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2003"	"2003"	"May, 2003"	"2003/05"	12	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2003"	"2003"	"Jun., 2003"	"2003/06"	19	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2003"	"2003"	"Jul., 2003"	"2003/07"	10	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2003"	"2003"	"Aug., 2003"	"2003/08"	13	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2003"	"2003"	"Sep., 2003"	"2003/09"	13	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2003"	"2003"	"Oct., 2003"	"2003/10"	12	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2003"	"2003"	"Nov., 2003"	"2003/11"	13	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2003"	"2003"	"Dec., 2003"	"2003/12"	20	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2003"	"2003"	"Jan., 2003"	"2003/01"	Suppressed	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2003"	"2003"	"Feb., 2003"	"2003/02"	Suppressed	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2003"	"2003"	"Mar., 2003"	"2003/03"	Suppressed	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2003"	"2003"	"Apr., 2003"	"2003/04"	Suppressed	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2003"	"2003"	"May, 2003"	"2003/05"	Suppressed	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2003"	"2003"	"Jun., 2003"	"2003/06"	Suppressed	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2003"	"2003"	"Jul., 2003"	"2003/07"	Suppressed	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2003"	"2003"	"Aug., 2003"	"2003/08"	Suppressed	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2003"	"2003"	"Sep., 2003"	"2003/09"	Suppressed	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2003"	"2003"	"Oct., 2003"	"2003/10"	Suppressed	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2003"	"2003"	"Nov., 2003"	"2003/11"	Suppressed	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2003"	"2003"	"Dec., 2003"	"2003/12"	Suppressed	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2003"	"2003"	"Jan., 2003"	"2003/01"	42	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2003"	"2003"	"Feb., 2003"	"2003/02"	35	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2003"	"2003"	"Mar., 2003"	"2003/03"	34	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2003"	"2003"	"Apr., 2003"	"2003/04"	28	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2003"	"2003"	"May, 2003"	"2003/05"	49	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2003"	"2003"	"Jun., 2003"	"2003/06"	40	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2003"	"2003"	"Jul., 2003"	"2003/07"	30	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2003"	"2003"	"Aug., 2003"	"2003/08"	16	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2003"	"2003"	"Sep., 2003"	"2003/09"	26	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2003"	"2003"	"Oct., 2003"	"2003/10"	22	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2003"	"2003"	"Nov., 2003"	"2003/11"	16	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2003"	"2003"	"Dec., 2003"	"2003/12"	30	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2003"	"2003"	"Jan., 2003"	"2003/01"	18	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2003"	"2003"	"Feb., 2003"	"2003/02"	14	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2003"	"2003"	"Mar., 2003"	"2003/03"	18	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2003"	"2003"	"Apr., 2003"	"2003/04"	28	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2003"	"2003"	"May, 2003"	"2003/05"	20	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2003"	"2003"	"Jun., 2003"	"2003/06"	21	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2003"	"2003"	"Jul., 2003"	"2003/07"	18	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2003"	"2003"	"Aug., 2003"	"2003/08"	17	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2003"	"2003"	"Sep., 2003"	"2003/09"	11	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2003"	"2003"	"Oct., 2003"	"2003/10"	17	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2003"	"2003"	"Nov., 2003"	"2003/11"	17	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2003"	"2003"	"Dec., 2003"	"2003/12"	13	Not Applicable	Not Applicable
+	"New York"	"36"	"2003"	"2003"	"Jan., 2003"	"2003/01"	24	Not Applicable	Not Applicable
+	"New York"	"36"	"2003"	"2003"	"Feb., 2003"	"2003/02"	32	Not Applicable	Not Applicable
+	"New York"	"36"	"2003"	"2003"	"Mar., 2003"	"2003/03"	24	Not Applicable	Not Applicable
+	"New York"	"36"	"2003"	"2003"	"Apr., 2003"	"2003/04"	17	Not Applicable	Not Applicable
+	"New York"	"36"	"2003"	"2003"	"May, 2003"	"2003/05"	23	Not Applicable	Not Applicable
+	"New York"	"36"	"2003"	"2003"	"Jun., 2003"	"2003/06"	22	Not Applicable	Not Applicable
+	"New York"	"36"	"2003"	"2003"	"Jul., 2003"	"2003/07"	23	Not Applicable	Not Applicable
+	"New York"	"36"	"2003"	"2003"	"Aug., 2003"	"2003/08"	20	Not Applicable	Not Applicable
+	"New York"	"36"	"2003"	"2003"	"Sep., 2003"	"2003/09"	21	Not Applicable	Not Applicable
+	"New York"	"36"	"2003"	"2003"	"Oct., 2003"	"2003/10"	23	Not Applicable	Not Applicable
+	"New York"	"36"	"2003"	"2003"	"Nov., 2003"	"2003/11"	16	Not Applicable	Not Applicable
+	"New York"	"36"	"2003"	"2003"	"Dec., 2003"	"2003/12"	21	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2003"	"2003"	"Jan., 2003"	"2003/01"	38	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2003"	"2003"	"Feb., 2003"	"2003/02"	32	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2003"	"2003"	"Mar., 2003"	"2003/03"	43	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2003"	"2003"	"Apr., 2003"	"2003/04"	34	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2003"	"2003"	"May, 2003"	"2003/05"	42	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2003"	"2003"	"Jun., 2003"	"2003/06"	44	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2003"	"2003"	"Jul., 2003"	"2003/07"	46	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2003"	"2003"	"Aug., 2003"	"2003/08"	46	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2003"	"2003"	"Sep., 2003"	"2003/09"	28	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2003"	"2003"	"Oct., 2003"	"2003/10"	45	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2003"	"2003"	"Nov., 2003"	"2003/11"	34	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2003"	"2003"	"Dec., 2003"	"2003/12"	46	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2003"	"2003"	"Jan., 2003"	"2003/01"	Suppressed	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2003"	"2003"	"Feb., 2003"	"2003/02"	0	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2003"	"2003"	"Mar., 2003"	"2003/03"	Suppressed	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2003"	"2003"	"Apr., 2003"	"2003/04"	0	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2003"	"2003"	"May, 2003"	"2003/05"	0	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2003"	"2003"	"Jun., 2003"	"2003/06"	Suppressed	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2003"	"2003"	"Jul., 2003"	"2003/07"	Suppressed	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2003"	"2003"	"Aug., 2003"	"2003/08"	0	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2003"	"2003"	"Sep., 2003"	"2003/09"	Suppressed	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2003"	"2003"	"Oct., 2003"	"2003/10"	0	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2003"	"2003"	"Nov., 2003"	"2003/11"	0	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2003"	"2003"	"Dec., 2003"	"2003/12"	0	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2003"	"2003"	"Jan., 2003"	"2003/01"	41	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2003"	"2003"	"Feb., 2003"	"2003/02"	42	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2003"	"2003"	"Mar., 2003"	"2003/03"	39	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2003"	"2003"	"Apr., 2003"	"2003/04"	16	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2003"	"2003"	"May, 2003"	"2003/05"	14	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2003"	"2003"	"Jun., 2003"	"2003/06"	21	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2003"	"2003"	"Jul., 2003"	"2003/07"	29	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2003"	"2003"	"Aug., 2003"	"2003/08"	24	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2003"	"2003"	"Sep., 2003"	"2003/09"	21	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2003"	"2003"	"Oct., 2003"	"2003/10"	36	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2003"	"2003"	"Nov., 2003"	"2003/11"	24	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2003"	"2003"	"Dec., 2003"	"2003/12"	32	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2003"	"2003"	"Jan., 2003"	"2003/01"	20	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2003"	"2003"	"Feb., 2003"	"2003/02"	17	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2003"	"2003"	"Mar., 2003"	"2003/03"	16	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2003"	"2003"	"Apr., 2003"	"2003/04"	20	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2003"	"2003"	"May, 2003"	"2003/05"	23	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2003"	"2003"	"Jun., 2003"	"2003/06"	21	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2003"	"2003"	"Jul., 2003"	"2003/07"	26	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2003"	"2003"	"Aug., 2003"	"2003/08"	22	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2003"	"2003"	"Sep., 2003"	"2003/09"	18	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2003"	"2003"	"Oct., 2003"	"2003/10"	23	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2003"	"2003"	"Nov., 2003"	"2003/11"	24	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2003"	"2003"	"Dec., 2003"	"2003/12"	22	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2003"	"2003"	"Jan., 2003"	"2003/01"	20	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2003"	"2003"	"Feb., 2003"	"2003/02"	13	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2003"	"2003"	"Mar., 2003"	"2003/03"	18	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2003"	"2003"	"Apr., 2003"	"2003/04"	15	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2003"	"2003"	"May, 2003"	"2003/05"	17	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2003"	"2003"	"Jun., 2003"	"2003/06"	19	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2003"	"2003"	"Jul., 2003"	"2003/07"	21	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2003"	"2003"	"Aug., 2003"	"2003/08"	19	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2003"	"2003"	"Sep., 2003"	"2003/09"	Suppressed	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2003"	"2003"	"Oct., 2003"	"2003/10"	17	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2003"	"2003"	"Nov., 2003"	"2003/11"	13	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2003"	"2003"	"Dec., 2003"	"2003/12"	18	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2003"	"2003"	"Jan., 2003"	"2003/01"	37	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2003"	"2003"	"Feb., 2003"	"2003/02"	28	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2003"	"2003"	"Mar., 2003"	"2003/03"	24	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2003"	"2003"	"Apr., 2003"	"2003/04"	33	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2003"	"2003"	"May, 2003"	"2003/05"	30	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2003"	"2003"	"Jun., 2003"	"2003/06"	32	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2003"	"2003"	"Jul., 2003"	"2003/07"	32	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2003"	"2003"	"Aug., 2003"	"2003/08"	31	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2003"	"2003"	"Sep., 2003"	"2003/09"	37	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2003"	"2003"	"Oct., 2003"	"2003/10"	43	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2003"	"2003"	"Nov., 2003"	"2003/11"	35	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2003"	"2003"	"Dec., 2003"	"2003/12"	28	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2003"	"2003"	"Jan., 2003"	"2003/01"	Suppressed	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2003"	"2003"	"Feb., 2003"	"2003/02"	Suppressed	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2003"	"2003"	"Mar., 2003"	"2003/03"	Suppressed	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2003"	"2003"	"Apr., 2003"	"2003/04"	Suppressed	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2003"	"2003"	"May, 2003"	"2003/05"	Suppressed	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2003"	"2003"	"Jun., 2003"	"2003/06"	Suppressed	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2003"	"2003"	"Jul., 2003"	"2003/07"	Suppressed	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2003"	"2003"	"Aug., 2003"	"2003/08"	Suppressed	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2003"	"2003"	"Sep., 2003"	"2003/09"	Suppressed	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2003"	"2003"	"Oct., 2003"	"2003/10"	Suppressed	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2003"	"2003"	"Nov., 2003"	"2003/11"	Suppressed	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2003"	"2003"	"Dec., 2003"	"2003/12"	Suppressed	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2003"	"2003"	"Jan., 2003"	"2003/01"	11	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2003"	"2003"	"Feb., 2003"	"2003/02"	12	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2003"	"2003"	"Mar., 2003"	"2003/03"	Suppressed	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2003"	"2003"	"Apr., 2003"	"2003/04"	Suppressed	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2003"	"2003"	"May, 2003"	"2003/05"	12	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2003"	"2003"	"Jun., 2003"	"2003/06"	Suppressed	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2003"	"2003"	"Jul., 2003"	"2003/07"	Suppressed	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2003"	"2003"	"Aug., 2003"	"2003/08"	Suppressed	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2003"	"2003"	"Sep., 2003"	"2003/09"	Suppressed	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2003"	"2003"	"Oct., 2003"	"2003/10"	Suppressed	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2003"	"2003"	"Nov., 2003"	"2003/11"	Suppressed	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2003"	"2003"	"Dec., 2003"	"2003/12"	Suppressed	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2003"	"2003"	"Jan., 2003"	"2003/01"	0	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2003"	"2003"	"Feb., 2003"	"2003/02"	Suppressed	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2003"	"2003"	"Mar., 2003"	"2003/03"	Suppressed	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2003"	"2003"	"Apr., 2003"	"2003/04"	Suppressed	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2003"	"2003"	"May, 2003"	"2003/05"	0	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2003"	"2003"	"Jun., 2003"	"2003/06"	0	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2003"	"2003"	"Jul., 2003"	"2003/07"	0	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2003"	"2003"	"Aug., 2003"	"2003/08"	0	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2003"	"2003"	"Sep., 2003"	"2003/09"	Suppressed	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2003"	"2003"	"Oct., 2003"	"2003/10"	0	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2003"	"2003"	"Nov., 2003"	"2003/11"	Suppressed	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2003"	"2003"	"Dec., 2003"	"2003/12"	Suppressed	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2003"	"2003"	"Jan., 2003"	"2003/01"	17	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2003"	"2003"	"Feb., 2003"	"2003/02"	20	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2003"	"2003"	"Mar., 2003"	"2003/03"	18	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2003"	"2003"	"Apr., 2003"	"2003/04"	18	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2003"	"2003"	"May, 2003"	"2003/05"	17	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2003"	"2003"	"Jun., 2003"	"2003/06"	20	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2003"	"2003"	"Jul., 2003"	"2003/07"	28	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2003"	"2003"	"Aug., 2003"	"2003/08"	23	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2003"	"2003"	"Sep., 2003"	"2003/09"	25	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2003"	"2003"	"Oct., 2003"	"2003/10"	20	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2003"	"2003"	"Nov., 2003"	"2003/11"	26	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2003"	"2003"	"Dec., 2003"	"2003/12"	36	Not Applicable	Not Applicable
+	"Texas"	"48"	"2003"	"2003"	"Jan., 2003"	"2003/01"	54	Not Applicable	Not Applicable
+	"Texas"	"48"	"2003"	"2003"	"Feb., 2003"	"2003/02"	56	Not Applicable	Not Applicable
+	"Texas"	"48"	"2003"	"2003"	"Mar., 2003"	"2003/03"	70	Not Applicable	Not Applicable
+	"Texas"	"48"	"2003"	"2003"	"Apr., 2003"	"2003/04"	73	Not Applicable	Not Applicable
+	"Texas"	"48"	"2003"	"2003"	"May, 2003"	"2003/05"	71	Not Applicable	Not Applicable
+	"Texas"	"48"	"2003"	"2003"	"Jun., 2003"	"2003/06"	60	Not Applicable	Not Applicable
+	"Texas"	"48"	"2003"	"2003"	"Jul., 2003"	"2003/07"	61	Not Applicable	Not Applicable
+	"Texas"	"48"	"2003"	"2003"	"Aug., 2003"	"2003/08"	64	Not Applicable	Not Applicable
+	"Texas"	"48"	"2003"	"2003"	"Sep., 2003"	"2003/09"	59	Not Applicable	Not Applicable
+	"Texas"	"48"	"2003"	"2003"	"Oct., 2003"	"2003/10"	62	Not Applicable	Not Applicable
+	"Texas"	"48"	"2003"	"2003"	"Nov., 2003"	"2003/11"	51	Not Applicable	Not Applicable
+	"Texas"	"48"	"2003"	"2003"	"Dec., 2003"	"2003/12"	58	Not Applicable	Not Applicable
+	"Utah"	"49"	"2003"	"2003"	"Jan., 2003"	"2003/01"	16	Not Applicable	Not Applicable
+	"Utah"	"49"	"2003"	"2003"	"Feb., 2003"	"2003/02"	18	Not Applicable	Not Applicable
+	"Utah"	"49"	"2003"	"2003"	"Mar., 2003"	"2003/03"	14	Not Applicable	Not Applicable
+	"Utah"	"49"	"2003"	"2003"	"Apr., 2003"	"2003/04"	16	Not Applicable	Not Applicable
+	"Utah"	"49"	"2003"	"2003"	"May, 2003"	"2003/05"	26	Not Applicable	Not Applicable
+	"Utah"	"49"	"2003"	"2003"	"Jun., 2003"	"2003/06"	15	Not Applicable	Not Applicable
+	"Utah"	"49"	"2003"	"2003"	"Jul., 2003"	"2003/07"	23	Not Applicable	Not Applicable
+	"Utah"	"49"	"2003"	"2003"	"Aug., 2003"	"2003/08"	21	Not Applicable	Not Applicable
+	"Utah"	"49"	"2003"	"2003"	"Sep., 2003"	"2003/09"	22	Not Applicable	Not Applicable
+	"Utah"	"49"	"2003"	"2003"	"Oct., 2003"	"2003/10"	23	Not Applicable	Not Applicable
+	"Utah"	"49"	"2003"	"2003"	"Nov., 2003"	"2003/11"	22	Not Applicable	Not Applicable
+	"Utah"	"49"	"2003"	"2003"	"Dec., 2003"	"2003/12"	28	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2003"	"2003"	"Jan., 2003"	"2003/01"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2003"	"2003"	"Feb., 2003"	"2003/02"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2003"	"2003"	"Mar., 2003"	"2003/03"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2003"	"2003"	"Apr., 2003"	"2003/04"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2003"	"2003"	"May, 2003"	"2003/05"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2003"	"2003"	"Jun., 2003"	"2003/06"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2003"	"2003"	"Jul., 2003"	"2003/07"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2003"	"2003"	"Aug., 2003"	"2003/08"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2003"	"2003"	"Sep., 2003"	"2003/09"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2003"	"2003"	"Oct., 2003"	"2003/10"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2003"	"2003"	"Nov., 2003"	"2003/11"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2003"	"2003"	"Dec., 2003"	"2003/12"	Suppressed	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2003"	"2003"	"Jan., 2003"	"2003/01"	28	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2003"	"2003"	"Feb., 2003"	"2003/02"	19	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2003"	"2003"	"Mar., 2003"	"2003/03"	31	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2003"	"2003"	"Apr., 2003"	"2003/04"	24	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2003"	"2003"	"May, 2003"	"2003/05"	34	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2003"	"2003"	"Jun., 2003"	"2003/06"	31	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2003"	"2003"	"Jul., 2003"	"2003/07"	25	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2003"	"2003"	"Aug., 2003"	"2003/08"	28	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2003"	"2003"	"Sep., 2003"	"2003/09"	30	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2003"	"2003"	"Oct., 2003"	"2003/10"	23	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2003"	"2003"	"Nov., 2003"	"2003/11"	31	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2003"	"2003"	"Dec., 2003"	"2003/12"	32	Not Applicable	Not Applicable
+	"Washington"	"53"	"2003"	"2003"	"Jan., 2003"	"2003/01"	24	Not Applicable	Not Applicable
+	"Washington"	"53"	"2003"	"2003"	"Feb., 2003"	"2003/02"	24	Not Applicable	Not Applicable
+	"Washington"	"53"	"2003"	"2003"	"Mar., 2003"	"2003/03"	34	Not Applicable	Not Applicable
+	"Washington"	"53"	"2003"	"2003"	"Apr., 2003"	"2003/04"	27	Not Applicable	Not Applicable
+	"Washington"	"53"	"2003"	"2003"	"May, 2003"	"2003/05"	28	Not Applicable	Not Applicable
+	"Washington"	"53"	"2003"	"2003"	"Jun., 2003"	"2003/06"	29	Not Applicable	Not Applicable
+	"Washington"	"53"	"2003"	"2003"	"Jul., 2003"	"2003/07"	32	Not Applicable	Not Applicable
+	"Washington"	"53"	"2003"	"2003"	"Aug., 2003"	"2003/08"	29	Not Applicable	Not Applicable
+	"Washington"	"53"	"2003"	"2003"	"Sep., 2003"	"2003/09"	41	Not Applicable	Not Applicable
+	"Washington"	"53"	"2003"	"2003"	"Oct., 2003"	"2003/10"	36	Not Applicable	Not Applicable
+	"Washington"	"53"	"2003"	"2003"	"Nov., 2003"	"2003/11"	31	Not Applicable	Not Applicable
+	"Washington"	"53"	"2003"	"2003"	"Dec., 2003"	"2003/12"	34	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2003"	"2003"	"Jan., 2003"	"2003/01"	12	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2003"	"2003"	"Feb., 2003"	"2003/02"	20	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2003"	"2003"	"Mar., 2003"	"2003/03"	19	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2003"	"2003"	"Apr., 2003"	"2003/04"	12	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2003"	"2003"	"May, 2003"	"2003/05"	20	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2003"	"2003"	"Jun., 2003"	"2003/06"	Suppressed	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2003"	"2003"	"Jul., 2003"	"2003/07"	17	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2003"	"2003"	"Aug., 2003"	"2003/08"	19	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2003"	"2003"	"Sep., 2003"	"2003/09"	15	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2003"	"2003"	"Oct., 2003"	"2003/10"	21	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2003"	"2003"	"Nov., 2003"	"2003/11"	15	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2003"	"2003"	"Dec., 2003"	"2003/12"	14	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2003"	"2003"	"Jan., 2003"	"2003/01"	16	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2003"	"2003"	"Feb., 2003"	"2003/02"	16	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2003"	"2003"	"Mar., 2003"	"2003/03"	13	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2003"	"2003"	"Apr., 2003"	"2003/04"	13	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2003"	"2003"	"May, 2003"	"2003/05"	18	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2003"	"2003"	"Jun., 2003"	"2003/06"	14	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2003"	"2003"	"Jul., 2003"	"2003/07"	14	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2003"	"2003"	"Aug., 2003"	"2003/08"	18	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2003"	"2003"	"Sep., 2003"	"2003/09"	13	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2003"	"2003"	"Oct., 2003"	"2003/10"	10	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2003"	"2003"	"Nov., 2003"	"2003/11"	20	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2003"	"2003"	"Dec., 2003"	"2003/12"	27	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2003"	"2003"	"Jan., 2003"	"2003/01"	0	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2003"	"2003"	"Feb., 2003"	"2003/02"	0	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2003"	"2003"	"Mar., 2003"	"2003/03"	0	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2003"	"2003"	"Apr., 2003"	"2003/04"	0	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2003"	"2003"	"May, 2003"	"2003/05"	0	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2003"	"2003"	"Jun., 2003"	"2003/06"	Suppressed	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2003"	"2003"	"Jul., 2003"	"2003/07"	0	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2003"	"2003"	"Aug., 2003"	"2003/08"	Suppressed	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2003"	"2003"	"Sep., 2003"	"2003/09"	Suppressed	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2003"	"2003"	"Oct., 2003"	"2003/10"	0	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2003"	"2003"	"Nov., 2003"	"2003/11"	0	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2003"	"2003"	"Dec., 2003"	"2003/12"	Suppressed	Not Applicable	Not Applicable
+"---"
+"Dataset: Multiple Cause of Death, 1999-2020"
+"Query Parameters:"
+"MCD - ICD-10 Codes: T40.0 (Opium); T40.1 (Heroin); T40.2 (Other opioids); T40.3 (Methadone); T40.4 (Other synthetic narcotics)"
+"UCD - ICD-10 Codes: X40 (Accidental poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics); X41"
+"(Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not"
+"elsewhere classified); X42 (Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not"
+"elsewhere classified); X43 (Accidental poisoning by and exposure to other drugs acting on the autonomic nervous system); X44"
+"(Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances); X60 (Intentional"
+"self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics); X61 (Intentional self-poisoning by and"
+"exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified); X62"
+"(Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified); X63"
+"(Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system); X64 (Intentional"
+"self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances); X85 (Assault by drugs,"
+"medicaments and biological substances); Y10 (Poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics,"
+"undetermined intent); Y11 (Poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic"
+"drugs, not elsewhere classified, undetermined intent); Y12 (Poisoning by and exposure to narcotics and psychodysleptics"
+"[hallucinogens], not elsewhere classified, undetermined intent); Y13 (Poisoning by and exposure to other drugs acting on the"
+"autonomic nervous system, undetermined intent); Y14 (Poisoning by and exposure to other and unspecified drugs, medicaments and"
+"biological substances, undetermined intent)"
+"Year/Month: 2003"
+"Group By: State; Year; Month"
+"Show Totals: Disabled"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: Jul 30, 2024 6:54:39 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/mcd-icd10.html on Jul 30, 2024 6:54:39 AM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when Autopsy, Place of Death, Weekday or Month are grouped by or limited,"
+"due to lack of a valid population. More information: http://wonder.cdc.gov/wonder/help/mcd.html#NotApplicableRates."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Unreliable."
+"4. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#ICD-10 Changes."

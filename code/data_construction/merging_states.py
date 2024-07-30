@@ -5,10 +5,12 @@ import re
 
 # Define the initial and last years
 initial_year = 2003
+prescriptions_initial_year = 2006
 last_year = 2019
 
 # Create a range of years from initial_year to last_year
 year_range = range(initial_year, last_year + 1)
+year_range_prescriptions = range(prescriptions_initial_year, last_year + 1)
 
 ### Load the county identifiers ####################################################################
 
@@ -303,6 +305,30 @@ print(state_wage_dist)
 ###
 
 ### Load the prescriptions data ######################################################################
+
+state_fips_arcos = pd.read_csv('./data/source/fips/county_fips_arcos.csv')
+state_fips_arcos['countyfips'] = state_fips_arcos['countyfips'].astype(str).str.rjust(5, '0')
+state_fips_arcos['state_fip'] = state_fips_arcos['countyfips'].str[:2]
+
+arcos_data = []
+for year in year_range_prescriptions:
+    # Load the prescription data for each year
+    prescriptions_data = pd.read_csv(f'./data/source/prescriptions/prescriptions_{year}.csv')
+    # Merge the prescription data with the county fips data
+    prescriptions_data = pd.merge(prescriptions_data, state_fips_arcos, on=['BUYER_COUNTY','BUYER_STATE'], how='inner')
+    # Group the data by county and year-month and sum dosage unit, MME conversion factor, and base weight in grams
+    prescriptions_data = prescriptions_data.groupby(['state_fip', 'year', 'month'])[['DOSAGE_UNIT', 'MME_CONVERSION_FACTOR', 'CALC_BASE_WT_IN_GM']].sum().reset_index()
+    # Append the dataframe to the list
+    arcos_data.append(prescriptions_data)
+# Concatenate the dataframes in the list
+prescriptions = pd.concat(arcos_data)
+
+# Rename the columns
+prescriptions = prescriptions.rename(columns={
+    'DOSAGE_UNIT': 'dosage_unit',
+    'MME_CONVERSION_FACTOR': 'mme_conversion_factor',
+    'CALC_BASE_WT_IN_GM': 'base_weight'
+    })
 
 
 # Merge the dataframes

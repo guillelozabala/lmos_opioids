@@ -1,0 +1,659 @@
+"Notes"	"State"	"State Code"	"Year"	"Year Code"	"Month"	"Month Code"	Deaths	Population	Crude Rate
+	"Alabama"	"01"	"2005"	"2005"	"Jan., 2005"	"2005/01"	Suppressed	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2005"	"2005"	"Feb., 2005"	"2005/02"	Suppressed	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2005"	"2005"	"Mar., 2005"	"2005/03"	Suppressed	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2005"	"2005"	"Apr., 2005"	"2005/04"	Suppressed	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2005"	"2005"	"May, 2005"	"2005/05"	Suppressed	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2005"	"2005"	"Jun., 2005"	"2005/06"	Suppressed	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2005"	"2005"	"Jul., 2005"	"2005/07"	Suppressed	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2005"	"2005"	"Aug., 2005"	"2005/08"	Suppressed	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2005"	"2005"	"Sep., 2005"	"2005/09"	Suppressed	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2005"	"2005"	"Oct., 2005"	"2005/10"	Suppressed	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2005"	"2005"	"Nov., 2005"	"2005/11"	15	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2005"	"2005"	"Dec., 2005"	"2005/12"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2005"	"2005"	"Jan., 2005"	"2005/01"	0	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2005"	"2005"	"Feb., 2005"	"2005/02"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2005"	"2005"	"Mar., 2005"	"2005/03"	0	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2005"	"2005"	"Apr., 2005"	"2005/04"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2005"	"2005"	"May, 2005"	"2005/05"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2005"	"2005"	"Jun., 2005"	"2005/06"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2005"	"2005"	"Jul., 2005"	"2005/07"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2005"	"2005"	"Aug., 2005"	"2005/08"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2005"	"2005"	"Sep., 2005"	"2005/09"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2005"	"2005"	"Oct., 2005"	"2005/10"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2005"	"2005"	"Nov., 2005"	"2005/11"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2005"	"2005"	"Dec., 2005"	"2005/12"	Suppressed	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2005"	"2005"	"Jan., 2005"	"2005/01"	21	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2005"	"2005"	"Feb., 2005"	"2005/02"	29	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2005"	"2005"	"Mar., 2005"	"2005/03"	23	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2005"	"2005"	"Apr., 2005"	"2005/04"	21	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2005"	"2005"	"May, 2005"	"2005/05"	29	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2005"	"2005"	"Jun., 2005"	"2005/06"	28	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2005"	"2005"	"Jul., 2005"	"2005/07"	23	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2005"	"2005"	"Aug., 2005"	"2005/08"	22	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2005"	"2005"	"Sep., 2005"	"2005/09"	25	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2005"	"2005"	"Oct., 2005"	"2005/10"	24	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2005"	"2005"	"Nov., 2005"	"2005/11"	34	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2005"	"2005"	"Dec., 2005"	"2005/12"	22	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2005"	"2005"	"Jan., 2005"	"2005/01"	Suppressed	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2005"	"2005"	"Feb., 2005"	"2005/02"	Suppressed	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2005"	"2005"	"Mar., 2005"	"2005/03"	14	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2005"	"2005"	"Apr., 2005"	"2005/04"	Suppressed	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2005"	"2005"	"May, 2005"	"2005/05"	13	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2005"	"2005"	"Jun., 2005"	"2005/06"	Suppressed	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2005"	"2005"	"Jul., 2005"	"2005/07"	Suppressed	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2005"	"2005"	"Aug., 2005"	"2005/08"	Suppressed	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2005"	"2005"	"Sep., 2005"	"2005/09"	Suppressed	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2005"	"2005"	"Oct., 2005"	"2005/10"	Suppressed	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2005"	"2005"	"Nov., 2005"	"2005/11"	14	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2005"	"2005"	"Dec., 2005"	"2005/12"	12	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Jan., 2005"	"2005/01"	107	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Feb., 2005"	"2005/02"	82	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Mar., 2005"	"2005/03"	106	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Apr., 2005"	"2005/04"	103	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"May, 2005"	"2005/05"	96	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Jun., 2005"	"2005/06"	109	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Jul., 2005"	"2005/07"	113	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Aug., 2005"	"2005/08"	92	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Sep., 2005"	"2005/09"	90	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Oct., 2005"	"2005/10"	81	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Nov., 2005"	"2005/11"	80	Not Applicable	Not Applicable
+	"California"	"06"	"2005"	"2005"	"Dec., 2005"	"2005/12"	112	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2005"	"2005"	"Jan., 2005"	"2005/01"	17	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2005"	"2005"	"Feb., 2005"	"2005/02"	12	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2005"	"2005"	"Mar., 2005"	"2005/03"	16	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2005"	"2005"	"Apr., 2005"	"2005/04"	27	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2005"	"2005"	"May, 2005"	"2005/05"	22	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2005"	"2005"	"Jun., 2005"	"2005/06"	14	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2005"	"2005"	"Jul., 2005"	"2005/07"	14	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2005"	"2005"	"Aug., 2005"	"2005/08"	18	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2005"	"2005"	"Sep., 2005"	"2005/09"	25	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2005"	"2005"	"Oct., 2005"	"2005/10"	18	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2005"	"2005"	"Nov., 2005"	"2005/11"	20	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2005"	"2005"	"Dec., 2005"	"2005/12"	17	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2005"	"2005"	"Jan., 2005"	"2005/01"	10	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2005"	"2005"	"Feb., 2005"	"2005/02"	Suppressed	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2005"	"2005"	"Mar., 2005"	"2005/03"	15	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2005"	"2005"	"Apr., 2005"	"2005/04"	20	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2005"	"2005"	"May, 2005"	"2005/05"	12	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2005"	"2005"	"Jun., 2005"	"2005/06"	15	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2005"	"2005"	"Jul., 2005"	"2005/07"	Suppressed	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2005"	"2005"	"Aug., 2005"	"2005/08"	Suppressed	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2005"	"2005"	"Sep., 2005"	"2005/09"	11	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2005"	"2005"	"Oct., 2005"	"2005/10"	11	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2005"	"2005"	"Nov., 2005"	"2005/11"	10	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2005"	"2005"	"Dec., 2005"	"2005/12"	Suppressed	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2005"	"2005"	"Jan., 2005"	"2005/01"	0	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2005"	"2005"	"Feb., 2005"	"2005/02"	Suppressed	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2005"	"2005"	"Mar., 2005"	"2005/03"	0	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2005"	"2005"	"Apr., 2005"	"2005/04"	Suppressed	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2005"	"2005"	"May, 2005"	"2005/05"	Suppressed	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2005"	"2005"	"Jun., 2005"	"2005/06"	Suppressed	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2005"	"2005"	"Jul., 2005"	"2005/07"	Suppressed	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2005"	"2005"	"Aug., 2005"	"2005/08"	Suppressed	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2005"	"2005"	"Sep., 2005"	"2005/09"	Suppressed	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2005"	"2005"	"Oct., 2005"	"2005/10"	0	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2005"	"2005"	"Nov., 2005"	"2005/11"	Suppressed	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2005"	"2005"	"Dec., 2005"	"2005/12"	0	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2005"	"2005"	"Jan., 2005"	"2005/01"	Suppressed	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2005"	"2005"	"Feb., 2005"	"2005/02"	Suppressed	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2005"	"2005"	"Mar., 2005"	"2005/03"	Suppressed	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2005"	"2005"	"Apr., 2005"	"2005/04"	Suppressed	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2005"	"2005"	"May, 2005"	"2005/05"	0	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2005"	"2005"	"Jun., 2005"	"2005/06"	Suppressed	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2005"	"2005"	"Jul., 2005"	"2005/07"	Suppressed	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2005"	"2005"	"Aug., 2005"	"2005/08"	Suppressed	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2005"	"2005"	"Sep., 2005"	"2005/09"	Suppressed	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2005"	"2005"	"Oct., 2005"	"2005/10"	0	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2005"	"2005"	"Nov., 2005"	"2005/11"	0	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2005"	"2005"	"Dec., 2005"	"2005/12"	Suppressed	Not Applicable	Not Applicable
+	"Florida"	"12"	"2005"	"2005"	"Jan., 2005"	"2005/01"	73	Not Applicable	Not Applicable
+	"Florida"	"12"	"2005"	"2005"	"Feb., 2005"	"2005/02"	94	Not Applicable	Not Applicable
+	"Florida"	"12"	"2005"	"2005"	"Mar., 2005"	"2005/03"	79	Not Applicable	Not Applicable
+	"Florida"	"12"	"2005"	"2005"	"Apr., 2005"	"2005/04"	96	Not Applicable	Not Applicable
+	"Florida"	"12"	"2005"	"2005"	"May, 2005"	"2005/05"	83	Not Applicable	Not Applicable
+	"Florida"	"12"	"2005"	"2005"	"Jun., 2005"	"2005/06"	82	Not Applicable	Not Applicable
+	"Florida"	"12"	"2005"	"2005"	"Jul., 2005"	"2005/07"	103	Not Applicable	Not Applicable
+	"Florida"	"12"	"2005"	"2005"	"Aug., 2005"	"2005/08"	83	Not Applicable	Not Applicable
+	"Florida"	"12"	"2005"	"2005"	"Sep., 2005"	"2005/09"	80	Not Applicable	Not Applicable
+	"Florida"	"12"	"2005"	"2005"	"Oct., 2005"	"2005/10"	98	Not Applicable	Not Applicable
+	"Florida"	"12"	"2005"	"2005"	"Nov., 2005"	"2005/11"	90	Not Applicable	Not Applicable
+	"Florida"	"12"	"2005"	"2005"	"Dec., 2005"	"2005/12"	88	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2005"	"2005"	"Jan., 2005"	"2005/01"	21	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2005"	"2005"	"Feb., 2005"	"2005/02"	15	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2005"	"2005"	"Mar., 2005"	"2005/03"	27	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2005"	"2005"	"Apr., 2005"	"2005/04"	31	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2005"	"2005"	"May, 2005"	"2005/05"	22	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2005"	"2005"	"Jun., 2005"	"2005/06"	24	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2005"	"2005"	"Jul., 2005"	"2005/07"	26	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2005"	"2005"	"Aug., 2005"	"2005/08"	23	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2005"	"2005"	"Sep., 2005"	"2005/09"	20	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2005"	"2005"	"Oct., 2005"	"2005/10"	18	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2005"	"2005"	"Nov., 2005"	"2005/11"	23	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2005"	"2005"	"Dec., 2005"	"2005/12"	25	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2005"	"2005"	"Jan., 2005"	"2005/01"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2005"	"2005"	"Feb., 2005"	"2005/02"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2005"	"2005"	"Mar., 2005"	"2005/03"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2005"	"2005"	"Apr., 2005"	"2005/04"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2005"	"2005"	"May, 2005"	"2005/05"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2005"	"2005"	"Jun., 2005"	"2005/06"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2005"	"2005"	"Jul., 2005"	"2005/07"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2005"	"2005"	"Aug., 2005"	"2005/08"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2005"	"2005"	"Sep., 2005"	"2005/09"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2005"	"2005"	"Oct., 2005"	"2005/10"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2005"	"2005"	"Nov., 2005"	"2005/11"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2005"	"2005"	"Dec., 2005"	"2005/12"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2005"	"2005"	"Jan., 2005"	"2005/01"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2005"	"2005"	"Feb., 2005"	"2005/02"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2005"	"2005"	"Mar., 2005"	"2005/03"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2005"	"2005"	"Apr., 2005"	"2005/04"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2005"	"2005"	"May, 2005"	"2005/05"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2005"	"2005"	"Jun., 2005"	"2005/06"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2005"	"2005"	"Jul., 2005"	"2005/07"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2005"	"2005"	"Aug., 2005"	"2005/08"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2005"	"2005"	"Sep., 2005"	"2005/09"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2005"	"2005"	"Oct., 2005"	"2005/10"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2005"	"2005"	"Nov., 2005"	"2005/11"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2005"	"2005"	"Dec., 2005"	"2005/12"	Suppressed	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2005"	"2005"	"Jan., 2005"	"2005/01"	20	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2005"	"2005"	"Feb., 2005"	"2005/02"	25	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2005"	"2005"	"Mar., 2005"	"2005/03"	16	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2005"	"2005"	"Apr., 2005"	"2005/04"	17	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2005"	"2005"	"May, 2005"	"2005/05"	21	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2005"	"2005"	"Jun., 2005"	"2005/06"	25	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2005"	"2005"	"Jul., 2005"	"2005/07"	24	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2005"	"2005"	"Aug., 2005"	"2005/08"	15	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2005"	"2005"	"Sep., 2005"	"2005/09"	17	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2005"	"2005"	"Oct., 2005"	"2005/10"	28	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2005"	"2005"	"Nov., 2005"	"2005/11"	27	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2005"	"2005"	"Dec., 2005"	"2005/12"	34	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2005"	"2005"	"Jan., 2005"	"2005/01"	11	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2005"	"2005"	"Feb., 2005"	"2005/02"	11	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2005"	"2005"	"Mar., 2005"	"2005/03"	17	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2005"	"2005"	"Apr., 2005"	"2005/04"	Suppressed	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2005"	"2005"	"May, 2005"	"2005/05"	11	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2005"	"2005"	"Jun., 2005"	"2005/06"	12	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2005"	"2005"	"Jul., 2005"	"2005/07"	15	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2005"	"2005"	"Aug., 2005"	"2005/08"	Suppressed	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2005"	"2005"	"Sep., 2005"	"2005/09"	12	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2005"	"2005"	"Oct., 2005"	"2005/10"	Suppressed	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2005"	"2005"	"Nov., 2005"	"2005/11"	10	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2005"	"2005"	"Dec., 2005"	"2005/12"	Suppressed	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2005"	"2005"	"Jan., 2005"	"2005/01"	10	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2005"	"2005"	"Feb., 2005"	"2005/02"	Suppressed	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2005"	"2005"	"Mar., 2005"	"2005/03"	Suppressed	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2005"	"2005"	"Apr., 2005"	"2005/04"	Suppressed	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2005"	"2005"	"May, 2005"	"2005/05"	Suppressed	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2005"	"2005"	"Jun., 2005"	"2005/06"	Suppressed	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2005"	"2005"	"Jul., 2005"	"2005/07"	Suppressed	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2005"	"2005"	"Aug., 2005"	"2005/08"	Suppressed	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2005"	"2005"	"Sep., 2005"	"2005/09"	Suppressed	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2005"	"2005"	"Oct., 2005"	"2005/10"	Suppressed	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2005"	"2005"	"Nov., 2005"	"2005/11"	Suppressed	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2005"	"2005"	"Dec., 2005"	"2005/12"	Suppressed	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2005"	"2005"	"Jan., 2005"	"2005/01"	10	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2005"	"2005"	"Feb., 2005"	"2005/02"	10	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2005"	"2005"	"Mar., 2005"	"2005/03"	Suppressed	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2005"	"2005"	"Apr., 2005"	"2005/04"	Suppressed	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2005"	"2005"	"May, 2005"	"2005/05"	14	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2005"	"2005"	"Jun., 2005"	"2005/06"	Suppressed	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2005"	"2005"	"Jul., 2005"	"2005/07"	11	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2005"	"2005"	"Aug., 2005"	"2005/08"	Suppressed	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2005"	"2005"	"Sep., 2005"	"2005/09"	13	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2005"	"2005"	"Oct., 2005"	"2005/10"	Suppressed	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2005"	"2005"	"Nov., 2005"	"2005/11"	Suppressed	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2005"	"2005"	"Dec., 2005"	"2005/12"	Suppressed	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2005"	"2005"	"Jan., 2005"	"2005/01"	27	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2005"	"2005"	"Feb., 2005"	"2005/02"	17	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2005"	"2005"	"Mar., 2005"	"2005/03"	25	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2005"	"2005"	"Apr., 2005"	"2005/04"	30	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2005"	"2005"	"May, 2005"	"2005/05"	23	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2005"	"2005"	"Jun., 2005"	"2005/06"	18	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2005"	"2005"	"Jul., 2005"	"2005/07"	11	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2005"	"2005"	"Aug., 2005"	"2005/08"	21	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2005"	"2005"	"Sep., 2005"	"2005/09"	19	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2005"	"2005"	"Oct., 2005"	"2005/10"	23	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2005"	"2005"	"Nov., 2005"	"2005/11"	19	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2005"	"2005"	"Dec., 2005"	"2005/12"	33	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2005"	"2005"	"Jan., 2005"	"2005/01"	15	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2005"	"2005"	"Feb., 2005"	"2005/02"	Suppressed	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2005"	"2005"	"Mar., 2005"	"2005/03"	20	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2005"	"2005"	"Apr., 2005"	"2005/04"	Suppressed	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2005"	"2005"	"May, 2005"	"2005/05"	17	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2005"	"2005"	"Jun., 2005"	"2005/06"	Suppressed	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2005"	"2005"	"Jul., 2005"	"2005/07"	15	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2005"	"2005"	"Aug., 2005"	"2005/08"	Suppressed	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2005"	"2005"	"Sep., 2005"	"2005/09"	12	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2005"	"2005"	"Oct., 2005"	"2005/10"	23	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2005"	"2005"	"Nov., 2005"	"2005/11"	11	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2005"	"2005"	"Dec., 2005"	"2005/12"	Suppressed	Not Applicable	Not Applicable
+	"Maine"	"23"	"2005"	"2005"	"Jan., 2005"	"2005/01"	Suppressed	Not Applicable	Not Applicable
+	"Maine"	"23"	"2005"	"2005"	"Feb., 2005"	"2005/02"	Suppressed	Not Applicable	Not Applicable
+	"Maine"	"23"	"2005"	"2005"	"Mar., 2005"	"2005/03"	10	Not Applicable	Not Applicable
+	"Maine"	"23"	"2005"	"2005"	"Apr., 2005"	"2005/04"	11	Not Applicable	Not Applicable
+	"Maine"	"23"	"2005"	"2005"	"May, 2005"	"2005/05"	Suppressed	Not Applicable	Not Applicable
+	"Maine"	"23"	"2005"	"2005"	"Jun., 2005"	"2005/06"	Suppressed	Not Applicable	Not Applicable
+	"Maine"	"23"	"2005"	"2005"	"Jul., 2005"	"2005/07"	11	Not Applicable	Not Applicable
+	"Maine"	"23"	"2005"	"2005"	"Aug., 2005"	"2005/08"	Suppressed	Not Applicable	Not Applicable
+	"Maine"	"23"	"2005"	"2005"	"Sep., 2005"	"2005/09"	Suppressed	Not Applicable	Not Applicable
+	"Maine"	"23"	"2005"	"2005"	"Oct., 2005"	"2005/10"	Suppressed	Not Applicable	Not Applicable
+	"Maine"	"23"	"2005"	"2005"	"Nov., 2005"	"2005/11"	13	Not Applicable	Not Applicable
+	"Maine"	"23"	"2005"	"2005"	"Dec., 2005"	"2005/12"	13	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2005"	"2005"	"Jan., 2005"	"2005/01"	26	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2005"	"2005"	"Feb., 2005"	"2005/02"	24	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2005"	"2005"	"Mar., 2005"	"2005/03"	28	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2005"	"2005"	"Apr., 2005"	"2005/04"	22	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2005"	"2005"	"May, 2005"	"2005/05"	31	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2005"	"2005"	"Jun., 2005"	"2005/06"	16	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2005"	"2005"	"Jul., 2005"	"2005/07"	22	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2005"	"2005"	"Aug., 2005"	"2005/08"	22	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2005"	"2005"	"Sep., 2005"	"2005/09"	28	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2005"	"2005"	"Oct., 2005"	"2005/10"	21	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2005"	"2005"	"Nov., 2005"	"2005/11"	27	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2005"	"2005"	"Dec., 2005"	"2005/12"	33	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2005"	"2005"	"Jan., 2005"	"2005/01"	18	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2005"	"2005"	"Feb., 2005"	"2005/02"	17	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2005"	"2005"	"Mar., 2005"	"2005/03"	14	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2005"	"2005"	"Apr., 2005"	"2005/04"	16	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2005"	"2005"	"May, 2005"	"2005/05"	19	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2005"	"2005"	"Jun., 2005"	"2005/06"	22	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2005"	"2005"	"Jul., 2005"	"2005/07"	11	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2005"	"2005"	"Aug., 2005"	"2005/08"	17	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2005"	"2005"	"Sep., 2005"	"2005/09"	22	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2005"	"2005"	"Oct., 2005"	"2005/10"	30	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2005"	"2005"	"Nov., 2005"	"2005/11"	21	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2005"	"2005"	"Dec., 2005"	"2005/12"	20	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2005"	"2005"	"Jan., 2005"	"2005/01"	29	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2005"	"2005"	"Feb., 2005"	"2005/02"	31	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2005"	"2005"	"Mar., 2005"	"2005/03"	41	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2005"	"2005"	"Apr., 2005"	"2005/04"	34	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2005"	"2005"	"May, 2005"	"2005/05"	36	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2005"	"2005"	"Jun., 2005"	"2005/06"	25	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2005"	"2005"	"Jul., 2005"	"2005/07"	36	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2005"	"2005"	"Aug., 2005"	"2005/08"	37	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2005"	"2005"	"Sep., 2005"	"2005/09"	42	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2005"	"2005"	"Oct., 2005"	"2005/10"	39	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2005"	"2005"	"Nov., 2005"	"2005/11"	52	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2005"	"2005"	"Dec., 2005"	"2005/12"	51	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2005"	"2005"	"Jan., 2005"	"2005/01"	Suppressed	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2005"	"2005"	"Feb., 2005"	"2005/02"	10	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2005"	"2005"	"Mar., 2005"	"2005/03"	Suppressed	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2005"	"2005"	"Apr., 2005"	"2005/04"	10	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2005"	"2005"	"May, 2005"	"2005/05"	13	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2005"	"2005"	"Jun., 2005"	"2005/06"	Suppressed	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2005"	"2005"	"Jul., 2005"	"2005/07"	10	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2005"	"2005"	"Aug., 2005"	"2005/08"	Suppressed	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2005"	"2005"	"Sep., 2005"	"2005/09"	Suppressed	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2005"	"2005"	"Oct., 2005"	"2005/10"	12	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2005"	"2005"	"Nov., 2005"	"2005/11"	Suppressed	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2005"	"2005"	"Dec., 2005"	"2005/12"	13	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2005"	"2005"	"Jan., 2005"	"2005/01"	Suppressed	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2005"	"2005"	"Feb., 2005"	"2005/02"	0	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2005"	"2005"	"Mar., 2005"	"2005/03"	Suppressed	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2005"	"2005"	"Apr., 2005"	"2005/04"	Suppressed	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2005"	"2005"	"May, 2005"	"2005/05"	Suppressed	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2005"	"2005"	"Jun., 2005"	"2005/06"	Suppressed	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2005"	"2005"	"Jul., 2005"	"2005/07"	Suppressed	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2005"	"2005"	"Aug., 2005"	"2005/08"	Suppressed	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2005"	"2005"	"Sep., 2005"	"2005/09"	Suppressed	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2005"	"2005"	"Oct., 2005"	"2005/10"	Suppressed	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2005"	"2005"	"Nov., 2005"	"2005/11"	0	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2005"	"2005"	"Dec., 2005"	"2005/12"	Suppressed	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2005"	"2005"	"Jan., 2005"	"2005/01"	29	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2005"	"2005"	"Feb., 2005"	"2005/02"	28	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2005"	"2005"	"Mar., 2005"	"2005/03"	28	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2005"	"2005"	"Apr., 2005"	"2005/04"	28	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2005"	"2005"	"May, 2005"	"2005/05"	26	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2005"	"2005"	"Jun., 2005"	"2005/06"	22	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2005"	"2005"	"Jul., 2005"	"2005/07"	20	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2005"	"2005"	"Aug., 2005"	"2005/08"	22	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2005"	"2005"	"Sep., 2005"	"2005/09"	22	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2005"	"2005"	"Oct., 2005"	"2005/10"	21	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2005"	"2005"	"Nov., 2005"	"2005/11"	22	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2005"	"2005"	"Dec., 2005"	"2005/12"	27	Not Applicable	Not Applicable
+	"Montana"	"30"	"2005"	"2005"	"Jan., 2005"	"2005/01"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2005"	"2005"	"Feb., 2005"	"2005/02"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2005"	"2005"	"Mar., 2005"	"2005/03"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2005"	"2005"	"Apr., 2005"	"2005/04"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2005"	"2005"	"May, 2005"	"2005/05"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2005"	"2005"	"Jun., 2005"	"2005/06"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2005"	"2005"	"Jul., 2005"	"2005/07"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2005"	"2005"	"Aug., 2005"	"2005/08"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2005"	"2005"	"Sep., 2005"	"2005/09"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2005"	"2005"	"Oct., 2005"	"2005/10"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2005"	"2005"	"Nov., 2005"	"2005/11"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2005"	"2005"	"Dec., 2005"	"2005/12"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2005"	"2005"	"Jan., 2005"	"2005/01"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2005"	"2005"	"Feb., 2005"	"2005/02"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2005"	"2005"	"Mar., 2005"	"2005/03"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2005"	"2005"	"Apr., 2005"	"2005/04"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2005"	"2005"	"May, 2005"	"2005/05"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2005"	"2005"	"Jun., 2005"	"2005/06"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2005"	"2005"	"Jul., 2005"	"2005/07"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2005"	"2005"	"Aug., 2005"	"2005/08"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2005"	"2005"	"Sep., 2005"	"2005/09"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2005"	"2005"	"Oct., 2005"	"2005/10"	0	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2005"	"2005"	"Nov., 2005"	"2005/11"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2005"	"2005"	"Dec., 2005"	"2005/12"	Suppressed	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2005"	"2005"	"Jan., 2005"	"2005/01"	29	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2005"	"2005"	"Feb., 2005"	"2005/02"	24	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2005"	"2005"	"Mar., 2005"	"2005/03"	21	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2005"	"2005"	"Apr., 2005"	"2005/04"	19	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2005"	"2005"	"May, 2005"	"2005/05"	21	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2005"	"2005"	"Jun., 2005"	"2005/06"	13	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2005"	"2005"	"Jul., 2005"	"2005/07"	29	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2005"	"2005"	"Aug., 2005"	"2005/08"	25	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2005"	"2005"	"Sep., 2005"	"2005/09"	22	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2005"	"2005"	"Oct., 2005"	"2005/10"	32	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2005"	"2005"	"Nov., 2005"	"2005/11"	28	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2005"	"2005"	"Dec., 2005"	"2005/12"	18	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2005"	"2005"	"Jan., 2005"	"2005/01"	10	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2005"	"2005"	"Feb., 2005"	"2005/02"	Suppressed	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2005"	"2005"	"Mar., 2005"	"2005/03"	Suppressed	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2005"	"2005"	"Apr., 2005"	"2005/04"	Suppressed	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2005"	"2005"	"May, 2005"	"2005/05"	Suppressed	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2005"	"2005"	"Jun., 2005"	"2005/06"	Suppressed	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2005"	"2005"	"Jul., 2005"	"2005/07"	Suppressed	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2005"	"2005"	"Aug., 2005"	"2005/08"	Suppressed	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2005"	"2005"	"Sep., 2005"	"2005/09"	Suppressed	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2005"	"2005"	"Oct., 2005"	"2005/10"	10	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2005"	"2005"	"Nov., 2005"	"2005/11"	Suppressed	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2005"	"2005"	"Dec., 2005"	"2005/12"	Suppressed	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2005"	"2005"	"Jan., 2005"	"2005/01"	33	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2005"	"2005"	"Feb., 2005"	"2005/02"	30	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2005"	"2005"	"Mar., 2005"	"2005/03"	25	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2005"	"2005"	"Apr., 2005"	"2005/04"	22	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2005"	"2005"	"May, 2005"	"2005/05"	33	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2005"	"2005"	"Jun., 2005"	"2005/06"	27	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2005"	"2005"	"Jul., 2005"	"2005/07"	36	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2005"	"2005"	"Aug., 2005"	"2005/08"	30	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2005"	"2005"	"Sep., 2005"	"2005/09"	28	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2005"	"2005"	"Oct., 2005"	"2005/10"	31	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2005"	"2005"	"Nov., 2005"	"2005/11"	32	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2005"	"2005"	"Dec., 2005"	"2005/12"	27	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2005"	"2005"	"Jan., 2005"	"2005/01"	15	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2005"	"2005"	"Feb., 2005"	"2005/02"	16	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2005"	"2005"	"Mar., 2005"	"2005/03"	24	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2005"	"2005"	"Apr., 2005"	"2005/04"	21	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2005"	"2005"	"May, 2005"	"2005/05"	20	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2005"	"2005"	"Jun., 2005"	"2005/06"	16	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2005"	"2005"	"Jul., 2005"	"2005/07"	12	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2005"	"2005"	"Aug., 2005"	"2005/08"	20	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2005"	"2005"	"Sep., 2005"	"2005/09"	21	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2005"	"2005"	"Oct., 2005"	"2005/10"	13	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2005"	"2005"	"Nov., 2005"	"2005/11"	14	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2005"	"2005"	"Dec., 2005"	"2005/12"	13	Not Applicable	Not Applicable
+	"New York"	"36"	"2005"	"2005"	"Jan., 2005"	"2005/01"	28	Not Applicable	Not Applicable
+	"New York"	"36"	"2005"	"2005"	"Feb., 2005"	"2005/02"	21	Not Applicable	Not Applicable
+	"New York"	"36"	"2005"	"2005"	"Mar., 2005"	"2005/03"	29	Not Applicable	Not Applicable
+	"New York"	"36"	"2005"	"2005"	"Apr., 2005"	"2005/04"	19	Not Applicable	Not Applicable
+	"New York"	"36"	"2005"	"2005"	"May, 2005"	"2005/05"	30	Not Applicable	Not Applicable
+	"New York"	"36"	"2005"	"2005"	"Jun., 2005"	"2005/06"	26	Not Applicable	Not Applicable
+	"New York"	"36"	"2005"	"2005"	"Jul., 2005"	"2005/07"	20	Not Applicable	Not Applicable
+	"New York"	"36"	"2005"	"2005"	"Aug., 2005"	"2005/08"	26	Not Applicable	Not Applicable
+	"New York"	"36"	"2005"	"2005"	"Sep., 2005"	"2005/09"	31	Not Applicable	Not Applicable
+	"New York"	"36"	"2005"	"2005"	"Oct., 2005"	"2005/10"	18	Not Applicable	Not Applicable
+	"New York"	"36"	"2005"	"2005"	"Nov., 2005"	"2005/11"	36	Not Applicable	Not Applicable
+	"New York"	"36"	"2005"	"2005"	"Dec., 2005"	"2005/12"	20	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2005"	"2005"	"Jan., 2005"	"2005/01"	57	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2005"	"2005"	"Feb., 2005"	"2005/02"	50	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2005"	"2005"	"Mar., 2005"	"2005/03"	65	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2005"	"2005"	"Apr., 2005"	"2005/04"	54	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2005"	"2005"	"May, 2005"	"2005/05"	38	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2005"	"2005"	"Jun., 2005"	"2005/06"	59	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2005"	"2005"	"Jul., 2005"	"2005/07"	50	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2005"	"2005"	"Aug., 2005"	"2005/08"	38	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2005"	"2005"	"Sep., 2005"	"2005/09"	50	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2005"	"2005"	"Oct., 2005"	"2005/10"	54	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2005"	"2005"	"Nov., 2005"	"2005/11"	65	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2005"	"2005"	"Dec., 2005"	"2005/12"	61	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2005"	"2005"	"Jan., 2005"	"2005/01"	Suppressed	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2005"	"2005"	"Feb., 2005"	"2005/02"	Suppressed	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2005"	"2005"	"Mar., 2005"	"2005/03"	Suppressed	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2005"	"2005"	"Apr., 2005"	"2005/04"	Suppressed	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2005"	"2005"	"May, 2005"	"2005/05"	0	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2005"	"2005"	"Jun., 2005"	"2005/06"	0	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2005"	"2005"	"Jul., 2005"	"2005/07"	0	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2005"	"2005"	"Aug., 2005"	"2005/08"	0	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2005"	"2005"	"Sep., 2005"	"2005/09"	0	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2005"	"2005"	"Oct., 2005"	"2005/10"	0	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2005"	"2005"	"Nov., 2005"	"2005/11"	0	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2005"	"2005"	"Dec., 2005"	"2005/12"	0	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2005"	"2005"	"Jan., 2005"	"2005/01"	60	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2005"	"2005"	"Feb., 2005"	"2005/02"	39	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2005"	"2005"	"Mar., 2005"	"2005/03"	46	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2005"	"2005"	"Apr., 2005"	"2005/04"	32	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2005"	"2005"	"May, 2005"	"2005/05"	34	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2005"	"2005"	"Jun., 2005"	"2005/06"	34	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2005"	"2005"	"Jul., 2005"	"2005/07"	31	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2005"	"2005"	"Aug., 2005"	"2005/08"	38	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2005"	"2005"	"Sep., 2005"	"2005/09"	48	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2005"	"2005"	"Oct., 2005"	"2005/10"	51	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2005"	"2005"	"Nov., 2005"	"2005/11"	50	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2005"	"2005"	"Dec., 2005"	"2005/12"	59	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2005"	"2005"	"Jan., 2005"	"2005/01"	34	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2005"	"2005"	"Feb., 2005"	"2005/02"	21	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2005"	"2005"	"Mar., 2005"	"2005/03"	22	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2005"	"2005"	"Apr., 2005"	"2005/04"	29	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2005"	"2005"	"May, 2005"	"2005/05"	31	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2005"	"2005"	"Jun., 2005"	"2005/06"	22	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2005"	"2005"	"Jul., 2005"	"2005/07"	18	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2005"	"2005"	"Aug., 2005"	"2005/08"	29	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2005"	"2005"	"Sep., 2005"	"2005/09"	27	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2005"	"2005"	"Oct., 2005"	"2005/10"	21	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2005"	"2005"	"Nov., 2005"	"2005/11"	30	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2005"	"2005"	"Dec., 2005"	"2005/12"	25	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2005"	"2005"	"Jan., 2005"	"2005/01"	14	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2005"	"2005"	"Feb., 2005"	"2005/02"	17	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2005"	"2005"	"Mar., 2005"	"2005/03"	31	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2005"	"2005"	"Apr., 2005"	"2005/04"	17	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2005"	"2005"	"May, 2005"	"2005/05"	27	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2005"	"2005"	"Jun., 2005"	"2005/06"	17	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2005"	"2005"	"Jul., 2005"	"2005/07"	14	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2005"	"2005"	"Aug., 2005"	"2005/08"	21	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2005"	"2005"	"Sep., 2005"	"2005/09"	15	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2005"	"2005"	"Oct., 2005"	"2005/10"	23	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2005"	"2005"	"Nov., 2005"	"2005/11"	20	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2005"	"2005"	"Dec., 2005"	"2005/12"	27	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2005"	"2005"	"Jan., 2005"	"2005/01"	31	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2005"	"2005"	"Feb., 2005"	"2005/02"	35	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2005"	"2005"	"Mar., 2005"	"2005/03"	49	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2005"	"2005"	"Apr., 2005"	"2005/04"	43	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2005"	"2005"	"May, 2005"	"2005/05"	29	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2005"	"2005"	"Jun., 2005"	"2005/06"	28	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2005"	"2005"	"Jul., 2005"	"2005/07"	31	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2005"	"2005"	"Aug., 2005"	"2005/08"	31	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2005"	"2005"	"Sep., 2005"	"2005/09"	43	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2005"	"2005"	"Oct., 2005"	"2005/10"	41	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2005"	"2005"	"Nov., 2005"	"2005/11"	33	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2005"	"2005"	"Dec., 2005"	"2005/12"	43	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2005"	"2005"	"Jan., 2005"	"2005/01"	Suppressed	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2005"	"2005"	"Feb., 2005"	"2005/02"	Suppressed	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2005"	"2005"	"Mar., 2005"	"2005/03"	Suppressed	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2005"	"2005"	"Apr., 2005"	"2005/04"	Suppressed	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2005"	"2005"	"May, 2005"	"2005/05"	Suppressed	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2005"	"2005"	"Jun., 2005"	"2005/06"	Suppressed	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2005"	"2005"	"Jul., 2005"	"2005/07"	Suppressed	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2005"	"2005"	"Aug., 2005"	"2005/08"	0	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2005"	"2005"	"Sep., 2005"	"2005/09"	Suppressed	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2005"	"2005"	"Oct., 2005"	"2005/10"	Suppressed	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2005"	"2005"	"Nov., 2005"	"2005/11"	Suppressed	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2005"	"2005"	"Dec., 2005"	"2005/12"	Suppressed	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2005"	"2005"	"Jan., 2005"	"2005/01"	13	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2005"	"2005"	"Feb., 2005"	"2005/02"	17	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2005"	"2005"	"Mar., 2005"	"2005/03"	17	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2005"	"2005"	"Apr., 2005"	"2005/04"	14	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2005"	"2005"	"May, 2005"	"2005/05"	13	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2005"	"2005"	"Jun., 2005"	"2005/06"	Suppressed	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2005"	"2005"	"Jul., 2005"	"2005/07"	11	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2005"	"2005"	"Aug., 2005"	"2005/08"	Suppressed	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2005"	"2005"	"Sep., 2005"	"2005/09"	Suppressed	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2005"	"2005"	"Oct., 2005"	"2005/10"	12	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2005"	"2005"	"Nov., 2005"	"2005/11"	13	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2005"	"2005"	"Dec., 2005"	"2005/12"	11	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2005"	"2005"	"Jan., 2005"	"2005/01"	Suppressed	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2005"	"2005"	"Feb., 2005"	"2005/02"	Suppressed	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2005"	"2005"	"Mar., 2005"	"2005/03"	Suppressed	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2005"	"2005"	"Apr., 2005"	"2005/04"	Suppressed	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2005"	"2005"	"May, 2005"	"2005/05"	Suppressed	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2005"	"2005"	"Jun., 2005"	"2005/06"	Suppressed	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2005"	"2005"	"Jul., 2005"	"2005/07"	Suppressed	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2005"	"2005"	"Aug., 2005"	"2005/08"	Suppressed	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2005"	"2005"	"Sep., 2005"	"2005/09"	Suppressed	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2005"	"2005"	"Oct., 2005"	"2005/10"	Suppressed	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2005"	"2005"	"Nov., 2005"	"2005/11"	Suppressed	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2005"	"2005"	"Dec., 2005"	"2005/12"	Suppressed	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2005"	"2005"	"Jan., 2005"	"2005/01"	31	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2005"	"2005"	"Feb., 2005"	"2005/02"	33	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2005"	"2005"	"Mar., 2005"	"2005/03"	32	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2005"	"2005"	"Apr., 2005"	"2005/04"	34	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2005"	"2005"	"May, 2005"	"2005/05"	31	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2005"	"2005"	"Jun., 2005"	"2005/06"	38	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2005"	"2005"	"Jul., 2005"	"2005/07"	34	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2005"	"2005"	"Aug., 2005"	"2005/08"	35	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2005"	"2005"	"Sep., 2005"	"2005/09"	31	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2005"	"2005"	"Oct., 2005"	"2005/10"	44	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2005"	"2005"	"Nov., 2005"	"2005/11"	32	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2005"	"2005"	"Dec., 2005"	"2005/12"	35	Not Applicable	Not Applicable
+	"Texas"	"48"	"2005"	"2005"	"Jan., 2005"	"2005/01"	64	Not Applicable	Not Applicable
+	"Texas"	"48"	"2005"	"2005"	"Feb., 2005"	"2005/02"	68	Not Applicable	Not Applicable
+	"Texas"	"48"	"2005"	"2005"	"Mar., 2005"	"2005/03"	84	Not Applicable	Not Applicable
+	"Texas"	"48"	"2005"	"2005"	"Apr., 2005"	"2005/04"	75	Not Applicable	Not Applicable
+	"Texas"	"48"	"2005"	"2005"	"May, 2005"	"2005/05"	67	Not Applicable	Not Applicable
+	"Texas"	"48"	"2005"	"2005"	"Jun., 2005"	"2005/06"	74	Not Applicable	Not Applicable
+	"Texas"	"48"	"2005"	"2005"	"Jul., 2005"	"2005/07"	75	Not Applicable	Not Applicable
+	"Texas"	"48"	"2005"	"2005"	"Aug., 2005"	"2005/08"	62	Not Applicable	Not Applicable
+	"Texas"	"48"	"2005"	"2005"	"Sep., 2005"	"2005/09"	71	Not Applicable	Not Applicable
+	"Texas"	"48"	"2005"	"2005"	"Oct., 2005"	"2005/10"	63	Not Applicable	Not Applicable
+	"Texas"	"48"	"2005"	"2005"	"Nov., 2005"	"2005/11"	62	Not Applicable	Not Applicable
+	"Texas"	"48"	"2005"	"2005"	"Dec., 2005"	"2005/12"	51	Not Applicable	Not Applicable
+	"Utah"	"49"	"2005"	"2005"	"Jan., 2005"	"2005/01"	23	Not Applicable	Not Applicable
+	"Utah"	"49"	"2005"	"2005"	"Feb., 2005"	"2005/02"	34	Not Applicable	Not Applicable
+	"Utah"	"49"	"2005"	"2005"	"Mar., 2005"	"2005/03"	21	Not Applicable	Not Applicable
+	"Utah"	"49"	"2005"	"2005"	"Apr., 2005"	"2005/04"	36	Not Applicable	Not Applicable
+	"Utah"	"49"	"2005"	"2005"	"May, 2005"	"2005/05"	15	Not Applicable	Not Applicable
+	"Utah"	"49"	"2005"	"2005"	"Jun., 2005"	"2005/06"	18	Not Applicable	Not Applicable
+	"Utah"	"49"	"2005"	"2005"	"Jul., 2005"	"2005/07"	31	Not Applicable	Not Applicable
+	"Utah"	"49"	"2005"	"2005"	"Aug., 2005"	"2005/08"	22	Not Applicable	Not Applicable
+	"Utah"	"49"	"2005"	"2005"	"Sep., 2005"	"2005/09"	34	Not Applicable	Not Applicable
+	"Utah"	"49"	"2005"	"2005"	"Oct., 2005"	"2005/10"	35	Not Applicable	Not Applicable
+	"Utah"	"49"	"2005"	"2005"	"Nov., 2005"	"2005/11"	27	Not Applicable	Not Applicable
+	"Utah"	"49"	"2005"	"2005"	"Dec., 2005"	"2005/12"	24	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2005"	"2005"	"Jan., 2005"	"2005/01"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2005"	"2005"	"Feb., 2005"	"2005/02"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2005"	"2005"	"Mar., 2005"	"2005/03"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2005"	"2005"	"Apr., 2005"	"2005/04"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2005"	"2005"	"May, 2005"	"2005/05"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2005"	"2005"	"Jun., 2005"	"2005/06"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2005"	"2005"	"Jul., 2005"	"2005/07"	0	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2005"	"2005"	"Aug., 2005"	"2005/08"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2005"	"2005"	"Sep., 2005"	"2005/09"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2005"	"2005"	"Oct., 2005"	"2005/10"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2005"	"2005"	"Nov., 2005"	"2005/11"	0	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2005"	"2005"	"Dec., 2005"	"2005/12"	Suppressed	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2005"	"2005"	"Jan., 2005"	"2005/01"	31	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2005"	"2005"	"Feb., 2005"	"2005/02"	25	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2005"	"2005"	"Mar., 2005"	"2005/03"	33	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2005"	"2005"	"Apr., 2005"	"2005/04"	36	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2005"	"2005"	"May, 2005"	"2005/05"	20	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2005"	"2005"	"Jun., 2005"	"2005/06"	26	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2005"	"2005"	"Jul., 2005"	"2005/07"	30	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2005"	"2005"	"Aug., 2005"	"2005/08"	28	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2005"	"2005"	"Sep., 2005"	"2005/09"	23	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2005"	"2005"	"Oct., 2005"	"2005/10"	27	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2005"	"2005"	"Nov., 2005"	"2005/11"	23	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2005"	"2005"	"Dec., 2005"	"2005/12"	32	Not Applicable	Not Applicable
+	"Washington"	"53"	"2005"	"2005"	"Jan., 2005"	"2005/01"	36	Not Applicable	Not Applicable
+	"Washington"	"53"	"2005"	"2005"	"Feb., 2005"	"2005/02"	49	Not Applicable	Not Applicable
+	"Washington"	"53"	"2005"	"2005"	"Mar., 2005"	"2005/03"	54	Not Applicable	Not Applicable
+	"Washington"	"53"	"2005"	"2005"	"Apr., 2005"	"2005/04"	38	Not Applicable	Not Applicable
+	"Washington"	"53"	"2005"	"2005"	"May, 2005"	"2005/05"	48	Not Applicable	Not Applicable
+	"Washington"	"53"	"2005"	"2005"	"Jun., 2005"	"2005/06"	41	Not Applicable	Not Applicable
+	"Washington"	"53"	"2005"	"2005"	"Jul., 2005"	"2005/07"	46	Not Applicable	Not Applicable
+	"Washington"	"53"	"2005"	"2005"	"Aug., 2005"	"2005/08"	48	Not Applicable	Not Applicable
+	"Washington"	"53"	"2005"	"2005"	"Sep., 2005"	"2005/09"	35	Not Applicable	Not Applicable
+	"Washington"	"53"	"2005"	"2005"	"Oct., 2005"	"2005/10"	49	Not Applicable	Not Applicable
+	"Washington"	"53"	"2005"	"2005"	"Nov., 2005"	"2005/11"	33	Not Applicable	Not Applicable
+	"Washington"	"53"	"2005"	"2005"	"Dec., 2005"	"2005/12"	55	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2005"	"2005"	"Jan., 2005"	"2005/01"	17	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2005"	"2005"	"Feb., 2005"	"2005/02"	26	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2005"	"2005"	"Mar., 2005"	"2005/03"	17	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2005"	"2005"	"Apr., 2005"	"2005/04"	22	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2005"	"2005"	"May, 2005"	"2005/05"	15	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2005"	"2005"	"Jun., 2005"	"2005/06"	11	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2005"	"2005"	"Jul., 2005"	"2005/07"	17	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2005"	"2005"	"Aug., 2005"	"2005/08"	Suppressed	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2005"	"2005"	"Sep., 2005"	"2005/09"	Suppressed	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2005"	"2005"	"Oct., 2005"	"2005/10"	Suppressed	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2005"	"2005"	"Nov., 2005"	"2005/11"	Suppressed	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2005"	"2005"	"Dec., 2005"	"2005/12"	Suppressed	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2005"	"2005"	"Jan., 2005"	"2005/01"	22	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2005"	"2005"	"Feb., 2005"	"2005/02"	25	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2005"	"2005"	"Mar., 2005"	"2005/03"	24	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2005"	"2005"	"Apr., 2005"	"2005/04"	26	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2005"	"2005"	"May, 2005"	"2005/05"	26	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2005"	"2005"	"Jun., 2005"	"2005/06"	19	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2005"	"2005"	"Jul., 2005"	"2005/07"	15	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2005"	"2005"	"Aug., 2005"	"2005/08"	20	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2005"	"2005"	"Sep., 2005"	"2005/09"	21	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2005"	"2005"	"Oct., 2005"	"2005/10"	22	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2005"	"2005"	"Nov., 2005"	"2005/11"	26	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2005"	"2005"	"Dec., 2005"	"2005/12"	22	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2005"	"2005"	"Jan., 2005"	"2005/01"	Suppressed	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2005"	"2005"	"Feb., 2005"	"2005/02"	Suppressed	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2005"	"2005"	"Mar., 2005"	"2005/03"	0	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2005"	"2005"	"Apr., 2005"	"2005/04"	Suppressed	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2005"	"2005"	"May, 2005"	"2005/05"	Suppressed	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2005"	"2005"	"Jun., 2005"	"2005/06"	Suppressed	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2005"	"2005"	"Jul., 2005"	"2005/07"	Suppressed	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2005"	"2005"	"Aug., 2005"	"2005/08"	Suppressed	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2005"	"2005"	"Sep., 2005"	"2005/09"	0	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2005"	"2005"	"Oct., 2005"	"2005/10"	0	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2005"	"2005"	"Nov., 2005"	"2005/11"	0	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2005"	"2005"	"Dec., 2005"	"2005/12"	0	Not Applicable	Not Applicable
+"---"
+"Dataset: Multiple Cause of Death, 1999-2020"
+"Query Parameters:"
+"MCD - ICD-10 Codes: T40.0 (Opium); T40.1 (Heroin); T40.2 (Other opioids); T40.3 (Methadone); T40.4 (Other synthetic narcotics)"
+"UCD - ICD-10 Codes: X40 (Accidental poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics); X41"
+"(Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not"
+"elsewhere classified); X42 (Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not"
+"elsewhere classified); X43 (Accidental poisoning by and exposure to other drugs acting on the autonomic nervous system); X44"
+"(Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances); X60 (Intentional"
+"self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics); X61 (Intentional self-poisoning by and"
+"exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified); X62"
+"(Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified); X63"
+"(Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system); X64 (Intentional"
+"self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances); X85 (Assault by drugs,"
+"medicaments and biological substances); Y10 (Poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics,"
+"undetermined intent); Y11 (Poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic"
+"drugs, not elsewhere classified, undetermined intent); Y12 (Poisoning by and exposure to narcotics and psychodysleptics"
+"[hallucinogens], not elsewhere classified, undetermined intent); Y13 (Poisoning by and exposure to other drugs acting on the"
+"autonomic nervous system, undetermined intent); Y14 (Poisoning by and exposure to other and unspecified drugs, medicaments and"
+"biological substances, undetermined intent)"
+"Year/Month: 2005"
+"Group By: State; Year; Month"
+"Show Totals: False"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: Jul 30, 2024 6:56:55 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/mcd-icd10.html on Jul 30, 2024 6:56:55 AM"
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when Autopsy, Place of Death, Weekday or Month are grouped by or limited,"
+"due to lack of a valid population. More information: http://wonder.cdc.gov/wonder/help/mcd.html#NotApplicableRates."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Unreliable."
+"4. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#ICD-10 Changes."

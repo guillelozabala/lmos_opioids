@@ -100,7 +100,8 @@ dev.off()
 
 
 
-data_states_location <- "C:/Users/g-mart36/Documents/GitHub/lmos_opioids/data/processed/merged_data_states.csv"
+#data_states_location <- "C:/Users/g-mart36/Documents/GitHub/lmos_opioids/data/processed/merged_data_states.csv"
+data_states_location <- "C:/Users/guill/Documents/GitHub/lmos_opioids/data/processed/merged_data_states.csv"
 
 # Load the data -- State-level data
 df_pmq_states <- read.csv(
@@ -108,6 +109,10 @@ df_pmq_states <- read.csv(
   header = TRUE,
   sep = ","
 )
+
+# Change in python file
+df_pmq_states <- df_pmq_states %>%
+  mutate(, as.numeric)
 
 # Include relative-to-treatement time markers and presc per capita
 df_pmq_states <- df_pmq_states |>
@@ -158,9 +163,6 @@ pmq_lfrate_plot_df_states <- lab_force_rate_pmq_effects_states$df_indcp
 
 rel_treat_1 <- pmq_lfrate_plot_df_states[pmq_lfrate_plot_df_states$relative_to_treat_pmq == 1,]
 
-plot(rel_treat_1$lab_force_rate_tilde, rel_treat_1$unemployed_per_job_opening_ratio_rate, type = "p")
-plot(rel_treat_1$lab_force_rate_tilde, rel_treat_1$job_openings, type = "p")
-
 pmq_untojobopen_t1_loc <- "C:/Users/guill/Documents/GitHub/lmos_opioids/results/pmq_untojobopen_t1.png"
 pmq_hires_t1_loc <- "C:/Users/guill/Documents/GitHub/lmos_opioids/results/pmq_hires_t1.png"
 pmq_hiresrate_t1_loc <- "C:/Users/guill/Documents/GitHub/lmos_opioids/results/pmq_hiresrate_t1.png"
@@ -173,6 +175,7 @@ pmq_totalsep_rate_t1_loc <- "C:/Users/guill/Documents/GitHub/lmos_opioids/result
 pmq_quits_t1_loc <- "C:/Users/guill/Documents/GitHub/lmos_opioids/results/pmq_quits_t1.png"
 pmq_quits_rate_t1_loc <- "C:/Users/guill/Documents/GitHub/lmos_opioids/results/pmq_quits_rate_t1.png"
 
+png(filename = pmq_untojobopen_t1_loc, width = 600, height = 539)
 ggplot(rel_treat_1, aes(x = unemployed_per_job_opening_ratio_rate, y = lab_force_rate_tilde)) +
   geom_point(
     size = 5,
@@ -189,7 +192,9 @@ ggplot(rel_treat_1, aes(x = unemployed_per_job_opening_ratio_rate, y = lab_force
     text = element_text(size = 20, family = "serif"),
     plot.title = element_text(hjust = 0.5)
   )
+dev.off()
 
+png(filename = pmq_hires_t1_loc, width = 600, height = 539)
 ggplot(rel_treat_1, aes(x = hires, y = lab_force_rate_tilde)) +
   geom_point(
     size = 5,
@@ -206,7 +211,9 @@ ggplot(rel_treat_1, aes(x = hires, y = lab_force_rate_tilde)) +
     text = element_text(size = 20, family = "serif"),
     plot.title = element_text(hjust = 0.5)
   )
+dev.off()
 
+png(filename = pmq_hiresrate_t1_loc, width = 600, height = 539)
 ggplot(rel_treat_1, aes(x = hires_rate, y = lab_force_rate_tilde)) +
   geom_point(
     size = 5,
@@ -223,7 +230,9 @@ ggplot(rel_treat_1, aes(x = hires_rate, y = lab_force_rate_tilde)) +
     text = element_text(size = 20, family = "serif"),
     plot.title = element_text(hjust = 0.5)
   )
+dev.off()
 
+png(filename = pmq_jobopen_t1_loc, width = 600, height = 539)
 ggplot(rel_treat_1, aes(x = job_openings, y = lab_force_rate_tilde)) +
   geom_point(
     size = 5,
@@ -240,7 +249,9 @@ ggplot(rel_treat_1, aes(x = job_openings, y = lab_force_rate_tilde)) +
     text = element_text(size = 20, family = "serif"),
     plot.title = element_text(hjust = 0.5)
   )
+dev.off()
 
+png(filename = pmq_jobopen_ratio_t1_loc, width = 600, height = 539)
 ggplot(rel_treat_1, aes(x = job_openings_rate, y = lab_force_rate_tilde)) +
   geom_point(
     size = 5,
@@ -257,7 +268,9 @@ ggplot(rel_treat_1, aes(x = job_openings_rate, y = lab_force_rate_tilde)) +
     text = element_text(size = 20, family = "serif"),
     plot.title = element_text(hjust = 0.5)
   )
+dev.off()
 
+png(filename = pmq_layoffs_t1_loc, width = 600, height = 539)
 ggplot(rel_treat_1, aes(x = layoffs, y = lab_force_rate_tilde)) +
   geom_point(
     size = 5,
@@ -274,7 +287,9 @@ ggplot(rel_treat_1, aes(x = layoffs, y = lab_force_rate_tilde)) +
     text = element_text(size = 20, family = "serif"),
     plot.title = element_text(hjust = 0.5)
   )
+dev.off()
 
+png(filename = pmq_layoffs_rate_t1_loc, width = 600, height = 539)
 ggplot(rel_treat_1, aes(x = layoffs_rate, y = lab_force_rate_tilde)) +
   geom_point(
     size = 5,
@@ -291,7 +306,9 @@ ggplot(rel_treat_1, aes(x = layoffs_rate, y = lab_force_rate_tilde)) +
     text = element_text(size = 20, family = "serif"),
     plot.title = element_text(hjust = 0.5)
   )
+dev.off()
 
+png(filename = pmq_totalsep_t1_loc, width = 600, height = 539)
 ggplot(rel_treat_1, aes(x = total_separations, y = lab_force_rate_tilde)) +
   geom_point(
     size = 5,
@@ -308,7 +325,9 @@ ggplot(rel_treat_1, aes(x = total_separations, y = lab_force_rate_tilde)) +
     text = element_text(size = 20, family = "serif"),
     plot.title = element_text(hjust = 0.5)
   )
+dev.off()
 
+png(filename = pmq_totalsep_rate_t1_loc, width = 600, height = 539)
 ggplot(rel_treat_1, aes(x = total_separations_rate, y = lab_force_rate_tilde)) +
   geom_point(
     size = 5,
@@ -325,7 +344,9 @@ ggplot(rel_treat_1, aes(x = total_separations_rate, y = lab_force_rate_tilde)) +
     text = element_text(size = 20, family = "serif"),
     plot.title = element_text(hjust = 0.5)
   )
+dev.off()
 
+png(filename = pmq_quits_t1_loc, width = 600, height = 539)
 ggplot(rel_treat_1, aes(x = quits, y = lab_force_rate_tilde)) +
   geom_point(
     size = 5,
@@ -342,7 +363,9 @@ ggplot(rel_treat_1, aes(x = quits, y = lab_force_rate_tilde)) +
     text = element_text(size = 20, family = "serif"),
     plot.title = element_text(hjust = 0.5)
   )
+dev.off()
 
+png(filename = pmq_quits_rate_t1_loc, width = 600, height = 539)
 ggplot(rel_treat_1, aes(x = quits_rate, y = lab_force_rate_tilde)) +
   geom_point(
     size = 5,
@@ -359,6 +382,7 @@ ggplot(rel_treat_1, aes(x = quits_rate, y = lab_force_rate_tilde)) +
     text = element_text(size = 20, family = "serif"),
     plot.title = element_text(hjust = 0.5)
   )
+dev.off()
 
 # Time averages
 

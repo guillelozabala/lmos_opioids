@@ -5,10 +5,12 @@ import re
 
 # Define the initial and last years
 initial_year = 2003
+prescriptions_initial_year = 2006
 last_year = 2019
 
 # Create a range of years from initial_year to last_year
 year_range = range(initial_year, last_year + 1)
+year_range_prescriptions = range(prescriptions_initial_year, last_year + 1)
 
 ### Load the county identifiers ####################################################################
 
@@ -98,7 +100,6 @@ demographics["working_age_pop"] = demographics["working_age_pop_weight"] * demog
 
 ### Load the minimum wage data ######################################################################
 
-# Load the minimum wage data
 minwage = pd.read_csv(f'./data/intermediate/minimum_wage/minwage_clean_states.csv')
 
 # Rename the columns to match the desired names
@@ -106,13 +107,16 @@ minwage = minwage.rename(columns={
     'State or otherjurisdiction': 'state_name',
     'Year': 'year',
     'Value': 'min_wage'
-})
+    })
 
 # Filter out the rows where the state is 'Federal (FLSA)'
 minwage = minwage[minwage['state_name'] != 'Federal (FLSA)']
 
 # Filter out the rows where the year is not within the specified range
 minwage = minwage[(minwage['year'] >= initial_year) & (minwage['year'] <= last_year)]
+
+# Obtain the log minimum wage
+minwage['log_minw'] = np.log(minwage['min_wage'])
 
 ### Load the PDMPs data ##############################################################################
 
@@ -193,6 +197,9 @@ sector_shares_cov.columns = 'emp_' + sector_shares_cov.columns + '_ratio'
 # Rename the columns 'emp_year_ratio' and 'emp_fips_ratio' to 'year' and 'fips' respectively
 sector_shares_cov = sector_shares_cov.rename({'emp_year_ratio': 'year', 'emp_fips_ratio': 'fips'}, axis=1)
 
+# Convert the 'fips' column to an integer
+sector_shares_cov['fips'] = sector_shares_cov['fips'].astype("Int64")
+
 # Extract the first three digits of the 'naics' column and create a new column 'naics_3digits'
 sector_shares['naics_3digits'] = sector_shares['naics'].astype(str).str[:3] + '000'
 
@@ -268,7 +275,12 @@ h_columns = [col for col in industry_wage_dist.columns if col.startswith('h_')]
 # Convert the columns to numeric
 fips_wage_distributions[h_columns] = fips_wage_distributions[h_columns].apply(pd.to_numeric, errors='coerce').astype(float)
 
+# Obtain the log values
+fips_wage_distributions[['log_h_pct10', 'log_h_pct25', 'log_h_pct50', 'log_h_pct75', 'log_h_pct90']] = np.log(fips_wage_distributions[['h_pct10', 'h_pct25', 'h_pct50', 'h_pct75', 'h_pct90']])
+
+
 ### Load the overdose deaths data ####################################################################
+
 od_deaths_total = pd.read_csv(f'./data/source/overdose_deaths_total/NCHS_Drug_Poisoning_Mortality_by_County_United_States.csv')
 
 od_deaths_total = od_deaths_total[['FIPS', 'Year', 'Model-based Death Rate', 'Lower Confidence Limit', 'Upper Confidence Limit', 'Urban/Rural Category']]
@@ -282,19 +294,36 @@ od_deaths_total = od_deaths_total.rename(columns={
     'Urban/Rural Category': 'urban_rural'
     })
 
-print(od_deaths_total)
-
 ### Load the prescriptions data ######################################################################
 
+county_fips_arcos = pd.read_csv('./data/source/fips/county_fips_arcos.csv')
+
+arcos_data = []
+for year in year_range_prescriptions:
+    # Load the prescription data for each year
+    prescriptions_data = pd.read_csv(f'./data/source/prescriptions/prescriptions_{year}.csv')
+    # Merge the prescription data with the county fips data
+    prescriptions_data = pd.merge(prescriptions_data, county_fips_arcos, on=['BUYER_COUNTY','BUYER_STATE'], how='inner')
+    # Group the data by county and year-month and sum dosage unit, MME conversion factor, and base weight in grams
+    prescriptions_data = prescriptions_data.groupby(['countyfips', 'year', 'month'])[['DOSAGE_UNIT', 'MME_CONVERSION_FACTOR', 'CALC_BASE_WT_IN_GM']].sum().reset_index()
+    # Append the dataframe to the list
+    arcos_data.append(prescriptions_data)
+# Concatenate the dataframes in the list
+prescriptions = pd.concat(arcos_data)
+
+# Rename the columns
+prescriptions = prescriptions.rename(columns={
+    'countyfips': 'fips',
+    'DOSAGE_UNIT': 'dosage_unit',
+    'MME_CONVERSION_FACTOR': 'mme_conversion_factor',
+    'CALC_BASE_WT_IN_GM': 'base_weight'
+    })
 
 
-# Merge the dataframes
+### Merge the datasets ###############################################################################
 
 # Merge the labor market outcomes data with the county demographics data
 merged_data = pd.merge(merged_lmos, demographics, on=['fips', 'year'], how='inner')
-
-# Obtain labor force part ratio
-merged_data['lab_force_rate'] = (merged_data['labor_force'] / merged_data['working_age_pop'] * 100).round(4)
 
 # Merge with the minimum wage data
 merged_data = pd.merge(merged_data, minwage, on=['state_name', 'year'], how='inner')
@@ -303,7 +332,6 @@ merged_data = pd.merge(merged_data, minwage, on=['state_name', 'year'], how='inn
 merged_data = pd.merge(merged_data, pdmps, on=['state_name'], how='inner')
 
 # Merge with the sector composition data
-sector_shares_cov['fips'] = sector_shares_cov['fips'].astype("Int64")
 merged_data = pd.merge(merged_data, sector_shares_cov, on=['fips', 'year'], how='inner')
 
 # Merge with the wage distribution data
@@ -312,9 +340,8 @@ merged_data = pd.merge(merged_data, fips_wage_distributions, on=['fips', 'year']
 # Merge with the overdose deaths data
 merged_data = pd.merge(merged_data, od_deaths_total, on=['fips', 'year'], how='inner')
 
-# Obtain the log values
-merged_data['log_minw'] = np.log(merged_data['min_wage'])
-merged_data[['log_h_pct10', 'log_h_pct25', 'log_h_pct50', 'log_h_pct75', 'log_h_pct90']] = np.log(merged_data[['h_pct10', 'h_pct25', 'h_pct50', 'h_pct75', 'h_pct90']])
+# Obtain labor force part ratio
+merged_data['lab_force_rate'] = (merged_data['labor_force'] / merged_data['working_age_pop'] * 100).round(4)
 
 # Calculate the Kaitz index for different percentiles
 merged_data['kaitz_pct10'] = merged_data['log_minw'] - merged_data['log_h_pct10']

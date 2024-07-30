@@ -1,0 +1,659 @@
+"Notes"	"State"	"State Code"	"Year"	"Year Code"	"Month"	"Month Code"	Deaths	Population	Crude Rate
+	"Alabama"	"01"	"2007"	"2007"	"Jan., 2007"	"2007/01"	18	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2007"	"2007"	"Feb., 2007"	"2007/02"	Suppressed	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2007"	"2007"	"Mar., 2007"	"2007/03"	14	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2007"	"2007"	"Apr., 2007"	"2007/04"	17	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2007"	"2007"	"May, 2007"	"2007/05"	17	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2007"	"2007"	"Jun., 2007"	"2007/06"	11	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2007"	"2007"	"Jul., 2007"	"2007/07"	12	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2007"	"2007"	"Aug., 2007"	"2007/08"	Suppressed	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2007"	"2007"	"Sep., 2007"	"2007/09"	17	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2007"	"2007"	"Oct., 2007"	"2007/10"	14	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2007"	"2007"	"Nov., 2007"	"2007/11"	13	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2007"	"2007"	"Dec., 2007"	"2007/12"	10	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2007"	"2007"	"Jan., 2007"	"2007/01"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2007"	"2007"	"Feb., 2007"	"2007/02"	0	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2007"	"2007"	"Mar., 2007"	"2007/03"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2007"	"2007"	"Apr., 2007"	"2007/04"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2007"	"2007"	"May, 2007"	"2007/05"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2007"	"2007"	"Jun., 2007"	"2007/06"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2007"	"2007"	"Jul., 2007"	"2007/07"	0	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2007"	"2007"	"Aug., 2007"	"2007/08"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2007"	"2007"	"Sep., 2007"	"2007/09"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2007"	"2007"	"Oct., 2007"	"2007/10"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2007"	"2007"	"Nov., 2007"	"2007/11"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2007"	"2007"	"Dec., 2007"	"2007/12"	Suppressed	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2007"	"2007"	"Jan., 2007"	"2007/01"	25	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2007"	"2007"	"Feb., 2007"	"2007/02"	25	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2007"	"2007"	"Mar., 2007"	"2007/03"	32	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2007"	"2007"	"Apr., 2007"	"2007/04"	30	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2007"	"2007"	"May, 2007"	"2007/05"	23	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2007"	"2007"	"Jun., 2007"	"2007/06"	29	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2007"	"2007"	"Jul., 2007"	"2007/07"	34	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2007"	"2007"	"Aug., 2007"	"2007/08"	46	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2007"	"2007"	"Sep., 2007"	"2007/09"	23	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2007"	"2007"	"Oct., 2007"	"2007/10"	34	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2007"	"2007"	"Nov., 2007"	"2007/11"	24	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2007"	"2007"	"Dec., 2007"	"2007/12"	31	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2007"	"2007"	"Jan., 2007"	"2007/01"	15	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2007"	"2007"	"Feb., 2007"	"2007/02"	10	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2007"	"2007"	"Mar., 2007"	"2007/03"	10	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2007"	"2007"	"Apr., 2007"	"2007/04"	12	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2007"	"2007"	"May, 2007"	"2007/05"	Suppressed	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2007"	"2007"	"Jun., 2007"	"2007/06"	21	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2007"	"2007"	"Jul., 2007"	"2007/07"	11	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2007"	"2007"	"Aug., 2007"	"2007/08"	Suppressed	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2007"	"2007"	"Sep., 2007"	"2007/09"	10	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2007"	"2007"	"Oct., 2007"	"2007/10"	17	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2007"	"2007"	"Nov., 2007"	"2007/11"	12	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2007"	"2007"	"Dec., 2007"	"2007/12"	Suppressed	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Jan., 2007"	"2007/01"	122	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Feb., 2007"	"2007/02"	101	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Mar., 2007"	"2007/03"	143	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Apr., 2007"	"2007/04"	116	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"May, 2007"	"2007/05"	120	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Jun., 2007"	"2007/06"	134	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Jul., 2007"	"2007/07"	112	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Aug., 2007"	"2007/08"	133	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Sep., 2007"	"2007/09"	104	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Oct., 2007"	"2007/10"	119	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Nov., 2007"	"2007/11"	125	Not Applicable	Not Applicable
+	"California"	"06"	"2007"	"2007"	"Dec., 2007"	"2007/12"	135	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2007"	"2007"	"Jan., 2007"	"2007/01"	29	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2007"	"2007"	"Feb., 2007"	"2007/02"	27	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2007"	"2007"	"Mar., 2007"	"2007/03"	30	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2007"	"2007"	"Apr., 2007"	"2007/04"	19	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2007"	"2007"	"May, 2007"	"2007/05"	23	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2007"	"2007"	"Jun., 2007"	"2007/06"	34	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2007"	"2007"	"Jul., 2007"	"2007/07"	21	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2007"	"2007"	"Aug., 2007"	"2007/08"	24	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2007"	"2007"	"Sep., 2007"	"2007/09"	26	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2007"	"2007"	"Oct., 2007"	"2007/10"	29	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2007"	"2007"	"Nov., 2007"	"2007/11"	21	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2007"	"2007"	"Dec., 2007"	"2007/12"	26	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2007"	"2007"	"Jan., 2007"	"2007/01"	19	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2007"	"2007"	"Feb., 2007"	"2007/02"	16	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2007"	"2007"	"Mar., 2007"	"2007/03"	19	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2007"	"2007"	"Apr., 2007"	"2007/04"	19	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2007"	"2007"	"May, 2007"	"2007/05"	21	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2007"	"2007"	"Jun., 2007"	"2007/06"	25	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2007"	"2007"	"Jul., 2007"	"2007/07"	14	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2007"	"2007"	"Aug., 2007"	"2007/08"	13	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2007"	"2007"	"Sep., 2007"	"2007/09"	18	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2007"	"2007"	"Oct., 2007"	"2007/10"	19	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2007"	"2007"	"Nov., 2007"	"2007/11"	16	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2007"	"2007"	"Dec., 2007"	"2007/12"	14	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2007"	"2007"	"Jan., 2007"	"2007/01"	Suppressed	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2007"	"2007"	"Feb., 2007"	"2007/02"	Suppressed	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2007"	"2007"	"Mar., 2007"	"2007/03"	Suppressed	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2007"	"2007"	"Apr., 2007"	"2007/04"	Suppressed	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2007"	"2007"	"May, 2007"	"2007/05"	Suppressed	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2007"	"2007"	"Jun., 2007"	"2007/06"	0	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2007"	"2007"	"Jul., 2007"	"2007/07"	Suppressed	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2007"	"2007"	"Aug., 2007"	"2007/08"	Suppressed	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2007"	"2007"	"Sep., 2007"	"2007/09"	Suppressed	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2007"	"2007"	"Oct., 2007"	"2007/10"	Suppressed	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2007"	"2007"	"Nov., 2007"	"2007/11"	Suppressed	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2007"	"2007"	"Dec., 2007"	"2007/12"	Suppressed	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2007"	"2007"	"Jan., 2007"	"2007/01"	0	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2007"	"2007"	"Feb., 2007"	"2007/02"	Suppressed	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2007"	"2007"	"Mar., 2007"	"2007/03"	Suppressed	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2007"	"2007"	"Apr., 2007"	"2007/04"	Suppressed	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2007"	"2007"	"May, 2007"	"2007/05"	0	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2007"	"2007"	"Jun., 2007"	"2007/06"	Suppressed	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2007"	"2007"	"Jul., 2007"	"2007/07"	Suppressed	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2007"	"2007"	"Aug., 2007"	"2007/08"	0	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2007"	"2007"	"Sep., 2007"	"2007/09"	Suppressed	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2007"	"2007"	"Oct., 2007"	"2007/10"	Suppressed	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2007"	"2007"	"Nov., 2007"	"2007/11"	Suppressed	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2007"	"2007"	"Dec., 2007"	"2007/12"	Suppressed	Not Applicable	Not Applicable
+	"Florida"	"12"	"2007"	"2007"	"Jan., 2007"	"2007/01"	101	Not Applicable	Not Applicable
+	"Florida"	"12"	"2007"	"2007"	"Feb., 2007"	"2007/02"	103	Not Applicable	Not Applicable
+	"Florida"	"12"	"2007"	"2007"	"Mar., 2007"	"2007/03"	147	Not Applicable	Not Applicable
+	"Florida"	"12"	"2007"	"2007"	"Apr., 2007"	"2007/04"	107	Not Applicable	Not Applicable
+	"Florida"	"12"	"2007"	"2007"	"May, 2007"	"2007/05"	133	Not Applicable	Not Applicable
+	"Florida"	"12"	"2007"	"2007"	"Jun., 2007"	"2007/06"	105	Not Applicable	Not Applicable
+	"Florida"	"12"	"2007"	"2007"	"Jul., 2007"	"2007/07"	87	Not Applicable	Not Applicable
+	"Florida"	"12"	"2007"	"2007"	"Aug., 2007"	"2007/08"	131	Not Applicable	Not Applicable
+	"Florida"	"12"	"2007"	"2007"	"Sep., 2007"	"2007/09"	116	Not Applicable	Not Applicable
+	"Florida"	"12"	"2007"	"2007"	"Oct., 2007"	"2007/10"	130	Not Applicable	Not Applicable
+	"Florida"	"12"	"2007"	"2007"	"Nov., 2007"	"2007/11"	108	Not Applicable	Not Applicable
+	"Florida"	"12"	"2007"	"2007"	"Dec., 2007"	"2007/12"	126	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2007"	"2007"	"Jan., 2007"	"2007/01"	30	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2007"	"2007"	"Feb., 2007"	"2007/02"	26	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2007"	"2007"	"Mar., 2007"	"2007/03"	27	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2007"	"2007"	"Apr., 2007"	"2007/04"	34	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2007"	"2007"	"May, 2007"	"2007/05"	27	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2007"	"2007"	"Jun., 2007"	"2007/06"	22	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2007"	"2007"	"Jul., 2007"	"2007/07"	25	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2007"	"2007"	"Aug., 2007"	"2007/08"	31	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2007"	"2007"	"Sep., 2007"	"2007/09"	28	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2007"	"2007"	"Oct., 2007"	"2007/10"	22	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2007"	"2007"	"Nov., 2007"	"2007/11"	39	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2007"	"2007"	"Dec., 2007"	"2007/12"	47	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2007"	"2007"	"Jan., 2007"	"2007/01"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2007"	"2007"	"Feb., 2007"	"2007/02"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2007"	"2007"	"Mar., 2007"	"2007/03"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2007"	"2007"	"Apr., 2007"	"2007/04"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2007"	"2007"	"May, 2007"	"2007/05"	14	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2007"	"2007"	"Jun., 2007"	"2007/06"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2007"	"2007"	"Jul., 2007"	"2007/07"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2007"	"2007"	"Aug., 2007"	"2007/08"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2007"	"2007"	"Sep., 2007"	"2007/09"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2007"	"2007"	"Oct., 2007"	"2007/10"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2007"	"2007"	"Nov., 2007"	"2007/11"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2007"	"2007"	"Dec., 2007"	"2007/12"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2007"	"2007"	"Jan., 2007"	"2007/01"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2007"	"2007"	"Feb., 2007"	"2007/02"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2007"	"2007"	"Mar., 2007"	"2007/03"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2007"	"2007"	"Apr., 2007"	"2007/04"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2007"	"2007"	"May, 2007"	"2007/05"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2007"	"2007"	"Jun., 2007"	"2007/06"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2007"	"2007"	"Jul., 2007"	"2007/07"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2007"	"2007"	"Aug., 2007"	"2007/08"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2007"	"2007"	"Sep., 2007"	"2007/09"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2007"	"2007"	"Oct., 2007"	"2007/10"	11	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2007"	"2007"	"Nov., 2007"	"2007/11"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2007"	"2007"	"Dec., 2007"	"2007/12"	Suppressed	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2007"	"2007"	"Jan., 2007"	"2007/01"	30	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2007"	"2007"	"Feb., 2007"	"2007/02"	19	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2007"	"2007"	"Mar., 2007"	"2007/03"	40	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2007"	"2007"	"Apr., 2007"	"2007/04"	33	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2007"	"2007"	"May, 2007"	"2007/05"	23	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2007"	"2007"	"Jun., 2007"	"2007/06"	27	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2007"	"2007"	"Jul., 2007"	"2007/07"	27	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2007"	"2007"	"Aug., 2007"	"2007/08"	27	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2007"	"2007"	"Sep., 2007"	"2007/09"	36	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2007"	"2007"	"Oct., 2007"	"2007/10"	22	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2007"	"2007"	"Nov., 2007"	"2007/11"	40	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2007"	"2007"	"Dec., 2007"	"2007/12"	51	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2007"	"2007"	"Jan., 2007"	"2007/01"	17	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2007"	"2007"	"Feb., 2007"	"2007/02"	19	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2007"	"2007"	"Mar., 2007"	"2007/03"	20	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2007"	"2007"	"Apr., 2007"	"2007/04"	17	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2007"	"2007"	"May, 2007"	"2007/05"	11	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2007"	"2007"	"Jun., 2007"	"2007/06"	19	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2007"	"2007"	"Jul., 2007"	"2007/07"	15	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2007"	"2007"	"Aug., 2007"	"2007/08"	23	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2007"	"2007"	"Sep., 2007"	"2007/09"	16	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2007"	"2007"	"Oct., 2007"	"2007/10"	20	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2007"	"2007"	"Nov., 2007"	"2007/11"	17	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2007"	"2007"	"Dec., 2007"	"2007/12"	18	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2007"	"2007"	"Jan., 2007"	"2007/01"	10	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2007"	"2007"	"Feb., 2007"	"2007/02"	Suppressed	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2007"	"2007"	"Mar., 2007"	"2007/03"	Suppressed	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2007"	"2007"	"Apr., 2007"	"2007/04"	Suppressed	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2007"	"2007"	"May, 2007"	"2007/05"	10	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2007"	"2007"	"Jun., 2007"	"2007/06"	Suppressed	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2007"	"2007"	"Jul., 2007"	"2007/07"	10	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2007"	"2007"	"Aug., 2007"	"2007/08"	Suppressed	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2007"	"2007"	"Sep., 2007"	"2007/09"	Suppressed	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2007"	"2007"	"Oct., 2007"	"2007/10"	Suppressed	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2007"	"2007"	"Nov., 2007"	"2007/11"	Suppressed	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2007"	"2007"	"Dec., 2007"	"2007/12"	13	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2007"	"2007"	"Jan., 2007"	"2007/01"	10	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2007"	"2007"	"Feb., 2007"	"2007/02"	Suppressed	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2007"	"2007"	"Mar., 2007"	"2007/03"	13	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2007"	"2007"	"Apr., 2007"	"2007/04"	10	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2007"	"2007"	"May, 2007"	"2007/05"	14	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2007"	"2007"	"Jun., 2007"	"2007/06"	11	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2007"	"2007"	"Jul., 2007"	"2007/07"	Suppressed	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2007"	"2007"	"Aug., 2007"	"2007/08"	Suppressed	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2007"	"2007"	"Sep., 2007"	"2007/09"	Suppressed	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2007"	"2007"	"Oct., 2007"	"2007/10"	Suppressed	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2007"	"2007"	"Nov., 2007"	"2007/11"	Suppressed	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2007"	"2007"	"Dec., 2007"	"2007/12"	12	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2007"	"2007"	"Jan., 2007"	"2007/01"	25	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2007"	"2007"	"Feb., 2007"	"2007/02"	26	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2007"	"2007"	"Mar., 2007"	"2007/03"	24	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2007"	"2007"	"Apr., 2007"	"2007/04"	32	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2007"	"2007"	"May, 2007"	"2007/05"	31	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2007"	"2007"	"Jun., 2007"	"2007/06"	31	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2007"	"2007"	"Jul., 2007"	"2007/07"	29	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2007"	"2007"	"Aug., 2007"	"2007/08"	25	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2007"	"2007"	"Sep., 2007"	"2007/09"	22	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2007"	"2007"	"Oct., 2007"	"2007/10"	26	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2007"	"2007"	"Nov., 2007"	"2007/11"	25	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2007"	"2007"	"Dec., 2007"	"2007/12"	28	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2007"	"2007"	"Jan., 2007"	"2007/01"	13	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2007"	"2007"	"Feb., 2007"	"2007/02"	11	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2007"	"2007"	"Mar., 2007"	"2007/03"	15	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2007"	"2007"	"Apr., 2007"	"2007/04"	25	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2007"	"2007"	"May, 2007"	"2007/05"	10	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2007"	"2007"	"Jun., 2007"	"2007/06"	19	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2007"	"2007"	"Jul., 2007"	"2007/07"	13	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2007"	"2007"	"Aug., 2007"	"2007/08"	18	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2007"	"2007"	"Sep., 2007"	"2007/09"	14	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2007"	"2007"	"Oct., 2007"	"2007/10"	11	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2007"	"2007"	"Nov., 2007"	"2007/11"	22	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2007"	"2007"	"Dec., 2007"	"2007/12"	24	Not Applicable	Not Applicable
+	"Maine"	"23"	"2007"	"2007"	"Jan., 2007"	"2007/01"	Suppressed	Not Applicable	Not Applicable
+	"Maine"	"23"	"2007"	"2007"	"Feb., 2007"	"2007/02"	Suppressed	Not Applicable	Not Applicable
+	"Maine"	"23"	"2007"	"2007"	"Mar., 2007"	"2007/03"	Suppressed	Not Applicable	Not Applicable
+	"Maine"	"23"	"2007"	"2007"	"Apr., 2007"	"2007/04"	14	Not Applicable	Not Applicable
+	"Maine"	"23"	"2007"	"2007"	"May, 2007"	"2007/05"	Suppressed	Not Applicable	Not Applicable
+	"Maine"	"23"	"2007"	"2007"	"Jun., 2007"	"2007/06"	Suppressed	Not Applicable	Not Applicable
+	"Maine"	"23"	"2007"	"2007"	"Jul., 2007"	"2007/07"	Suppressed	Not Applicable	Not Applicable
+	"Maine"	"23"	"2007"	"2007"	"Aug., 2007"	"2007/08"	Suppressed	Not Applicable	Not Applicable
+	"Maine"	"23"	"2007"	"2007"	"Sep., 2007"	"2007/09"	13	Not Applicable	Not Applicable
+	"Maine"	"23"	"2007"	"2007"	"Oct., 2007"	"2007/10"	Suppressed	Not Applicable	Not Applicable
+	"Maine"	"23"	"2007"	"2007"	"Nov., 2007"	"2007/11"	Suppressed	Not Applicable	Not Applicable
+	"Maine"	"23"	"2007"	"2007"	"Dec., 2007"	"2007/12"	Suppressed	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2007"	"2007"	"Jan., 2007"	"2007/01"	38	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2007"	"2007"	"Feb., 2007"	"2007/02"	20	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2007"	"2007"	"Mar., 2007"	"2007/03"	37	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2007"	"2007"	"Apr., 2007"	"2007/04"	31	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2007"	"2007"	"May, 2007"	"2007/05"	35	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2007"	"2007"	"Jun., 2007"	"2007/06"	38	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2007"	"2007"	"Jul., 2007"	"2007/07"	53	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2007"	"2007"	"Aug., 2007"	"2007/08"	38	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2007"	"2007"	"Sep., 2007"	"2007/09"	30	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2007"	"2007"	"Oct., 2007"	"2007/10"	40	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2007"	"2007"	"Nov., 2007"	"2007/11"	45	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2007"	"2007"	"Dec., 2007"	"2007/12"	41	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2007"	"2007"	"Jan., 2007"	"2007/01"	38	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2007"	"2007"	"Feb., 2007"	"2007/02"	43	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2007"	"2007"	"Mar., 2007"	"2007/03"	39	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2007"	"2007"	"Apr., 2007"	"2007/04"	50	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2007"	"2007"	"May, 2007"	"2007/05"	32	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2007"	"2007"	"Jun., 2007"	"2007/06"	27	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2007"	"2007"	"Jul., 2007"	"2007/07"	38	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2007"	"2007"	"Aug., 2007"	"2007/08"	24	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2007"	"2007"	"Sep., 2007"	"2007/09"	24	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2007"	"2007"	"Oct., 2007"	"2007/10"	22	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2007"	"2007"	"Nov., 2007"	"2007/11"	29	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2007"	"2007"	"Dec., 2007"	"2007/12"	31	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2007"	"2007"	"Jan., 2007"	"2007/01"	43	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2007"	"2007"	"Feb., 2007"	"2007/02"	44	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2007"	"2007"	"Mar., 2007"	"2007/03"	39	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2007"	"2007"	"Apr., 2007"	"2007/04"	39	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2007"	"2007"	"May, 2007"	"2007/05"	27	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2007"	"2007"	"Jun., 2007"	"2007/06"	38	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2007"	"2007"	"Jul., 2007"	"2007/07"	43	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2007"	"2007"	"Aug., 2007"	"2007/08"	32	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2007"	"2007"	"Sep., 2007"	"2007/09"	39	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2007"	"2007"	"Oct., 2007"	"2007/10"	51	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2007"	"2007"	"Nov., 2007"	"2007/11"	35	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2007"	"2007"	"Dec., 2007"	"2007/12"	48	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2007"	"2007"	"Jan., 2007"	"2007/01"	11	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2007"	"2007"	"Feb., 2007"	"2007/02"	16	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2007"	"2007"	"Mar., 2007"	"2007/03"	16	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2007"	"2007"	"Apr., 2007"	"2007/04"	11	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2007"	"2007"	"May, 2007"	"2007/05"	Suppressed	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2007"	"2007"	"Jun., 2007"	"2007/06"	14	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2007"	"2007"	"Jul., 2007"	"2007/07"	15	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2007"	"2007"	"Aug., 2007"	"2007/08"	15	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2007"	"2007"	"Sep., 2007"	"2007/09"	16	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2007"	"2007"	"Oct., 2007"	"2007/10"	12	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2007"	"2007"	"Nov., 2007"	"2007/11"	14	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2007"	"2007"	"Dec., 2007"	"2007/12"	Suppressed	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2007"	"2007"	"Jan., 2007"	"2007/01"	Suppressed	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2007"	"2007"	"Feb., 2007"	"2007/02"	Suppressed	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2007"	"2007"	"Mar., 2007"	"2007/03"	Suppressed	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2007"	"2007"	"Apr., 2007"	"2007/04"	Suppressed	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2007"	"2007"	"May, 2007"	"2007/05"	Suppressed	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2007"	"2007"	"Jun., 2007"	"2007/06"	Suppressed	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2007"	"2007"	"Jul., 2007"	"2007/07"	Suppressed	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2007"	"2007"	"Aug., 2007"	"2007/08"	Suppressed	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2007"	"2007"	"Sep., 2007"	"2007/09"	Suppressed	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2007"	"2007"	"Oct., 2007"	"2007/10"	Suppressed	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2007"	"2007"	"Nov., 2007"	"2007/11"	11	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2007"	"2007"	"Dec., 2007"	"2007/12"	Suppressed	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2007"	"2007"	"Jan., 2007"	"2007/01"	37	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2007"	"2007"	"Feb., 2007"	"2007/02"	29	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2007"	"2007"	"Mar., 2007"	"2007/03"	36	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2007"	"2007"	"Apr., 2007"	"2007/04"	26	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2007"	"2007"	"May, 2007"	"2007/05"	23	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2007"	"2007"	"Jun., 2007"	"2007/06"	25	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2007"	"2007"	"Jul., 2007"	"2007/07"	29	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2007"	"2007"	"Aug., 2007"	"2007/08"	29	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2007"	"2007"	"Sep., 2007"	"2007/09"	34	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2007"	"2007"	"Oct., 2007"	"2007/10"	27	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2007"	"2007"	"Nov., 2007"	"2007/11"	28	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2007"	"2007"	"Dec., 2007"	"2007/12"	39	Not Applicable	Not Applicable
+	"Montana"	"30"	"2007"	"2007"	"Jan., 2007"	"2007/01"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2007"	"2007"	"Feb., 2007"	"2007/02"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2007"	"2007"	"Mar., 2007"	"2007/03"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2007"	"2007"	"Apr., 2007"	"2007/04"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2007"	"2007"	"May, 2007"	"2007/05"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2007"	"2007"	"Jun., 2007"	"2007/06"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2007"	"2007"	"Jul., 2007"	"2007/07"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2007"	"2007"	"Aug., 2007"	"2007/08"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2007"	"2007"	"Sep., 2007"	"2007/09"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2007"	"2007"	"Oct., 2007"	"2007/10"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2007"	"2007"	"Nov., 2007"	"2007/11"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2007"	"2007"	"Dec., 2007"	"2007/12"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2007"	"2007"	"Jan., 2007"	"2007/01"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2007"	"2007"	"Feb., 2007"	"2007/02"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2007"	"2007"	"Mar., 2007"	"2007/03"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2007"	"2007"	"Apr., 2007"	"2007/04"	0	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2007"	"2007"	"May, 2007"	"2007/05"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2007"	"2007"	"Jun., 2007"	"2007/06"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2007"	"2007"	"Jul., 2007"	"2007/07"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2007"	"2007"	"Aug., 2007"	"2007/08"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2007"	"2007"	"Sep., 2007"	"2007/09"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2007"	"2007"	"Oct., 2007"	"2007/10"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2007"	"2007"	"Nov., 2007"	"2007/11"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2007"	"2007"	"Dec., 2007"	"2007/12"	Suppressed	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2007"	"2007"	"Jan., 2007"	"2007/01"	21	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2007"	"2007"	"Feb., 2007"	"2007/02"	25	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2007"	"2007"	"Mar., 2007"	"2007/03"	21	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2007"	"2007"	"Apr., 2007"	"2007/04"	22	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2007"	"2007"	"May, 2007"	"2007/05"	37	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2007"	"2007"	"Jun., 2007"	"2007/06"	33	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2007"	"2007"	"Jul., 2007"	"2007/07"	23	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2007"	"2007"	"Aug., 2007"	"2007/08"	31	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2007"	"2007"	"Sep., 2007"	"2007/09"	39	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2007"	"2007"	"Oct., 2007"	"2007/10"	32	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2007"	"2007"	"Nov., 2007"	"2007/11"	22	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2007"	"2007"	"Dec., 2007"	"2007/12"	36	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2007"	"2007"	"Jan., 2007"	"2007/01"	Suppressed	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2007"	"2007"	"Feb., 2007"	"2007/02"	Suppressed	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2007"	"2007"	"Mar., 2007"	"2007/03"	Suppressed	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2007"	"2007"	"Apr., 2007"	"2007/04"	13	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2007"	"2007"	"May, 2007"	"2007/05"	11	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2007"	"2007"	"Jun., 2007"	"2007/06"	Suppressed	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2007"	"2007"	"Jul., 2007"	"2007/07"	Suppressed	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2007"	"2007"	"Aug., 2007"	"2007/08"	Suppressed	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2007"	"2007"	"Sep., 2007"	"2007/09"	17	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2007"	"2007"	"Oct., 2007"	"2007/10"	12	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2007"	"2007"	"Nov., 2007"	"2007/11"	15	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2007"	"2007"	"Dec., 2007"	"2007/12"	11	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2007"	"2007"	"Jan., 2007"	"2007/01"	34	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2007"	"2007"	"Feb., 2007"	"2007/02"	25	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2007"	"2007"	"Mar., 2007"	"2007/03"	45	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2007"	"2007"	"Apr., 2007"	"2007/04"	30	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2007"	"2007"	"May, 2007"	"2007/05"	33	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2007"	"2007"	"Jun., 2007"	"2007/06"	42	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2007"	"2007"	"Jul., 2007"	"2007/07"	28	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2007"	"2007"	"Aug., 2007"	"2007/08"	21	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2007"	"2007"	"Sep., 2007"	"2007/09"	10	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2007"	"2007"	"Oct., 2007"	"2007/10"	Suppressed	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2007"	"2007"	"Nov., 2007"	"2007/11"	Suppressed	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2007"	"2007"	"Dec., 2007"	"2007/12"	15	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2007"	"2007"	"Jan., 2007"	"2007/01"	28	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2007"	"2007"	"Feb., 2007"	"2007/02"	29	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2007"	"2007"	"Mar., 2007"	"2007/03"	19	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2007"	"2007"	"Apr., 2007"	"2007/04"	19	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2007"	"2007"	"May, 2007"	"2007/05"	22	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2007"	"2007"	"Jun., 2007"	"2007/06"	17	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2007"	"2007"	"Jul., 2007"	"2007/07"	13	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2007"	"2007"	"Aug., 2007"	"2007/08"	20	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2007"	"2007"	"Sep., 2007"	"2007/09"	22	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2007"	"2007"	"Oct., 2007"	"2007/10"	22	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2007"	"2007"	"Nov., 2007"	"2007/11"	25	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2007"	"2007"	"Dec., 2007"	"2007/12"	20	Not Applicable	Not Applicable
+	"New York"	"36"	"2007"	"2007"	"Jan., 2007"	"2007/01"	64	Not Applicable	Not Applicable
+	"New York"	"36"	"2007"	"2007"	"Feb., 2007"	"2007/02"	64	Not Applicable	Not Applicable
+	"New York"	"36"	"2007"	"2007"	"Mar., 2007"	"2007/03"	64	Not Applicable	Not Applicable
+	"New York"	"36"	"2007"	"2007"	"Apr., 2007"	"2007/04"	77	Not Applicable	Not Applicable
+	"New York"	"36"	"2007"	"2007"	"May, 2007"	"2007/05"	66	Not Applicable	Not Applicable
+	"New York"	"36"	"2007"	"2007"	"Jun., 2007"	"2007/06"	79	Not Applicable	Not Applicable
+	"New York"	"36"	"2007"	"2007"	"Jul., 2007"	"2007/07"	83	Not Applicable	Not Applicable
+	"New York"	"36"	"2007"	"2007"	"Aug., 2007"	"2007/08"	75	Not Applicable	Not Applicable
+	"New York"	"36"	"2007"	"2007"	"Sep., 2007"	"2007/09"	80	Not Applicable	Not Applicable
+	"New York"	"36"	"2007"	"2007"	"Oct., 2007"	"2007/10"	78	Not Applicable	Not Applicable
+	"New York"	"36"	"2007"	"2007"	"Nov., 2007"	"2007/11"	72	Not Applicable	Not Applicable
+	"New York"	"36"	"2007"	"2007"	"Dec., 2007"	"2007/12"	65	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2007"	"2007"	"Jan., 2007"	"2007/01"	69	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2007"	"2007"	"Feb., 2007"	"2007/02"	55	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2007"	"2007"	"Mar., 2007"	"2007/03"	70	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2007"	"2007"	"Apr., 2007"	"2007/04"	48	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2007"	"2007"	"May, 2007"	"2007/05"	60	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2007"	"2007"	"Jun., 2007"	"2007/06"	60	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2007"	"2007"	"Jul., 2007"	"2007/07"	70	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2007"	"2007"	"Aug., 2007"	"2007/08"	57	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2007"	"2007"	"Sep., 2007"	"2007/09"	60	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2007"	"2007"	"Oct., 2007"	"2007/10"	60	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2007"	"2007"	"Nov., 2007"	"2007/11"	63	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2007"	"2007"	"Dec., 2007"	"2007/12"	71	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2007"	"2007"	"Jan., 2007"	"2007/01"	0	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2007"	"2007"	"Feb., 2007"	"2007/02"	Suppressed	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2007"	"2007"	"Mar., 2007"	"2007/03"	Suppressed	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2007"	"2007"	"Apr., 2007"	"2007/04"	0	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2007"	"2007"	"May, 2007"	"2007/05"	0	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2007"	"2007"	"Jun., 2007"	"2007/06"	Suppressed	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2007"	"2007"	"Jul., 2007"	"2007/07"	Suppressed	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2007"	"2007"	"Aug., 2007"	"2007/08"	Suppressed	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2007"	"2007"	"Sep., 2007"	"2007/09"	Suppressed	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2007"	"2007"	"Oct., 2007"	"2007/10"	0	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2007"	"2007"	"Nov., 2007"	"2007/11"	Suppressed	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2007"	"2007"	"Dec., 2007"	"2007/12"	Suppressed	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2007"	"2007"	"Jan., 2007"	"2007/01"	63	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2007"	"2007"	"Feb., 2007"	"2007/02"	56	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2007"	"2007"	"Mar., 2007"	"2007/03"	59	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2007"	"2007"	"Apr., 2007"	"2007/04"	68	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2007"	"2007"	"May, 2007"	"2007/05"	51	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2007"	"2007"	"Jun., 2007"	"2007/06"	51	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2007"	"2007"	"Jul., 2007"	"2007/07"	47	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2007"	"2007"	"Aug., 2007"	"2007/08"	52	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2007"	"2007"	"Sep., 2007"	"2007/09"	52	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2007"	"2007"	"Oct., 2007"	"2007/10"	63	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2007"	"2007"	"Nov., 2007"	"2007/11"	49	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2007"	"2007"	"Dec., 2007"	"2007/12"	54	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2007"	"2007"	"Jan., 2007"	"2007/01"	52	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2007"	"2007"	"Feb., 2007"	"2007/02"	48	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2007"	"2007"	"Mar., 2007"	"2007/03"	40	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2007"	"2007"	"Apr., 2007"	"2007/04"	32	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2007"	"2007"	"May, 2007"	"2007/05"	41	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2007"	"2007"	"Jun., 2007"	"2007/06"	37	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2007"	"2007"	"Jul., 2007"	"2007/07"	44	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2007"	"2007"	"Aug., 2007"	"2007/08"	45	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2007"	"2007"	"Sep., 2007"	"2007/09"	34	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2007"	"2007"	"Oct., 2007"	"2007/10"	29	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2007"	"2007"	"Nov., 2007"	"2007/11"	51	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2007"	"2007"	"Dec., 2007"	"2007/12"	34	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2007"	"2007"	"Jan., 2007"	"2007/01"	38	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2007"	"2007"	"Feb., 2007"	"2007/02"	28	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2007"	"2007"	"Mar., 2007"	"2007/03"	29	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2007"	"2007"	"Apr., 2007"	"2007/04"	15	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2007"	"2007"	"May, 2007"	"2007/05"	26	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2007"	"2007"	"Jun., 2007"	"2007/06"	25	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2007"	"2007"	"Jul., 2007"	"2007/07"	32	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2007"	"2007"	"Aug., 2007"	"2007/08"	22	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2007"	"2007"	"Sep., 2007"	"2007/09"	32	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2007"	"2007"	"Oct., 2007"	"2007/10"	26	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2007"	"2007"	"Nov., 2007"	"2007/11"	37	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2007"	"2007"	"Dec., 2007"	"2007/12"	28	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2007"	"2007"	"Jan., 2007"	"2007/01"	23	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2007"	"2007"	"Feb., 2007"	"2007/02"	33	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2007"	"2007"	"Mar., 2007"	"2007/03"	34	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2007"	"2007"	"Apr., 2007"	"2007/04"	37	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2007"	"2007"	"May, 2007"	"2007/05"	46	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2007"	"2007"	"Jun., 2007"	"2007/06"	26	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2007"	"2007"	"Jul., 2007"	"2007/07"	34	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2007"	"2007"	"Aug., 2007"	"2007/08"	55	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2007"	"2007"	"Sep., 2007"	"2007/09"	37	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2007"	"2007"	"Oct., 2007"	"2007/10"	41	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2007"	"2007"	"Nov., 2007"	"2007/11"	40	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2007"	"2007"	"Dec., 2007"	"2007/12"	38	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2007"	"2007"	"Jan., 2007"	"2007/01"	Suppressed	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2007"	"2007"	"Feb., 2007"	"2007/02"	Suppressed	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2007"	"2007"	"Mar., 2007"	"2007/03"	Suppressed	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2007"	"2007"	"Apr., 2007"	"2007/04"	Suppressed	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2007"	"2007"	"May, 2007"	"2007/05"	Suppressed	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2007"	"2007"	"Jun., 2007"	"2007/06"	Suppressed	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2007"	"2007"	"Jul., 2007"	"2007/07"	Suppressed	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2007"	"2007"	"Aug., 2007"	"2007/08"	Suppressed	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2007"	"2007"	"Sep., 2007"	"2007/09"	Suppressed	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2007"	"2007"	"Oct., 2007"	"2007/10"	Suppressed	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2007"	"2007"	"Nov., 2007"	"2007/11"	Suppressed	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2007"	"2007"	"Dec., 2007"	"2007/12"	Suppressed	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2007"	"2007"	"Jan., 2007"	"2007/01"	16	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2007"	"2007"	"Feb., 2007"	"2007/02"	13	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2007"	"2007"	"Mar., 2007"	"2007/03"	18	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2007"	"2007"	"Apr., 2007"	"2007/04"	10	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2007"	"2007"	"May, 2007"	"2007/05"	12	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2007"	"2007"	"Jun., 2007"	"2007/06"	16	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2007"	"2007"	"Jul., 2007"	"2007/07"	14	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2007"	"2007"	"Aug., 2007"	"2007/08"	14	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2007"	"2007"	"Sep., 2007"	"2007/09"	16	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2007"	"2007"	"Oct., 2007"	"2007/10"	17	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2007"	"2007"	"Nov., 2007"	"2007/11"	16	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2007"	"2007"	"Dec., 2007"	"2007/12"	27	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2007"	"2007"	"Jan., 2007"	"2007/01"	Suppressed	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2007"	"2007"	"Feb., 2007"	"2007/02"	Suppressed	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2007"	"2007"	"Mar., 2007"	"2007/03"	Suppressed	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2007"	"2007"	"Apr., 2007"	"2007/04"	Suppressed	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2007"	"2007"	"May, 2007"	"2007/05"	Suppressed	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2007"	"2007"	"Jun., 2007"	"2007/06"	Suppressed	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2007"	"2007"	"Jul., 2007"	"2007/07"	Suppressed	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2007"	"2007"	"Aug., 2007"	"2007/08"	Suppressed	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2007"	"2007"	"Sep., 2007"	"2007/09"	0	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2007"	"2007"	"Oct., 2007"	"2007/10"	Suppressed	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2007"	"2007"	"Nov., 2007"	"2007/11"	Suppressed	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2007"	"2007"	"Dec., 2007"	"2007/12"	Suppressed	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2007"	"2007"	"Jan., 2007"	"2007/01"	38	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2007"	"2007"	"Feb., 2007"	"2007/02"	37	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2007"	"2007"	"Mar., 2007"	"2007/03"	41	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2007"	"2007"	"Apr., 2007"	"2007/04"	45	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2007"	"2007"	"May, 2007"	"2007/05"	43	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2007"	"2007"	"Jun., 2007"	"2007/06"	33	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2007"	"2007"	"Jul., 2007"	"2007/07"	26	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2007"	"2007"	"Aug., 2007"	"2007/08"	32	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2007"	"2007"	"Sep., 2007"	"2007/09"	35	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2007"	"2007"	"Oct., 2007"	"2007/10"	31	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2007"	"2007"	"Nov., 2007"	"2007/11"	35	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2007"	"2007"	"Dec., 2007"	"2007/12"	53	Not Applicable	Not Applicable
+	"Texas"	"48"	"2007"	"2007"	"Jan., 2007"	"2007/01"	78	Not Applicable	Not Applicable
+	"Texas"	"48"	"2007"	"2007"	"Feb., 2007"	"2007/02"	76	Not Applicable	Not Applicable
+	"Texas"	"48"	"2007"	"2007"	"Mar., 2007"	"2007/03"	88	Not Applicable	Not Applicable
+	"Texas"	"48"	"2007"	"2007"	"Apr., 2007"	"2007/04"	93	Not Applicable	Not Applicable
+	"Texas"	"48"	"2007"	"2007"	"May, 2007"	"2007/05"	76	Not Applicable	Not Applicable
+	"Texas"	"48"	"2007"	"2007"	"Jun., 2007"	"2007/06"	85	Not Applicable	Not Applicable
+	"Texas"	"48"	"2007"	"2007"	"Jul., 2007"	"2007/07"	97	Not Applicable	Not Applicable
+	"Texas"	"48"	"2007"	"2007"	"Aug., 2007"	"2007/08"	78	Not Applicable	Not Applicable
+	"Texas"	"48"	"2007"	"2007"	"Sep., 2007"	"2007/09"	87	Not Applicable	Not Applicable
+	"Texas"	"48"	"2007"	"2007"	"Oct., 2007"	"2007/10"	62	Not Applicable	Not Applicable
+	"Texas"	"48"	"2007"	"2007"	"Nov., 2007"	"2007/11"	59	Not Applicable	Not Applicable
+	"Texas"	"48"	"2007"	"2007"	"Dec., 2007"	"2007/12"	63	Not Applicable	Not Applicable
+	"Utah"	"49"	"2007"	"2007"	"Jan., 2007"	"2007/01"	30	Not Applicable	Not Applicable
+	"Utah"	"49"	"2007"	"2007"	"Feb., 2007"	"2007/02"	22	Not Applicable	Not Applicable
+	"Utah"	"49"	"2007"	"2007"	"Mar., 2007"	"2007/03"	26	Not Applicable	Not Applicable
+	"Utah"	"49"	"2007"	"2007"	"Apr., 2007"	"2007/04"	24	Not Applicable	Not Applicable
+	"Utah"	"49"	"2007"	"2007"	"May, 2007"	"2007/05"	31	Not Applicable	Not Applicable
+	"Utah"	"49"	"2007"	"2007"	"Jun., 2007"	"2007/06"	28	Not Applicable	Not Applicable
+	"Utah"	"49"	"2007"	"2007"	"Jul., 2007"	"2007/07"	24	Not Applicable	Not Applicable
+	"Utah"	"49"	"2007"	"2007"	"Aug., 2007"	"2007/08"	29	Not Applicable	Not Applicable
+	"Utah"	"49"	"2007"	"2007"	"Sep., 2007"	"2007/09"	34	Not Applicable	Not Applicable
+	"Utah"	"49"	"2007"	"2007"	"Oct., 2007"	"2007/10"	29	Not Applicable	Not Applicable
+	"Utah"	"49"	"2007"	"2007"	"Nov., 2007"	"2007/11"	29	Not Applicable	Not Applicable
+	"Utah"	"49"	"2007"	"2007"	"Dec., 2007"	"2007/12"	33	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2007"	"2007"	"Jan., 2007"	"2007/01"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2007"	"2007"	"Feb., 2007"	"2007/02"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2007"	"2007"	"Mar., 2007"	"2007/03"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2007"	"2007"	"Apr., 2007"	"2007/04"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2007"	"2007"	"May, 2007"	"2007/05"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2007"	"2007"	"Jun., 2007"	"2007/06"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2007"	"2007"	"Jul., 2007"	"2007/07"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2007"	"2007"	"Aug., 2007"	"2007/08"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2007"	"2007"	"Sep., 2007"	"2007/09"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2007"	"2007"	"Oct., 2007"	"2007/10"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2007"	"2007"	"Nov., 2007"	"2007/11"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2007"	"2007"	"Dec., 2007"	"2007/12"	Suppressed	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2007"	"2007"	"Jan., 2007"	"2007/01"	41	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2007"	"2007"	"Feb., 2007"	"2007/02"	26	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2007"	"2007"	"Mar., 2007"	"2007/03"	33	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2007"	"2007"	"Apr., 2007"	"2007/04"	33	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2007"	"2007"	"May, 2007"	"2007/05"	39	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2007"	"2007"	"Jun., 2007"	"2007/06"	42	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2007"	"2007"	"Jul., 2007"	"2007/07"	27	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2007"	"2007"	"Aug., 2007"	"2007/08"	43	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2007"	"2007"	"Sep., 2007"	"2007/09"	36	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2007"	"2007"	"Oct., 2007"	"2007/10"	42	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2007"	"2007"	"Nov., 2007"	"2007/11"	51	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2007"	"2007"	"Dec., 2007"	"2007/12"	46	Not Applicable	Not Applicable
+	"Washington"	"53"	"2007"	"2007"	"Jan., 2007"	"2007/01"	49	Not Applicable	Not Applicable
+	"Washington"	"53"	"2007"	"2007"	"Feb., 2007"	"2007/02"	35	Not Applicable	Not Applicable
+	"Washington"	"53"	"2007"	"2007"	"Mar., 2007"	"2007/03"	58	Not Applicable	Not Applicable
+	"Washington"	"53"	"2007"	"2007"	"Apr., 2007"	"2007/04"	53	Not Applicable	Not Applicable
+	"Washington"	"53"	"2007"	"2007"	"May, 2007"	"2007/05"	47	Not Applicable	Not Applicable
+	"Washington"	"53"	"2007"	"2007"	"Jun., 2007"	"2007/06"	41	Not Applicable	Not Applicable
+	"Washington"	"53"	"2007"	"2007"	"Jul., 2007"	"2007/07"	43	Not Applicable	Not Applicable
+	"Washington"	"53"	"2007"	"2007"	"Aug., 2007"	"2007/08"	44	Not Applicable	Not Applicable
+	"Washington"	"53"	"2007"	"2007"	"Sep., 2007"	"2007/09"	52	Not Applicable	Not Applicable
+	"Washington"	"53"	"2007"	"2007"	"Oct., 2007"	"2007/10"	60	Not Applicable	Not Applicable
+	"Washington"	"53"	"2007"	"2007"	"Nov., 2007"	"2007/11"	55	Not Applicable	Not Applicable
+	"Washington"	"53"	"2007"	"2007"	"Dec., 2007"	"2007/12"	37	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2007"	"2007"	"Jan., 2007"	"2007/01"	21	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2007"	"2007"	"Feb., 2007"	"2007/02"	23	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2007"	"2007"	"Mar., 2007"	"2007/03"	22	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2007"	"2007"	"Apr., 2007"	"2007/04"	26	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2007"	"2007"	"May, 2007"	"2007/05"	25	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2007"	"2007"	"Jun., 2007"	"2007/06"	28	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2007"	"2007"	"Jul., 2007"	"2007/07"	24	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2007"	"2007"	"Aug., 2007"	"2007/08"	28	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2007"	"2007"	"Sep., 2007"	"2007/09"	26	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2007"	"2007"	"Oct., 2007"	"2007/10"	35	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2007"	"2007"	"Nov., 2007"	"2007/11"	27	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2007"	"2007"	"Dec., 2007"	"2007/12"	43	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2007"	"2007"	"Jan., 2007"	"2007/01"	36	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2007"	"2007"	"Feb., 2007"	"2007/02"	28	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2007"	"2007"	"Mar., 2007"	"2007/03"	34	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2007"	"2007"	"Apr., 2007"	"2007/04"	30	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2007"	"2007"	"May, 2007"	"2007/05"	33	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2007"	"2007"	"Jun., 2007"	"2007/06"	22	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2007"	"2007"	"Jul., 2007"	"2007/07"	24	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2007"	"2007"	"Aug., 2007"	"2007/08"	40	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2007"	"2007"	"Sep., 2007"	"2007/09"	30	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2007"	"2007"	"Oct., 2007"	"2007/10"	29	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2007"	"2007"	"Nov., 2007"	"2007/11"	20	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2007"	"2007"	"Dec., 2007"	"2007/12"	33	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2007"	"2007"	"Jan., 2007"	"2007/01"	0	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2007"	"2007"	"Feb., 2007"	"2007/02"	Suppressed	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2007"	"2007"	"Mar., 2007"	"2007/03"	Suppressed	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2007"	"2007"	"Apr., 2007"	"2007/04"	0	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2007"	"2007"	"May, 2007"	"2007/05"	0	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2007"	"2007"	"Jun., 2007"	"2007/06"	0	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2007"	"2007"	"Jul., 2007"	"2007/07"	Suppressed	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2007"	"2007"	"Aug., 2007"	"2007/08"	Suppressed	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2007"	"2007"	"Sep., 2007"	"2007/09"	Suppressed	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2007"	"2007"	"Oct., 2007"	"2007/10"	Suppressed	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2007"	"2007"	"Nov., 2007"	"2007/11"	Suppressed	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2007"	"2007"	"Dec., 2007"	"2007/12"	Suppressed	Not Applicable	Not Applicable
+"---"
+"Dataset: Multiple Cause of Death, 1999-2020"
+"Query Parameters:"
+"MCD - ICD-10 Codes: T40.0 (Opium); T40.1 (Heroin); T40.2 (Other opioids); T40.3 (Methadone); T40.4 (Other synthetic narcotics)"
+"UCD - ICD-10 Codes: X40 (Accidental poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics); X41"
+"(Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not"
+"elsewhere classified); X42 (Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not"
+"elsewhere classified); X43 (Accidental poisoning by and exposure to other drugs acting on the autonomic nervous system); X44"
+"(Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances); X60 (Intentional"
+"self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics); X61 (Intentional self-poisoning by and"
+"exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified); X62"
+"(Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified); X63"
+"(Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system); X64 (Intentional"
+"self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances); X85 (Assault by drugs,"
+"medicaments and biological substances); Y10 (Poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics,"
+"undetermined intent); Y11 (Poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic"
+"drugs, not elsewhere classified, undetermined intent); Y12 (Poisoning by and exposure to narcotics and psychodysleptics"
+"[hallucinogens], not elsewhere classified, undetermined intent); Y13 (Poisoning by and exposure to other drugs acting on the"
+"autonomic nervous system, undetermined intent); Y14 (Poisoning by and exposure to other and unspecified drugs, medicaments and"
+"biological substances, undetermined intent)"
+"Year/Month: 2007"
+"Group By: State; Year; Month"
+"Show Totals: False"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: Jul 30, 2024 6:59:02 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/mcd-icd10.html on Jul 30, 2024 6:59:02 AM"
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when Autopsy, Place of Death, Weekday or Month are grouped by or limited,"
+"due to lack of a valid population. More information: http://wonder.cdc.gov/wonder/help/mcd.html#NotApplicableRates."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Unreliable."
+"4. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#ICD-10 Changes."

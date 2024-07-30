@@ -1,0 +1,663 @@
+"Notes"	"State"	"State Code"	"Year"	"Year Code"	"Month"	"Month Code"	Deaths	Population	Crude Rate
+	"Alabama"	"01"	"2019"	"2019"	"Jan., 2019"	"2019/01"	24	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2019"	"2019"	"Feb., 2019"	"2019/02"	26	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2019"	"2019"	"Mar., 2019"	"2019/03"	34	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2019"	"2019"	"Apr., 2019"	"2019/04"	31	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2019"	"2019"	"May, 2019"	"2019/05"	35	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2019"	"2019"	"Jun., 2019"	"2019/06"	38	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2019"	"2019"	"Jul., 2019"	"2019/07"	35	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2019"	"2019"	"Aug., 2019"	"2019/08"	45	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2019"	"2019"	"Sep., 2019"	"2019/09"	24	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2019"	"2019"	"Oct., 2019"	"2019/10"	41	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2019"	"2019"	"Nov., 2019"	"2019/11"	35	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2019"	"2019"	"Dec., 2019"	"2019/12"	37	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2019"	"2019"	"Jan., 2019"	"2019/01"	10	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2019"	"2019"	"Feb., 2019"	"2019/02"	13	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2019"	"2019"	"Mar., 2019"	"2019/03"	11	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2019"	"2019"	"Apr., 2019"	"2019/04"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2019"	"2019"	"May, 2019"	"2019/05"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2019"	"2019"	"Jun., 2019"	"2019/06"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2019"	"2019"	"Jul., 2019"	"2019/07"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2019"	"2019"	"Aug., 2019"	"2019/08"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2019"	"2019"	"Sep., 2019"	"2019/09"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2019"	"2019"	"Oct., 2019"	"2019/10"	11	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2019"	"2019"	"Nov., 2019"	"2019/11"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2019"	"2019"	"Dec., 2019"	"2019/12"	Suppressed	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2019"	"2019"	"Jan., 2019"	"2019/01"	94	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2019"	"2019"	"Feb., 2019"	"2019/02"	76	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2019"	"2019"	"Mar., 2019"	"2019/03"	98	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2019"	"2019"	"Apr., 2019"	"2019/04"	94	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2019"	"2019"	"May, 2019"	"2019/05"	104	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2019"	"2019"	"Jun., 2019"	"2019/06"	81	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2019"	"2019"	"Jul., 2019"	"2019/07"	124	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2019"	"2019"	"Aug., 2019"	"2019/08"	118	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2019"	"2019"	"Sep., 2019"	"2019/09"	120	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2019"	"2019"	"Oct., 2019"	"2019/10"	121	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2019"	"2019"	"Nov., 2019"	"2019/11"	109	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2019"	"2019"	"Dec., 2019"	"2019/12"	122	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2019"	"2019"	"Jan., 2019"	"2019/01"	29	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2019"	"2019"	"Feb., 2019"	"2019/02"	18	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2019"	"2019"	"Mar., 2019"	"2019/03"	15	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2019"	"2019"	"Apr., 2019"	"2019/04"	15	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2019"	"2019"	"May, 2019"	"2019/05"	17	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2019"	"2019"	"Jun., 2019"	"2019/06"	14	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2019"	"2019"	"Jul., 2019"	"2019/07"	14	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2019"	"2019"	"Aug., 2019"	"2019/08"	16	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2019"	"2019"	"Sep., 2019"	"2019/09"	16	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2019"	"2019"	"Oct., 2019"	"2019/10"	17	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2019"	"2019"	"Nov., 2019"	"2019/11"	Suppressed	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2019"	"2019"	"Dec., 2019"	"2019/12"	14	Not Applicable	Not Applicable
+	"California"	"06"	"2019"	"2019"	"Jan., 2019"	"2019/01"	212	Not Applicable	Not Applicable
+	"California"	"06"	"2019"	"2019"	"Feb., 2019"	"2019/02"	223	Not Applicable	Not Applicable
+	"California"	"06"	"2019"	"2019"	"Mar., 2019"	"2019/03"	262	Not Applicable	Not Applicable
+	"California"	"06"	"2019"	"2019"	"Apr., 2019"	"2019/04"	236	Not Applicable	Not Applicable
+	"California"	"06"	"2019"	"2019"	"May, 2019"	"2019/05"	236	Not Applicable	Not Applicable
+	"California"	"06"	"2019"	"2019"	"Jun., 2019"	"2019/06"	259	Not Applicable	Not Applicable
+	"California"	"06"	"2019"	"2019"	"Jul., 2019"	"2019/07"	264	Not Applicable	Not Applicable
+	"California"	"06"	"2019"	"2019"	"Aug., 2019"	"2019/08"	309	Not Applicable	Not Applicable
+	"California"	"06"	"2019"	"2019"	"Sep., 2019"	"2019/09"	280	Not Applicable	Not Applicable
+	"California"	"06"	"2019"	"2019"	"Oct., 2019"	"2019/10"	274	Not Applicable	Not Applicable
+	"California"	"06"	"2019"	"2019"	"Nov., 2019"	"2019/11"	307	Not Applicable	Not Applicable
+	"California"	"06"	"2019"	"2019"	"Dec., 2019"	"2019/12"	282	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2019"	"2019"	"Jan., 2019"	"2019/01"	52	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2019"	"2019"	"Feb., 2019"	"2019/02"	42	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2019"	"2019"	"Mar., 2019"	"2019/03"	45	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2019"	"2019"	"Apr., 2019"	"2019/04"	50	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2019"	"2019"	"May, 2019"	"2019/05"	49	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2019"	"2019"	"Jun., 2019"	"2019/06"	45	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2019"	"2019"	"Jul., 2019"	"2019/07"	59	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2019"	"2019"	"Aug., 2019"	"2019/08"	45	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2019"	"2019"	"Sep., 2019"	"2019/09"	47	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2019"	"2019"	"Oct., 2019"	"2019/10"	55	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2019"	"2019"	"Nov., 2019"	"2019/11"	55	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2019"	"2019"	"Dec., 2019"	"2019/12"	81	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2019"	"2019"	"Jan., 2019"	"2019/01"	70	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2019"	"2019"	"Feb., 2019"	"2019/02"	76	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2019"	"2019"	"Mar., 2019"	"2019/03"	86	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2019"	"2019"	"Apr., 2019"	"2019/04"	74	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2019"	"2019"	"May, 2019"	"2019/05"	100	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2019"	"2019"	"Jun., 2019"	"2019/06"	110	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2019"	"2019"	"Jul., 2019"	"2019/07"	109	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2019"	"2019"	"Aug., 2019"	"2019/08"	126	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2019"	"2019"	"Sep., 2019"	"2019/09"	83	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2019"	"2019"	"Oct., 2019"	"2019/10"	72	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2019"	"2019"	"Nov., 2019"	"2019/11"	87	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2019"	"2019"	"Dec., 2019"	"2019/12"	103	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2019"	"2019"	"Jan., 2019"	"2019/01"	27	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2019"	"2019"	"Feb., 2019"	"2019/02"	22	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2019"	"2019"	"Mar., 2019"	"2019/03"	22	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2019"	"2019"	"Apr., 2019"	"2019/04"	26	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2019"	"2019"	"May, 2019"	"2019/05"	35	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2019"	"2019"	"Jun., 2019"	"2019/06"	39	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2019"	"2019"	"Jul., 2019"	"2019/07"	34	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2019"	"2019"	"Aug., 2019"	"2019/08"	37	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2019"	"2019"	"Sep., 2019"	"2019/09"	38	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2019"	"2019"	"Oct., 2019"	"2019/10"	27	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2019"	"2019"	"Nov., 2019"	"2019/11"	30	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2019"	"2019"	"Dec., 2019"	"2019/12"	45	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2019"	"2019"	"Jan., 2019"	"2019/01"	17	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2019"	"2019"	"Feb., 2019"	"2019/02"	20	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2019"	"2019"	"Mar., 2019"	"2019/03"	13	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2019"	"2019"	"Apr., 2019"	"2019/04"	16	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2019"	"2019"	"May, 2019"	"2019/05"	20	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2019"	"2019"	"Jun., 2019"	"2019/06"	20	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2019"	"2019"	"Jul., 2019"	"2019/07"	17	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2019"	"2019"	"Aug., 2019"	"2019/08"	23	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2019"	"2019"	"Sep., 2019"	"2019/09"	23	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2019"	"2019"	"Oct., 2019"	"2019/10"	24	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2019"	"2019"	"Nov., 2019"	"2019/11"	19	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2019"	"2019"	"Dec., 2019"	"2019/12"	29	Not Applicable	Not Applicable
+	"Florida"	"12"	"2019"	"2019"	"Jan., 2019"	"2019/01"	296	Not Applicable	Not Applicable
+	"Florida"	"12"	"2019"	"2019"	"Feb., 2019"	"2019/02"	260	Not Applicable	Not Applicable
+	"Florida"	"12"	"2019"	"2019"	"Mar., 2019"	"2019/03"	272	Not Applicable	Not Applicable
+	"Florida"	"12"	"2019"	"2019"	"Apr., 2019"	"2019/04"	295	Not Applicable	Not Applicable
+	"Florida"	"12"	"2019"	"2019"	"May, 2019"	"2019/05"	245	Not Applicable	Not Applicable
+	"Florida"	"12"	"2019"	"2019"	"Jun., 2019"	"2019/06"	308	Not Applicable	Not Applicable
+	"Florida"	"12"	"2019"	"2019"	"Jul., 2019"	"2019/07"	309	Not Applicable	Not Applicable
+	"Florida"	"12"	"2019"	"2019"	"Aug., 2019"	"2019/08"	295	Not Applicable	Not Applicable
+	"Florida"	"12"	"2019"	"2019"	"Sep., 2019"	"2019/09"	364	Not Applicable	Not Applicable
+	"Florida"	"12"	"2019"	"2019"	"Oct., 2019"	"2019/10"	386	Not Applicable	Not Applicable
+	"Florida"	"12"	"2019"	"2019"	"Nov., 2019"	"2019/11"	344	Not Applicable	Not Applicable
+	"Florida"	"12"	"2019"	"2019"	"Dec., 2019"	"2019/12"	338	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2019"	"2019"	"Jan., 2019"	"2019/01"	71	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2019"	"2019"	"Feb., 2019"	"2019/02"	63	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2019"	"2019"	"Mar., 2019"	"2019/03"	85	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2019"	"2019"	"Apr., 2019"	"2019/04"	74	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2019"	"2019"	"May, 2019"	"2019/05"	81	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2019"	"2019"	"Jun., 2019"	"2019/06"	64	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2019"	"2019"	"Jul., 2019"	"2019/07"	60	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2019"	"2019"	"Aug., 2019"	"2019/08"	74	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2019"	"2019"	"Sep., 2019"	"2019/09"	65	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2019"	"2019"	"Oct., 2019"	"2019/10"	68	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2019"	"2019"	"Nov., 2019"	"2019/11"	71	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2019"	"2019"	"Dec., 2019"	"2019/12"	75	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2019"	"2019"	"Jan., 2019"	"2019/01"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2019"	"2019"	"Feb., 2019"	"2019/02"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2019"	"2019"	"Mar., 2019"	"2019/03"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2019"	"2019"	"Apr., 2019"	"2019/04"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2019"	"2019"	"May, 2019"	"2019/05"	0	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2019"	"2019"	"Jun., 2019"	"2019/06"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2019"	"2019"	"Jul., 2019"	"2019/07"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2019"	"2019"	"Aug., 2019"	"2019/08"	11	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2019"	"2019"	"Sep., 2019"	"2019/09"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2019"	"2019"	"Oct., 2019"	"2019/10"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2019"	"2019"	"Nov., 2019"	"2019/11"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2019"	"2019"	"Dec., 2019"	"2019/12"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2019"	"2019"	"Jan., 2019"	"2019/01"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2019"	"2019"	"Feb., 2019"	"2019/02"	15	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2019"	"2019"	"Mar., 2019"	"2019/03"	13	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2019"	"2019"	"Apr., 2019"	"2019/04"	10	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2019"	"2019"	"May, 2019"	"2019/05"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2019"	"2019"	"Jun., 2019"	"2019/06"	15	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2019"	"2019"	"Jul., 2019"	"2019/07"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2019"	"2019"	"Aug., 2019"	"2019/08"	10	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2019"	"2019"	"Sep., 2019"	"2019/09"	11	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2019"	"2019"	"Oct., 2019"	"2019/10"	11	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2019"	"2019"	"Nov., 2019"	"2019/11"	17	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2019"	"2019"	"Dec., 2019"	"2019/12"	11	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2019"	"2019"	"Jan., 2019"	"2019/01"	141	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2019"	"2019"	"Feb., 2019"	"2019/02"	134	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2019"	"2019"	"Mar., 2019"	"2019/03"	160	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2019"	"2019"	"Apr., 2019"	"2019/04"	152	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2019"	"2019"	"May, 2019"	"2019/05"	218	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2019"	"2019"	"Jun., 2019"	"2019/06"	172	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2019"	"2019"	"Jul., 2019"	"2019/07"	181	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2019"	"2019"	"Aug., 2019"	"2019/08"	204	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2019"	"2019"	"Sep., 2019"	"2019/09"	199	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2019"	"2019"	"Oct., 2019"	"2019/10"	190	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2019"	"2019"	"Nov., 2019"	"2019/11"	203	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2019"	"2019"	"Dec., 2019"	"2019/12"	235	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2019"	"2019"	"Jan., 2019"	"2019/01"	76	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2019"	"2019"	"Feb., 2019"	"2019/02"	79	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2019"	"2019"	"Mar., 2019"	"2019/03"	127	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2019"	"2019"	"Apr., 2019"	"2019/04"	89	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2019"	"2019"	"May, 2019"	"2019/05"	98	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2019"	"2019"	"Jun., 2019"	"2019/06"	92	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2019"	"2019"	"Jul., 2019"	"2019/07"	112	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2019"	"2019"	"Aug., 2019"	"2019/08"	108	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2019"	"2019"	"Sep., 2019"	"2019/09"	106	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2019"	"2019"	"Oct., 2019"	"2019/10"	124	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2019"	"2019"	"Nov., 2019"	"2019/11"	107	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2019"	"2019"	"Dec., 2019"	"2019/12"	107	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2019"	"2019"	"Jan., 2019"	"2019/01"	16	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2019"	"2019"	"Feb., 2019"	"2019/02"	Suppressed	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2019"	"2019"	"Mar., 2019"	"2019/03"	13	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2019"	"2019"	"Apr., 2019"	"2019/04"	11	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2019"	"2019"	"May, 2019"	"2019/05"	12	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2019"	"2019"	"Jun., 2019"	"2019/06"	11	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2019"	"2019"	"Jul., 2019"	"2019/07"	12	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2019"	"2019"	"Aug., 2019"	"2019/08"	10	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2019"	"2019"	"Sep., 2019"	"2019/09"	21	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2019"	"2019"	"Oct., 2019"	"2019/10"	13	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2019"	"2019"	"Nov., 2019"	"2019/11"	11	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2019"	"2019"	"Dec., 2019"	"2019/12"	19	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2019"	"2019"	"Jan., 2019"	"2019/01"	12	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2019"	"2019"	"Feb., 2019"	"2019/02"	18	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2019"	"2019"	"Mar., 2019"	"2019/03"	17	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2019"	"2019"	"Apr., 2019"	"2019/04"	18	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2019"	"2019"	"May, 2019"	"2019/05"	16	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2019"	"2019"	"Jun., 2019"	"2019/06"	18	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2019"	"2019"	"Jul., 2019"	"2019/07"	11	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2019"	"2019"	"Aug., 2019"	"2019/08"	15	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2019"	"2019"	"Sep., 2019"	"2019/09"	14	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2019"	"2019"	"Oct., 2019"	"2019/10"	Suppressed	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2019"	"2019"	"Nov., 2019"	"2019/11"	21	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2019"	"2019"	"Dec., 2019"	"2019/12"	13	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2019"	"2019"	"Jan., 2019"	"2019/01"	76	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2019"	"2019"	"Feb., 2019"	"2019/02"	76	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2019"	"2019"	"Mar., 2019"	"2019/03"	100	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2019"	"2019"	"Apr., 2019"	"2019/04"	93	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2019"	"2019"	"May, 2019"	"2019/05"	79	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2019"	"2019"	"Jun., 2019"	"2019/06"	79	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2019"	"2019"	"Jul., 2019"	"2019/07"	80	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2019"	"2019"	"Aug., 2019"	"2019/08"	68	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2019"	"2019"	"Sep., 2019"	"2019/09"	72	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2019"	"2019"	"Oct., 2019"	"2019/10"	98	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2019"	"2019"	"Nov., 2019"	"2019/11"	93	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2019"	"2019"	"Dec., 2019"	"2019/12"	110	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2019"	"2019"	"Jan., 2019"	"2019/01"	33	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2019"	"2019"	"Feb., 2019"	"2019/02"	32	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2019"	"2019"	"Mar., 2019"	"2019/03"	33	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2019"	"2019"	"Apr., 2019"	"2019/04"	34	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2019"	"2019"	"May, 2019"	"2019/05"	46	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2019"	"2019"	"Jun., 2019"	"2019/06"	35	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2019"	"2019"	"Jul., 2019"	"2019/07"	35	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2019"	"2019"	"Aug., 2019"	"2019/08"	52	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2019"	"2019"	"Sep., 2019"	"2019/09"	45	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2019"	"2019"	"Oct., 2019"	"2019/10"	68	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2019"	"2019"	"Nov., 2019"	"2019/11"	65	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2019"	"2019"	"Dec., 2019"	"2019/12"	60	Not Applicable	Not Applicable
+	"Maine"	"23"	"2019"	"2019"	"Jan., 2019"	"2019/01"	16	Not Applicable	Not Applicable
+	"Maine"	"23"	"2019"	"2019"	"Feb., 2019"	"2019/02"	28	Not Applicable	Not Applicable
+	"Maine"	"23"	"2019"	"2019"	"Mar., 2019"	"2019/03"	22	Not Applicable	Not Applicable
+	"Maine"	"23"	"2019"	"2019"	"Apr., 2019"	"2019/04"	26	Not Applicable	Not Applicable
+	"Maine"	"23"	"2019"	"2019"	"May, 2019"	"2019/05"	29	Not Applicable	Not Applicable
+	"Maine"	"23"	"2019"	"2019"	"Jun., 2019"	"2019/06"	31	Not Applicable	Not Applicable
+	"Maine"	"23"	"2019"	"2019"	"Jul., 2019"	"2019/07"	23	Not Applicable	Not Applicable
+	"Maine"	"23"	"2019"	"2019"	"Aug., 2019"	"2019/08"	37	Not Applicable	Not Applicable
+	"Maine"	"23"	"2019"	"2019"	"Sep., 2019"	"2019/09"	24	Not Applicable	Not Applicable
+	"Maine"	"23"	"2019"	"2019"	"Oct., 2019"	"2019/10"	41	Not Applicable	Not Applicable
+	"Maine"	"23"	"2019"	"2019"	"Nov., 2019"	"2019/11"	22	Not Applicable	Not Applicable
+	"Maine"	"23"	"2019"	"2019"	"Dec., 2019"	"2019/12"	22	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2019"	"2019"	"Jan., 2019"	"2019/01"	191	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2019"	"2019"	"Feb., 2019"	"2019/02"	163	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2019"	"2019"	"Mar., 2019"	"2019/03"	192	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2019"	"2019"	"Apr., 2019"	"2019/04"	195	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2019"	"2019"	"May, 2019"	"2019/05"	168	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2019"	"2019"	"Jun., 2019"	"2019/06"	172	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2019"	"2019"	"Jul., 2019"	"2019/07"	170	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2019"	"2019"	"Aug., 2019"	"2019/08"	181	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2019"	"2019"	"Sep., 2019"	"2019/09"	162	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2019"	"2019"	"Oct., 2019"	"2019/10"	171	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2019"	"2019"	"Nov., 2019"	"2019/11"	171	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2019"	"2019"	"Dec., 2019"	"2019/12"	158	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2019"	"2019"	"Jan., 2019"	"2019/01"	160	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2019"	"2019"	"Feb., 2019"	"2019/02"	143	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2019"	"2019"	"Mar., 2019"	"2019/03"	171	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2019"	"2019"	"Apr., 2019"	"2019/04"	148	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2019"	"2019"	"May, 2019"	"2019/05"	163	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2019"	"2019"	"Jun., 2019"	"2019/06"	164	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2019"	"2019"	"Jul., 2019"	"2019/07"	170	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2019"	"2019"	"Aug., 2019"	"2019/08"	159	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2019"	"2019"	"Sep., 2019"	"2019/09"	157	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2019"	"2019"	"Oct., 2019"	"2019/10"	183	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2019"	"2019"	"Nov., 2019"	"2019/11"	175	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2019"	"2019"	"Dec., 2019"	"2019/12"	163	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2019"	"2019"	"Jan., 2019"	"2019/01"	136	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2019"	"2019"	"Feb., 2019"	"2019/02"	131	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2019"	"2019"	"Mar., 2019"	"2019/03"	159	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2019"	"2019"	"Apr., 2019"	"2019/04"	142	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2019"	"2019"	"May, 2019"	"2019/05"	177	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2019"	"2019"	"Jun., 2019"	"2019/06"	132	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2019"	"2019"	"Jul., 2019"	"2019/07"	152	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2019"	"2019"	"Aug., 2019"	"2019/08"	114	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2019"	"2019"	"Sep., 2019"	"2019/09"	144	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2019"	"2019"	"Oct., 2019"	"2019/10"	160	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2019"	"2019"	"Nov., 2019"	"2019/11"	178	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2019"	"2019"	"Dec., 2019"	"2019/12"	143	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2019"	"2019"	"Jan., 2019"	"2019/01"	48	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2019"	"2019"	"Feb., 2019"	"2019/02"	31	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2019"	"2019"	"Mar., 2019"	"2019/03"	19	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2019"	"2019"	"Apr., 2019"	"2019/04"	29	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2019"	"2019"	"May, 2019"	"2019/05"	39	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2019"	"2019"	"Jun., 2019"	"2019/06"	35	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2019"	"2019"	"Jul., 2019"	"2019/07"	45	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2019"	"2019"	"Aug., 2019"	"2019/08"	33	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2019"	"2019"	"Sep., 2019"	"2019/09"	36	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2019"	"2019"	"Oct., 2019"	"2019/10"	37	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2019"	"2019"	"Nov., 2019"	"2019/11"	30	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2019"	"2019"	"Dec., 2019"	"2019/12"	42	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2019"	"2019"	"Jan., 2019"	"2019/01"	13	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2019"	"2019"	"Feb., 2019"	"2019/02"	12	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2019"	"2019"	"Mar., 2019"	"2019/03"	22	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2019"	"2019"	"Apr., 2019"	"2019/04"	16	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2019"	"2019"	"May, 2019"	"2019/05"	24	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2019"	"2019"	"Jun., 2019"	"2019/06"	34	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2019"	"2019"	"Jul., 2019"	"2019/07"	24	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2019"	"2019"	"Aug., 2019"	"2019/08"	18	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2019"	"2019"	"Sep., 2019"	"2019/09"	19	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2019"	"2019"	"Oct., 2019"	"2019/10"	19	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2019"	"2019"	"Nov., 2019"	"2019/11"	17	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2019"	"2019"	"Dec., 2019"	"2019/12"	22	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2019"	"2019"	"Jan., 2019"	"2019/01"	112	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2019"	"2019"	"Feb., 2019"	"2019/02"	79	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2019"	"2019"	"Mar., 2019"	"2019/03"	89	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2019"	"2019"	"Apr., 2019"	"2019/04"	64	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2019"	"2019"	"May, 2019"	"2019/05"	79	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2019"	"2019"	"Jun., 2019"	"2019/06"	72	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2019"	"2019"	"Jul., 2019"	"2019/07"	82	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2019"	"2019"	"Aug., 2019"	"2019/08"	108	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2019"	"2019"	"Sep., 2019"	"2019/09"	94	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2019"	"2019"	"Oct., 2019"	"2019/10"	105	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2019"	"2019"	"Nov., 2019"	"2019/11"	94	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2019"	"2019"	"Dec., 2019"	"2019/12"	104	Not Applicable	Not Applicable
+	"Montana"	"30"	"2019"	"2019"	"Jan., 2019"	"2019/01"	12	Not Applicable	Not Applicable
+	"Montana"	"30"	"2019"	"2019"	"Feb., 2019"	"2019/02"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2019"	"2019"	"Mar., 2019"	"2019/03"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2019"	"2019"	"Apr., 2019"	"2019/04"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2019"	"2019"	"May, 2019"	"2019/05"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2019"	"2019"	"Jun., 2019"	"2019/06"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2019"	"2019"	"Jul., 2019"	"2019/07"	12	Not Applicable	Not Applicable
+	"Montana"	"30"	"2019"	"2019"	"Aug., 2019"	"2019/08"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2019"	"2019"	"Sep., 2019"	"2019/09"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2019"	"2019"	"Oct., 2019"	"2019/10"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2019"	"2019"	"Nov., 2019"	"2019/11"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2019"	"2019"	"Dec., 2019"	"2019/12"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2019"	"2019"	"Jan., 2019"	"2019/01"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2019"	"2019"	"Feb., 2019"	"2019/02"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2019"	"2019"	"Mar., 2019"	"2019/03"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2019"	"2019"	"Apr., 2019"	"2019/04"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2019"	"2019"	"May, 2019"	"2019/05"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2019"	"2019"	"Jun., 2019"	"2019/06"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2019"	"2019"	"Jul., 2019"	"2019/07"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2019"	"2019"	"Aug., 2019"	"2019/08"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2019"	"2019"	"Sep., 2019"	"2019/09"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2019"	"2019"	"Oct., 2019"	"2019/10"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2019"	"2019"	"Nov., 2019"	"2019/11"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2019"	"2019"	"Dec., 2019"	"2019/12"	Suppressed	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2019"	"2019"	"Jan., 2019"	"2019/01"	45	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2019"	"2019"	"Feb., 2019"	"2019/02"	28	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2019"	"2019"	"Mar., 2019"	"2019/03"	29	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2019"	"2019"	"Apr., 2019"	"2019/04"	35	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2019"	"2019"	"May, 2019"	"2019/05"	29	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2019"	"2019"	"Jun., 2019"	"2019/06"	26	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2019"	"2019"	"Jul., 2019"	"2019/07"	30	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2019"	"2019"	"Aug., 2019"	"2019/08"	31	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2019"	"2019"	"Sep., 2019"	"2019/09"	28	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2019"	"2019"	"Oct., 2019"	"2019/10"	22	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2019"	"2019"	"Nov., 2019"	"2019/11"	28	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2019"	"2019"	"Dec., 2019"	"2019/12"	33	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2019"	"2019"	"Jan., 2019"	"2019/01"	28	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2019"	"2019"	"Feb., 2019"	"2019/02"	38	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2019"	"2019"	"Mar., 2019"	"2019/03"	39	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2019"	"2019"	"Apr., 2019"	"2019/04"	25	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2019"	"2019"	"May, 2019"	"2019/05"	23	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2019"	"2019"	"Jun., 2019"	"2019/06"	26	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2019"	"2019"	"Jul., 2019"	"2019/07"	21	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2019"	"2019"	"Aug., 2019"	"2019/08"	30	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2019"	"2019"	"Sep., 2019"	"2019/09"	31	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2019"	"2019"	"Oct., 2019"	"2019/10"	31	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2019"	"2019"	"Nov., 2019"	"2019/11"	26	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2019"	"2019"	"Dec., 2019"	"2019/12"	46	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2019"	"2019"	"Jan., 2019"	"2019/01"	157	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2019"	"2019"	"Feb., 2019"	"2019/02"	212	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2019"	"2019"	"Mar., 2019"	"2019/03"	171	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2019"	"2019"	"Apr., 2019"	"2019/04"	169	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2019"	"2019"	"May, 2019"	"2019/05"	195	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2019"	"2019"	"Jun., 2019"	"2019/06"	209	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2019"	"2019"	"Jul., 2019"	"2019/07"	217	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2019"	"2019"	"Aug., 2019"	"2019/08"	244	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2019"	"2019"	"Sep., 2019"	"2019/09"	196	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2019"	"2019"	"Oct., 2019"	"2019/10"	228	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2019"	"2019"	"Nov., 2019"	"2019/11"	234	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2019"	"2019"	"Dec., 2019"	"2019/12"	237	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2019"	"2019"	"Jan., 2019"	"2019/01"	19	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2019"	"2019"	"Feb., 2019"	"2019/02"	25	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2019"	"2019"	"Mar., 2019"	"2019/03"	24	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2019"	"2019"	"Apr., 2019"	"2019/04"	33	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2019"	"2019"	"May, 2019"	"2019/05"	42	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2019"	"2019"	"Jun., 2019"	"2019/06"	39	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2019"	"2019"	"Jul., 2019"	"2019/07"	41	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2019"	"2019"	"Aug., 2019"	"2019/08"	26	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2019"	"2019"	"Sep., 2019"	"2019/09"	37	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2019"	"2019"	"Oct., 2019"	"2019/10"	38	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2019"	"2019"	"Nov., 2019"	"2019/11"	35	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2019"	"2019"	"Dec., 2019"	"2019/12"	32	Not Applicable	Not Applicable
+	"New York"	"36"	"2019"	"2019"	"Jan., 2019"	"2019/01"	207	Not Applicable	Not Applicable
+	"New York"	"36"	"2019"	"2019"	"Feb., 2019"	"2019/02"	227	Not Applicable	Not Applicable
+	"New York"	"36"	"2019"	"2019"	"Mar., 2019"	"2019/03"	250	Not Applicable	Not Applicable
+	"New York"	"36"	"2019"	"2019"	"Apr., 2019"	"2019/04"	216	Not Applicable	Not Applicable
+	"New York"	"36"	"2019"	"2019"	"May, 2019"	"2019/05"	235	Not Applicable	Not Applicable
+	"New York"	"36"	"2019"	"2019"	"Jun., 2019"	"2019/06"	241	Not Applicable	Not Applicable
+	"New York"	"36"	"2019"	"2019"	"Jul., 2019"	"2019/07"	273	Not Applicable	Not Applicable
+	"New York"	"36"	"2019"	"2019"	"Aug., 2019"	"2019/08"	250	Not Applicable	Not Applicable
+	"New York"	"36"	"2019"	"2019"	"Sep., 2019"	"2019/09"	243	Not Applicable	Not Applicable
+	"New York"	"36"	"2019"	"2019"	"Oct., 2019"	"2019/10"	266	Not Applicable	Not Applicable
+	"New York"	"36"	"2019"	"2019"	"Nov., 2019"	"2019/11"	246	Not Applicable	Not Applicable
+	"New York"	"36"	"2019"	"2019"	"Dec., 2019"	"2019/12"	254	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2019"	"2019"	"Jan., 2019"	"2019/01"	151	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2019"	"2019"	"Feb., 2019"	"2019/02"	162	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2019"	"2019"	"Mar., 2019"	"2019/03"	182	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2019"	"2019"	"Apr., 2019"	"2019/04"	142	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2019"	"2019"	"May, 2019"	"2019/05"	147	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2019"	"2019"	"Jun., 2019"	"2019/06"	170	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2019"	"2019"	"Jul., 2019"	"2019/07"	136	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2019"	"2019"	"Aug., 2019"	"2019/08"	138	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2019"	"2019"	"Sep., 2019"	"2019/09"	148	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2019"	"2019"	"Oct., 2019"	"2019/10"	148	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2019"	"2019"	"Nov., 2019"	"2019/11"	144	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2019"	"2019"	"Dec., 2019"	"2019/12"	124	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2019"	"2019"	"Jan., 2019"	"2019/01"	Suppressed	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2019"	"2019"	"Feb., 2019"	"2019/02"	Suppressed	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2019"	"2019"	"Mar., 2019"	"2019/03"	Suppressed	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2019"	"2019"	"Apr., 2019"	"2019/04"	Suppressed	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2019"	"2019"	"May, 2019"	"2019/05"	Suppressed	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2019"	"2019"	"Jun., 2019"	"2019/06"	Suppressed	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2019"	"2019"	"Jul., 2019"	"2019/07"	Suppressed	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2019"	"2019"	"Aug., 2019"	"2019/08"	Suppressed	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2019"	"2019"	"Sep., 2019"	"2019/09"	Suppressed	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2019"	"2019"	"Oct., 2019"	"2019/10"	Suppressed	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2019"	"2019"	"Nov., 2019"	"2019/11"	Suppressed	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2019"	"2019"	"Dec., 2019"	"2019/12"	Suppressed	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2019"	"2019"	"Jan., 2019"	"2019/01"	268	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2019"	"2019"	"Feb., 2019"	"2019/02"	239	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2019"	"2019"	"Mar., 2019"	"2019/03"	294	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2019"	"2019"	"Apr., 2019"	"2019/04"	270	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2019"	"2019"	"May, 2019"	"2019/05"	287	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2019"	"2019"	"Jun., 2019"	"2019/06"	274	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2019"	"2019"	"Jul., 2019"	"2019/07"	308	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2019"	"2019"	"Aug., 2019"	"2019/08"	260	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2019"	"2019"	"Sep., 2019"	"2019/09"	285	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2019"	"2019"	"Oct., 2019"	"2019/10"	288	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2019"	"2019"	"Nov., 2019"	"2019/11"	340	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2019"	"2019"	"Dec., 2019"	"2019/12"	292	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2019"	"2019"	"Jan., 2019"	"2019/01"	28	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2019"	"2019"	"Feb., 2019"	"2019/02"	22	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2019"	"2019"	"Mar., 2019"	"2019/03"	18	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2019"	"2019"	"Apr., 2019"	"2019/04"	17	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2019"	"2019"	"May, 2019"	"2019/05"	25	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2019"	"2019"	"Jun., 2019"	"2019/06"	23	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2019"	"2019"	"Jul., 2019"	"2019/07"	18	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2019"	"2019"	"Aug., 2019"	"2019/08"	18	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2019"	"2019"	"Sep., 2019"	"2019/09"	25	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2019"	"2019"	"Oct., 2019"	"2019/10"	25	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2019"	"2019"	"Nov., 2019"	"2019/11"	19	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2019"	"2019"	"Dec., 2019"	"2019/12"	25	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2019"	"2019"	"Jan., 2019"	"2019/01"	25	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2019"	"2019"	"Feb., 2019"	"2019/02"	25	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2019"	"2019"	"Mar., 2019"	"2019/03"	32	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2019"	"2019"	"Apr., 2019"	"2019/04"	34	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2019"	"2019"	"May, 2019"	"2019/05"	21	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2019"	"2019"	"Jun., 2019"	"2019/06"	32	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2019"	"2019"	"Jul., 2019"	"2019/07"	26	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2019"	"2019"	"Aug., 2019"	"2019/08"	24	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2019"	"2019"	"Sep., 2019"	"2019/09"	30	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2019"	"2019"	"Oct., 2019"	"2019/10"	17	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2019"	"2019"	"Nov., 2019"	"2019/11"	27	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2019"	"2019"	"Dec., 2019"	"2019/12"	32	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2019"	"2019"	"Jan., 2019"	"2019/01"	220	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2019"	"2019"	"Feb., 2019"	"2019/02"	208	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2019"	"2019"	"Mar., 2019"	"2019/03"	252	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2019"	"2019"	"Apr., 2019"	"2019/04"	239	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2019"	"2019"	"May, 2019"	"2019/05"	229	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2019"	"2019"	"Jun., 2019"	"2019/06"	239	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2019"	"2019"	"Jul., 2019"	"2019/07"	245	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2019"	"2019"	"Aug., 2019"	"2019/08"	274	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2019"	"2019"	"Sep., 2019"	"2019/09"	246	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2019"	"2019"	"Oct., 2019"	"2019/10"	262	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2019"	"2019"	"Nov., 2019"	"2019/11"	271	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2019"	"2019"	"Dec., 2019"	"2019/12"	308	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2019"	"2019"	"Jan., 2019"	"2019/01"	21	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2019"	"2019"	"Feb., 2019"	"2019/02"	16	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2019"	"2019"	"Mar., 2019"	"2019/03"	23	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2019"	"2019"	"Apr., 2019"	"2019/04"	22	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2019"	"2019"	"May, 2019"	"2019/05"	28	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2019"	"2019"	"Jun., 2019"	"2019/06"	17	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2019"	"2019"	"Jul., 2019"	"2019/07"	23	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2019"	"2019"	"Aug., 2019"	"2019/08"	16	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2019"	"2019"	"Sep., 2019"	"2019/09"	14	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2019"	"2019"	"Oct., 2019"	"2019/10"	20	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2019"	"2019"	"Nov., 2019"	"2019/11"	16	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2019"	"2019"	"Dec., 2019"	"2019/12"	20	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2019"	"2019"	"Jan., 2019"	"2019/01"	73	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2019"	"2019"	"Feb., 2019"	"2019/02"	62	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2019"	"2019"	"Mar., 2019"	"2019/03"	64	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2019"	"2019"	"Apr., 2019"	"2019/04"	61	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2019"	"2019"	"May, 2019"	"2019/05"	63	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2019"	"2019"	"Jun., 2019"	"2019/06"	63	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2019"	"2019"	"Jul., 2019"	"2019/07"	64	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2019"	"2019"	"Aug., 2019"	"2019/08"	87	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2019"	"2019"	"Sep., 2019"	"2019/09"	78	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2019"	"2019"	"Oct., 2019"	"2019/10"	73	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2019"	"2019"	"Nov., 2019"	"2019/11"	78	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2019"	"2019"	"Dec., 2019"	"2019/12"	79	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2019"	"2019"	"Jan., 2019"	"2019/01"	Suppressed	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2019"	"2019"	"Feb., 2019"	"2019/02"	Suppressed	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2019"	"2019"	"Mar., 2019"	"2019/03"	Suppressed	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2019"	"2019"	"Apr., 2019"	"2019/04"	Suppressed	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2019"	"2019"	"May, 2019"	"2019/05"	Suppressed	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2019"	"2019"	"Jun., 2019"	"2019/06"	Suppressed	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2019"	"2019"	"Jul., 2019"	"2019/07"	Suppressed	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2019"	"2019"	"Aug., 2019"	"2019/08"	Suppressed	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2019"	"2019"	"Sep., 2019"	"2019/09"	Suppressed	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2019"	"2019"	"Oct., 2019"	"2019/10"	Suppressed	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2019"	"2019"	"Nov., 2019"	"2019/11"	Suppressed	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2019"	"2019"	"Dec., 2019"	"2019/12"	Suppressed	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2019"	"2019"	"Jan., 2019"	"2019/01"	120	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2019"	"2019"	"Feb., 2019"	"2019/02"	102	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2019"	"2019"	"Mar., 2019"	"2019/03"	128	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2019"	"2019"	"Apr., 2019"	"2019/04"	116	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2019"	"2019"	"May, 2019"	"2019/05"	120	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2019"	"2019"	"Jun., 2019"	"2019/06"	135	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2019"	"2019"	"Jul., 2019"	"2019/07"	136	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2019"	"2019"	"Aug., 2019"	"2019/08"	119	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2019"	"2019"	"Sep., 2019"	"2019/09"	131	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2019"	"2019"	"Oct., 2019"	"2019/10"	122	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2019"	"2019"	"Nov., 2019"	"2019/11"	147	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2019"	"2019"	"Dec., 2019"	"2019/12"	142	Not Applicable	Not Applicable
+	"Texas"	"48"	"2019"	"2019"	"Jan., 2019"	"2019/01"	117	Not Applicable	Not Applicable
+	"Texas"	"48"	"2019"	"2019"	"Feb., 2019"	"2019/02"	105	Not Applicable	Not Applicable
+	"Texas"	"48"	"2019"	"2019"	"Mar., 2019"	"2019/03"	140	Not Applicable	Not Applicable
+	"Texas"	"48"	"2019"	"2019"	"Apr., 2019"	"2019/04"	119	Not Applicable	Not Applicable
+	"Texas"	"48"	"2019"	"2019"	"May, 2019"	"2019/05"	105	Not Applicable	Not Applicable
+	"Texas"	"48"	"2019"	"2019"	"Jun., 2019"	"2019/06"	102	Not Applicable	Not Applicable
+	"Texas"	"48"	"2019"	"2019"	"Jul., 2019"	"2019/07"	121	Not Applicable	Not Applicable
+	"Texas"	"48"	"2019"	"2019"	"Aug., 2019"	"2019/08"	126	Not Applicable	Not Applicable
+	"Texas"	"48"	"2019"	"2019"	"Sep., 2019"	"2019/09"	112	Not Applicable	Not Applicable
+	"Texas"	"48"	"2019"	"2019"	"Oct., 2019"	"2019/10"	128	Not Applicable	Not Applicable
+	"Texas"	"48"	"2019"	"2019"	"Nov., 2019"	"2019/11"	141	Not Applicable	Not Applicable
+	"Texas"	"48"	"2019"	"2019"	"Dec., 2019"	"2019/12"	132	Not Applicable	Not Applicable
+	"Utah"	"49"	"2019"	"2019"	"Jan., 2019"	"2019/01"	38	Not Applicable	Not Applicable
+	"Utah"	"49"	"2019"	"2019"	"Feb., 2019"	"2019/02"	32	Not Applicable	Not Applicable
+	"Utah"	"49"	"2019"	"2019"	"Mar., 2019"	"2019/03"	34	Not Applicable	Not Applicable
+	"Utah"	"49"	"2019"	"2019"	"Apr., 2019"	"2019/04"	31	Not Applicable	Not Applicable
+	"Utah"	"49"	"2019"	"2019"	"May, 2019"	"2019/05"	28	Not Applicable	Not Applicable
+	"Utah"	"49"	"2019"	"2019"	"Jun., 2019"	"2019/06"	37	Not Applicable	Not Applicable
+	"Utah"	"49"	"2019"	"2019"	"Jul., 2019"	"2019/07"	39	Not Applicable	Not Applicable
+	"Utah"	"49"	"2019"	"2019"	"Aug., 2019"	"2019/08"	25	Not Applicable	Not Applicable
+	"Utah"	"49"	"2019"	"2019"	"Sep., 2019"	"2019/09"	27	Not Applicable	Not Applicable
+	"Utah"	"49"	"2019"	"2019"	"Oct., 2019"	"2019/10"	30	Not Applicable	Not Applicable
+	"Utah"	"49"	"2019"	"2019"	"Nov., 2019"	"2019/11"	40	Not Applicable	Not Applicable
+	"Utah"	"49"	"2019"	"2019"	"Dec., 2019"	"2019/12"	35	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2019"	"2019"	"Jan., 2019"	"2019/01"	11	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2019"	"2019"	"Feb., 2019"	"2019/02"	16	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2019"	"2019"	"Mar., 2019"	"2019/03"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2019"	"2019"	"Apr., 2019"	"2019/04"	10	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2019"	"2019"	"May, 2019"	"2019/05"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2019"	"2019"	"Jun., 2019"	"2019/06"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2019"	"2019"	"Jul., 2019"	"2019/07"	11	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2019"	"2019"	"Aug., 2019"	"2019/08"	14	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2019"	"2019"	"Sep., 2019"	"2019/09"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2019"	"2019"	"Oct., 2019"	"2019/10"	11	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2019"	"2019"	"Nov., 2019"	"2019/11"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2019"	"2019"	"Dec., 2019"	"2019/12"	13	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2019"	"2019"	"Jan., 2019"	"2019/01"	103	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2019"	"2019"	"Feb., 2019"	"2019/02"	99	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2019"	"2019"	"Mar., 2019"	"2019/03"	107	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2019"	"2019"	"Apr., 2019"	"2019/04"	106	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2019"	"2019"	"May, 2019"	"2019/05"	115	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2019"	"2019"	"Jun., 2019"	"2019/06"	91	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2019"	"2019"	"Jul., 2019"	"2019/07"	74	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2019"	"2019"	"Aug., 2019"	"2019/08"	94	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2019"	"2019"	"Sep., 2019"	"2019/09"	103	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2019"	"2019"	"Oct., 2019"	"2019/10"	135	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2019"	"2019"	"Nov., 2019"	"2019/11"	114	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2019"	"2019"	"Dec., 2019"	"2019/12"	113	Not Applicable	Not Applicable
+	"Washington"	"53"	"2019"	"2019"	"Jan., 2019"	"2019/01"	78	Not Applicable	Not Applicable
+	"Washington"	"53"	"2019"	"2019"	"Feb., 2019"	"2019/02"	59	Not Applicable	Not Applicable
+	"Washington"	"53"	"2019"	"2019"	"Mar., 2019"	"2019/03"	72	Not Applicable	Not Applicable
+	"Washington"	"53"	"2019"	"2019"	"Apr., 2019"	"2019/04"	57	Not Applicable	Not Applicable
+	"Washington"	"53"	"2019"	"2019"	"May, 2019"	"2019/05"	51	Not Applicable	Not Applicable
+	"Washington"	"53"	"2019"	"2019"	"Jun., 2019"	"2019/06"	67	Not Applicable	Not Applicable
+	"Washington"	"53"	"2019"	"2019"	"Jul., 2019"	"2019/07"	68	Not Applicable	Not Applicable
+	"Washington"	"53"	"2019"	"2019"	"Aug., 2019"	"2019/08"	74	Not Applicable	Not Applicable
+	"Washington"	"53"	"2019"	"2019"	"Sep., 2019"	"2019/09"	75	Not Applicable	Not Applicable
+	"Washington"	"53"	"2019"	"2019"	"Oct., 2019"	"2019/10"	70	Not Applicable	Not Applicable
+	"Washington"	"53"	"2019"	"2019"	"Nov., 2019"	"2019/11"	63	Not Applicable	Not Applicable
+	"Washington"	"53"	"2019"	"2019"	"Dec., 2019"	"2019/12"	78	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2019"	"2019"	"Jan., 2019"	"2019/01"	46	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2019"	"2019"	"Feb., 2019"	"2019/02"	40	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2019"	"2019"	"Mar., 2019"	"2019/03"	62	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2019"	"2019"	"Apr., 2019"	"2019/04"	65	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2019"	"2019"	"May, 2019"	"2019/05"	45	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2019"	"2019"	"Jun., 2019"	"2019/06"	53	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2019"	"2019"	"Jul., 2019"	"2019/07"	61	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2019"	"2019"	"Aug., 2019"	"2019/08"	59	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2019"	"2019"	"Sep., 2019"	"2019/09"	48	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2019"	"2019"	"Oct., 2019"	"2019/10"	56	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2019"	"2019"	"Nov., 2019"	"2019/11"	73	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2019"	"2019"	"Dec., 2019"	"2019/12"	60	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2019"	"2019"	"Jan., 2019"	"2019/01"	56	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2019"	"2019"	"Feb., 2019"	"2019/02"	57	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2019"	"2019"	"Mar., 2019"	"2019/03"	92	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2019"	"2019"	"Apr., 2019"	"2019/04"	76	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2019"	"2019"	"May, 2019"	"2019/05"	82	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2019"	"2019"	"Jun., 2019"	"2019/06"	68	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2019"	"2019"	"Jul., 2019"	"2019/07"	80	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2019"	"2019"	"Aug., 2019"	"2019/08"	92	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2019"	"2019"	"Sep., 2019"	"2019/09"	78	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2019"	"2019"	"Oct., 2019"	"2019/10"	72	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2019"	"2019"	"Nov., 2019"	"2019/11"	86	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2019"	"2019"	"Dec., 2019"	"2019/12"	85	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2019"	"2019"	"Jan., 2019"	"2019/01"	Suppressed	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2019"	"2019"	"Feb., 2019"	"2019/02"	Suppressed	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2019"	"2019"	"Mar., 2019"	"2019/03"	Suppressed	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2019"	"2019"	"Apr., 2019"	"2019/04"	Suppressed	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2019"	"2019"	"May, 2019"	"2019/05"	Suppressed	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2019"	"2019"	"Jun., 2019"	"2019/06"	Suppressed	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2019"	"2019"	"Jul., 2019"	"2019/07"	Suppressed	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2019"	"2019"	"Aug., 2019"	"2019/08"	Suppressed	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2019"	"2019"	"Sep., 2019"	"2019/09"	Suppressed	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2019"	"2019"	"Oct., 2019"	"2019/10"	Suppressed	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2019"	"2019"	"Nov., 2019"	"2019/11"	Suppressed	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2019"	"2019"	"Dec., 2019"	"2019/12"	Suppressed	Not Applicable	Not Applicable
+"---"
+"Dataset: Multiple Cause of Death, 1999-2020"
+"Query Parameters:"
+"MCD - ICD-10 Codes: T40.0 (Opium); T40.1 (Heroin); T40.2 (Other opioids); T40.3 (Methadone); T40.4 (Other synthetic narcotics)"
+"UCD - ICD-10 Codes: X40 (Accidental poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics); X41"
+"(Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not"
+"elsewhere classified); X42 (Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not"
+"elsewhere classified); X43 (Accidental poisoning by and exposure to other drugs acting on the autonomic nervous system); X44"
+"(Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances); X60 (Intentional"
+"self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics); X61 (Intentional self-poisoning by and"
+"exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified); X62"
+"(Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified); X63"
+"(Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system); X64 (Intentional"
+"self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances); X85 (Assault by drugs,"
+"medicaments and biological substances); Y10 (Poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics,"
+"undetermined intent); Y11 (Poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic"
+"drugs, not elsewhere classified, undetermined intent); Y12 (Poisoning by and exposure to narcotics and psychodysleptics"
+"[hallucinogens], not elsewhere classified, undetermined intent); Y13 (Poisoning by and exposure to other drugs acting on the"
+"autonomic nervous system, undetermined intent); Y14 (Poisoning by and exposure to other and unspecified drugs, medicaments and"
+"biological substances, undetermined intent)"
+"Year/Month: 2019"
+"Group By: State; Year; Month"
+"Show Totals: Disabled"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: Jul 30, 2024 7:09:53 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/mcd-icd10.html on Jul 30, 2024 7:09:53 AM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when Autopsy, Place of Death, Weekday or Month are grouped by or limited,"
+"due to lack of a valid population. More information: http://wonder.cdc.gov/wonder/help/mcd.html#NotApplicableRates."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Unreliable."
+"4. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#ICD-10 Changes."

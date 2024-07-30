@@ -1,0 +1,663 @@
+"Notes"	"State"	"State Code"	"Year"	"Year Code"	"Month"	"Month Code"	Deaths	Population	Crude Rate
+	"Alabama"	"01"	"2011"	"2011"	"Jan., 2011"	"2011/01"	12	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2011"	"2011"	"Feb., 2011"	"2011/02"	21	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2011"	"2011"	"Mar., 2011"	"2011/03"	14	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2011"	"2011"	"Apr., 2011"	"2011/04"	25	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2011"	"2011"	"May, 2011"	"2011/05"	13	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2011"	"2011"	"Jun., 2011"	"2011/06"	Suppressed	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2011"	"2011"	"Jul., 2011"	"2011/07"	16	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2011"	"2011"	"Aug., 2011"	"2011/08"	17	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2011"	"2011"	"Sep., 2011"	"2011/09"	15	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2011"	"2011"	"Oct., 2011"	"2011/10"	12	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2011"	"2011"	"Nov., 2011"	"2011/11"	11	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2011"	"2011"	"Dec., 2011"	"2011/12"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2011"	"2011"	"Jan., 2011"	"2011/01"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2011"	"2011"	"Feb., 2011"	"2011/02"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2011"	"2011"	"Mar., 2011"	"2011/03"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2011"	"2011"	"Apr., 2011"	"2011/04"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2011"	"2011"	"May, 2011"	"2011/05"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2011"	"2011"	"Jun., 2011"	"2011/06"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2011"	"2011"	"Jul., 2011"	"2011/07"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2011"	"2011"	"Aug., 2011"	"2011/08"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2011"	"2011"	"Sep., 2011"	"2011/09"	10	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2011"	"2011"	"Oct., 2011"	"2011/10"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2011"	"2011"	"Nov., 2011"	"2011/11"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2011"	"2011"	"Dec., 2011"	"2011/12"	Suppressed	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2011"	"2011"	"Jan., 2011"	"2011/01"	35	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2011"	"2011"	"Feb., 2011"	"2011/02"	47	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2011"	"2011"	"Mar., 2011"	"2011/03"	48	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2011"	"2011"	"Apr., 2011"	"2011/04"	38	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2011"	"2011"	"May, 2011"	"2011/05"	49	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2011"	"2011"	"Jun., 2011"	"2011/06"	39	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2011"	"2011"	"Jul., 2011"	"2011/07"	54	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2011"	"2011"	"Aug., 2011"	"2011/08"	42	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2011"	"2011"	"Sep., 2011"	"2011/09"	31	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2011"	"2011"	"Oct., 2011"	"2011/10"	33	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2011"	"2011"	"Nov., 2011"	"2011/11"	36	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2011"	"2011"	"Dec., 2011"	"2011/12"	39	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2011"	"2011"	"Jan., 2011"	"2011/01"	18	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2011"	"2011"	"Feb., 2011"	"2011/02"	16	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2011"	"2011"	"Mar., 2011"	"2011/03"	11	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2011"	"2011"	"Apr., 2011"	"2011/04"	10	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2011"	"2011"	"May, 2011"	"2011/05"	17	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2011"	"2011"	"Jun., 2011"	"2011/06"	11	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2011"	"2011"	"Jul., 2011"	"2011/07"	14	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2011"	"2011"	"Aug., 2011"	"2011/08"	13	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2011"	"2011"	"Sep., 2011"	"2011/09"	Suppressed	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2011"	"2011"	"Oct., 2011"	"2011/10"	13	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2011"	"2011"	"Nov., 2011"	"2011/11"	15	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2011"	"2011"	"Dec., 2011"	"2011/12"	16	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Jan., 2011"	"2011/01"	181	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Feb., 2011"	"2011/02"	137	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Mar., 2011"	"2011/03"	169	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Apr., 2011"	"2011/04"	156	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"May, 2011"	"2011/05"	157	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Jun., 2011"	"2011/06"	143	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Jul., 2011"	"2011/07"	133	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Aug., 2011"	"2011/08"	150	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Sep., 2011"	"2011/09"	121	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Oct., 2011"	"2011/10"	154	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Nov., 2011"	"2011/11"	130	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	"Dec., 2011"	"2011/12"	166	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2011"	"2011"	"Jan., 2011"	"2011/01"	27	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2011"	"2011"	"Feb., 2011"	"2011/02"	43	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2011"	"2011"	"Mar., 2011"	"2011/03"	31	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2011"	"2011"	"Apr., 2011"	"2011/04"	29	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2011"	"2011"	"May, 2011"	"2011/05"	31	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2011"	"2011"	"Jun., 2011"	"2011/06"	27	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2011"	"2011"	"Jul., 2011"	"2011/07"	39	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2011"	"2011"	"Aug., 2011"	"2011/08"	33	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2011"	"2011"	"Sep., 2011"	"2011/09"	30	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2011"	"2011"	"Oct., 2011"	"2011/10"	31	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2011"	"2011"	"Nov., 2011"	"2011/11"	31	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2011"	"2011"	"Dec., 2011"	"2011/12"	32	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2011"	"2011"	"Jan., 2011"	"2011/01"	19	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2011"	"2011"	"Feb., 2011"	"2011/02"	14	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2011"	"2011"	"Mar., 2011"	"2011/03"	16	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2011"	"2011"	"Apr., 2011"	"2011/04"	24	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2011"	"2011"	"May, 2011"	"2011/05"	Suppressed	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2011"	"2011"	"Jun., 2011"	"2011/06"	25	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2011"	"2011"	"Jul., 2011"	"2011/07"	13	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2011"	"2011"	"Aug., 2011"	"2011/08"	15	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2011"	"2011"	"Sep., 2011"	"2011/09"	Suppressed	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2011"	"2011"	"Oct., 2011"	"2011/10"	Suppressed	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2011"	"2011"	"Nov., 2011"	"2011/11"	Suppressed	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2011"	"2011"	"Dec., 2011"	"2011/12"	11	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2011"	"2011"	"Jan., 2011"	"2011/01"	11	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2011"	"2011"	"Feb., 2011"	"2011/02"	Suppressed	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2011"	"2011"	"Mar., 2011"	"2011/03"	13	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2011"	"2011"	"Apr., 2011"	"2011/04"	Suppressed	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2011"	"2011"	"May, 2011"	"2011/05"	Suppressed	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2011"	"2011"	"Jun., 2011"	"2011/06"	Suppressed	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2011"	"2011"	"Jul., 2011"	"2011/07"	11	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2011"	"2011"	"Aug., 2011"	"2011/08"	Suppressed	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2011"	"2011"	"Sep., 2011"	"2011/09"	Suppressed	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2011"	"2011"	"Oct., 2011"	"2011/10"	10	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2011"	"2011"	"Nov., 2011"	"2011/11"	Suppressed	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2011"	"2011"	"Dec., 2011"	"2011/12"	Suppressed	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2011"	"2011"	"Jan., 2011"	"2011/01"	Suppressed	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2011"	"2011"	"Feb., 2011"	"2011/02"	Suppressed	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2011"	"2011"	"Mar., 2011"	"2011/03"	0	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2011"	"2011"	"Apr., 2011"	"2011/04"	Suppressed	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2011"	"2011"	"May, 2011"	"2011/05"	Suppressed	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2011"	"2011"	"Jun., 2011"	"2011/06"	Suppressed	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2011"	"2011"	"Jul., 2011"	"2011/07"	Suppressed	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2011"	"2011"	"Aug., 2011"	"2011/08"	Suppressed	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2011"	"2011"	"Sep., 2011"	"2011/09"	Suppressed	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2011"	"2011"	"Oct., 2011"	"2011/10"	Suppressed	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2011"	"2011"	"Nov., 2011"	"2011/11"	Suppressed	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2011"	"2011"	"Dec., 2011"	"2011/12"	Suppressed	Not Applicable	Not Applicable
+	"Florida"	"12"	"2011"	"2011"	"Jan., 2011"	"2011/01"	141	Not Applicable	Not Applicable
+	"Florida"	"12"	"2011"	"2011"	"Feb., 2011"	"2011/02"	139	Not Applicable	Not Applicable
+	"Florida"	"12"	"2011"	"2011"	"Mar., 2011"	"2011/03"	143	Not Applicable	Not Applicable
+	"Florida"	"12"	"2011"	"2011"	"Apr., 2011"	"2011/04"	135	Not Applicable	Not Applicable
+	"Florida"	"12"	"2011"	"2011"	"May, 2011"	"2011/05"	125	Not Applicable	Not Applicable
+	"Florida"	"12"	"2011"	"2011"	"Jun., 2011"	"2011/06"	105	Not Applicable	Not Applicable
+	"Florida"	"12"	"2011"	"2011"	"Jul., 2011"	"2011/07"	137	Not Applicable	Not Applicable
+	"Florida"	"12"	"2011"	"2011"	"Aug., 2011"	"2011/08"	135	Not Applicable	Not Applicable
+	"Florida"	"12"	"2011"	"2011"	"Sep., 2011"	"2011/09"	116	Not Applicable	Not Applicable
+	"Florida"	"12"	"2011"	"2011"	"Oct., 2011"	"2011/10"	129	Not Applicable	Not Applicable
+	"Florida"	"12"	"2011"	"2011"	"Nov., 2011"	"2011/11"	127	Not Applicable	Not Applicable
+	"Florida"	"12"	"2011"	"2011"	"Dec., 2011"	"2011/12"	112	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2011"	"2011"	"Jan., 2011"	"2011/01"	39	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2011"	"2011"	"Feb., 2011"	"2011/02"	44	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2011"	"2011"	"Mar., 2011"	"2011/03"	47	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2011"	"2011"	"Apr., 2011"	"2011/04"	28	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2011"	"2011"	"May, 2011"	"2011/05"	47	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2011"	"2011"	"Jun., 2011"	"2011/06"	40	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2011"	"2011"	"Jul., 2011"	"2011/07"	40	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2011"	"2011"	"Aug., 2011"	"2011/08"	56	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2011"	"2011"	"Sep., 2011"	"2011/09"	33	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2011"	"2011"	"Oct., 2011"	"2011/10"	52	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2011"	"2011"	"Nov., 2011"	"2011/11"	38	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2011"	"2011"	"Dec., 2011"	"2011/12"	50	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2011"	"2011"	"Jan., 2011"	"2011/01"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2011"	"2011"	"Feb., 2011"	"2011/02"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2011"	"2011"	"Mar., 2011"	"2011/03"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2011"	"2011"	"Apr., 2011"	"2011/04"	16	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2011"	"2011"	"May, 2011"	"2011/05"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2011"	"2011"	"Jun., 2011"	"2011/06"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2011"	"2011"	"Jul., 2011"	"2011/07"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2011"	"2011"	"Aug., 2011"	"2011/08"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2011"	"2011"	"Sep., 2011"	"2011/09"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2011"	"2011"	"Oct., 2011"	"2011/10"	10	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2011"	"2011"	"Nov., 2011"	"2011/11"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2011"	"2011"	"Dec., 2011"	"2011/12"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2011"	"2011"	"Jan., 2011"	"2011/01"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2011"	"2011"	"Feb., 2011"	"2011/02"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2011"	"2011"	"Mar., 2011"	"2011/03"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2011"	"2011"	"Apr., 2011"	"2011/04"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2011"	"2011"	"May, 2011"	"2011/05"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2011"	"2011"	"Jun., 2011"	"2011/06"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2011"	"2011"	"Jul., 2011"	"2011/07"	12	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2011"	"2011"	"Aug., 2011"	"2011/08"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2011"	"2011"	"Sep., 2011"	"2011/09"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2011"	"2011"	"Oct., 2011"	"2011/10"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2011"	"2011"	"Nov., 2011"	"2011/11"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2011"	"2011"	"Dec., 2011"	"2011/12"	Suppressed	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2011"	"2011"	"Jan., 2011"	"2011/01"	28	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2011"	"2011"	"Feb., 2011"	"2011/02"	42	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2011"	"2011"	"Mar., 2011"	"2011/03"	29	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2011"	"2011"	"Apr., 2011"	"2011/04"	41	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2011"	"2011"	"May, 2011"	"2011/05"	30	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2011"	"2011"	"Jun., 2011"	"2011/06"	39	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2011"	"2011"	"Jul., 2011"	"2011/07"	50	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2011"	"2011"	"Aug., 2011"	"2011/08"	40	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2011"	"2011"	"Sep., 2011"	"2011/09"	45	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2011"	"2011"	"Oct., 2011"	"2011/10"	38	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2011"	"2011"	"Nov., 2011"	"2011/11"	46	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2011"	"2011"	"Dec., 2011"	"2011/12"	41	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2011"	"2011"	"Jan., 2011"	"2011/01"	28	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2011"	"2011"	"Feb., 2011"	"2011/02"	18	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2011"	"2011"	"Mar., 2011"	"2011/03"	35	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2011"	"2011"	"Apr., 2011"	"2011/04"	22	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2011"	"2011"	"May, 2011"	"2011/05"	28	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2011"	"2011"	"Jun., 2011"	"2011/06"	24	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2011"	"2011"	"Jul., 2011"	"2011/07"	32	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2011"	"2011"	"Aug., 2011"	"2011/08"	28	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2011"	"2011"	"Sep., 2011"	"2011/09"	13	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2011"	"2011"	"Oct., 2011"	"2011/10"	24	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2011"	"2011"	"Nov., 2011"	"2011/11"	36	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2011"	"2011"	"Dec., 2011"	"2011/12"	27	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2011"	"2011"	"Jan., 2011"	"2011/01"	15	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2011"	"2011"	"Feb., 2011"	"2011/02"	12	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2011"	"2011"	"Mar., 2011"	"2011/03"	13	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2011"	"2011"	"Apr., 2011"	"2011/04"	15	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2011"	"2011"	"May, 2011"	"2011/05"	14	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2011"	"2011"	"Jun., 2011"	"2011/06"	Suppressed	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2011"	"2011"	"Jul., 2011"	"2011/07"	11	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2011"	"2011"	"Aug., 2011"	"2011/08"	Suppressed	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2011"	"2011"	"Sep., 2011"	"2011/09"	10	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2011"	"2011"	"Oct., 2011"	"2011/10"	11	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2011"	"2011"	"Nov., 2011"	"2011/11"	14	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2011"	"2011"	"Dec., 2011"	"2011/12"	17	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2011"	"2011"	"Jan., 2011"	"2011/01"	12	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2011"	"2011"	"Feb., 2011"	"2011/02"	11	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2011"	"2011"	"Mar., 2011"	"2011/03"	10	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2011"	"2011"	"Apr., 2011"	"2011/04"	Suppressed	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2011"	"2011"	"May, 2011"	"2011/05"	Suppressed	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2011"	"2011"	"Jun., 2011"	"2011/06"	10	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2011"	"2011"	"Jul., 2011"	"2011/07"	10	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2011"	"2011"	"Aug., 2011"	"2011/08"	10	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2011"	"2011"	"Sep., 2011"	"2011/09"	10	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2011"	"2011"	"Oct., 2011"	"2011/10"	Suppressed	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2011"	"2011"	"Nov., 2011"	"2011/11"	Suppressed	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2011"	"2011"	"Dec., 2011"	"2011/12"	11	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2011"	"2011"	"Jan., 2011"	"2011/01"	50	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2011"	"2011"	"Feb., 2011"	"2011/02"	58	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2011"	"2011"	"Mar., 2011"	"2011/03"	48	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2011"	"2011"	"Apr., 2011"	"2011/04"	51	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2011"	"2011"	"May, 2011"	"2011/05"	66	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2011"	"2011"	"Jun., 2011"	"2011/06"	45	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2011"	"2011"	"Jul., 2011"	"2011/07"	42	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2011"	"2011"	"Aug., 2011"	"2011/08"	54	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2011"	"2011"	"Sep., 2011"	"2011/09"	48	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2011"	"2011"	"Oct., 2011"	"2011/10"	47	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2011"	"2011"	"Nov., 2011"	"2011/11"	44	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2011"	"2011"	"Dec., 2011"	"2011/12"	50	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2011"	"2011"	"Jan., 2011"	"2011/01"	Suppressed	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2011"	"2011"	"Feb., 2011"	"2011/02"	Suppressed	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2011"	"2011"	"Mar., 2011"	"2011/03"	Suppressed	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2011"	"2011"	"Apr., 2011"	"2011/04"	Suppressed	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2011"	"2011"	"May, 2011"	"2011/05"	Suppressed	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2011"	"2011"	"Jun., 2011"	"2011/06"	Suppressed	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2011"	"2011"	"Jul., 2011"	"2011/07"	Suppressed	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2011"	"2011"	"Aug., 2011"	"2011/08"	Suppressed	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2011"	"2011"	"Sep., 2011"	"2011/09"	11	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2011"	"2011"	"Oct., 2011"	"2011/10"	12	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2011"	"2011"	"Nov., 2011"	"2011/11"	12	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2011"	"2011"	"Dec., 2011"	"2011/12"	15	Not Applicable	Not Applicable
+	"Maine"	"23"	"2011"	"2011"	"Jan., 2011"	"2011/01"	Suppressed	Not Applicable	Not Applicable
+	"Maine"	"23"	"2011"	"2011"	"Feb., 2011"	"2011/02"	Suppressed	Not Applicable	Not Applicable
+	"Maine"	"23"	"2011"	"2011"	"Mar., 2011"	"2011/03"	Suppressed	Not Applicable	Not Applicable
+	"Maine"	"23"	"2011"	"2011"	"Apr., 2011"	"2011/04"	11	Not Applicable	Not Applicable
+	"Maine"	"23"	"2011"	"2011"	"May, 2011"	"2011/05"	Suppressed	Not Applicable	Not Applicable
+	"Maine"	"23"	"2011"	"2011"	"Jun., 2011"	"2011/06"	12	Not Applicable	Not Applicable
+	"Maine"	"23"	"2011"	"2011"	"Jul., 2011"	"2011/07"	Suppressed	Not Applicable	Not Applicable
+	"Maine"	"23"	"2011"	"2011"	"Aug., 2011"	"2011/08"	Suppressed	Not Applicable	Not Applicable
+	"Maine"	"23"	"2011"	"2011"	"Sep., 2011"	"2011/09"	Suppressed	Not Applicable	Not Applicable
+	"Maine"	"23"	"2011"	"2011"	"Oct., 2011"	"2011/10"	Suppressed	Not Applicable	Not Applicable
+	"Maine"	"23"	"2011"	"2011"	"Nov., 2011"	"2011/11"	Suppressed	Not Applicable	Not Applicable
+	"Maine"	"23"	"2011"	"2011"	"Dec., 2011"	"2011/12"	Suppressed	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2011"	"2011"	"Jan., 2011"	"2011/01"	47	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2011"	"2011"	"Feb., 2011"	"2011/02"	42	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2011"	"2011"	"Mar., 2011"	"2011/03"	57	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2011"	"2011"	"Apr., 2011"	"2011/04"	33	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2011"	"2011"	"May, 2011"	"2011/05"	43	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2011"	"2011"	"Jun., 2011"	"2011/06"	36	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2011"	"2011"	"Jul., 2011"	"2011/07"	44	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2011"	"2011"	"Aug., 2011"	"2011/08"	37	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2011"	"2011"	"Sep., 2011"	"2011/09"	38	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2011"	"2011"	"Oct., 2011"	"2011/10"	37	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2011"	"2011"	"Nov., 2011"	"2011/11"	52	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2011"	"2011"	"Dec., 2011"	"2011/12"	38	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2011"	"2011"	"Jan., 2011"	"2011/01"	22	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2011"	"2011"	"Feb., 2011"	"2011/02"	41	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2011"	"2011"	"Mar., 2011"	"2011/03"	26	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2011"	"2011"	"Apr., 2011"	"2011/04"	39	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2011"	"2011"	"May, 2011"	"2011/05"	20	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2011"	"2011"	"Jun., 2011"	"2011/06"	34	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2011"	"2011"	"Jul., 2011"	"2011/07"	31	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2011"	"2011"	"Aug., 2011"	"2011/08"	25	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2011"	"2011"	"Sep., 2011"	"2011/09"	40	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2011"	"2011"	"Oct., 2011"	"2011/10"	36	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2011"	"2011"	"Nov., 2011"	"2011/11"	60	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2011"	"2011"	"Dec., 2011"	"2011/12"	40	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2011"	"2011"	"Jan., 2011"	"2011/01"	42	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2011"	"2011"	"Feb., 2011"	"2011/02"	51	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2011"	"2011"	"Mar., 2011"	"2011/03"	53	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2011"	"2011"	"Apr., 2011"	"2011/04"	52	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2011"	"2011"	"May, 2011"	"2011/05"	61	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2011"	"2011"	"Jun., 2011"	"2011/06"	57	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2011"	"2011"	"Jul., 2011"	"2011/07"	50	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2011"	"2011"	"Aug., 2011"	"2011/08"	54	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2011"	"2011"	"Sep., 2011"	"2011/09"	60	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2011"	"2011"	"Oct., 2011"	"2011/10"	64	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2011"	"2011"	"Nov., 2011"	"2011/11"	55	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2011"	"2011"	"Dec., 2011"	"2011/12"	55	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2011"	"2011"	"Jan., 2011"	"2011/01"	23	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2011"	"2011"	"Feb., 2011"	"2011/02"	20	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2011"	"2011"	"Mar., 2011"	"2011/03"	17	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2011"	"2011"	"Apr., 2011"	"2011/04"	23	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2011"	"2011"	"May, 2011"	"2011/05"	20	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2011"	"2011"	"Jun., 2011"	"2011/06"	23	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2011"	"2011"	"Jul., 2011"	"2011/07"	Suppressed	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2011"	"2011"	"Aug., 2011"	"2011/08"	13	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2011"	"2011"	"Sep., 2011"	"2011/09"	16	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2011"	"2011"	"Oct., 2011"	"2011/10"	19	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2011"	"2011"	"Nov., 2011"	"2011/11"	20	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2011"	"2011"	"Dec., 2011"	"2011/12"	21	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2011"	"2011"	"Jan., 2011"	"2011/01"	Suppressed	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2011"	"2011"	"Feb., 2011"	"2011/02"	Suppressed	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2011"	"2011"	"Mar., 2011"	"2011/03"	Suppressed	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2011"	"2011"	"Apr., 2011"	"2011/04"	Suppressed	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2011"	"2011"	"May, 2011"	"2011/05"	Suppressed	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2011"	"2011"	"Jun., 2011"	"2011/06"	Suppressed	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2011"	"2011"	"Jul., 2011"	"2011/07"	Suppressed	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2011"	"2011"	"Aug., 2011"	"2011/08"	Suppressed	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2011"	"2011"	"Sep., 2011"	"2011/09"	Suppressed	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2011"	"2011"	"Oct., 2011"	"2011/10"	Suppressed	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2011"	"2011"	"Nov., 2011"	"2011/11"	Suppressed	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2011"	"2011"	"Dec., 2011"	"2011/12"	Suppressed	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2011"	"2011"	"Jan., 2011"	"2011/01"	29	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2011"	"2011"	"Feb., 2011"	"2011/02"	48	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2011"	"2011"	"Mar., 2011"	"2011/03"	58	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2011"	"2011"	"Apr., 2011"	"2011/04"	51	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2011"	"2011"	"May, 2011"	"2011/05"	35	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2011"	"2011"	"Jun., 2011"	"2011/06"	41	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2011"	"2011"	"Jul., 2011"	"2011/07"	50	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2011"	"2011"	"Aug., 2011"	"2011/08"	40	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2011"	"2011"	"Sep., 2011"	"2011/09"	50	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2011"	"2011"	"Oct., 2011"	"2011/10"	42	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2011"	"2011"	"Nov., 2011"	"2011/11"	58	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2011"	"2011"	"Dec., 2011"	"2011/12"	51	Not Applicable	Not Applicable
+	"Montana"	"30"	"2011"	"2011"	"Jan., 2011"	"2011/01"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2011"	"2011"	"Feb., 2011"	"2011/02"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2011"	"2011"	"Mar., 2011"	"2011/03"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2011"	"2011"	"Apr., 2011"	"2011/04"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2011"	"2011"	"May, 2011"	"2011/05"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2011"	"2011"	"Jun., 2011"	"2011/06"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2011"	"2011"	"Jul., 2011"	"2011/07"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2011"	"2011"	"Aug., 2011"	"2011/08"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2011"	"2011"	"Sep., 2011"	"2011/09"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2011"	"2011"	"Oct., 2011"	"2011/10"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2011"	"2011"	"Nov., 2011"	"2011/11"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2011"	"2011"	"Dec., 2011"	"2011/12"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2011"	"2011"	"Jan., 2011"	"2011/01"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2011"	"2011"	"Feb., 2011"	"2011/02"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2011"	"2011"	"Mar., 2011"	"2011/03"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2011"	"2011"	"Apr., 2011"	"2011/04"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2011"	"2011"	"May, 2011"	"2011/05"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2011"	"2011"	"Jun., 2011"	"2011/06"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2011"	"2011"	"Jul., 2011"	"2011/07"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2011"	"2011"	"Aug., 2011"	"2011/08"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2011"	"2011"	"Sep., 2011"	"2011/09"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2011"	"2011"	"Oct., 2011"	"2011/10"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2011"	"2011"	"Nov., 2011"	"2011/11"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2011"	"2011"	"Dec., 2011"	"2011/12"	Suppressed	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2011"	"2011"	"Jan., 2011"	"2011/01"	43	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2011"	"2011"	"Feb., 2011"	"2011/02"	26	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2011"	"2011"	"Mar., 2011"	"2011/03"	34	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2011"	"2011"	"Apr., 2011"	"2011/04"	42	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2011"	"2011"	"May, 2011"	"2011/05"	45	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2011"	"2011"	"Jun., 2011"	"2011/06"	37	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2011"	"2011"	"Jul., 2011"	"2011/07"	36	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2011"	"2011"	"Aug., 2011"	"2011/08"	28	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2011"	"2011"	"Sep., 2011"	"2011/09"	39	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2011"	"2011"	"Oct., 2011"	"2011/10"	20	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2011"	"2011"	"Nov., 2011"	"2011/11"	44	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2011"	"2011"	"Dec., 2011"	"2011/12"	24	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2011"	"2011"	"Jan., 2011"	"2011/01"	17	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2011"	"2011"	"Feb., 2011"	"2011/02"	Suppressed	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2011"	"2011"	"Mar., 2011"	"2011/03"	12	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2011"	"2011"	"Apr., 2011"	"2011/04"	12	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2011"	"2011"	"May, 2011"	"2011/05"	11	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2011"	"2011"	"Jun., 2011"	"2011/06"	13	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2011"	"2011"	"Jul., 2011"	"2011/07"	Suppressed	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2011"	"2011"	"Aug., 2011"	"2011/08"	10	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2011"	"2011"	"Sep., 2011"	"2011/09"	12	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2011"	"2011"	"Oct., 2011"	"2011/10"	12	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2011"	"2011"	"Nov., 2011"	"2011/11"	13	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2011"	"2011"	"Dec., 2011"	"2011/12"	17	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2011"	"2011"	"Jan., 2011"	"2011/01"	32	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2011"	"2011"	"Feb., 2011"	"2011/02"	31	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2011"	"2011"	"Mar., 2011"	"2011/03"	28	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2011"	"2011"	"Apr., 2011"	"2011/04"	29	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2011"	"2011"	"May, 2011"	"2011/05"	39	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2011"	"2011"	"Jun., 2011"	"2011/06"	28	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2011"	"2011"	"Jul., 2011"	"2011/07"	45	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2011"	"2011"	"Aug., 2011"	"2011/08"	33	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2011"	"2011"	"Sep., 2011"	"2011/09"	23	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2011"	"2011"	"Oct., 2011"	"2011/10"	34	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2011"	"2011"	"Nov., 2011"	"2011/11"	36	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2011"	"2011"	"Dec., 2011"	"2011/12"	35	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2011"	"2011"	"Jan., 2011"	"2011/01"	19	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2011"	"2011"	"Feb., 2011"	"2011/02"	18	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2011"	"2011"	"Mar., 2011"	"2011/03"	20	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2011"	"2011"	"Apr., 2011"	"2011/04"	17	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2011"	"2011"	"May, 2011"	"2011/05"	23	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2011"	"2011"	"Jun., 2011"	"2011/06"	19	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2011"	"2011"	"Jul., 2011"	"2011/07"	Suppressed	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2011"	"2011"	"Aug., 2011"	"2011/08"	13	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2011"	"2011"	"Sep., 2011"	"2011/09"	21	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2011"	"2011"	"Oct., 2011"	"2011/10"	26	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2011"	"2011"	"Nov., 2011"	"2011/11"	13	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2011"	"2011"	"Dec., 2011"	"2011/12"	23	Not Applicable	Not Applicable
+	"New York"	"36"	"2011"	"2011"	"Jan., 2011"	"2011/01"	115	Not Applicable	Not Applicable
+	"New York"	"36"	"2011"	"2011"	"Feb., 2011"	"2011/02"	83	Not Applicable	Not Applicable
+	"New York"	"36"	"2011"	"2011"	"Mar., 2011"	"2011/03"	119	Not Applicable	Not Applicable
+	"New York"	"36"	"2011"	"2011"	"Apr., 2011"	"2011/04"	120	Not Applicable	Not Applicable
+	"New York"	"36"	"2011"	"2011"	"May, 2011"	"2011/05"	122	Not Applicable	Not Applicable
+	"New York"	"36"	"2011"	"2011"	"Jun., 2011"	"2011/06"	88	Not Applicable	Not Applicable
+	"New York"	"36"	"2011"	"2011"	"Jul., 2011"	"2011/07"	100	Not Applicable	Not Applicable
+	"New York"	"36"	"2011"	"2011"	"Aug., 2011"	"2011/08"	100	Not Applicable	Not Applicable
+	"New York"	"36"	"2011"	"2011"	"Sep., 2011"	"2011/09"	82	Not Applicable	Not Applicable
+	"New York"	"36"	"2011"	"2011"	"Oct., 2011"	"2011/10"	118	Not Applicable	Not Applicable
+	"New York"	"36"	"2011"	"2011"	"Nov., 2011"	"2011/11"	98	Not Applicable	Not Applicable
+	"New York"	"36"	"2011"	"2011"	"Dec., 2011"	"2011/12"	91	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2011"	"2011"	"Jan., 2011"	"2011/01"	58	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2011"	"2011"	"Feb., 2011"	"2011/02"	74	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2011"	"2011"	"Mar., 2011"	"2011/03"	79	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2011"	"2011"	"Apr., 2011"	"2011/04"	64	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2011"	"2011"	"May, 2011"	"2011/05"	64	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2011"	"2011"	"Jun., 2011"	"2011/06"	60	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2011"	"2011"	"Jul., 2011"	"2011/07"	67	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2011"	"2011"	"Aug., 2011"	"2011/08"	63	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2011"	"2011"	"Sep., 2011"	"2011/09"	74	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2011"	"2011"	"Oct., 2011"	"2011/10"	70	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2011"	"2011"	"Nov., 2011"	"2011/11"	61	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2011"	"2011"	"Dec., 2011"	"2011/12"	72	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2011"	"2011"	"Jan., 2011"	"2011/01"	Suppressed	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2011"	"2011"	"Feb., 2011"	"2011/02"	0	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2011"	"2011"	"Mar., 2011"	"2011/03"	0	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2011"	"2011"	"Apr., 2011"	"2011/04"	0	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2011"	"2011"	"May, 2011"	"2011/05"	0	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2011"	"2011"	"Jun., 2011"	"2011/06"	0	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2011"	"2011"	"Jul., 2011"	"2011/07"	0	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2011"	"2011"	"Aug., 2011"	"2011/08"	Suppressed	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2011"	"2011"	"Sep., 2011"	"2011/09"	Suppressed	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2011"	"2011"	"Oct., 2011"	"2011/10"	Suppressed	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2011"	"2011"	"Nov., 2011"	"2011/11"	0	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2011"	"2011"	"Dec., 2011"	"2011/12"	Suppressed	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2011"	"2011"	"Jan., 2011"	"2011/01"	95	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2011"	"2011"	"Feb., 2011"	"2011/02"	108	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2011"	"2011"	"Mar., 2011"	"2011/03"	108	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2011"	"2011"	"Apr., 2011"	"2011/04"	92	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2011"	"2011"	"May, 2011"	"2011/05"	103	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2011"	"2011"	"Jun., 2011"	"2011/06"	90	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2011"	"2011"	"Jul., 2011"	"2011/07"	110	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2011"	"2011"	"Aug., 2011"	"2011/08"	89	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2011"	"2011"	"Sep., 2011"	"2011/09"	113	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2011"	"2011"	"Oct., 2011"	"2011/10"	108	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2011"	"2011"	"Nov., 2011"	"2011/11"	91	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2011"	"2011"	"Dec., 2011"	"2011/12"	88	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2011"	"2011"	"Jan., 2011"	"2011/01"	45	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2011"	"2011"	"Feb., 2011"	"2011/02"	50	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2011"	"2011"	"Mar., 2011"	"2011/03"	43	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2011"	"2011"	"Apr., 2011"	"2011/04"	31	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2011"	"2011"	"May, 2011"	"2011/05"	38	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2011"	"2011"	"Jun., 2011"	"2011/06"	34	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2011"	"2011"	"Jul., 2011"	"2011/07"	39	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2011"	"2011"	"Aug., 2011"	"2011/08"	31	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2011"	"2011"	"Sep., 2011"	"2011/09"	48	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2011"	"2011"	"Oct., 2011"	"2011/10"	41	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2011"	"2011"	"Nov., 2011"	"2011/11"	39	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2011"	"2011"	"Dec., 2011"	"2011/12"	30	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2011"	"2011"	"Jan., 2011"	"2011/01"	31	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2011"	"2011"	"Feb., 2011"	"2011/02"	32	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2011"	"2011"	"Mar., 2011"	"2011/03"	33	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2011"	"2011"	"Apr., 2011"	"2011/04"	33	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2011"	"2011"	"May, 2011"	"2011/05"	33	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2011"	"2011"	"Jun., 2011"	"2011/06"	33	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2011"	"2011"	"Jul., 2011"	"2011/07"	36	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2011"	"2011"	"Aug., 2011"	"2011/08"	40	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2011"	"2011"	"Sep., 2011"	"2011/09"	27	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2011"	"2011"	"Oct., 2011"	"2011/10"	28	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2011"	"2011"	"Nov., 2011"	"2011/11"	26	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2011"	"2011"	"Dec., 2011"	"2011/12"	29	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2011"	"2011"	"Jan., 2011"	"2011/01"	49	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2011"	"2011"	"Feb., 2011"	"2011/02"	50	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2011"	"2011"	"Mar., 2011"	"2011/03"	63	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2011"	"2011"	"Apr., 2011"	"2011/04"	61	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2011"	"2011"	"May, 2011"	"2011/05"	61	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2011"	"2011"	"Jun., 2011"	"2011/06"	64	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2011"	"2011"	"Jul., 2011"	"2011/07"	67	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2011"	"2011"	"Aug., 2011"	"2011/08"	42	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2011"	"2011"	"Sep., 2011"	"2011/09"	62	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2011"	"2011"	"Oct., 2011"	"2011/10"	60	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2011"	"2011"	"Nov., 2011"	"2011/11"	56	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2011"	"2011"	"Dec., 2011"	"2011/12"	53	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2011"	"2011"	"Jan., 2011"	"2011/01"	Suppressed	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2011"	"2011"	"Feb., 2011"	"2011/02"	Suppressed	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2011"	"2011"	"Mar., 2011"	"2011/03"	11	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2011"	"2011"	"Apr., 2011"	"2011/04"	Suppressed	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2011"	"2011"	"May, 2011"	"2011/05"	11	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2011"	"2011"	"Jun., 2011"	"2011/06"	Suppressed	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2011"	"2011"	"Jul., 2011"	"2011/07"	Suppressed	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2011"	"2011"	"Aug., 2011"	"2011/08"	Suppressed	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2011"	"2011"	"Sep., 2011"	"2011/09"	Suppressed	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2011"	"2011"	"Oct., 2011"	"2011/10"	Suppressed	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2011"	"2011"	"Nov., 2011"	"2011/11"	10	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2011"	"2011"	"Dec., 2011"	"2011/12"	Suppressed	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2011"	"2011"	"Jan., 2011"	"2011/01"	19	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2011"	"2011"	"Feb., 2011"	"2011/02"	21	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2011"	"2011"	"Mar., 2011"	"2011/03"	20	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2011"	"2011"	"Apr., 2011"	"2011/04"	21	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2011"	"2011"	"May, 2011"	"2011/05"	20	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2011"	"2011"	"Jun., 2011"	"2011/06"	20	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2011"	"2011"	"Jul., 2011"	"2011/07"	14	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2011"	"2011"	"Aug., 2011"	"2011/08"	22	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2011"	"2011"	"Sep., 2011"	"2011/09"	13	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2011"	"2011"	"Oct., 2011"	"2011/10"	19	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2011"	"2011"	"Nov., 2011"	"2011/11"	29	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2011"	"2011"	"Dec., 2011"	"2011/12"	19	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2011"	"2011"	"Jan., 2011"	"2011/01"	Suppressed	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2011"	"2011"	"Feb., 2011"	"2011/02"	Suppressed	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2011"	"2011"	"Mar., 2011"	"2011/03"	Suppressed	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2011"	"2011"	"Apr., 2011"	"2011/04"	Suppressed	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2011"	"2011"	"May, 2011"	"2011/05"	Suppressed	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2011"	"2011"	"Jun., 2011"	"2011/06"	Suppressed	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2011"	"2011"	"Jul., 2011"	"2011/07"	Suppressed	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2011"	"2011"	"Aug., 2011"	"2011/08"	Suppressed	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2011"	"2011"	"Sep., 2011"	"2011/09"	Suppressed	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2011"	"2011"	"Oct., 2011"	"2011/10"	0	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2011"	"2011"	"Nov., 2011"	"2011/11"	0	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2011"	"2011"	"Dec., 2011"	"2011/12"	Suppressed	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2011"	"2011"	"Jan., 2011"	"2011/01"	58	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2011"	"2011"	"Feb., 2011"	"2011/02"	42	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2011"	"2011"	"Mar., 2011"	"2011/03"	45	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2011"	"2011"	"Apr., 2011"	"2011/04"	55	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2011"	"2011"	"May, 2011"	"2011/05"	46	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2011"	"2011"	"Jun., 2011"	"2011/06"	45	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2011"	"2011"	"Jul., 2011"	"2011/07"	51	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2011"	"2011"	"Aug., 2011"	"2011/08"	38	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2011"	"2011"	"Sep., 2011"	"2011/09"	39	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2011"	"2011"	"Oct., 2011"	"2011/10"	43	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2011"	"2011"	"Nov., 2011"	"2011/11"	48	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2011"	"2011"	"Dec., 2011"	"2011/12"	54	Not Applicable	Not Applicable
+	"Texas"	"48"	"2011"	"2011"	"Jan., 2011"	"2011/01"	103	Not Applicable	Not Applicable
+	"Texas"	"48"	"2011"	"2011"	"Feb., 2011"	"2011/02"	96	Not Applicable	Not Applicable
+	"Texas"	"48"	"2011"	"2011"	"Mar., 2011"	"2011/03"	91	Not Applicable	Not Applicable
+	"Texas"	"48"	"2011"	"2011"	"Apr., 2011"	"2011/04"	93	Not Applicable	Not Applicable
+	"Texas"	"48"	"2011"	"2011"	"May, 2011"	"2011/05"	90	Not Applicable	Not Applicable
+	"Texas"	"48"	"2011"	"2011"	"Jun., 2011"	"2011/06"	68	Not Applicable	Not Applicable
+	"Texas"	"48"	"2011"	"2011"	"Jul., 2011"	"2011/07"	96	Not Applicable	Not Applicable
+	"Texas"	"48"	"2011"	"2011"	"Aug., 2011"	"2011/08"	77	Not Applicable	Not Applicable
+	"Texas"	"48"	"2011"	"2011"	"Sep., 2011"	"2011/09"	75	Not Applicable	Not Applicable
+	"Texas"	"48"	"2011"	"2011"	"Oct., 2011"	"2011/10"	72	Not Applicable	Not Applicable
+	"Texas"	"48"	"2011"	"2011"	"Nov., 2011"	"2011/11"	95	Not Applicable	Not Applicable
+	"Texas"	"48"	"2011"	"2011"	"Dec., 2011"	"2011/12"	117	Not Applicable	Not Applicable
+	"Utah"	"49"	"2011"	"2011"	"Jan., 2011"	"2011/01"	35	Not Applicable	Not Applicable
+	"Utah"	"49"	"2011"	"2011"	"Feb., 2011"	"2011/02"	27	Not Applicable	Not Applicable
+	"Utah"	"49"	"2011"	"2011"	"Mar., 2011"	"2011/03"	42	Not Applicable	Not Applicable
+	"Utah"	"49"	"2011"	"2011"	"Apr., 2011"	"2011/04"	22	Not Applicable	Not Applicable
+	"Utah"	"49"	"2011"	"2011"	"May, 2011"	"2011/05"	27	Not Applicable	Not Applicable
+	"Utah"	"49"	"2011"	"2011"	"Jun., 2011"	"2011/06"	21	Not Applicable	Not Applicable
+	"Utah"	"49"	"2011"	"2011"	"Jul., 2011"	"2011/07"	40	Not Applicable	Not Applicable
+	"Utah"	"49"	"2011"	"2011"	"Aug., 2011"	"2011/08"	34	Not Applicable	Not Applicable
+	"Utah"	"49"	"2011"	"2011"	"Sep., 2011"	"2011/09"	27	Not Applicable	Not Applicable
+	"Utah"	"49"	"2011"	"2011"	"Oct., 2011"	"2011/10"	32	Not Applicable	Not Applicable
+	"Utah"	"49"	"2011"	"2011"	"Nov., 2011"	"2011/11"	32	Not Applicable	Not Applicable
+	"Utah"	"49"	"2011"	"2011"	"Dec., 2011"	"2011/12"	29	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2011"	"2011"	"Jan., 2011"	"2011/01"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2011"	"2011"	"Feb., 2011"	"2011/02"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2011"	"2011"	"Mar., 2011"	"2011/03"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2011"	"2011"	"Apr., 2011"	"2011/04"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2011"	"2011"	"May, 2011"	"2011/05"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2011"	"2011"	"Jun., 2011"	"2011/06"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2011"	"2011"	"Jul., 2011"	"2011/07"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2011"	"2011"	"Aug., 2011"	"2011/08"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2011"	"2011"	"Sep., 2011"	"2011/09"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2011"	"2011"	"Oct., 2011"	"2011/10"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2011"	"2011"	"Nov., 2011"	"2011/11"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2011"	"2011"	"Dec., 2011"	"2011/12"	10	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2011"	"2011"	"Jan., 2011"	"2011/01"	45	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2011"	"2011"	"Feb., 2011"	"2011/02"	43	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2011"	"2011"	"Mar., 2011"	"2011/03"	50	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2011"	"2011"	"Apr., 2011"	"2011/04"	45	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2011"	"2011"	"May, 2011"	"2011/05"	62	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2011"	"2011"	"Jun., 2011"	"2011/06"	42	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2011"	"2011"	"Jul., 2011"	"2011/07"	38	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2011"	"2011"	"Aug., 2011"	"2011/08"	45	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2011"	"2011"	"Sep., 2011"	"2011/09"	39	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2011"	"2011"	"Oct., 2011"	"2011/10"	54	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2011"	"2011"	"Nov., 2011"	"2011/11"	40	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2011"	"2011"	"Dec., 2011"	"2011/12"	58	Not Applicable	Not Applicable
+	"Washington"	"53"	"2011"	"2011"	"Jan., 2011"	"2011/01"	55	Not Applicable	Not Applicable
+	"Washington"	"53"	"2011"	"2011"	"Feb., 2011"	"2011/02"	59	Not Applicable	Not Applicable
+	"Washington"	"53"	"2011"	"2011"	"Mar., 2011"	"2011/03"	65	Not Applicable	Not Applicable
+	"Washington"	"53"	"2011"	"2011"	"Apr., 2011"	"2011/04"	62	Not Applicable	Not Applicable
+	"Washington"	"53"	"2011"	"2011"	"May, 2011"	"2011/05"	43	Not Applicable	Not Applicable
+	"Washington"	"53"	"2011"	"2011"	"Jun., 2011"	"2011/06"	59	Not Applicable	Not Applicable
+	"Washington"	"53"	"2011"	"2011"	"Jul., 2011"	"2011/07"	51	Not Applicable	Not Applicable
+	"Washington"	"53"	"2011"	"2011"	"Aug., 2011"	"2011/08"	53	Not Applicable	Not Applicable
+	"Washington"	"53"	"2011"	"2011"	"Sep., 2011"	"2011/09"	53	Not Applicable	Not Applicable
+	"Washington"	"53"	"2011"	"2011"	"Oct., 2011"	"2011/10"	56	Not Applicable	Not Applicable
+	"Washington"	"53"	"2011"	"2011"	"Nov., 2011"	"2011/11"	57	Not Applicable	Not Applicable
+	"Washington"	"53"	"2011"	"2011"	"Dec., 2011"	"2011/12"	47	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2011"	"2011"	"Jan., 2011"	"2011/01"	39	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2011"	"2011"	"Feb., 2011"	"2011/02"	36	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2011"	"2011"	"Mar., 2011"	"2011/03"	46	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2011"	"2011"	"Apr., 2011"	"2011/04"	52	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2011"	"2011"	"May, 2011"	"2011/05"	48	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2011"	"2011"	"Jun., 2011"	"2011/06"	50	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2011"	"2011"	"Jul., 2011"	"2011/07"	42	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2011"	"2011"	"Aug., 2011"	"2011/08"	39	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2011"	"2011"	"Sep., 2011"	"2011/09"	44	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2011"	"2011"	"Oct., 2011"	"2011/10"	54	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2011"	"2011"	"Nov., 2011"	"2011/11"	45	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2011"	"2011"	"Dec., 2011"	"2011/12"	52	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2011"	"2011"	"Jan., 2011"	"2011/01"	30	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2011"	"2011"	"Feb., 2011"	"2011/02"	39	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2011"	"2011"	"Mar., 2011"	"2011/03"	34	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2011"	"2011"	"Apr., 2011"	"2011/04"	55	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2011"	"2011"	"May, 2011"	"2011/05"	37	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2011"	"2011"	"Jun., 2011"	"2011/06"	42	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2011"	"2011"	"Jul., 2011"	"2011/07"	41	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2011"	"2011"	"Aug., 2011"	"2011/08"	34	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2011"	"2011"	"Sep., 2011"	"2011/09"	23	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2011"	"2011"	"Oct., 2011"	"2011/10"	32	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2011"	"2011"	"Nov., 2011"	"2011/11"	38	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2011"	"2011"	"Dec., 2011"	"2011/12"	39	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2011"	"2011"	"Jan., 2011"	"2011/01"	Suppressed	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2011"	"2011"	"Feb., 2011"	"2011/02"	Suppressed	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2011"	"2011"	"Mar., 2011"	"2011/03"	Suppressed	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2011"	"2011"	"Apr., 2011"	"2011/04"	Suppressed	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2011"	"2011"	"May, 2011"	"2011/05"	Suppressed	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2011"	"2011"	"Jun., 2011"	"2011/06"	Suppressed	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2011"	"2011"	"Jul., 2011"	"2011/07"	Suppressed	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2011"	"2011"	"Aug., 2011"	"2011/08"	Suppressed	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2011"	"2011"	"Sep., 2011"	"2011/09"	Suppressed	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2011"	"2011"	"Oct., 2011"	"2011/10"	Suppressed	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2011"	"2011"	"Nov., 2011"	"2011/11"	Suppressed	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2011"	"2011"	"Dec., 2011"	"2011/12"	Suppressed	Not Applicable	Not Applicable
+"---"
+"Dataset: Multiple Cause of Death, 1999-2020"
+"Query Parameters:"
+"MCD - ICD-10 Codes: T40.0 (Opium); T40.1 (Heroin); T40.2 (Other opioids); T40.3 (Methadone); T40.4 (Other synthetic narcotics)"
+"UCD - ICD-10 Codes: X40 (Accidental poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics); X41"
+"(Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not"
+"elsewhere classified); X42 (Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not"
+"elsewhere classified); X43 (Accidental poisoning by and exposure to other drugs acting on the autonomic nervous system); X44"
+"(Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances); X60 (Intentional"
+"self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics); X61 (Intentional self-poisoning by and"
+"exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified); X62"
+"(Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified); X63"
+"(Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system); X64 (Intentional"
+"self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances); X85 (Assault by drugs,"
+"medicaments and biological substances); Y10 (Poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics,"
+"undetermined intent); Y11 (Poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic"
+"drugs, not elsewhere classified, undetermined intent); Y12 (Poisoning by and exposure to narcotics and psychodysleptics"
+"[hallucinogens], not elsewhere classified, undetermined intent); Y13 (Poisoning by and exposure to other drugs acting on the"
+"autonomic nervous system, undetermined intent); Y14 (Poisoning by and exposure to other and unspecified drugs, medicaments and"
+"biological substances, undetermined intent)"
+"Year/Month: 2011"
+"Group By: State; Year; Month"
+"Show Totals: Disabled"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: Jul 30, 2024 7:03:31 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/mcd-icd10.html on Jul 30, 2024 7:03:31 AM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when Autopsy, Place of Death, Weekday or Month are grouped by or limited,"
+"due to lack of a valid population. More information: http://wonder.cdc.gov/wonder/help/mcd.html#NotApplicableRates."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Unreliable."
+"4. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#ICD-10 Changes."

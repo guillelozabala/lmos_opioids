@@ -1,0 +1,663 @@
+"Notes"	"State"	"State Code"	"Year"	"Year Code"	"Month"	"Month Code"	Deaths	Population	Crude Rate
+	"Alabama"	"01"	"2013"	"2013"	"Jan., 2013"	"2013/01"	Suppressed	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2013"	"2013"	"Feb., 2013"	"2013/02"	Suppressed	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2013"	"2013"	"Mar., 2013"	"2013/03"	Suppressed	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2013"	"2013"	"Apr., 2013"	"2013/04"	15	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2013"	"2013"	"May, 2013"	"2013/05"	10	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2013"	"2013"	"Jun., 2013"	"2013/06"	13	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2013"	"2013"	"Jul., 2013"	"2013/07"	Suppressed	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2013"	"2013"	"Aug., 2013"	"2013/08"	18	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2013"	"2013"	"Sep., 2013"	"2013/09"	16	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2013"	"2013"	"Oct., 2013"	"2013/10"	21	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2013"	"2013"	"Nov., 2013"	"2013/11"	14	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2013"	"2013"	"Dec., 2013"	"2013/12"	18	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2013"	"2013"	"Jan., 2013"	"2013/01"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2013"	"2013"	"Feb., 2013"	"2013/02"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2013"	"2013"	"Mar., 2013"	"2013/03"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2013"	"2013"	"Apr., 2013"	"2013/04"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2013"	"2013"	"May, 2013"	"2013/05"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2013"	"2013"	"Jun., 2013"	"2013/06"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2013"	"2013"	"Jul., 2013"	"2013/07"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2013"	"2013"	"Aug., 2013"	"2013/08"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2013"	"2013"	"Sep., 2013"	"2013/09"	11	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2013"	"2013"	"Oct., 2013"	"2013/10"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2013"	"2013"	"Nov., 2013"	"2013/11"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2013"	"2013"	"Dec., 2013"	"2013/12"	Suppressed	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2013"	"2013"	"Jan., 2013"	"2013/01"	37	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2013"	"2013"	"Feb., 2013"	"2013/02"	38	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2013"	"2013"	"Mar., 2013"	"2013/03"	39	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2013"	"2013"	"Apr., 2013"	"2013/04"	48	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2013"	"2013"	"May, 2013"	"2013/05"	43	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2013"	"2013"	"Jun., 2013"	"2013/06"	45	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2013"	"2013"	"Jul., 2013"	"2013/07"	38	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2013"	"2013"	"Aug., 2013"	"2013/08"	41	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2013"	"2013"	"Sep., 2013"	"2013/09"	41	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2013"	"2013"	"Oct., 2013"	"2013/10"	21	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2013"	"2013"	"Nov., 2013"	"2013/11"	49	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2013"	"2013"	"Dec., 2013"	"2013/12"	46	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2013"	"2013"	"Jan., 2013"	"2013/01"	14	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2013"	"2013"	"Feb., 2013"	"2013/02"	Suppressed	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2013"	"2013"	"Mar., 2013"	"2013/03"	11	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2013"	"2013"	"Apr., 2013"	"2013/04"	17	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2013"	"2013"	"May, 2013"	"2013/05"	19	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2013"	"2013"	"Jun., 2013"	"2013/06"	20	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2013"	"2013"	"Jul., 2013"	"2013/07"	12	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2013"	"2013"	"Aug., 2013"	"2013/08"	Suppressed	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2013"	"2013"	"Sep., 2013"	"2013/09"	16	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2013"	"2013"	"Oct., 2013"	"2013/10"	11	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2013"	"2013"	"Nov., 2013"	"2013/11"	Suppressed	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2013"	"2013"	"Dec., 2013"	"2013/12"	10	Not Applicable	Not Applicable
+	"California"	"06"	"2013"	"2013"	"Jan., 2013"	"2013/01"	159	Not Applicable	Not Applicable
+	"California"	"06"	"2013"	"2013"	"Feb., 2013"	"2013/02"	132	Not Applicable	Not Applicable
+	"California"	"06"	"2013"	"2013"	"Mar., 2013"	"2013/03"	157	Not Applicable	Not Applicable
+	"California"	"06"	"2013"	"2013"	"Apr., 2013"	"2013/04"	134	Not Applicable	Not Applicable
+	"California"	"06"	"2013"	"2013"	"May, 2013"	"2013/05"	153	Not Applicable	Not Applicable
+	"California"	"06"	"2013"	"2013"	"Jun., 2013"	"2013/06"	158	Not Applicable	Not Applicable
+	"California"	"06"	"2013"	"2013"	"Jul., 2013"	"2013/07"	160	Not Applicable	Not Applicable
+	"California"	"06"	"2013"	"2013"	"Aug., 2013"	"2013/08"	144	Not Applicable	Not Applicable
+	"California"	"06"	"2013"	"2013"	"Sep., 2013"	"2013/09"	147	Not Applicable	Not Applicable
+	"California"	"06"	"2013"	"2013"	"Oct., 2013"	"2013/10"	147	Not Applicable	Not Applicable
+	"California"	"06"	"2013"	"2013"	"Nov., 2013"	"2013/11"	138	Not Applicable	Not Applicable
+	"California"	"06"	"2013"	"2013"	"Dec., 2013"	"2013/12"	147	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2013"	"2013"	"Jan., 2013"	"2013/01"	37	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2013"	"2013"	"Feb., 2013"	"2013/02"	49	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2013"	"2013"	"Mar., 2013"	"2013/03"	35	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2013"	"2013"	"Apr., 2013"	"2013/04"	28	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2013"	"2013"	"May, 2013"	"2013/05"	33	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2013"	"2013"	"Jun., 2013"	"2013/06"	36	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2013"	"2013"	"Jul., 2013"	"2013/07"	32	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2013"	"2013"	"Aug., 2013"	"2013/08"	35	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2013"	"2013"	"Sep., 2013"	"2013/09"	29	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2013"	"2013"	"Oct., 2013"	"2013/10"	32	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2013"	"2013"	"Nov., 2013"	"2013/11"	30	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2013"	"2013"	"Dec., 2013"	"2013/12"	30	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2013"	"2013"	"Jan., 2013"	"2013/01"	22	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2013"	"2013"	"Feb., 2013"	"2013/02"	30	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2013"	"2013"	"Mar., 2013"	"2013/03"	35	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2013"	"2013"	"Apr., 2013"	"2013/04"	34	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2013"	"2013"	"May, 2013"	"2013/05"	29	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2013"	"2013"	"Jun., 2013"	"2013/06"	32	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2013"	"2013"	"Jul., 2013"	"2013/07"	34	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2013"	"2013"	"Aug., 2013"	"2013/08"	37	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2013"	"2013"	"Sep., 2013"	"2013/09"	39	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2013"	"2013"	"Oct., 2013"	"2013/10"	38	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2013"	"2013"	"Nov., 2013"	"2013/11"	43	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2013"	"2013"	"Dec., 2013"	"2013/12"	46	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2013"	"2013"	"Jan., 2013"	"2013/01"	10	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2013"	"2013"	"Feb., 2013"	"2013/02"	Suppressed	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2013"	"2013"	"Mar., 2013"	"2013/03"	Suppressed	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2013"	"2013"	"Apr., 2013"	"2013/04"	Suppressed	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2013"	"2013"	"May, 2013"	"2013/05"	11	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2013"	"2013"	"Jun., 2013"	"2013/06"	Suppressed	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2013"	"2013"	"Jul., 2013"	"2013/07"	Suppressed	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2013"	"2013"	"Aug., 2013"	"2013/08"	Suppressed	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2013"	"2013"	"Sep., 2013"	"2013/09"	Suppressed	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2013"	"2013"	"Oct., 2013"	"2013/10"	Suppressed	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2013"	"2013"	"Nov., 2013"	"2013/11"	14	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2013"	"2013"	"Dec., 2013"	"2013/12"	14	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2013"	"2013"	"Jan., 2013"	"2013/01"	Suppressed	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2013"	"2013"	"Feb., 2013"	"2013/02"	Suppressed	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2013"	"2013"	"Mar., 2013"	"2013/03"	Suppressed	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2013"	"2013"	"Apr., 2013"	"2013/04"	Suppressed	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2013"	"2013"	"May, 2013"	"2013/05"	Suppressed	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2013"	"2013"	"Jun., 2013"	"2013/06"	Suppressed	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2013"	"2013"	"Jul., 2013"	"2013/07"	Suppressed	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2013"	"2013"	"Aug., 2013"	"2013/08"	Suppressed	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2013"	"2013"	"Sep., 2013"	"2013/09"	Suppressed	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2013"	"2013"	"Oct., 2013"	"2013/10"	Suppressed	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2013"	"2013"	"Nov., 2013"	"2013/11"	Suppressed	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2013"	"2013"	"Dec., 2013"	"2013/12"	10	Not Applicable	Not Applicable
+	"Florida"	"12"	"2013"	"2013"	"Jan., 2013"	"2013/01"	112	Not Applicable	Not Applicable
+	"Florida"	"12"	"2013"	"2013"	"Feb., 2013"	"2013/02"	97	Not Applicable	Not Applicable
+	"Florida"	"12"	"2013"	"2013"	"Mar., 2013"	"2013/03"	118	Not Applicable	Not Applicable
+	"Florida"	"12"	"2013"	"2013"	"Apr., 2013"	"2013/04"	102	Not Applicable	Not Applicable
+	"Florida"	"12"	"2013"	"2013"	"May, 2013"	"2013/05"	93	Not Applicable	Not Applicable
+	"Florida"	"12"	"2013"	"2013"	"Jun., 2013"	"2013/06"	118	Not Applicable	Not Applicable
+	"Florida"	"12"	"2013"	"2013"	"Jul., 2013"	"2013/07"	87	Not Applicable	Not Applicable
+	"Florida"	"12"	"2013"	"2013"	"Aug., 2013"	"2013/08"	95	Not Applicable	Not Applicable
+	"Florida"	"12"	"2013"	"2013"	"Sep., 2013"	"2013/09"	98	Not Applicable	Not Applicable
+	"Florida"	"12"	"2013"	"2013"	"Oct., 2013"	"2013/10"	109	Not Applicable	Not Applicable
+	"Florida"	"12"	"2013"	"2013"	"Nov., 2013"	"2013/11"	96	Not Applicable	Not Applicable
+	"Florida"	"12"	"2013"	"2013"	"Dec., 2013"	"2013/12"	115	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2013"	"2013"	"Jan., 2013"	"2013/01"	41	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2013"	"2013"	"Feb., 2013"	"2013/02"	50	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2013"	"2013"	"Mar., 2013"	"2013/03"	49	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2013"	"2013"	"Apr., 2013"	"2013/04"	41	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2013"	"2013"	"May, 2013"	"2013/05"	46	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2013"	"2013"	"Jun., 2013"	"2013/06"	34	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2013"	"2013"	"Jul., 2013"	"2013/07"	34	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2013"	"2013"	"Aug., 2013"	"2013/08"	38	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2013"	"2013"	"Sep., 2013"	"2013/09"	47	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2013"	"2013"	"Oct., 2013"	"2013/10"	46	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2013"	"2013"	"Nov., 2013"	"2013/11"	40	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2013"	"2013"	"Dec., 2013"	"2013/12"	35	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2013"	"2013"	"Jan., 2013"	"2013/01"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2013"	"2013"	"Feb., 2013"	"2013/02"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2013"	"2013"	"Mar., 2013"	"2013/03"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2013"	"2013"	"Apr., 2013"	"2013/04"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2013"	"2013"	"May, 2013"	"2013/05"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2013"	"2013"	"Jun., 2013"	"2013/06"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2013"	"2013"	"Jul., 2013"	"2013/07"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2013"	"2013"	"Aug., 2013"	"2013/08"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2013"	"2013"	"Sep., 2013"	"2013/09"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2013"	"2013"	"Oct., 2013"	"2013/10"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2013"	"2013"	"Nov., 2013"	"2013/11"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2013"	"2013"	"Dec., 2013"	"2013/12"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2013"	"2013"	"Jan., 2013"	"2013/01"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2013"	"2013"	"Feb., 2013"	"2013/02"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2013"	"2013"	"Mar., 2013"	"2013/03"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2013"	"2013"	"Apr., 2013"	"2013/04"	11	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2013"	"2013"	"May, 2013"	"2013/05"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2013"	"2013"	"Jun., 2013"	"2013/06"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2013"	"2013"	"Jul., 2013"	"2013/07"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2013"	"2013"	"Aug., 2013"	"2013/08"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2013"	"2013"	"Sep., 2013"	"2013/09"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2013"	"2013"	"Oct., 2013"	"2013/10"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2013"	"2013"	"Nov., 2013"	"2013/11"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2013"	"2013"	"Dec., 2013"	"2013/12"	Suppressed	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2013"	"2013"	"Jan., 2013"	"2013/01"	65	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2013"	"2013"	"Feb., 2013"	"2013/02"	77	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2013"	"2013"	"Mar., 2013"	"2013/03"	77	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2013"	"2013"	"Apr., 2013"	"2013/04"	81	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2013"	"2013"	"May, 2013"	"2013/05"	66	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2013"	"2013"	"Jun., 2013"	"2013/06"	74	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2013"	"2013"	"Jul., 2013"	"2013/07"	94	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2013"	"2013"	"Aug., 2013"	"2013/08"	81	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2013"	"2013"	"Sep., 2013"	"2013/09"	71	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2013"	"2013"	"Oct., 2013"	"2013/10"	65	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2013"	"2013"	"Nov., 2013"	"2013/11"	78	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2013"	"2013"	"Dec., 2013"	"2013/12"	80	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2013"	"2013"	"Jan., 2013"	"2013/01"	25	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2013"	"2013"	"Feb., 2013"	"2013/02"	30	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2013"	"2013"	"Mar., 2013"	"2013/03"	30	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2013"	"2013"	"Apr., 2013"	"2013/04"	22	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2013"	"2013"	"May, 2013"	"2013/05"	36	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2013"	"2013"	"Jun., 2013"	"2013/06"	25	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2013"	"2013"	"Jul., 2013"	"2013/07"	27	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2013"	"2013"	"Aug., 2013"	"2013/08"	27	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2013"	"2013"	"Sep., 2013"	"2013/09"	24	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2013"	"2013"	"Oct., 2013"	"2013/10"	24	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2013"	"2013"	"Nov., 2013"	"2013/11"	28	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2013"	"2013"	"Dec., 2013"	"2013/12"	16	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2013"	"2013"	"Jan., 2013"	"2013/01"	18	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2013"	"2013"	"Feb., 2013"	"2013/02"	13	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2013"	"2013"	"Mar., 2013"	"2013/03"	12	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2013"	"2013"	"Apr., 2013"	"2013/04"	13	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2013"	"2013"	"May, 2013"	"2013/05"	14	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2013"	"2013"	"Jun., 2013"	"2013/06"	17	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2013"	"2013"	"Jul., 2013"	"2013/07"	13	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2013"	"2013"	"Aug., 2013"	"2013/08"	19	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2013"	"2013"	"Sep., 2013"	"2013/09"	16	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2013"	"2013"	"Oct., 2013"	"2013/10"	Suppressed	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2013"	"2013"	"Nov., 2013"	"2013/11"	12	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2013"	"2013"	"Dec., 2013"	"2013/12"	16	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2013"	"2013"	"Jan., 2013"	"2013/01"	13	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2013"	"2013"	"Feb., 2013"	"2013/02"	19	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2013"	"2013"	"Mar., 2013"	"2013/03"	14	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2013"	"2013"	"Apr., 2013"	"2013/04"	13	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2013"	"2013"	"May, 2013"	"2013/05"	18	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2013"	"2013"	"Jun., 2013"	"2013/06"	13	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2013"	"2013"	"Jul., 2013"	"2013/07"	12	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2013"	"2013"	"Aug., 2013"	"2013/08"	Suppressed	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2013"	"2013"	"Sep., 2013"	"2013/09"	17	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2013"	"2013"	"Oct., 2013"	"2013/10"	13	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2013"	"2013"	"Nov., 2013"	"2013/11"	Suppressed	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2013"	"2013"	"Dec., 2013"	"2013/12"	11	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2013"	"2013"	"Jan., 2013"	"2013/01"	55	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2013"	"2013"	"Feb., 2013"	"2013/02"	61	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2013"	"2013"	"Mar., 2013"	"2013/03"	48	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2013"	"2013"	"Apr., 2013"	"2013/04"	51	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2013"	"2013"	"May, 2013"	"2013/05"	48	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2013"	"2013"	"Jun., 2013"	"2013/06"	50	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2013"	"2013"	"Jul., 2013"	"2013/07"	55	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2013"	"2013"	"Aug., 2013"	"2013/08"	53	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2013"	"2013"	"Sep., 2013"	"2013/09"	45	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2013"	"2013"	"Oct., 2013"	"2013/10"	49	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2013"	"2013"	"Nov., 2013"	"2013/11"	44	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2013"	"2013"	"Dec., 2013"	"2013/12"	41	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2013"	"2013"	"Jan., 2013"	"2013/01"	25	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2013"	"2013"	"Feb., 2013"	"2013/02"	16	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2013"	"2013"	"Mar., 2013"	"2013/03"	25	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2013"	"2013"	"Apr., 2013"	"2013/04"	20	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2013"	"2013"	"May, 2013"	"2013/05"	16	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2013"	"2013"	"Jun., 2013"	"2013/06"	14	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2013"	"2013"	"Jul., 2013"	"2013/07"	19	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2013"	"2013"	"Aug., 2013"	"2013/08"	21	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2013"	"2013"	"Sep., 2013"	"2013/09"	23	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2013"	"2013"	"Oct., 2013"	"2013/10"	20	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2013"	"2013"	"Nov., 2013"	"2013/11"	15	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2013"	"2013"	"Dec., 2013"	"2013/12"	17	Not Applicable	Not Applicable
+	"Maine"	"23"	"2013"	"2013"	"Jan., 2013"	"2013/01"	14	Not Applicable	Not Applicable
+	"Maine"	"23"	"2013"	"2013"	"Feb., 2013"	"2013/02"	Suppressed	Not Applicable	Not Applicable
+	"Maine"	"23"	"2013"	"2013"	"Mar., 2013"	"2013/03"	18	Not Applicable	Not Applicable
+	"Maine"	"23"	"2013"	"2013"	"Apr., 2013"	"2013/04"	Suppressed	Not Applicable	Not Applicable
+	"Maine"	"23"	"2013"	"2013"	"May, 2013"	"2013/05"	Suppressed	Not Applicable	Not Applicable
+	"Maine"	"23"	"2013"	"2013"	"Jun., 2013"	"2013/06"	12	Not Applicable	Not Applicable
+	"Maine"	"23"	"2013"	"2013"	"Jul., 2013"	"2013/07"	Suppressed	Not Applicable	Not Applicable
+	"Maine"	"23"	"2013"	"2013"	"Aug., 2013"	"2013/08"	Suppressed	Not Applicable	Not Applicable
+	"Maine"	"23"	"2013"	"2013"	"Sep., 2013"	"2013/09"	Suppressed	Not Applicable	Not Applicable
+	"Maine"	"23"	"2013"	"2013"	"Oct., 2013"	"2013/10"	Suppressed	Not Applicable	Not Applicable
+	"Maine"	"23"	"2013"	"2013"	"Nov., 2013"	"2013/11"	10	Not Applicable	Not Applicable
+	"Maine"	"23"	"2013"	"2013"	"Dec., 2013"	"2013/12"	10	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2013"	"2013"	"Jan., 2013"	"2013/01"	39	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2013"	"2013"	"Feb., 2013"	"2013/02"	39	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2013"	"2013"	"Mar., 2013"	"2013/03"	61	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2013"	"2013"	"Apr., 2013"	"2013/04"	45	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2013"	"2013"	"May, 2013"	"2013/05"	50	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2013"	"2013"	"Jun., 2013"	"2013/06"	56	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2013"	"2013"	"Jul., 2013"	"2013/07"	68	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2013"	"2013"	"Aug., 2013"	"2013/08"	53	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2013"	"2013"	"Sep., 2013"	"2013/09"	51	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2013"	"2013"	"Oct., 2013"	"2013/10"	62	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2013"	"2013"	"Nov., 2013"	"2013/11"	65	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2013"	"2013"	"Dec., 2013"	"2013/12"	77	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2013"	"2013"	"Jan., 2013"	"2013/01"	53	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2013"	"2013"	"Feb., 2013"	"2013/02"	50	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2013"	"2013"	"Mar., 2013"	"2013/03"	66	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2013"	"2013"	"Apr., 2013"	"2013/04"	41	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2013"	"2013"	"May, 2013"	"2013/05"	39	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2013"	"2013"	"Jun., 2013"	"2013/06"	45	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2013"	"2013"	"Jul., 2013"	"2013/07"	46	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2013"	"2013"	"Aug., 2013"	"2013/08"	49	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2013"	"2013"	"Sep., 2013"	"2013/09"	53	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2013"	"2013"	"Oct., 2013"	"2013/10"	37	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2013"	"2013"	"Nov., 2013"	"2013/11"	52	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2013"	"2013"	"Dec., 2013"	"2013/12"	58	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2013"	"2013"	"Jan., 2013"	"2013/01"	86	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2013"	"2013"	"Feb., 2013"	"2013/02"	69	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2013"	"2013"	"Mar., 2013"	"2013/03"	66	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2013"	"2013"	"Apr., 2013"	"2013/04"	71	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2013"	"2013"	"May, 2013"	"2013/05"	61	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2013"	"2013"	"Jun., 2013"	"2013/06"	75	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2013"	"2013"	"Jul., 2013"	"2013/07"	94	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2013"	"2013"	"Aug., 2013"	"2013/08"	71	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2013"	"2013"	"Sep., 2013"	"2013/09"	58	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2013"	"2013"	"Oct., 2013"	"2013/10"	67	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2013"	"2013"	"Nov., 2013"	"2013/11"	63	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2013"	"2013"	"Dec., 2013"	"2013/12"	71	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2013"	"2013"	"Jan., 2013"	"2013/01"	25	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2013"	"2013"	"Feb., 2013"	"2013/02"	21	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2013"	"2013"	"Mar., 2013"	"2013/03"	29	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2013"	"2013"	"Apr., 2013"	"2013/04"	29	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2013"	"2013"	"May, 2013"	"2013/05"	31	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2013"	"2013"	"Jun., 2013"	"2013/06"	24	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2013"	"2013"	"Jul., 2013"	"2013/07"	16	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2013"	"2013"	"Aug., 2013"	"2013/08"	25	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2013"	"2013"	"Sep., 2013"	"2013/09"	27	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2013"	"2013"	"Oct., 2013"	"2013/10"	23	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2013"	"2013"	"Nov., 2013"	"2013/11"	19	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2013"	"2013"	"Dec., 2013"	"2013/12"	16	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2013"	"2013"	"Jan., 2013"	"2013/01"	13	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2013"	"2013"	"Feb., 2013"	"2013/02"	Suppressed	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2013"	"2013"	"Mar., 2013"	"2013/03"	Suppressed	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2013"	"2013"	"Apr., 2013"	"2013/04"	10	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2013"	"2013"	"May, 2013"	"2013/05"	Suppressed	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2013"	"2013"	"Jun., 2013"	"2013/06"	10	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2013"	"2013"	"Jul., 2013"	"2013/07"	Suppressed	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2013"	"2013"	"Aug., 2013"	"2013/08"	Suppressed	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2013"	"2013"	"Sep., 2013"	"2013/09"	10	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2013"	"2013"	"Oct., 2013"	"2013/10"	Suppressed	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2013"	"2013"	"Nov., 2013"	"2013/11"	Suppressed	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2013"	"2013"	"Dec., 2013"	"2013/12"	Suppressed	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2013"	"2013"	"Jan., 2013"	"2013/01"	52	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2013"	"2013"	"Feb., 2013"	"2013/02"	42	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2013"	"2013"	"Mar., 2013"	"2013/03"	49	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2013"	"2013"	"Apr., 2013"	"2013/04"	54	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2013"	"2013"	"May, 2013"	"2013/05"	58	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2013"	"2013"	"Jun., 2013"	"2013/06"	56	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2013"	"2013"	"Jul., 2013"	"2013/07"	45	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2013"	"2013"	"Aug., 2013"	"2013/08"	49	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2013"	"2013"	"Sep., 2013"	"2013/09"	36	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2013"	"2013"	"Oct., 2013"	"2013/10"	44	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2013"	"2013"	"Nov., 2013"	"2013/11"	49	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2013"	"2013"	"Dec., 2013"	"2013/12"	57	Not Applicable	Not Applicable
+	"Montana"	"30"	"2013"	"2013"	"Jan., 2013"	"2013/01"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2013"	"2013"	"Feb., 2013"	"2013/02"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2013"	"2013"	"Mar., 2013"	"2013/03"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2013"	"2013"	"Apr., 2013"	"2013/04"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2013"	"2013"	"May, 2013"	"2013/05"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2013"	"2013"	"Jun., 2013"	"2013/06"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2013"	"2013"	"Jul., 2013"	"2013/07"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2013"	"2013"	"Aug., 2013"	"2013/08"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2013"	"2013"	"Sep., 2013"	"2013/09"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2013"	"2013"	"Oct., 2013"	"2013/10"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2013"	"2013"	"Nov., 2013"	"2013/11"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2013"	"2013"	"Dec., 2013"	"2013/12"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2013"	"2013"	"Jan., 2013"	"2013/01"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2013"	"2013"	"Feb., 2013"	"2013/02"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2013"	"2013"	"Mar., 2013"	"2013/03"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2013"	"2013"	"Apr., 2013"	"2013/04"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2013"	"2013"	"May, 2013"	"2013/05"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2013"	"2013"	"Jun., 2013"	"2013/06"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2013"	"2013"	"Jul., 2013"	"2013/07"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2013"	"2013"	"Aug., 2013"	"2013/08"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2013"	"2013"	"Sep., 2013"	"2013/09"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2013"	"2013"	"Oct., 2013"	"2013/10"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2013"	"2013"	"Nov., 2013"	"2013/11"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2013"	"2013"	"Dec., 2013"	"2013/12"	Suppressed	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2013"	"2013"	"Jan., 2013"	"2013/01"	34	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2013"	"2013"	"Feb., 2013"	"2013/02"	36	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2013"	"2013"	"Mar., 2013"	"2013/03"	25	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2013"	"2013"	"Apr., 2013"	"2013/04"	36	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2013"	"2013"	"May, 2013"	"2013/05"	38	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2013"	"2013"	"Jun., 2013"	"2013/06"	32	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2013"	"2013"	"Jul., 2013"	"2013/07"	32	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2013"	"2013"	"Aug., 2013"	"2013/08"	35	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2013"	"2013"	"Sep., 2013"	"2013/09"	29	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2013"	"2013"	"Oct., 2013"	"2013/10"	16	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2013"	"2013"	"Nov., 2013"	"2013/11"	17	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2013"	"2013"	"Dec., 2013"	"2013/12"	29	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2013"	"2013"	"Jan., 2013"	"2013/01"	15	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2013"	"2013"	"Feb., 2013"	"2013/02"	Suppressed	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2013"	"2013"	"Mar., 2013"	"2013/03"	13	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2013"	"2013"	"Apr., 2013"	"2013/04"	Suppressed	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2013"	"2013"	"May, 2013"	"2013/05"	11	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2013"	"2013"	"Jun., 2013"	"2013/06"	17	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2013"	"2013"	"Jul., 2013"	"2013/07"	Suppressed	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2013"	"2013"	"Aug., 2013"	"2013/08"	17	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2013"	"2013"	"Sep., 2013"	"2013/09"	10	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2013"	"2013"	"Oct., 2013"	"2013/10"	16	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2013"	"2013"	"Nov., 2013"	"2013/11"	13	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2013"	"2013"	"Dec., 2013"	"2013/12"	18	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2013"	"2013"	"Jan., 2013"	"2013/01"	42	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2013"	"2013"	"Feb., 2013"	"2013/02"	57	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2013"	"2013"	"Mar., 2013"	"2013/03"	68	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2013"	"2013"	"Apr., 2013"	"2013/04"	54	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2013"	"2013"	"May, 2013"	"2013/05"	54	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2013"	"2013"	"Jun., 2013"	"2013/06"	45	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2013"	"2013"	"Jul., 2013"	"2013/07"	56	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2013"	"2013"	"Aug., 2013"	"2013/08"	31	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2013"	"2013"	"Sep., 2013"	"2013/09"	61	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2013"	"2013"	"Oct., 2013"	"2013/10"	50	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2013"	"2013"	"Nov., 2013"	"2013/11"	45	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2013"	"2013"	"Dec., 2013"	"2013/12"	68	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2013"	"2013"	"Jan., 2013"	"2013/01"	39	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2013"	"2013"	"Feb., 2013"	"2013/02"	27	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2013"	"2013"	"Mar., 2013"	"2013/03"	27	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2013"	"2013"	"Apr., 2013"	"2013/04"	28	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2013"	"2013"	"May, 2013"	"2013/05"	36	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2013"	"2013"	"Jun., 2013"	"2013/06"	27	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2013"	"2013"	"Jul., 2013"	"2013/07"	26	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2013"	"2013"	"Aug., 2013"	"2013/08"	21	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2013"	"2013"	"Sep., 2013"	"2013/09"	20	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2013"	"2013"	"Oct., 2013"	"2013/10"	16	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2013"	"2013"	"Nov., 2013"	"2013/11"	25	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2013"	"2013"	"Dec., 2013"	"2013/12"	22	Not Applicable	Not Applicable
+	"New York"	"36"	"2013"	"2013"	"Jan., 2013"	"2013/01"	129	Not Applicable	Not Applicable
+	"New York"	"36"	"2013"	"2013"	"Feb., 2013"	"2013/02"	139	Not Applicable	Not Applicable
+	"New York"	"36"	"2013"	"2013"	"Mar., 2013"	"2013/03"	111	Not Applicable	Not Applicable
+	"New York"	"36"	"2013"	"2013"	"Apr., 2013"	"2013/04"	106	Not Applicable	Not Applicable
+	"New York"	"36"	"2013"	"2013"	"May, 2013"	"2013/05"	144	Not Applicable	Not Applicable
+	"New York"	"36"	"2013"	"2013"	"Jun., 2013"	"2013/06"	126	Not Applicable	Not Applicable
+	"New York"	"36"	"2013"	"2013"	"Jul., 2013"	"2013/07"	113	Not Applicable	Not Applicable
+	"New York"	"36"	"2013"	"2013"	"Aug., 2013"	"2013/08"	130	Not Applicable	Not Applicable
+	"New York"	"36"	"2013"	"2013"	"Sep., 2013"	"2013/09"	104	Not Applicable	Not Applicable
+	"New York"	"36"	"2013"	"2013"	"Oct., 2013"	"2013/10"	149	Not Applicable	Not Applicable
+	"New York"	"36"	"2013"	"2013"	"Nov., 2013"	"2013/11"	149	Not Applicable	Not Applicable
+	"New York"	"36"	"2013"	"2013"	"Dec., 2013"	"2013/12"	144	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2013"	"2013"	"Jan., 2013"	"2013/01"	71	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2013"	"2013"	"Feb., 2013"	"2013/02"	69	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2013"	"2013"	"Mar., 2013"	"2013/03"	76	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2013"	"2013"	"Apr., 2013"	"2013/04"	57	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2013"	"2013"	"May, 2013"	"2013/05"	69	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2013"	"2013"	"Jun., 2013"	"2013/06"	59	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2013"	"2013"	"Jul., 2013"	"2013/07"	59	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2013"	"2013"	"Aug., 2013"	"2013/08"	60	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2013"	"2013"	"Sep., 2013"	"2013/09"	75	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2013"	"2013"	"Oct., 2013"	"2013/10"	76	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2013"	"2013"	"Nov., 2013"	"2013/11"	72	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2013"	"2013"	"Dec., 2013"	"2013/12"	63	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2013"	"2013"	"Jan., 2013"	"2013/01"	0	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2013"	"2013"	"Feb., 2013"	"2013/02"	0	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2013"	"2013"	"Mar., 2013"	"2013/03"	0	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2013"	"2013"	"Apr., 2013"	"2013/04"	0	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2013"	"2013"	"May, 2013"	"2013/05"	Suppressed	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2013"	"2013"	"Jun., 2013"	"2013/06"	0	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2013"	"2013"	"Jul., 2013"	"2013/07"	Suppressed	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2013"	"2013"	"Aug., 2013"	"2013/08"	Suppressed	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2013"	"2013"	"Sep., 2013"	"2013/09"	0	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2013"	"2013"	"Oct., 2013"	"2013/10"	Suppressed	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2013"	"2013"	"Nov., 2013"	"2013/11"	Suppressed	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2013"	"2013"	"Dec., 2013"	"2013/12"	Suppressed	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2013"	"2013"	"Jan., 2013"	"2013/01"	114	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2013"	"2013"	"Feb., 2013"	"2013/02"	137	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2013"	"2013"	"Mar., 2013"	"2013/03"	142	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2013"	"2013"	"Apr., 2013"	"2013/04"	129	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2013"	"2013"	"May, 2013"	"2013/05"	132	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2013"	"2013"	"Jun., 2013"	"2013/06"	132	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2013"	"2013"	"Jul., 2013"	"2013/07"	117	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2013"	"2013"	"Aug., 2013"	"2013/08"	146	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2013"	"2013"	"Sep., 2013"	"2013/09"	122	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2013"	"2013"	"Oct., 2013"	"2013/10"	125	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2013"	"2013"	"Nov., 2013"	"2013/11"	139	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2013"	"2013"	"Dec., 2013"	"2013/12"	128	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2013"	"2013"	"Jan., 2013"	"2013/01"	57	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2013"	"2013"	"Feb., 2013"	"2013/02"	41	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2013"	"2013"	"Mar., 2013"	"2013/03"	42	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2013"	"2013"	"Apr., 2013"	"2013/04"	43	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2013"	"2013"	"May, 2013"	"2013/05"	39	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2013"	"2013"	"Jun., 2013"	"2013/06"	34	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2013"	"2013"	"Jul., 2013"	"2013/07"	37	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2013"	"2013"	"Aug., 2013"	"2013/08"	34	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2013"	"2013"	"Sep., 2013"	"2013/09"	35	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2013"	"2013"	"Oct., 2013"	"2013/10"	40	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2013"	"2013"	"Nov., 2013"	"2013/11"	46	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2013"	"2013"	"Dec., 2013"	"2013/12"	54	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2013"	"2013"	"Jan., 2013"	"2013/01"	26	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2013"	"2013"	"Feb., 2013"	"2013/02"	25	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2013"	"2013"	"Mar., 2013"	"2013/03"	32	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2013"	"2013"	"Apr., 2013"	"2013/04"	40	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2013"	"2013"	"May, 2013"	"2013/05"	23	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2013"	"2013"	"Jun., 2013"	"2013/06"	14	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2013"	"2013"	"Jul., 2013"	"2013/07"	17	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2013"	"2013"	"Aug., 2013"	"2013/08"	16	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2013"	"2013"	"Sep., 2013"	"2013/09"	27	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2013"	"2013"	"Oct., 2013"	"2013/10"	17	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2013"	"2013"	"Nov., 2013"	"2013/11"	29	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2013"	"2013"	"Dec., 2013"	"2013/12"	19	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2013"	"2013"	"Jan., 2013"	"2013/01"	59	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2013"	"2013"	"Feb., 2013"	"2013/02"	81	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2013"	"2013"	"Mar., 2013"	"2013/03"	90	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2013"	"2013"	"Apr., 2013"	"2013/04"	68	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2013"	"2013"	"May, 2013"	"2013/05"	76	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2013"	"2013"	"Jun., 2013"	"2013/06"	69	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2013"	"2013"	"Jul., 2013"	"2013/07"	67	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2013"	"2013"	"Aug., 2013"	"2013/08"	74	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2013"	"2013"	"Sep., 2013"	"2013/09"	70	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2013"	"2013"	"Oct., 2013"	"2013/10"	91	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2013"	"2013"	"Nov., 2013"	"2013/11"	59	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2013"	"2013"	"Dec., 2013"	"2013/12"	79	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2013"	"2013"	"Jan., 2013"	"2013/01"	11	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2013"	"2013"	"Feb., 2013"	"2013/02"	14	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2013"	"2013"	"Mar., 2013"	"2013/03"	21	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2013"	"2013"	"Apr., 2013"	"2013/04"	10	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2013"	"2013"	"May, 2013"	"2013/05"	11	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2013"	"2013"	"Jun., 2013"	"2013/06"	18	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2013"	"2013"	"Jul., 2013"	"2013/07"	18	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2013"	"2013"	"Aug., 2013"	"2013/08"	11	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2013"	"2013"	"Sep., 2013"	"2013/09"	Suppressed	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2013"	"2013"	"Oct., 2013"	"2013/10"	10	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2013"	"2013"	"Nov., 2013"	"2013/11"	12	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2013"	"2013"	"Dec., 2013"	"2013/12"	23	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2013"	"2013"	"Jan., 2013"	"2013/01"	24	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2013"	"2013"	"Feb., 2013"	"2013/02"	18	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2013"	"2013"	"Mar., 2013"	"2013/03"	20	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2013"	"2013"	"Apr., 2013"	"2013/04"	22	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2013"	"2013"	"May, 2013"	"2013/05"	21	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2013"	"2013"	"Jun., 2013"	"2013/06"	20	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2013"	"2013"	"Jul., 2013"	"2013/07"	21	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2013"	"2013"	"Aug., 2013"	"2013/08"	20	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2013"	"2013"	"Sep., 2013"	"2013/09"	19	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2013"	"2013"	"Oct., 2013"	"2013/10"	32	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2013"	"2013"	"Nov., 2013"	"2013/11"	13	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2013"	"2013"	"Dec., 2013"	"2013/12"	13	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2013"	"2013"	"Jan., 2013"	"2013/01"	Suppressed	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2013"	"2013"	"Feb., 2013"	"2013/02"	Suppressed	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2013"	"2013"	"Mar., 2013"	"2013/03"	Suppressed	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2013"	"2013"	"Apr., 2013"	"2013/04"	Suppressed	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2013"	"2013"	"May, 2013"	"2013/05"	Suppressed	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2013"	"2013"	"Jun., 2013"	"2013/06"	Suppressed	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2013"	"2013"	"Jul., 2013"	"2013/07"	Suppressed	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2013"	"2013"	"Aug., 2013"	"2013/08"	Suppressed	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2013"	"2013"	"Sep., 2013"	"2013/09"	Suppressed	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2013"	"2013"	"Oct., 2013"	"2013/10"	Suppressed	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2013"	"2013"	"Nov., 2013"	"2013/11"	Suppressed	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2013"	"2013"	"Dec., 2013"	"2013/12"	Suppressed	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2013"	"2013"	"Jan., 2013"	"2013/01"	61	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2013"	"2013"	"Feb., 2013"	"2013/02"	78	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2013"	"2013"	"Mar., 2013"	"2013/03"	70	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2013"	"2013"	"Apr., 2013"	"2013/04"	55	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2013"	"2013"	"May, 2013"	"2013/05"	51	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2013"	"2013"	"Jun., 2013"	"2013/06"	54	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2013"	"2013"	"Jul., 2013"	"2013/07"	56	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2013"	"2013"	"Aug., 2013"	"2013/08"	57	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2013"	"2013"	"Sep., 2013"	"2013/09"	51	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2013"	"2013"	"Oct., 2013"	"2013/10"	54	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2013"	"2013"	"Nov., 2013"	"2013/11"	64	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2013"	"2013"	"Dec., 2013"	"2013/12"	56	Not Applicable	Not Applicable
+	"Texas"	"48"	"2013"	"2013"	"Jan., 2013"	"2013/01"	116	Not Applicable	Not Applicable
+	"Texas"	"48"	"2013"	"2013"	"Feb., 2013"	"2013/02"	82	Not Applicable	Not Applicable
+	"Texas"	"48"	"2013"	"2013"	"Mar., 2013"	"2013/03"	96	Not Applicable	Not Applicable
+	"Texas"	"48"	"2013"	"2013"	"Apr., 2013"	"2013/04"	87	Not Applicable	Not Applicable
+	"Texas"	"48"	"2013"	"2013"	"May, 2013"	"2013/05"	81	Not Applicable	Not Applicable
+	"Texas"	"48"	"2013"	"2013"	"Jun., 2013"	"2013/06"	68	Not Applicable	Not Applicable
+	"Texas"	"48"	"2013"	"2013"	"Jul., 2013"	"2013/07"	64	Not Applicable	Not Applicable
+	"Texas"	"48"	"2013"	"2013"	"Aug., 2013"	"2013/08"	60	Not Applicable	Not Applicable
+	"Texas"	"48"	"2013"	"2013"	"Sep., 2013"	"2013/09"	63	Not Applicable	Not Applicable
+	"Texas"	"48"	"2013"	"2013"	"Oct., 2013"	"2013/10"	62	Not Applicable	Not Applicable
+	"Texas"	"48"	"2013"	"2013"	"Nov., 2013"	"2013/11"	95	Not Applicable	Not Applicable
+	"Texas"	"48"	"2013"	"2013"	"Dec., 2013"	"2013/12"	87	Not Applicable	Not Applicable
+	"Utah"	"49"	"2013"	"2013"	"Jan., 2013"	"2013/01"	39	Not Applicable	Not Applicable
+	"Utah"	"49"	"2013"	"2013"	"Feb., 2013"	"2013/02"	27	Not Applicable	Not Applicable
+	"Utah"	"49"	"2013"	"2013"	"Mar., 2013"	"2013/03"	37	Not Applicable	Not Applicable
+	"Utah"	"49"	"2013"	"2013"	"Apr., 2013"	"2013/04"	47	Not Applicable	Not Applicable
+	"Utah"	"49"	"2013"	"2013"	"May, 2013"	"2013/05"	36	Not Applicable	Not Applicable
+	"Utah"	"49"	"2013"	"2013"	"Jun., 2013"	"2013/06"	41	Not Applicable	Not Applicable
+	"Utah"	"49"	"2013"	"2013"	"Jul., 2013"	"2013/07"	41	Not Applicable	Not Applicable
+	"Utah"	"49"	"2013"	"2013"	"Aug., 2013"	"2013/08"	35	Not Applicable	Not Applicable
+	"Utah"	"49"	"2013"	"2013"	"Sep., 2013"	"2013/09"	28	Not Applicable	Not Applicable
+	"Utah"	"49"	"2013"	"2013"	"Oct., 2013"	"2013/10"	38	Not Applicable	Not Applicable
+	"Utah"	"49"	"2013"	"2013"	"Nov., 2013"	"2013/11"	28	Not Applicable	Not Applicable
+	"Utah"	"49"	"2013"	"2013"	"Dec., 2013"	"2013/12"	33	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2013"	"2013"	"Jan., 2013"	"2013/01"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2013"	"2013"	"Feb., 2013"	"2013/02"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2013"	"2013"	"Mar., 2013"	"2013/03"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2013"	"2013"	"Apr., 2013"	"2013/04"	14	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2013"	"2013"	"May, 2013"	"2013/05"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2013"	"2013"	"Jun., 2013"	"2013/06"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2013"	"2013"	"Jul., 2013"	"2013/07"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2013"	"2013"	"Aug., 2013"	"2013/08"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2013"	"2013"	"Sep., 2013"	"2013/09"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2013"	"2013"	"Oct., 2013"	"2013/10"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2013"	"2013"	"Nov., 2013"	"2013/11"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2013"	"2013"	"Dec., 2013"	"2013/12"	Suppressed	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2013"	"2013"	"Jan., 2013"	"2013/01"	41	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2013"	"2013"	"Feb., 2013"	"2013/02"	49	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2013"	"2013"	"Mar., 2013"	"2013/03"	51	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2013"	"2013"	"Apr., 2013"	"2013/04"	53	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2013"	"2013"	"May, 2013"	"2013/05"	52	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2013"	"2013"	"Jun., 2013"	"2013/06"	48	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2013"	"2013"	"Jul., 2013"	"2013/07"	47	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2013"	"2013"	"Aug., 2013"	"2013/08"	50	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2013"	"2013"	"Sep., 2013"	"2013/09"	53	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2013"	"2013"	"Oct., 2013"	"2013/10"	44	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2013"	"2013"	"Nov., 2013"	"2013/11"	67	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2013"	"2013"	"Dec., 2013"	"2013/12"	67	Not Applicable	Not Applicable
+	"Washington"	"53"	"2013"	"2013"	"Jan., 2013"	"2013/01"	56	Not Applicable	Not Applicable
+	"Washington"	"53"	"2013"	"2013"	"Feb., 2013"	"2013/02"	54	Not Applicable	Not Applicable
+	"Washington"	"53"	"2013"	"2013"	"Mar., 2013"	"2013/03"	53	Not Applicable	Not Applicable
+	"Washington"	"53"	"2013"	"2013"	"Apr., 2013"	"2013/04"	52	Not Applicable	Not Applicable
+	"Washington"	"53"	"2013"	"2013"	"May, 2013"	"2013/05"	53	Not Applicable	Not Applicable
+	"Washington"	"53"	"2013"	"2013"	"Jun., 2013"	"2013/06"	46	Not Applicable	Not Applicable
+	"Washington"	"53"	"2013"	"2013"	"Jul., 2013"	"2013/07"	49	Not Applicable	Not Applicable
+	"Washington"	"53"	"2013"	"2013"	"Aug., 2013"	"2013/08"	64	Not Applicable	Not Applicable
+	"Washington"	"53"	"2013"	"2013"	"Sep., 2013"	"2013/09"	44	Not Applicable	Not Applicable
+	"Washington"	"53"	"2013"	"2013"	"Oct., 2013"	"2013/10"	40	Not Applicable	Not Applicable
+	"Washington"	"53"	"2013"	"2013"	"Nov., 2013"	"2013/11"	44	Not Applicable	Not Applicable
+	"Washington"	"53"	"2013"	"2013"	"Dec., 2013"	"2013/12"	47	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2013"	"2013"	"Jan., 2013"	"2013/01"	35	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2013"	"2013"	"Feb., 2013"	"2013/02"	35	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2013"	"2013"	"Mar., 2013"	"2013/03"	47	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2013"	"2013"	"Apr., 2013"	"2013/04"	37	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2013"	"2013"	"May, 2013"	"2013/05"	42	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2013"	"2013"	"Jun., 2013"	"2013/06"	38	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2013"	"2013"	"Jul., 2013"	"2013/07"	43	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2013"	"2013"	"Aug., 2013"	"2013/08"	46	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2013"	"2013"	"Sep., 2013"	"2013/09"	47	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2013"	"2013"	"Oct., 2013"	"2013/10"	37	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2013"	"2013"	"Nov., 2013"	"2013/11"	45	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2013"	"2013"	"Dec., 2013"	"2013/12"	35	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2013"	"2013"	"Jan., 2013"	"2013/01"	55	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2013"	"2013"	"Feb., 2013"	"2013/02"	42	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2013"	"2013"	"Mar., 2013"	"2013/03"	62	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2013"	"2013"	"Apr., 2013"	"2013/04"	51	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2013"	"2013"	"May, 2013"	"2013/05"	50	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2013"	"2013"	"Jun., 2013"	"2013/06"	46	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2013"	"2013"	"Jul., 2013"	"2013/07"	48	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2013"	"2013"	"Aug., 2013"	"2013/08"	44	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2013"	"2013"	"Sep., 2013"	"2013/09"	38	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2013"	"2013"	"Oct., 2013"	"2013/10"	46	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2013"	"2013"	"Nov., 2013"	"2013/11"	51	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2013"	"2013"	"Dec., 2013"	"2013/12"	47	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2013"	"2013"	"Jan., 2013"	"2013/01"	Suppressed	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2013"	"2013"	"Feb., 2013"	"2013/02"	Suppressed	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2013"	"2013"	"Mar., 2013"	"2013/03"	Suppressed	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2013"	"2013"	"Apr., 2013"	"2013/04"	Suppressed	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2013"	"2013"	"May, 2013"	"2013/05"	Suppressed	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2013"	"2013"	"Jun., 2013"	"2013/06"	Suppressed	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2013"	"2013"	"Jul., 2013"	"2013/07"	Suppressed	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2013"	"2013"	"Aug., 2013"	"2013/08"	Suppressed	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2013"	"2013"	"Sep., 2013"	"2013/09"	Suppressed	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2013"	"2013"	"Oct., 2013"	"2013/10"	Suppressed	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2013"	"2013"	"Nov., 2013"	"2013/11"	Suppressed	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2013"	"2013"	"Dec., 2013"	"2013/12"	Suppressed	Not Applicable	Not Applicable
+"---"
+"Dataset: Multiple Cause of Death, 1999-2020"
+"Query Parameters:"
+"MCD - ICD-10 Codes: T40.0 (Opium); T40.1 (Heroin); T40.2 (Other opioids); T40.3 (Methadone); T40.4 (Other synthetic narcotics)"
+"UCD - ICD-10 Codes: X40 (Accidental poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics); X41"
+"(Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not"
+"elsewhere classified); X42 (Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not"
+"elsewhere classified); X43 (Accidental poisoning by and exposure to other drugs acting on the autonomic nervous system); X44"
+"(Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances); X60 (Intentional"
+"self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics); X61 (Intentional self-poisoning by and"
+"exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified); X62"
+"(Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified); X63"
+"(Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system); X64 (Intentional"
+"self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances); X85 (Assault by drugs,"
+"medicaments and biological substances); Y10 (Poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics,"
+"undetermined intent); Y11 (Poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic"
+"drugs, not elsewhere classified, undetermined intent); Y12 (Poisoning by and exposure to narcotics and psychodysleptics"
+"[hallucinogens], not elsewhere classified, undetermined intent); Y13 (Poisoning by and exposure to other drugs acting on the"
+"autonomic nervous system, undetermined intent); Y14 (Poisoning by and exposure to other and unspecified drugs, medicaments and"
+"biological substances, undetermined intent)"
+"Year/Month: 2013"
+"Group By: State; Year; Month"
+"Show Totals: Disabled"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: Jul 30, 2024 7:05:05 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/mcd-icd10.html on Jul 30, 2024 7:05:05 AM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when Autopsy, Place of Death, Weekday or Month are grouped by or limited,"
+"due to lack of a valid population. More information: http://wonder.cdc.gov/wonder/help/mcd.html#NotApplicableRates."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Unreliable."
+"4. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#ICD-10 Changes."

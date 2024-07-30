@@ -1,0 +1,666 @@
+"Notes"	"State"	"State Code"	"Year"	"Year Code"	"Month"	"Month Code"	Deaths	Population	Crude Rate
+	"Alabama"	"01"	"2000"	"2000"	"Jan., 2000"	"2000/01"	Suppressed	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2000"	"2000"	"Feb., 2000"	"2000/02"	Suppressed	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2000"	"2000"	"Mar., 2000"	"2000/03"	Suppressed	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2000"	"2000"	"Apr., 2000"	"2000/04"	Suppressed	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2000"	"2000"	"May, 2000"	"2000/05"	Suppressed	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2000"	"2000"	"Jun., 2000"	"2000/06"	Suppressed	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2000"	"2000"	"Jul., 2000"	"2000/07"	Suppressed	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2000"	"2000"	"Aug., 2000"	"2000/08"	Suppressed	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2000"	"2000"	"Sep., 2000"	"2000/09"	Suppressed	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2000"	"2000"	"Oct., 2000"	"2000/10"	Suppressed	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2000"	"2000"	"Nov., 2000"	"2000/11"	Suppressed	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2000"	"2000"	"Dec., 2000"	"2000/12"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2000"	"2000"	"Jan., 2000"	"2000/01"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2000"	"2000"	"Feb., 2000"	"2000/02"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2000"	"2000"	"Mar., 2000"	"2000/03"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2000"	"2000"	"Apr., 2000"	"2000/04"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2000"	"2000"	"May, 2000"	"2000/05"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2000"	"2000"	"Jun., 2000"	"2000/06"	0	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2000"	"2000"	"Jul., 2000"	"2000/07"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2000"	"2000"	"Aug., 2000"	"2000/08"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2000"	"2000"	"Sep., 2000"	"2000/09"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2000"	"2000"	"Oct., 2000"	"2000/10"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2000"	"2000"	"Nov., 2000"	"2000/11"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2000"	"2000"	"Dec., 2000"	"2000/12"	Suppressed	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2000"	"2000"	"Jan., 2000"	"2000/01"	Suppressed	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2000"	"2000"	"Feb., 2000"	"2000/02"	18	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2000"	"2000"	"Mar., 2000"	"2000/03"	15	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2000"	"2000"	"Apr., 2000"	"2000/04"	Suppressed	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2000"	"2000"	"May, 2000"	"2000/05"	10	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2000"	"2000"	"Jun., 2000"	"2000/06"	Suppressed	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2000"	"2000"	"Jul., 2000"	"2000/07"	15	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2000"	"2000"	"Aug., 2000"	"2000/08"	Suppressed	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2000"	"2000"	"Sep., 2000"	"2000/09"	Suppressed	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2000"	"2000"	"Oct., 2000"	"2000/10"	10	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2000"	"2000"	"Nov., 2000"	"2000/11"	14	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2000"	"2000"	"Dec., 2000"	"2000/12"	Suppressed	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2000"	"2000"	"Jan., 2000"	"2000/01"	Suppressed	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2000"	"2000"	"Feb., 2000"	"2000/02"	Suppressed	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2000"	"2000"	"Mar., 2000"	"2000/03"	Suppressed	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2000"	"2000"	"Apr., 2000"	"2000/04"	Suppressed	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2000"	"2000"	"May, 2000"	"2000/05"	Suppressed	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2000"	"2000"	"Jun., 2000"	"2000/06"	Suppressed	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2000"	"2000"	"Jul., 2000"	"2000/07"	Suppressed	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2000"	"2000"	"Aug., 2000"	"2000/08"	Suppressed	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2000"	"2000"	"Sep., 2000"	"2000/09"	Suppressed	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2000"	"2000"	"Oct., 2000"	"2000/10"	0	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2000"	"2000"	"Nov., 2000"	"2000/11"	Suppressed	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2000"	"2000"	"Dec., 2000"	"2000/12"	Suppressed	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Jan., 2000"	"2000/01"	98	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Feb., 2000"	"2000/02"	92	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Mar., 2000"	"2000/03"	105	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Apr., 2000"	"2000/04"	104	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"May, 2000"	"2000/05"	104	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Jun., 2000"	"2000/06"	98	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Jul., 2000"	"2000/07"	77	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Aug., 2000"	"2000/08"	57	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Sep., 2000"	"2000/09"	45	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Oct., 2000"	"2000/10"	26	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Nov., 2000"	"2000/11"	25	Not Applicable	Not Applicable
+	"California"	"06"	"2000"	"2000"	"Dec., 2000"	"2000/12"	17	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2000"	"2000"	"Jan., 2000"	"2000/01"	17	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2000"	"2000"	"Feb., 2000"	"2000/02"	Suppressed	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2000"	"2000"	"Mar., 2000"	"2000/03"	14	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2000"	"2000"	"Apr., 2000"	"2000/04"	Suppressed	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2000"	"2000"	"May, 2000"	"2000/05"	11	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2000"	"2000"	"Jun., 2000"	"2000/06"	Suppressed	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2000"	"2000"	"Jul., 2000"	"2000/07"	Suppressed	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2000"	"2000"	"Aug., 2000"	"2000/08"	Suppressed	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2000"	"2000"	"Sep., 2000"	"2000/09"	10	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2000"	"2000"	"Oct., 2000"	"2000/10"	Suppressed	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2000"	"2000"	"Nov., 2000"	"2000/11"	Suppressed	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2000"	"2000"	"Dec., 2000"	"2000/12"	11	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2000"	"2000"	"Jan., 2000"	"2000/01"	12	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2000"	"2000"	"Feb., 2000"	"2000/02"	11	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2000"	"2000"	"Mar., 2000"	"2000/03"	Suppressed	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2000"	"2000"	"Apr., 2000"	"2000/04"	Suppressed	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2000"	"2000"	"May, 2000"	"2000/05"	13	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2000"	"2000"	"Jun., 2000"	"2000/06"	Suppressed	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2000"	"2000"	"Jul., 2000"	"2000/07"	13	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2000"	"2000"	"Aug., 2000"	"2000/08"	12	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2000"	"2000"	"Sep., 2000"	"2000/09"	14	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2000"	"2000"	"Oct., 2000"	"2000/10"	Suppressed	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2000"	"2000"	"Nov., 2000"	"2000/11"	18	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2000"	"2000"	"Dec., 2000"	"2000/12"	11	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2000"	"2000"	"Jan., 2000"	"2000/01"	Suppressed	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2000"	"2000"	"Feb., 2000"	"2000/02"	Suppressed	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2000"	"2000"	"Mar., 2000"	"2000/03"	Suppressed	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2000"	"2000"	"Apr., 2000"	"2000/04"	Suppressed	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2000"	"2000"	"May, 2000"	"2000/05"	Suppressed	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2000"	"2000"	"Jun., 2000"	"2000/06"	0	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2000"	"2000"	"Jul., 2000"	"2000/07"	Suppressed	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2000"	"2000"	"Aug., 2000"	"2000/08"	Suppressed	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2000"	"2000"	"Sep., 2000"	"2000/09"	Suppressed	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2000"	"2000"	"Oct., 2000"	"2000/10"	Suppressed	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2000"	"2000"	"Nov., 2000"	"2000/11"	Suppressed	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2000"	"2000"	"Dec., 2000"	"2000/12"	Suppressed	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2000"	"2000"	"Jan., 2000"	"2000/01"	0	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2000"	"2000"	"Feb., 2000"	"2000/02"	0	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2000"	"2000"	"Mar., 2000"	"2000/03"	Suppressed	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2000"	"2000"	"Apr., 2000"	"2000/04"	Suppressed	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2000"	"2000"	"May, 2000"	"2000/05"	Suppressed	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2000"	"2000"	"Jun., 2000"	"2000/06"	Suppressed	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2000"	"2000"	"Jul., 2000"	"2000/07"	Suppressed	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2000"	"2000"	"Aug., 2000"	"2000/08"	Suppressed	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2000"	"2000"	"Sep., 2000"	"2000/09"	Suppressed	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2000"	"2000"	"Oct., 2000"	"2000/10"	0	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2000"	"2000"	"Nov., 2000"	"2000/11"	Suppressed	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2000"	"2000"	"Dec., 2000"	"2000/12"	Suppressed	Not Applicable	Not Applicable
+	"Florida"	"12"	"2000"	"2000"	"Jan., 2000"	"2000/01"	35	Not Applicable	Not Applicable
+	"Florida"	"12"	"2000"	"2000"	"Feb., 2000"	"2000/02"	41	Not Applicable	Not Applicable
+	"Florida"	"12"	"2000"	"2000"	"Mar., 2000"	"2000/03"	52	Not Applicable	Not Applicable
+	"Florida"	"12"	"2000"	"2000"	"Apr., 2000"	"2000/04"	61	Not Applicable	Not Applicable
+	"Florida"	"12"	"2000"	"2000"	"May, 2000"	"2000/05"	58	Not Applicable	Not Applicable
+	"Florida"	"12"	"2000"	"2000"	"Jun., 2000"	"2000/06"	52	Not Applicable	Not Applicable
+	"Florida"	"12"	"2000"	"2000"	"Jul., 2000"	"2000/07"	13	Not Applicable	Not Applicable
+	"Florida"	"12"	"2000"	"2000"	"Aug., 2000"	"2000/08"	23	Not Applicable	Not Applicable
+	"Florida"	"12"	"2000"	"2000"	"Sep., 2000"	"2000/09"	33	Not Applicable	Not Applicable
+	"Florida"	"12"	"2000"	"2000"	"Oct., 2000"	"2000/10"	34	Not Applicable	Not Applicable
+	"Florida"	"12"	"2000"	"2000"	"Nov., 2000"	"2000/11"	43	Not Applicable	Not Applicable
+	"Florida"	"12"	"2000"	"2000"	"Dec., 2000"	"2000/12"	66	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2000"	"2000"	"Jan., 2000"	"2000/01"	Suppressed	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2000"	"2000"	"Feb., 2000"	"2000/02"	Suppressed	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2000"	"2000"	"Mar., 2000"	"2000/03"	Suppressed	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2000"	"2000"	"Apr., 2000"	"2000/04"	Suppressed	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2000"	"2000"	"May, 2000"	"2000/05"	Suppressed	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2000"	"2000"	"Jun., 2000"	"2000/06"	Suppressed	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2000"	"2000"	"Jul., 2000"	"2000/07"	Suppressed	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2000"	"2000"	"Aug., 2000"	"2000/08"	Suppressed	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2000"	"2000"	"Sep., 2000"	"2000/09"	10	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2000"	"2000"	"Oct., 2000"	"2000/10"	Suppressed	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2000"	"2000"	"Nov., 2000"	"2000/11"	11	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2000"	"2000"	"Dec., 2000"	"2000/12"	10	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2000"	"2000"	"Jan., 2000"	"2000/01"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2000"	"2000"	"Feb., 2000"	"2000/02"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2000"	"2000"	"Mar., 2000"	"2000/03"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2000"	"2000"	"Apr., 2000"	"2000/04"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2000"	"2000"	"May, 2000"	"2000/05"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2000"	"2000"	"Jun., 2000"	"2000/06"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2000"	"2000"	"Jul., 2000"	"2000/07"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2000"	"2000"	"Aug., 2000"	"2000/08"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2000"	"2000"	"Sep., 2000"	"2000/09"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2000"	"2000"	"Oct., 2000"	"2000/10"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2000"	"2000"	"Nov., 2000"	"2000/11"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2000"	"2000"	"Dec., 2000"	"2000/12"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2000"	"2000"	"Jan., 2000"	"2000/01"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2000"	"2000"	"Feb., 2000"	"2000/02"	0	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2000"	"2000"	"Mar., 2000"	"2000/03"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2000"	"2000"	"Apr., 2000"	"2000/04"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2000"	"2000"	"May, 2000"	"2000/05"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2000"	"2000"	"Jun., 2000"	"2000/06"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2000"	"2000"	"Jul., 2000"	"2000/07"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2000"	"2000"	"Aug., 2000"	"2000/08"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2000"	"2000"	"Sep., 2000"	"2000/09"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2000"	"2000"	"Oct., 2000"	"2000/10"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2000"	"2000"	"Nov., 2000"	"2000/11"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2000"	"2000"	"Dec., 2000"	"2000/12"	Suppressed	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2000"	"2000"	"Jan., 2000"	"2000/01"	13	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2000"	"2000"	"Feb., 2000"	"2000/02"	12	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2000"	"2000"	"Mar., 2000"	"2000/03"	13	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2000"	"2000"	"Apr., 2000"	"2000/04"	10	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2000"	"2000"	"May, 2000"	"2000/05"	Suppressed	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2000"	"2000"	"Jun., 2000"	"2000/06"	Suppressed	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2000"	"2000"	"Jul., 2000"	"2000/07"	11	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2000"	"2000"	"Aug., 2000"	"2000/08"	16	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2000"	"2000"	"Sep., 2000"	"2000/09"	12	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2000"	"2000"	"Oct., 2000"	"2000/10"	15	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2000"	"2000"	"Nov., 2000"	"2000/11"	15	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2000"	"2000"	"Dec., 2000"	"2000/12"	17	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2000"	"2000"	"Jan., 2000"	"2000/01"	Suppressed	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2000"	"2000"	"Feb., 2000"	"2000/02"	Suppressed	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2000"	"2000"	"Mar., 2000"	"2000/03"	Suppressed	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2000"	"2000"	"Apr., 2000"	"2000/04"	Suppressed	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2000"	"2000"	"May, 2000"	"2000/05"	Suppressed	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2000"	"2000"	"Jun., 2000"	"2000/06"	Suppressed	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2000"	"2000"	"Jul., 2000"	"2000/07"	Suppressed	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2000"	"2000"	"Aug., 2000"	"2000/08"	Suppressed	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2000"	"2000"	"Sep., 2000"	"2000/09"	Suppressed	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2000"	"2000"	"Oct., 2000"	"2000/10"	Suppressed	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2000"	"2000"	"Nov., 2000"	"2000/11"	Suppressed	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2000"	"2000"	"Dec., 2000"	"2000/12"	Suppressed	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2000"	"2000"	"Jan., 2000"	"2000/01"	Suppressed	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2000"	"2000"	"Feb., 2000"	"2000/02"	Suppressed	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2000"	"2000"	"Mar., 2000"	"2000/03"	Suppressed	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2000"	"2000"	"Apr., 2000"	"2000/04"	0	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2000"	"2000"	"May, 2000"	"2000/05"	Suppressed	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2000"	"2000"	"Jun., 2000"	"2000/06"	0	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2000"	"2000"	"Jul., 2000"	"2000/07"	Suppressed	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2000"	"2000"	"Aug., 2000"	"2000/08"	Suppressed	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2000"	"2000"	"Sep., 2000"	"2000/09"	Suppressed	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2000"	"2000"	"Oct., 2000"	"2000/10"	Suppressed	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2000"	"2000"	"Nov., 2000"	"2000/11"	0	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2000"	"2000"	"Dec., 2000"	"2000/12"	Suppressed	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2000"	"2000"	"Jan., 2000"	"2000/01"	Suppressed	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2000"	"2000"	"Feb., 2000"	"2000/02"	Suppressed	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2000"	"2000"	"Mar., 2000"	"2000/03"	Suppressed	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2000"	"2000"	"Apr., 2000"	"2000/04"	0	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2000"	"2000"	"May, 2000"	"2000/05"	Suppressed	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2000"	"2000"	"Jun., 2000"	"2000/06"	Suppressed	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2000"	"2000"	"Jul., 2000"	"2000/07"	Suppressed	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2000"	"2000"	"Aug., 2000"	"2000/08"	Suppressed	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2000"	"2000"	"Sep., 2000"	"2000/09"	0	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2000"	"2000"	"Oct., 2000"	"2000/10"	Suppressed	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2000"	"2000"	"Nov., 2000"	"2000/11"	Suppressed	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2000"	"2000"	"Dec., 2000"	"2000/12"	Suppressed	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2000"	"2000"	"Jan., 2000"	"2000/01"	Suppressed	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2000"	"2000"	"Feb., 2000"	"2000/02"	Suppressed	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2000"	"2000"	"Mar., 2000"	"2000/03"	Suppressed	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2000"	"2000"	"Apr., 2000"	"2000/04"	Suppressed	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2000"	"2000"	"May, 2000"	"2000/05"	Suppressed	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2000"	"2000"	"Jun., 2000"	"2000/06"	Suppressed	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2000"	"2000"	"Jul., 2000"	"2000/07"	Suppressed	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2000"	"2000"	"Aug., 2000"	"2000/08"	Suppressed	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2000"	"2000"	"Sep., 2000"	"2000/09"	Suppressed	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2000"	"2000"	"Oct., 2000"	"2000/10"	Suppressed	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2000"	"2000"	"Nov., 2000"	"2000/11"	Suppressed	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2000"	"2000"	"Dec., 2000"	"2000/12"	Suppressed	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2000"	"2000"	"Jan., 2000"	"2000/01"	Suppressed	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2000"	"2000"	"Feb., 2000"	"2000/02"	Suppressed	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2000"	"2000"	"Mar., 2000"	"2000/03"	Suppressed	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2000"	"2000"	"Apr., 2000"	"2000/04"	Suppressed	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2000"	"2000"	"May, 2000"	"2000/05"	Suppressed	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2000"	"2000"	"Jun., 2000"	"2000/06"	Suppressed	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2000"	"2000"	"Jul., 2000"	"2000/07"	Suppressed	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2000"	"2000"	"Aug., 2000"	"2000/08"	Suppressed	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2000"	"2000"	"Sep., 2000"	"2000/09"	Suppressed	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2000"	"2000"	"Oct., 2000"	"2000/10"	Suppressed	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2000"	"2000"	"Nov., 2000"	"2000/11"	Suppressed	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2000"	"2000"	"Dec., 2000"	"2000/12"	Suppressed	Not Applicable	Not Applicable
+	"Maine"	"23"	"2000"	"2000"	"Jan., 2000"	"2000/01"	Suppressed	Not Applicable	Not Applicable
+	"Maine"	"23"	"2000"	"2000"	"Feb., 2000"	"2000/02"	0	Not Applicable	Not Applicable
+	"Maine"	"23"	"2000"	"2000"	"Mar., 2000"	"2000/03"	0	Not Applicable	Not Applicable
+	"Maine"	"23"	"2000"	"2000"	"Apr., 2000"	"2000/04"	Suppressed	Not Applicable	Not Applicable
+	"Maine"	"23"	"2000"	"2000"	"May, 2000"	"2000/05"	Suppressed	Not Applicable	Not Applicable
+	"Maine"	"23"	"2000"	"2000"	"Jun., 2000"	"2000/06"	Suppressed	Not Applicable	Not Applicable
+	"Maine"	"23"	"2000"	"2000"	"Jul., 2000"	"2000/07"	Suppressed	Not Applicable	Not Applicable
+	"Maine"	"23"	"2000"	"2000"	"Aug., 2000"	"2000/08"	Suppressed	Not Applicable	Not Applicable
+	"Maine"	"23"	"2000"	"2000"	"Sep., 2000"	"2000/09"	Suppressed	Not Applicable	Not Applicable
+	"Maine"	"23"	"2000"	"2000"	"Oct., 2000"	"2000/10"	Suppressed	Not Applicable	Not Applicable
+	"Maine"	"23"	"2000"	"2000"	"Nov., 2000"	"2000/11"	0	Not Applicable	Not Applicable
+	"Maine"	"23"	"2000"	"2000"	"Dec., 2000"	"2000/12"	Suppressed	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2000"	"2000"	"Jan., 2000"	"2000/01"	Suppressed	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2000"	"2000"	"Feb., 2000"	"2000/02"	Suppressed	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2000"	"2000"	"Mar., 2000"	"2000/03"	Suppressed	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2000"	"2000"	"Apr., 2000"	"2000/04"	Suppressed	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2000"	"2000"	"May, 2000"	"2000/05"	Suppressed	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2000"	"2000"	"Jun., 2000"	"2000/06"	Suppressed	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2000"	"2000"	"Jul., 2000"	"2000/07"	Suppressed	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2000"	"2000"	"Aug., 2000"	"2000/08"	Suppressed	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2000"	"2000"	"Sep., 2000"	"2000/09"	Suppressed	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2000"	"2000"	"Oct., 2000"	"2000/10"	Suppressed	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2000"	"2000"	"Nov., 2000"	"2000/11"	Suppressed	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2000"	"2000"	"Dec., 2000"	"2000/12"	Suppressed	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2000"	"2000"	"Jan., 2000"	"2000/01"	Suppressed	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2000"	"2000"	"Feb., 2000"	"2000/02"	Suppressed	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2000"	"2000"	"Mar., 2000"	"2000/03"	Suppressed	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2000"	"2000"	"Apr., 2000"	"2000/04"	Suppressed	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2000"	"2000"	"May, 2000"	"2000/05"	Suppressed	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2000"	"2000"	"Jun., 2000"	"2000/06"	Suppressed	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2000"	"2000"	"Jul., 2000"	"2000/07"	Suppressed	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2000"	"2000"	"Aug., 2000"	"2000/08"	Suppressed	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2000"	"2000"	"Sep., 2000"	"2000/09"	Suppressed	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2000"	"2000"	"Oct., 2000"	"2000/10"	0	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2000"	"2000"	"Nov., 2000"	"2000/11"	Suppressed	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2000"	"2000"	"Dec., 2000"	"2000/12"	Suppressed	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2000"	"2000"	"Jan., 2000"	"2000/01"	11	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2000"	"2000"	"Feb., 2000"	"2000/02"	Suppressed	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2000"	"2000"	"Mar., 2000"	"2000/03"	10	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2000"	"2000"	"Apr., 2000"	"2000/04"	14	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2000"	"2000"	"May, 2000"	"2000/05"	18	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2000"	"2000"	"Jun., 2000"	"2000/06"	11	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2000"	"2000"	"Jul., 2000"	"2000/07"	26	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2000"	"2000"	"Aug., 2000"	"2000/08"	Suppressed	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2000"	"2000"	"Sep., 2000"	"2000/09"	Suppressed	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2000"	"2000"	"Oct., 2000"	"2000/10"	17	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2000"	"2000"	"Nov., 2000"	"2000/11"	15	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2000"	"2000"	"Dec., 2000"	"2000/12"	13	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2000"	"2000"	"Jan., 2000"	"2000/01"	Suppressed	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2000"	"2000"	"Feb., 2000"	"2000/02"	Suppressed	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2000"	"2000"	"Mar., 2000"	"2000/03"	Suppressed	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2000"	"2000"	"Apr., 2000"	"2000/04"	Suppressed	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2000"	"2000"	"May, 2000"	"2000/05"	Suppressed	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2000"	"2000"	"Jun., 2000"	"2000/06"	Suppressed	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2000"	"2000"	"Jul., 2000"	"2000/07"	Suppressed	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2000"	"2000"	"Aug., 2000"	"2000/08"	Suppressed	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2000"	"2000"	"Sep., 2000"	"2000/09"	Suppressed	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2000"	"2000"	"Oct., 2000"	"2000/10"	0	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2000"	"2000"	"Nov., 2000"	"2000/11"	Suppressed	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2000"	"2000"	"Dec., 2000"	"2000/12"	0	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2000"	"2000"	"Jan., 2000"	"2000/01"	Suppressed	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2000"	"2000"	"Feb., 2000"	"2000/02"	Suppressed	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2000"	"2000"	"Mar., 2000"	"2000/03"	Suppressed	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2000"	"2000"	"Apr., 2000"	"2000/04"	Suppressed	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2000"	"2000"	"May, 2000"	"2000/05"	Suppressed	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2000"	"2000"	"Jun., 2000"	"2000/06"	0	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2000"	"2000"	"Jul., 2000"	"2000/07"	Suppressed	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2000"	"2000"	"Aug., 2000"	"2000/08"	Suppressed	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2000"	"2000"	"Sep., 2000"	"2000/09"	0	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2000"	"2000"	"Oct., 2000"	"2000/10"	0	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2000"	"2000"	"Nov., 2000"	"2000/11"	Suppressed	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2000"	"2000"	"Dec., 2000"	"2000/12"	0	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2000"	"2000"	"Jan., 2000"	"2000/01"	13	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2000"	"2000"	"Feb., 2000"	"2000/02"	Suppressed	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2000"	"2000"	"Mar., 2000"	"2000/03"	16	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2000"	"2000"	"Apr., 2000"	"2000/04"	14	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2000"	"2000"	"May, 2000"	"2000/05"	12	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2000"	"2000"	"Jun., 2000"	"2000/06"	Suppressed	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2000"	"2000"	"Jul., 2000"	"2000/07"	11	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2000"	"2000"	"Aug., 2000"	"2000/08"	10	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2000"	"2000"	"Sep., 2000"	"2000/09"	Suppressed	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2000"	"2000"	"Oct., 2000"	"2000/10"	Suppressed	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2000"	"2000"	"Nov., 2000"	"2000/11"	13	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2000"	"2000"	"Dec., 2000"	"2000/12"	12	Not Applicable	Not Applicable
+	"Montana"	"30"	"2000"	"2000"	"Jan., 2000"	"2000/01"	0	Not Applicable	Not Applicable
+	"Montana"	"30"	"2000"	"2000"	"Feb., 2000"	"2000/02"	0	Not Applicable	Not Applicable
+	"Montana"	"30"	"2000"	"2000"	"Mar., 2000"	"2000/03"	0	Not Applicable	Not Applicable
+	"Montana"	"30"	"2000"	"2000"	"Apr., 2000"	"2000/04"	0	Not Applicable	Not Applicable
+	"Montana"	"30"	"2000"	"2000"	"May, 2000"	"2000/05"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2000"	"2000"	"Jun., 2000"	"2000/06"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2000"	"2000"	"Jul., 2000"	"2000/07"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2000"	"2000"	"Aug., 2000"	"2000/08"	0	Not Applicable	Not Applicable
+	"Montana"	"30"	"2000"	"2000"	"Sep., 2000"	"2000/09"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2000"	"2000"	"Oct., 2000"	"2000/10"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2000"	"2000"	"Nov., 2000"	"2000/11"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2000"	"2000"	"Dec., 2000"	"2000/12"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2000"	"2000"	"Jan., 2000"	"2000/01"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2000"	"2000"	"Feb., 2000"	"2000/02"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2000"	"2000"	"Mar., 2000"	"2000/03"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2000"	"2000"	"Apr., 2000"	"2000/04"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2000"	"2000"	"May, 2000"	"2000/05"	0	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2000"	"2000"	"Jun., 2000"	"2000/06"	0	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2000"	"2000"	"Jul., 2000"	"2000/07"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2000"	"2000"	"Aug., 2000"	"2000/08"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2000"	"2000"	"Sep., 2000"	"2000/09"	0	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2000"	"2000"	"Oct., 2000"	"2000/10"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2000"	"2000"	"Nov., 2000"	"2000/11"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2000"	"2000"	"Dec., 2000"	"2000/12"	Suppressed	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2000"	"2000"	"Jan., 2000"	"2000/01"	15	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2000"	"2000"	"Feb., 2000"	"2000/02"	13	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2000"	"2000"	"Mar., 2000"	"2000/03"	11	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2000"	"2000"	"Apr., 2000"	"2000/04"	13	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2000"	"2000"	"May, 2000"	"2000/05"	15	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2000"	"2000"	"Jun., 2000"	"2000/06"	15	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2000"	"2000"	"Jul., 2000"	"2000/07"	10	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2000"	"2000"	"Aug., 2000"	"2000/08"	24	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2000"	"2000"	"Sep., 2000"	"2000/09"	Suppressed	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2000"	"2000"	"Oct., 2000"	"2000/10"	12	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2000"	"2000"	"Nov., 2000"	"2000/11"	12	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2000"	"2000"	"Dec., 2000"	"2000/12"	12	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2000"	"2000"	"Jan., 2000"	"2000/01"	Suppressed	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2000"	"2000"	"Feb., 2000"	"2000/02"	Suppressed	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2000"	"2000"	"Mar., 2000"	"2000/03"	0	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2000"	"2000"	"Apr., 2000"	"2000/04"	Suppressed	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2000"	"2000"	"May, 2000"	"2000/05"	Suppressed	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2000"	"2000"	"Jun., 2000"	"2000/06"	Suppressed	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2000"	"2000"	"Jul., 2000"	"2000/07"	0	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2000"	"2000"	"Aug., 2000"	"2000/08"	Suppressed	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2000"	"2000"	"Sep., 2000"	"2000/09"	Suppressed	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2000"	"2000"	"Oct., 2000"	"2000/10"	Suppressed	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2000"	"2000"	"Nov., 2000"	"2000/11"	Suppressed	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2000"	"2000"	"Dec., 2000"	"2000/12"	Suppressed	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2000"	"2000"	"Jan., 2000"	"2000/01"	17	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2000"	"2000"	"Feb., 2000"	"2000/02"	30	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2000"	"2000"	"Mar., 2000"	"2000/03"	26	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2000"	"2000"	"Apr., 2000"	"2000/04"	23	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2000"	"2000"	"May, 2000"	"2000/05"	29	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2000"	"2000"	"Jun., 2000"	"2000/06"	37	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2000"	"2000"	"Jul., 2000"	"2000/07"	32	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2000"	"2000"	"Aug., 2000"	"2000/08"	18	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2000"	"2000"	"Sep., 2000"	"2000/09"	16	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2000"	"2000"	"Oct., 2000"	"2000/10"	28	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2000"	"2000"	"Nov., 2000"	"2000/11"	14	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2000"	"2000"	"Dec., 2000"	"2000/12"	22	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2000"	"2000"	"Jan., 2000"	"2000/01"	18	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2000"	"2000"	"Feb., 2000"	"2000/02"	17	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2000"	"2000"	"Mar., 2000"	"2000/03"	18	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2000"	"2000"	"Apr., 2000"	"2000/04"	16	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2000"	"2000"	"May, 2000"	"2000/05"	15	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2000"	"2000"	"Jun., 2000"	"2000/06"	Suppressed	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2000"	"2000"	"Jul., 2000"	"2000/07"	14	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2000"	"2000"	"Aug., 2000"	"2000/08"	13	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2000"	"2000"	"Sep., 2000"	"2000/09"	11	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2000"	"2000"	"Oct., 2000"	"2000/10"	13	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2000"	"2000"	"Nov., 2000"	"2000/11"	Suppressed	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2000"	"2000"	"Dec., 2000"	"2000/12"	18	Not Applicable	Not Applicable
+	"New York"	"36"	"2000"	"2000"	"Jan., 2000"	"2000/01"	19	Not Applicable	Not Applicable
+	"New York"	"36"	"2000"	"2000"	"Feb., 2000"	"2000/02"	23	Not Applicable	Not Applicable
+	"New York"	"36"	"2000"	"2000"	"Mar., 2000"	"2000/03"	14	Not Applicable	Not Applicable
+	"New York"	"36"	"2000"	"2000"	"Apr., 2000"	"2000/04"	16	Not Applicable	Not Applicable
+	"New York"	"36"	"2000"	"2000"	"May, 2000"	"2000/05"	17	Not Applicable	Not Applicable
+	"New York"	"36"	"2000"	"2000"	"Jun., 2000"	"2000/06"	18	Not Applicable	Not Applicable
+	"New York"	"36"	"2000"	"2000"	"Jul., 2000"	"2000/07"	Suppressed	Not Applicable	Not Applicable
+	"New York"	"36"	"2000"	"2000"	"Aug., 2000"	"2000/08"	Suppressed	Not Applicable	Not Applicable
+	"New York"	"36"	"2000"	"2000"	"Sep., 2000"	"2000/09"	Suppressed	Not Applicable	Not Applicable
+	"New York"	"36"	"2000"	"2000"	"Oct., 2000"	"2000/10"	10	Not Applicable	Not Applicable
+	"New York"	"36"	"2000"	"2000"	"Nov., 2000"	"2000/11"	12	Not Applicable	Not Applicable
+	"New York"	"36"	"2000"	"2000"	"Dec., 2000"	"2000/12"	18	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2000"	"2000"	"Jan., 2000"	"2000/01"	Suppressed	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2000"	"2000"	"Feb., 2000"	"2000/02"	19	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2000"	"2000"	"Mar., 2000"	"2000/03"	22	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2000"	"2000"	"Apr., 2000"	"2000/04"	19	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2000"	"2000"	"May, 2000"	"2000/05"	21	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2000"	"2000"	"Jun., 2000"	"2000/06"	22	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2000"	"2000"	"Jul., 2000"	"2000/07"	22	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2000"	"2000"	"Aug., 2000"	"2000/08"	35	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2000"	"2000"	"Sep., 2000"	"2000/09"	25	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2000"	"2000"	"Oct., 2000"	"2000/10"	22	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2000"	"2000"	"Nov., 2000"	"2000/11"	23	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2000"	"2000"	"Dec., 2000"	"2000/12"	38	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2000"	"2000"	"Jan., 2000"	"2000/01"	0	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2000"	"2000"	"Feb., 2000"	"2000/02"	Suppressed	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2000"	"2000"	"Mar., 2000"	"2000/03"	0	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2000"	"2000"	"Apr., 2000"	"2000/04"	0	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2000"	"2000"	"May, 2000"	"2000/05"	0	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2000"	"2000"	"Jun., 2000"	"2000/06"	0	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2000"	"2000"	"Jul., 2000"	"2000/07"	0	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2000"	"2000"	"Aug., 2000"	"2000/08"	Suppressed	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2000"	"2000"	"Sep., 2000"	"2000/09"	Suppressed	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2000"	"2000"	"Oct., 2000"	"2000/10"	Suppressed	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2000"	"2000"	"Nov., 2000"	"2000/11"	0	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2000"	"2000"	"Dec., 2000"	"2000/12"	0	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2000"	"2000"	"Jan., 2000"	"2000/01"	20	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2000"	"2000"	"Feb., 2000"	"2000/02"	19	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2000"	"2000"	"Mar., 2000"	"2000/03"	13	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2000"	"2000"	"Apr., 2000"	"2000/04"	15	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2000"	"2000"	"May, 2000"	"2000/05"	20	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2000"	"2000"	"Jun., 2000"	"2000/06"	20	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2000"	"2000"	"Jul., 2000"	"2000/07"	17	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2000"	"2000"	"Aug., 2000"	"2000/08"	23	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2000"	"2000"	"Sep., 2000"	"2000/09"	16	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2000"	"2000"	"Oct., 2000"	"2000/10"	21	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2000"	"2000"	"Nov., 2000"	"2000/11"	14	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2000"	"2000"	"Dec., 2000"	"2000/12"	19	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2000"	"2000"	"Jan., 2000"	"2000/01"	11	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2000"	"2000"	"Feb., 2000"	"2000/02"	17	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2000"	"2000"	"Mar., 2000"	"2000/03"	Suppressed	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2000"	"2000"	"Apr., 2000"	"2000/04"	10	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2000"	"2000"	"May, 2000"	"2000/05"	14	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2000"	"2000"	"Jun., 2000"	"2000/06"	Suppressed	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2000"	"2000"	"Jul., 2000"	"2000/07"	Suppressed	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2000"	"2000"	"Aug., 2000"	"2000/08"	12	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2000"	"2000"	"Sep., 2000"	"2000/09"	Suppressed	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2000"	"2000"	"Oct., 2000"	"2000/10"	Suppressed	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2000"	"2000"	"Nov., 2000"	"2000/11"	Suppressed	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2000"	"2000"	"Dec., 2000"	"2000/12"	18	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2000"	"2000"	"Jan., 2000"	"2000/01"	Suppressed	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2000"	"2000"	"Feb., 2000"	"2000/02"	Suppressed	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2000"	"2000"	"Mar., 2000"	"2000/03"	Suppressed	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2000"	"2000"	"Apr., 2000"	"2000/04"	Suppressed	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2000"	"2000"	"May, 2000"	"2000/05"	Suppressed	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2000"	"2000"	"Jun., 2000"	"2000/06"	Suppressed	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2000"	"2000"	"Jul., 2000"	"2000/07"	Suppressed	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2000"	"2000"	"Aug., 2000"	"2000/08"	Suppressed	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2000"	"2000"	"Sep., 2000"	"2000/09"	10	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2000"	"2000"	"Oct., 2000"	"2000/10"	Suppressed	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2000"	"2000"	"Nov., 2000"	"2000/11"	Suppressed	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2000"	"2000"	"Dec., 2000"	"2000/12"	Suppressed	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2000"	"2000"	"Jan., 2000"	"2000/01"	21	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2000"	"2000"	"Feb., 2000"	"2000/02"	22	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2000"	"2000"	"Mar., 2000"	"2000/03"	24	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2000"	"2000"	"Apr., 2000"	"2000/04"	18	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2000"	"2000"	"May, 2000"	"2000/05"	25	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2000"	"2000"	"Jun., 2000"	"2000/06"	18	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2000"	"2000"	"Jul., 2000"	"2000/07"	14	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2000"	"2000"	"Aug., 2000"	"2000/08"	28	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2000"	"2000"	"Sep., 2000"	"2000/09"	23	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2000"	"2000"	"Oct., 2000"	"2000/10"	21	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2000"	"2000"	"Nov., 2000"	"2000/11"	29	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2000"	"2000"	"Dec., 2000"	"2000/12"	20	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2000"	"2000"	"Jan., 2000"	"2000/01"	Suppressed	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2000"	"2000"	"Feb., 2000"	"2000/02"	Suppressed	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2000"	"2000"	"Mar., 2000"	"2000/03"	Suppressed	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2000"	"2000"	"Apr., 2000"	"2000/04"	Suppressed	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2000"	"2000"	"May, 2000"	"2000/05"	Suppressed	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2000"	"2000"	"Jun., 2000"	"2000/06"	0	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2000"	"2000"	"Jul., 2000"	"2000/07"	0	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2000"	"2000"	"Aug., 2000"	"2000/08"	0	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2000"	"2000"	"Sep., 2000"	"2000/09"	Suppressed	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2000"	"2000"	"Oct., 2000"	"2000/10"	Suppressed	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2000"	"2000"	"Nov., 2000"	"2000/11"	Suppressed	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2000"	"2000"	"Dec., 2000"	"2000/12"	0	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2000"	"2000"	"Jan., 2000"	"2000/01"	Suppressed	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2000"	"2000"	"Feb., 2000"	"2000/02"	19	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2000"	"2000"	"Mar., 2000"	"2000/03"	Suppressed	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2000"	"2000"	"Apr., 2000"	"2000/04"	Suppressed	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2000"	"2000"	"May, 2000"	"2000/05"	Suppressed	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2000"	"2000"	"Jun., 2000"	"2000/06"	Suppressed	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2000"	"2000"	"Jul., 2000"	"2000/07"	Suppressed	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2000"	"2000"	"Aug., 2000"	"2000/08"	Suppressed	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2000"	"2000"	"Sep., 2000"	"2000/09"	Suppressed	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2000"	"2000"	"Oct., 2000"	"2000/10"	Suppressed	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2000"	"2000"	"Nov., 2000"	"2000/11"	Suppressed	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2000"	"2000"	"Dec., 2000"	"2000/12"	Suppressed	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2000"	"2000"	"Jan., 2000"	"2000/01"	Suppressed	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2000"	"2000"	"Feb., 2000"	"2000/02"	0	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2000"	"2000"	"Mar., 2000"	"2000/03"	0	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2000"	"2000"	"Apr., 2000"	"2000/04"	0	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2000"	"2000"	"May, 2000"	"2000/05"	0	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2000"	"2000"	"Jun., 2000"	"2000/06"	0	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2000"	"2000"	"Jul., 2000"	"2000/07"	0	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2000"	"2000"	"Aug., 2000"	"2000/08"	0	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2000"	"2000"	"Sep., 2000"	"2000/09"	0	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2000"	"2000"	"Oct., 2000"	"2000/10"	0	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2000"	"2000"	"Nov., 2000"	"2000/11"	Suppressed	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2000"	"2000"	"Dec., 2000"	"2000/12"	Suppressed	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2000"	"2000"	"Jan., 2000"	"2000/01"	Suppressed	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2000"	"2000"	"Feb., 2000"	"2000/02"	Suppressed	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2000"	"2000"	"Mar., 2000"	"2000/03"	Suppressed	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2000"	"2000"	"Apr., 2000"	"2000/04"	10	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2000"	"2000"	"May, 2000"	"2000/05"	Suppressed	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2000"	"2000"	"Jun., 2000"	"2000/06"	Suppressed	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2000"	"2000"	"Jul., 2000"	"2000/07"	Suppressed	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2000"	"2000"	"Aug., 2000"	"2000/08"	Suppressed	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2000"	"2000"	"Sep., 2000"	"2000/09"	Suppressed	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2000"	"2000"	"Oct., 2000"	"2000/10"	Suppressed	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2000"	"2000"	"Nov., 2000"	"2000/11"	10	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2000"	"2000"	"Dec., 2000"	"2000/12"	Suppressed	Not Applicable	Not Applicable
+	"Texas"	"48"	"2000"	"2000"	"Jan., 2000"	"2000/01"	13	Not Applicable	Not Applicable
+	"Texas"	"48"	"2000"	"2000"	"Feb., 2000"	"2000/02"	29	Not Applicable	Not Applicable
+	"Texas"	"48"	"2000"	"2000"	"Mar., 2000"	"2000/03"	21	Not Applicable	Not Applicable
+	"Texas"	"48"	"2000"	"2000"	"Apr., 2000"	"2000/04"	18	Not Applicable	Not Applicable
+	"Texas"	"48"	"2000"	"2000"	"May, 2000"	"2000/05"	39	Not Applicable	Not Applicable
+	"Texas"	"48"	"2000"	"2000"	"Jun., 2000"	"2000/06"	31	Not Applicable	Not Applicable
+	"Texas"	"48"	"2000"	"2000"	"Jul., 2000"	"2000/07"	21	Not Applicable	Not Applicable
+	"Texas"	"48"	"2000"	"2000"	"Aug., 2000"	"2000/08"	33	Not Applicable	Not Applicable
+	"Texas"	"48"	"2000"	"2000"	"Sep., 2000"	"2000/09"	34	Not Applicable	Not Applicable
+	"Texas"	"48"	"2000"	"2000"	"Oct., 2000"	"2000/10"	36	Not Applicable	Not Applicable
+	"Texas"	"48"	"2000"	"2000"	"Nov., 2000"	"2000/11"	34	Not Applicable	Not Applicable
+	"Texas"	"48"	"2000"	"2000"	"Dec., 2000"	"2000/12"	22	Not Applicable	Not Applicable
+	"Utah"	"49"	"2000"	"2000"	"Jan., 2000"	"2000/01"	Suppressed	Not Applicable	Not Applicable
+	"Utah"	"49"	"2000"	"2000"	"Feb., 2000"	"2000/02"	15	Not Applicable	Not Applicable
+	"Utah"	"49"	"2000"	"2000"	"Mar., 2000"	"2000/03"	13	Not Applicable	Not Applicable
+	"Utah"	"49"	"2000"	"2000"	"Apr., 2000"	"2000/04"	15	Not Applicable	Not Applicable
+	"Utah"	"49"	"2000"	"2000"	"May, 2000"	"2000/05"	Suppressed	Not Applicable	Not Applicable
+	"Utah"	"49"	"2000"	"2000"	"Jun., 2000"	"2000/06"	15	Not Applicable	Not Applicable
+	"Utah"	"49"	"2000"	"2000"	"Jul., 2000"	"2000/07"	15	Not Applicable	Not Applicable
+	"Utah"	"49"	"2000"	"2000"	"Aug., 2000"	"2000/08"	21	Not Applicable	Not Applicable
+	"Utah"	"49"	"2000"	"2000"	"Sep., 2000"	"2000/09"	13	Not Applicable	Not Applicable
+	"Utah"	"49"	"2000"	"2000"	"Oct., 2000"	"2000/10"	Suppressed	Not Applicable	Not Applicable
+	"Utah"	"49"	"2000"	"2000"	"Nov., 2000"	"2000/11"	16	Not Applicable	Not Applicable
+	"Utah"	"49"	"2000"	"2000"	"Dec., 2000"	"2000/12"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2000"	"2000"	"Jan., 2000"	"2000/01"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2000"	"2000"	"Feb., 2000"	"2000/02"	0	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2000"	"2000"	"Mar., 2000"	"2000/03"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2000"	"2000"	"Apr., 2000"	"2000/04"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2000"	"2000"	"May, 2000"	"2000/05"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2000"	"2000"	"Jun., 2000"	"2000/06"	0	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2000"	"2000"	"Jul., 2000"	"2000/07"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2000"	"2000"	"Aug., 2000"	"2000/08"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2000"	"2000"	"Sep., 2000"	"2000/09"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2000"	"2000"	"Oct., 2000"	"2000/10"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2000"	"2000"	"Nov., 2000"	"2000/11"	0	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2000"	"2000"	"Dec., 2000"	"2000/12"	Suppressed	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2000"	"2000"	"Jan., 2000"	"2000/01"	17	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2000"	"2000"	"Feb., 2000"	"2000/02"	20	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2000"	"2000"	"Mar., 2000"	"2000/03"	12	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2000"	"2000"	"Apr., 2000"	"2000/04"	17	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2000"	"2000"	"May, 2000"	"2000/05"	15	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2000"	"2000"	"Jun., 2000"	"2000/06"	17	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2000"	"2000"	"Jul., 2000"	"2000/07"	16	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2000"	"2000"	"Aug., 2000"	"2000/08"	Suppressed	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2000"	"2000"	"Sep., 2000"	"2000/09"	25	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2000"	"2000"	"Oct., 2000"	"2000/10"	15	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2000"	"2000"	"Nov., 2000"	"2000/11"	17	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2000"	"2000"	"Dec., 2000"	"2000/12"	22	Not Applicable	Not Applicable
+	"Washington"	"53"	"2000"	"2000"	"Jan., 2000"	"2000/01"	24	Not Applicable	Not Applicable
+	"Washington"	"53"	"2000"	"2000"	"Feb., 2000"	"2000/02"	23	Not Applicable	Not Applicable
+	"Washington"	"53"	"2000"	"2000"	"Mar., 2000"	"2000/03"	12	Not Applicable	Not Applicable
+	"Washington"	"53"	"2000"	"2000"	"Apr., 2000"	"2000/04"	24	Not Applicable	Not Applicable
+	"Washington"	"53"	"2000"	"2000"	"May, 2000"	"2000/05"	25	Not Applicable	Not Applicable
+	"Washington"	"53"	"2000"	"2000"	"Jun., 2000"	"2000/06"	13	Not Applicable	Not Applicable
+	"Washington"	"53"	"2000"	"2000"	"Jul., 2000"	"2000/07"	15	Not Applicable	Not Applicable
+	"Washington"	"53"	"2000"	"2000"	"Aug., 2000"	"2000/08"	21	Not Applicable	Not Applicable
+	"Washington"	"53"	"2000"	"2000"	"Sep., 2000"	"2000/09"	13	Not Applicable	Not Applicable
+	"Washington"	"53"	"2000"	"2000"	"Oct., 2000"	"2000/10"	22	Not Applicable	Not Applicable
+	"Washington"	"53"	"2000"	"2000"	"Nov., 2000"	"2000/11"	18	Not Applicable	Not Applicable
+	"Washington"	"53"	"2000"	"2000"	"Dec., 2000"	"2000/12"	17	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2000"	"2000"	"Jan., 2000"	"2000/01"	Suppressed	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2000"	"2000"	"Feb., 2000"	"2000/02"	0	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2000"	"2000"	"Mar., 2000"	"2000/03"	Suppressed	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2000"	"2000"	"Apr., 2000"	"2000/04"	0	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2000"	"2000"	"May, 2000"	"2000/05"	Suppressed	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2000"	"2000"	"Jun., 2000"	"2000/06"	Suppressed	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2000"	"2000"	"Jul., 2000"	"2000/07"	Suppressed	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2000"	"2000"	"Aug., 2000"	"2000/08"	13	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2000"	"2000"	"Sep., 2000"	"2000/09"	Suppressed	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2000"	"2000"	"Oct., 2000"	"2000/10"	Suppressed	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2000"	"2000"	"Nov., 2000"	"2000/11"	Suppressed	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2000"	"2000"	"Dec., 2000"	"2000/12"	Suppressed	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2000"	"2000"	"Jan., 2000"	"2000/01"	10	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2000"	"2000"	"Feb., 2000"	"2000/02"	Suppressed	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2000"	"2000"	"Mar., 2000"	"2000/03"	Suppressed	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2000"	"2000"	"Apr., 2000"	"2000/04"	Suppressed	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2000"	"2000"	"May, 2000"	"2000/05"	Suppressed	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2000"	"2000"	"Jun., 2000"	"2000/06"	Suppressed	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2000"	"2000"	"Jul., 2000"	"2000/07"	16	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2000"	"2000"	"Aug., 2000"	"2000/08"	Suppressed	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2000"	"2000"	"Sep., 2000"	"2000/09"	Suppressed	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2000"	"2000"	"Oct., 2000"	"2000/10"	12	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2000"	"2000"	"Nov., 2000"	"2000/11"	Suppressed	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2000"	"2000"	"Dec., 2000"	"2000/12"	Suppressed	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2000"	"2000"	"Jan., 2000"	"2000/01"	Suppressed	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2000"	"2000"	"Feb., 2000"	"2000/02"	Suppressed	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2000"	"2000"	"Mar., 2000"	"2000/03"	Suppressed	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2000"	"2000"	"Apr., 2000"	"2000/04"	0	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2000"	"2000"	"May, 2000"	"2000/05"	Suppressed	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2000"	"2000"	"Jun., 2000"	"2000/06"	0	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2000"	"2000"	"Jul., 2000"	"2000/07"	0	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2000"	"2000"	"Aug., 2000"	"2000/08"	0	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2000"	"2000"	"Sep., 2000"	"2000/09"	0	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2000"	"2000"	"Oct., 2000"	"2000/10"	0	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2000"	"2000"	"Nov., 2000"	"2000/11"	Suppressed	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2000"	"2000"	"Dec., 2000"	"2000/12"	Suppressed	Not Applicable	Not Applicable
+"---"
+"Dataset: Multiple Cause of Death, 1999-2020"
+"Query Parameters:"
+"MCD - ICD-10 Codes: T40.0 (Opium); T40.1 (Heroin); T40.2 (Other opioids); T40.3 (Methadone); T40.4 (Other synthetic narcotics)"
+"UCD - ICD-10 Codes: X40 (Accidental poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics); X41"
+"(Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not"
+"elsewhere classified); X42 (Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not"
+"elsewhere classified); X43 (Accidental poisoning by and exposure to other drugs acting on the autonomic nervous system); X44"
+"(Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances); X60 (Intentional"
+"self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics); X61 (Intentional self-poisoning by and"
+"exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified); X62"
+"(Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified); X63"
+"(Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system); X64 (Intentional"
+"self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances); X85 (Assault by drugs,"
+"medicaments and biological substances); Y10 (Poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics,"
+"undetermined intent); Y11 (Poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic"
+"drugs, not elsewhere classified, undetermined intent); Y12 (Poisoning by and exposure to narcotics and psychodysleptics"
+"[hallucinogens], not elsewhere classified, undetermined intent); Y13 (Poisoning by and exposure to other drugs acting on the"
+"autonomic nervous system, undetermined intent); Y14 (Poisoning by and exposure to other and unspecified drugs, medicaments and"
+"biological substances, undetermined intent)"
+"Year/Month: 2000"
+"Group By: State; Year; Month"
+"Show Totals: Disabled"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: Jul 30, 2024 6:44:10 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/mcd-icd10.html on Jul 30, 2024 6:44:10 AM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when Autopsy, Place of Death, Weekday or Month are grouped by or limited,"
+"due to lack of a valid population. More information: http://wonder.cdc.gov/wonder/help/mcd.html#NotApplicableRates."
+"2. Circumstances in California resulted in unusually high death counts for the ICD-10 cause of death code R99, ""Other"
+"ill-defined and unspecified causes of mortality"" for deaths occurring in years 2000 and 2001. Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/mcd.html#California-Reporting-Anomalies."
+"3. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Assurance of Confidentiality."
+"4. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Unreliable."
+"5. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#ICD-10 Changes."

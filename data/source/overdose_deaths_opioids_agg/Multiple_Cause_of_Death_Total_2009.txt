@@ -1,0 +1,670 @@
+"Notes"	"State"	"State Code"	"Year"	"Year Code"	"Month"	"Month Code"	Deaths	Population	Crude Rate
+	"Alabama"	"01"	"2009"	"2009"	"Jan., 2009"	"2009/01"	19	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2009"	"2009"	"Feb., 2009"	"2009/02"	16	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2009"	"2009"	"Mar., 2009"	"2009/03"	14	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2009"	"2009"	"Apr., 2009"	"2009/04"	20	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2009"	"2009"	"May, 2009"	"2009/05"	18	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2009"	"2009"	"Jun., 2009"	"2009/06"	18	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2009"	"2009"	"Jul., 2009"	"2009/07"	13	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2009"	"2009"	"Aug., 2009"	"2009/08"	22	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2009"	"2009"	"Sep., 2009"	"2009/09"	14	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2009"	"2009"	"Oct., 2009"	"2009/10"	17	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2009"	"2009"	"Nov., 2009"	"2009/11"	16	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2009"	"2009"	"Dec., 2009"	"2009/12"	16	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2009"	"2009"	"Jan., 2009"	"2009/01"	13	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2009"	"2009"	"Feb., 2009"	"2009/02"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2009"	"2009"	"Mar., 2009"	"2009/03"	13	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2009"	"2009"	"Apr., 2009"	"2009/04"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2009"	"2009"	"May, 2009"	"2009/05"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2009"	"2009"	"Jun., 2009"	"2009/06"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2009"	"2009"	"Jul., 2009"	"2009/07"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2009"	"2009"	"Aug., 2009"	"2009/08"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2009"	"2009"	"Sep., 2009"	"2009/09"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2009"	"2009"	"Oct., 2009"	"2009/10"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2009"	"2009"	"Nov., 2009"	"2009/11"	Suppressed	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2009"	"2009"	"Dec., 2009"	"2009/12"	Suppressed	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2009"	"2009"	"Jan., 2009"	"2009/01"	11	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2009"	"2009"	"Feb., 2009"	"2009/02"	29	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2009"	"2009"	"Mar., 2009"	"2009/03"	52	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2009"	"2009"	"Apr., 2009"	"2009/04"	43	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2009"	"2009"	"May, 2009"	"2009/05"	62	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2009"	"2009"	"Jun., 2009"	"2009/06"	38	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2009"	"2009"	"Jul., 2009"	"2009/07"	44	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2009"	"2009"	"Aug., 2009"	"2009/08"	39	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2009"	"2009"	"Sep., 2009"	"2009/09"	44	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2009"	"2009"	"Oct., 2009"	"2009/10"	43	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2009"	"2009"	"Nov., 2009"	"2009/11"	54	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2009"	"2009"	"Dec., 2009"	"2009/12"	46	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2009"	"2009"	"Jan., 2009"	"2009/01"	14	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2009"	"2009"	"Feb., 2009"	"2009/02"	13	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2009"	"2009"	"Mar., 2009"	"2009/03"	14	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2009"	"2009"	"Apr., 2009"	"2009/04"	15	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2009"	"2009"	"May, 2009"	"2009/05"	18	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2009"	"2009"	"Jun., 2009"	"2009/06"	12	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2009"	"2009"	"Jul., 2009"	"2009/07"	20	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2009"	"2009"	"Aug., 2009"	"2009/08"	15	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2009"	"2009"	"Sep., 2009"	"2009/09"	17	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2009"	"2009"	"Oct., 2009"	"2009/10"	19	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2009"	"2009"	"Nov., 2009"	"2009/11"	21	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2009"	"2009"	"Dec., 2009"	"2009/12"	18	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Jan., 2009"	"2009/01"	164	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Feb., 2009"	"2009/02"	152	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Mar., 2009"	"2009/03"	152	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Apr., 2009"	"2009/04"	158	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"May, 2009"	"2009/05"	169	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Jun., 2009"	"2009/06"	173	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Jul., 2009"	"2009/07"	158	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Aug., 2009"	"2009/08"	147	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Sep., 2009"	"2009/09"	149	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Oct., 2009"	"2009/10"	140	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Nov., 2009"	"2009/11"	137	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	"Dec., 2009"	"2009/12"	141	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2009"	"2009"	"Jan., 2009"	"2009/01"	23	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2009"	"2009"	"Feb., 2009"	"2009/02"	28	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2009"	"2009"	"Mar., 2009"	"2009/03"	22	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2009"	"2009"	"Apr., 2009"	"2009/04"	36	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2009"	"2009"	"May, 2009"	"2009/05"	23	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2009"	"2009"	"Jun., 2009"	"2009/06"	38	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2009"	"2009"	"Jul., 2009"	"2009/07"	36	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2009"	"2009"	"Aug., 2009"	"2009/08"	31	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2009"	"2009"	"Sep., 2009"	"2009/09"	23	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2009"	"2009"	"Oct., 2009"	"2009/10"	26	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2009"	"2009"	"Nov., 2009"	"2009/11"	31	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2009"	"2009"	"Dec., 2009"	"2009/12"	26	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2009"	"2009"	"Jan., 2009"	"2009/01"	23	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2009"	"2009"	"Feb., 2009"	"2009/02"	17	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2009"	"2009"	"Mar., 2009"	"2009/03"	15	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2009"	"2009"	"Apr., 2009"	"2009/04"	12	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2009"	"2009"	"May, 2009"	"2009/05"	14	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2009"	"2009"	"Jun., 2009"	"2009/06"	18	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2009"	"2009"	"Jul., 2009"	"2009/07"	12	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2009"	"2009"	"Aug., 2009"	"2009/08"	24	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2009"	"2009"	"Sep., 2009"	"2009/09"	12	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2009"	"2009"	"Oct., 2009"	"2009/10"	11	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2009"	"2009"	"Nov., 2009"	"2009/11"	14	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2009"	"2009"	"Dec., 2009"	"2009/12"	15	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2009"	"2009"	"Jan., 2009"	"2009/01"	Suppressed	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2009"	"2009"	"Feb., 2009"	"2009/02"	Suppressed	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2009"	"2009"	"Mar., 2009"	"2009/03"	Suppressed	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2009"	"2009"	"Apr., 2009"	"2009/04"	10	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2009"	"2009"	"May, 2009"	"2009/05"	Suppressed	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2009"	"2009"	"Jun., 2009"	"2009/06"	Suppressed	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2009"	"2009"	"Jul., 2009"	"2009/07"	Suppressed	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2009"	"2009"	"Aug., 2009"	"2009/08"	Suppressed	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2009"	"2009"	"Sep., 2009"	"2009/09"	Suppressed	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2009"	"2009"	"Oct., 2009"	"2009/10"	Suppressed	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2009"	"2009"	"Nov., 2009"	"2009/11"	Suppressed	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2009"	"2009"	"Dec., 2009"	"2009/12"	Suppressed	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2009"	"2009"	"Jan., 2009"	"2009/01"	0	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2009"	"2009"	"Feb., 2009"	"2009/02"	0	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2009"	"2009"	"Mar., 2009"	"2009/03"	Suppressed	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2009"	"2009"	"Apr., 2009"	"2009/04"	Suppressed	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2009"	"2009"	"May, 2009"	"2009/05"	0	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2009"	"2009"	"Jun., 2009"	"2009/06"	0	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2009"	"2009"	"Jul., 2009"	"2009/07"	Suppressed	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2009"	"2009"	"Aug., 2009"	"2009/08"	0	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2009"	"2009"	"Sep., 2009"	"2009/09"	0	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2009"	"2009"	"Oct., 2009"	"2009/10"	Suppressed	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2009"	"2009"	"Nov., 2009"	"2009/11"	Suppressed	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2009"	"2009"	"Dec., 2009"	"2009/12"	Suppressed	Not Applicable	Not Applicable
+	"Florida"	"12"	"2009"	"2009"	"Jan., 2009"	"2009/01"	120	Not Applicable	Not Applicable
+	"Florida"	"12"	"2009"	"2009"	"Feb., 2009"	"2009/02"	122	Not Applicable	Not Applicable
+	"Florida"	"12"	"2009"	"2009"	"Mar., 2009"	"2009/03"	116	Not Applicable	Not Applicable
+	"Florida"	"12"	"2009"	"2009"	"Apr., 2009"	"2009/04"	122	Not Applicable	Not Applicable
+	"Florida"	"12"	"2009"	"2009"	"May, 2009"	"2009/05"	130	Not Applicable	Not Applicable
+	"Florida"	"12"	"2009"	"2009"	"Jun., 2009"	"2009/06"	122	Not Applicable	Not Applicable
+	"Florida"	"12"	"2009"	"2009"	"Jul., 2009"	"2009/07"	122	Not Applicable	Not Applicable
+	"Florida"	"12"	"2009"	"2009"	"Aug., 2009"	"2009/08"	136	Not Applicable	Not Applicable
+	"Florida"	"12"	"2009"	"2009"	"Sep., 2009"	"2009/09"	155	Not Applicable	Not Applicable
+	"Florida"	"12"	"2009"	"2009"	"Oct., 2009"	"2009/10"	126	Not Applicable	Not Applicable
+	"Florida"	"12"	"2009"	"2009"	"Nov., 2009"	"2009/11"	138	Not Applicable	Not Applicable
+	"Florida"	"12"	"2009"	"2009"	"Dec., 2009"	"2009/12"	136	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2009"	"2009"	"Jan., 2009"	"2009/01"	50	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2009"	"2009"	"Feb., 2009"	"2009/02"	48	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2009"	"2009"	"Mar., 2009"	"2009/03"	41	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2009"	"2009"	"Apr., 2009"	"2009/04"	31	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2009"	"2009"	"May, 2009"	"2009/05"	36	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2009"	"2009"	"Jun., 2009"	"2009/06"	26	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2009"	"2009"	"Jul., 2009"	"2009/07"	40	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2009"	"2009"	"Aug., 2009"	"2009/08"	31	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2009"	"2009"	"Sep., 2009"	"2009/09"	42	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2009"	"2009"	"Oct., 2009"	"2009/10"	32	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2009"	"2009"	"Nov., 2009"	"2009/11"	45	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2009"	"2009"	"Dec., 2009"	"2009/12"	45	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2009"	"2009"	"Jan., 2009"	"2009/01"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2009"	"2009"	"Feb., 2009"	"2009/02"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2009"	"2009"	"Mar., 2009"	"2009/03"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2009"	"2009"	"Apr., 2009"	"2009/04"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2009"	"2009"	"May, 2009"	"2009/05"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2009"	"2009"	"Jun., 2009"	"2009/06"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2009"	"2009"	"Jul., 2009"	"2009/07"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2009"	"2009"	"Aug., 2009"	"2009/08"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2009"	"2009"	"Sep., 2009"	"2009/09"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2009"	"2009"	"Oct., 2009"	"2009/10"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2009"	"2009"	"Nov., 2009"	"2009/11"	Suppressed	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2009"	"2009"	"Dec., 2009"	"2009/12"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2009"	"2009"	"Jan., 2009"	"2009/01"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2009"	"2009"	"Feb., 2009"	"2009/02"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2009"	"2009"	"Mar., 2009"	"2009/03"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2009"	"2009"	"Apr., 2009"	"2009/04"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2009"	"2009"	"May, 2009"	"2009/05"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2009"	"2009"	"Jun., 2009"	"2009/06"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2009"	"2009"	"Jul., 2009"	"2009/07"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2009"	"2009"	"Aug., 2009"	"2009/08"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2009"	"2009"	"Sep., 2009"	"2009/09"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2009"	"2009"	"Oct., 2009"	"2009/10"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2009"	"2009"	"Nov., 2009"	"2009/11"	Suppressed	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2009"	"2009"	"Dec., 2009"	"2009/12"	Suppressed	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2009"	"2009"	"Jan., 2009"	"2009/01"	46	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2009"	"2009"	"Feb., 2009"	"2009/02"	38	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2009"	"2009"	"Mar., 2009"	"2009/03"	40	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2009"	"2009"	"Apr., 2009"	"2009/04"	26	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2009"	"2009"	"May, 2009"	"2009/05"	45	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2009"	"2009"	"Jun., 2009"	"2009/06"	43	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2009"	"2009"	"Jul., 2009"	"2009/07"	40	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2009"	"2009"	"Aug., 2009"	"2009/08"	46	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2009"	"2009"	"Sep., 2009"	"2009/09"	29	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2009"	"2009"	"Oct., 2009"	"2009/10"	44	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2009"	"2009"	"Nov., 2009"	"2009/11"	39	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2009"	"2009"	"Dec., 2009"	"2009/12"	40	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2009"	"2009"	"Jan., 2009"	"2009/01"	39	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2009"	"2009"	"Feb., 2009"	"2009/02"	25	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2009"	"2009"	"Mar., 2009"	"2009/03"	26	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2009"	"2009"	"Apr., 2009"	"2009/04"	25	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2009"	"2009"	"May, 2009"	"2009/05"	24	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2009"	"2009"	"Jun., 2009"	"2009/06"	19	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2009"	"2009"	"Jul., 2009"	"2009/07"	22	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2009"	"2009"	"Aug., 2009"	"2009/08"	30	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2009"	"2009"	"Sep., 2009"	"2009/09"	26	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2009"	"2009"	"Oct., 2009"	"2009/10"	21	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2009"	"2009"	"Nov., 2009"	"2009/11"	25	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2009"	"2009"	"Dec., 2009"	"2009/12"	22	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2009"	"2009"	"Jan., 2009"	"2009/01"	12	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2009"	"2009"	"Feb., 2009"	"2009/02"	12	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2009"	"2009"	"Mar., 2009"	"2009/03"	11	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2009"	"2009"	"Apr., 2009"	"2009/04"	Suppressed	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2009"	"2009"	"May, 2009"	"2009/05"	16	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2009"	"2009"	"Jun., 2009"	"2009/06"	Suppressed	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2009"	"2009"	"Jul., 2009"	"2009/07"	Suppressed	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2009"	"2009"	"Aug., 2009"	"2009/08"	Suppressed	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2009"	"2009"	"Sep., 2009"	"2009/09"	14	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2009"	"2009"	"Oct., 2009"	"2009/10"	17	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2009"	"2009"	"Nov., 2009"	"2009/11"	11	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2009"	"2009"	"Dec., 2009"	"2009/12"	12	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2009"	"2009"	"Jan., 2009"	"2009/01"	Suppressed	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2009"	"2009"	"Feb., 2009"	"2009/02"	12	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2009"	"2009"	"Mar., 2009"	"2009/03"	13	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2009"	"2009"	"Apr., 2009"	"2009/04"	10	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2009"	"2009"	"May, 2009"	"2009/05"	13	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2009"	"2009"	"Jun., 2009"	"2009/06"	11	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2009"	"2009"	"Jul., 2009"	"2009/07"	14	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2009"	"2009"	"Aug., 2009"	"2009/08"	10	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2009"	"2009"	"Sep., 2009"	"2009/09"	11	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2009"	"2009"	"Oct., 2009"	"2009/10"	14	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2009"	"2009"	"Nov., 2009"	"2009/11"	15	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2009"	"2009"	"Dec., 2009"	"2009/12"	12	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2009"	"2009"	"Jan., 2009"	"2009/01"	39	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2009"	"2009"	"Feb., 2009"	"2009/02"	34	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2009"	"2009"	"Mar., 2009"	"2009/03"	35	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2009"	"2009"	"Apr., 2009"	"2009/04"	35	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2009"	"2009"	"May, 2009"	"2009/05"	20	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2009"	"2009"	"Jun., 2009"	"2009/06"	19	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2009"	"2009"	"Jul., 2009"	"2009/07"	28	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2009"	"2009"	"Aug., 2009"	"2009/08"	37	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2009"	"2009"	"Sep., 2009"	"2009/09"	29	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2009"	"2009"	"Oct., 2009"	"2009/10"	48	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2009"	"2009"	"Nov., 2009"	"2009/11"	44	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2009"	"2009"	"Dec., 2009"	"2009/12"	41	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2009"	"2009"	"Jan., 2009"	"2009/01"	Suppressed	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2009"	"2009"	"Feb., 2009"	"2009/02"	12	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2009"	"2009"	"Mar., 2009"	"2009/03"	Suppressed	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2009"	"2009"	"Apr., 2009"	"2009/04"	12	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2009"	"2009"	"May, 2009"	"2009/05"	Suppressed	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2009"	"2009"	"Jun., 2009"	"2009/06"	Suppressed	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2009"	"2009"	"Jul., 2009"	"2009/07"	Suppressed	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2009"	"2009"	"Aug., 2009"	"2009/08"	10	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2009"	"2009"	"Sep., 2009"	"2009/09"	Suppressed	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2009"	"2009"	"Oct., 2009"	"2009/10"	Suppressed	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2009"	"2009"	"Nov., 2009"	"2009/11"	Suppressed	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2009"	"2009"	"Dec., 2009"	"2009/12"	11	Not Applicable	Not Applicable
+	"Maine"	"23"	"2009"	"2009"	"Jan., 2009"	"2009/01"	10	Not Applicable	Not Applicable
+	"Maine"	"23"	"2009"	"2009"	"Feb., 2009"	"2009/02"	10	Not Applicable	Not Applicable
+	"Maine"	"23"	"2009"	"2009"	"Mar., 2009"	"2009/03"	Suppressed	Not Applicable	Not Applicable
+	"Maine"	"23"	"2009"	"2009"	"Apr., 2009"	"2009/04"	13	Not Applicable	Not Applicable
+	"Maine"	"23"	"2009"	"2009"	"May, 2009"	"2009/05"	Suppressed	Not Applicable	Not Applicable
+	"Maine"	"23"	"2009"	"2009"	"Jun., 2009"	"2009/06"	12	Not Applicable	Not Applicable
+	"Maine"	"23"	"2009"	"2009"	"Jul., 2009"	"2009/07"	Suppressed	Not Applicable	Not Applicable
+	"Maine"	"23"	"2009"	"2009"	"Aug., 2009"	"2009/08"	Suppressed	Not Applicable	Not Applicable
+	"Maine"	"23"	"2009"	"2009"	"Sep., 2009"	"2009/09"	Suppressed	Not Applicable	Not Applicable
+	"Maine"	"23"	"2009"	"2009"	"Oct., 2009"	"2009/10"	Suppressed	Not Applicable	Not Applicable
+	"Maine"	"23"	"2009"	"2009"	"Nov., 2009"	"2009/11"	Suppressed	Not Applicable	Not Applicable
+	"Maine"	"23"	"2009"	"2009"	"Dec., 2009"	"2009/12"	12	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2009"	"2009"	"Jan., 2009"	"2009/01"	30	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2009"	"2009"	"Feb., 2009"	"2009/02"	25	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2009"	"2009"	"Mar., 2009"	"2009/03"	35	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2009"	"2009"	"Apr., 2009"	"2009/04"	42	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2009"	"2009"	"May, 2009"	"2009/05"	36	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2009"	"2009"	"Jun., 2009"	"2009/06"	38	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2009"	"2009"	"Jul., 2009"	"2009/07"	42	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2009"	"2009"	"Aug., 2009"	"2009/08"	44	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2009"	"2009"	"Sep., 2009"	"2009/09"	35	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2009"	"2009"	"Oct., 2009"	"2009/10"	45	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2009"	"2009"	"Nov., 2009"	"2009/11"	53	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2009"	"2009"	"Dec., 2009"	"2009/12"	58	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2009"	"2009"	"Jan., 2009"	"2009/01"	37	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2009"	"2009"	"Feb., 2009"	"2009/02"	21	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2009"	"2009"	"Mar., 2009"	"2009/03"	43	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2009"	"2009"	"Apr., 2009"	"2009/04"	32	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2009"	"2009"	"May, 2009"	"2009/05"	23	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2009"	"2009"	"Jun., 2009"	"2009/06"	22	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2009"	"2009"	"Jul., 2009"	"2009/07"	34	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2009"	"2009"	"Aug., 2009"	"2009/08"	28	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2009"	"2009"	"Sep., 2009"	"2009/09"	24	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2009"	"2009"	"Oct., 2009"	"2009/10"	32	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2009"	"2009"	"Nov., 2009"	"2009/11"	28	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2009"	"2009"	"Dec., 2009"	"2009/12"	37	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2009"	"2009"	"Jan., 2009"	"2009/01"	69	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2009"	"2009"	"Feb., 2009"	"2009/02"	62	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2009"	"2009"	"Mar., 2009"	"2009/03"	74	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2009"	"2009"	"Apr., 2009"	"2009/04"	64	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2009"	"2009"	"May, 2009"	"2009/05"	49	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2009"	"2009"	"Jun., 2009"	"2009/06"	55	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2009"	"2009"	"Jul., 2009"	"2009/07"	61	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2009"	"2009"	"Aug., 2009"	"2009/08"	41	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2009"	"2009"	"Sep., 2009"	"2009/09"	59	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2009"	"2009"	"Oct., 2009"	"2009/10"	57	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2009"	"2009"	"Nov., 2009"	"2009/11"	42	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2009"	"2009"	"Dec., 2009"	"2009/12"	45	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2009"	"2009"	"Jan., 2009"	"2009/01"	22	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2009"	"2009"	"Feb., 2009"	"2009/02"	13	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2009"	"2009"	"Mar., 2009"	"2009/03"	22	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2009"	"2009"	"Apr., 2009"	"2009/04"	19	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2009"	"2009"	"May, 2009"	"2009/05"	22	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2009"	"2009"	"Jun., 2009"	"2009/06"	20	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2009"	"2009"	"Jul., 2009"	"2009/07"	18	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2009"	"2009"	"Aug., 2009"	"2009/08"	16	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2009"	"2009"	"Sep., 2009"	"2009/09"	11	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2009"	"2009"	"Oct., 2009"	"2009/10"	11	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2009"	"2009"	"Nov., 2009"	"2009/11"	20	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2009"	"2009"	"Dec., 2009"	"2009/12"	27	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2009"	"2009"	"Jan., 2009"	"2009/01"	Suppressed	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2009"	"2009"	"Feb., 2009"	"2009/02"	Suppressed	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2009"	"2009"	"Mar., 2009"	"2009/03"	Suppressed	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2009"	"2009"	"Apr., 2009"	"2009/04"	10	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2009"	"2009"	"May, 2009"	"2009/05"	Suppressed	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2009"	"2009"	"Jun., 2009"	"2009/06"	Suppressed	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2009"	"2009"	"Jul., 2009"	"2009/07"	Suppressed	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2009"	"2009"	"Aug., 2009"	"2009/08"	Suppressed	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2009"	"2009"	"Sep., 2009"	"2009/09"	Suppressed	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2009"	"2009"	"Oct., 2009"	"2009/10"	Suppressed	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2009"	"2009"	"Nov., 2009"	"2009/11"	Suppressed	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2009"	"2009"	"Dec., 2009"	"2009/12"	12	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2009"	"2009"	"Jan., 2009"	"2009/01"	39	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2009"	"2009"	"Feb., 2009"	"2009/02"	52	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2009"	"2009"	"Mar., 2009"	"2009/03"	46	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2009"	"2009"	"Apr., 2009"	"2009/04"	40	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2009"	"2009"	"May, 2009"	"2009/05"	34	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2009"	"2009"	"Jun., 2009"	"2009/06"	35	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2009"	"2009"	"Jul., 2009"	"2009/07"	36	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2009"	"2009"	"Aug., 2009"	"2009/08"	31	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2009"	"2009"	"Sep., 2009"	"2009/09"	33	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2009"	"2009"	"Oct., 2009"	"2009/10"	45	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2009"	"2009"	"Nov., 2009"	"2009/11"	34	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2009"	"2009"	"Dec., 2009"	"2009/12"	37	Not Applicable	Not Applicable
+	"Montana"	"30"	"2009"	"2009"	"Jan., 2009"	"2009/01"	12	Not Applicable	Not Applicable
+	"Montana"	"30"	"2009"	"2009"	"Feb., 2009"	"2009/02"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2009"	"2009"	"Mar., 2009"	"2009/03"	13	Not Applicable	Not Applicable
+	"Montana"	"30"	"2009"	"2009"	"Apr., 2009"	"2009/04"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2009"	"2009"	"May, 2009"	"2009/05"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2009"	"2009"	"Jun., 2009"	"2009/06"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2009"	"2009"	"Jul., 2009"	"2009/07"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2009"	"2009"	"Aug., 2009"	"2009/08"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2009"	"2009"	"Sep., 2009"	"2009/09"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2009"	"2009"	"Oct., 2009"	"2009/10"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2009"	"2009"	"Nov., 2009"	"2009/11"	Suppressed	Not Applicable	Not Applicable
+	"Montana"	"30"	"2009"	"2009"	"Dec., 2009"	"2009/12"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2009"	"2009"	"Jan., 2009"	"2009/01"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2009"	"2009"	"Feb., 2009"	"2009/02"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2009"	"2009"	"Mar., 2009"	"2009/03"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2009"	"2009"	"Apr., 2009"	"2009/04"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2009"	"2009"	"May, 2009"	"2009/05"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2009"	"2009"	"Jun., 2009"	"2009/06"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2009"	"2009"	"Jul., 2009"	"2009/07"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2009"	"2009"	"Aug., 2009"	"2009/08"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2009"	"2009"	"Sep., 2009"	"2009/09"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2009"	"2009"	"Oct., 2009"	"2009/10"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2009"	"2009"	"Nov., 2009"	"2009/11"	Suppressed	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2009"	"2009"	"Dec., 2009"	"2009/12"	Suppressed	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2009"	"2009"	"Jan., 2009"	"2009/01"	38	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2009"	"2009"	"Feb., 2009"	"2009/02"	38	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2009"	"2009"	"Mar., 2009"	"2009/03"	30	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2009"	"2009"	"Apr., 2009"	"2009/04"	39	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2009"	"2009"	"May, 2009"	"2009/05"	37	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2009"	"2009"	"Jun., 2009"	"2009/06"	22	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2009"	"2009"	"Jul., 2009"	"2009/07"	29	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2009"	"2009"	"Aug., 2009"	"2009/08"	34	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2009"	"2009"	"Sep., 2009"	"2009/09"	35	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2009"	"2009"	"Oct., 2009"	"2009/10"	37	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2009"	"2009"	"Nov., 2009"	"2009/11"	28	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2009"	"2009"	"Dec., 2009"	"2009/12"	32	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2009"	"2009"	"Jan., 2009"	"2009/01"	14	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2009"	"2009"	"Feb., 2009"	"2009/02"	Suppressed	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2009"	"2009"	"Mar., 2009"	"2009/03"	Suppressed	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2009"	"2009"	"Apr., 2009"	"2009/04"	18	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2009"	"2009"	"May, 2009"	"2009/05"	Suppressed	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2009"	"2009"	"Jun., 2009"	"2009/06"	Suppressed	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2009"	"2009"	"Jul., 2009"	"2009/07"	11	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2009"	"2009"	"Aug., 2009"	"2009/08"	17	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2009"	"2009"	"Sep., 2009"	"2009/09"	Suppressed	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2009"	"2009"	"Oct., 2009"	"2009/10"	Suppressed	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2009"	"2009"	"Nov., 2009"	"2009/11"	Suppressed	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2009"	"2009"	"Dec., 2009"	"2009/12"	Suppressed	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2009"	"2009"	"Jan., 2009"	"2009/01"	Suppressed	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2009"	"2009"	"Feb., 2009"	"2009/02"	Suppressed	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2009"	"2009"	"Mar., 2009"	"2009/03"	Suppressed	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2009"	"2009"	"Apr., 2009"	"2009/04"	Suppressed	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2009"	"2009"	"May, 2009"	"2009/05"	Suppressed	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2009"	"2009"	"Jun., 2009"	"2009/06"	Suppressed	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2009"	"2009"	"Jul., 2009"	"2009/07"	Suppressed	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2009"	"2009"	"Aug., 2009"	"2009/08"	Suppressed	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2009"	"2009"	"Sep., 2009"	"2009/09"	11	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2009"	"2009"	"Oct., 2009"	"2009/10"	Suppressed	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2009"	"2009"	"Nov., 2009"	"2009/11"	0	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2009"	"2009"	"Dec., 2009"	"2009/12"	Suppressed	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2009"	"2009"	"Jan., 2009"	"2009/01"	22	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2009"	"2009"	"Feb., 2009"	"2009/02"	16	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2009"	"2009"	"Mar., 2009"	"2009/03"	22	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2009"	"2009"	"Apr., 2009"	"2009/04"	12	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2009"	"2009"	"May, 2009"	"2009/05"	26	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2009"	"2009"	"Jun., 2009"	"2009/06"	19	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2009"	"2009"	"Jul., 2009"	"2009/07"	18	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2009"	"2009"	"Aug., 2009"	"2009/08"	11	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2009"	"2009"	"Sep., 2009"	"2009/09"	Suppressed	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2009"	"2009"	"Oct., 2009"	"2009/10"	10	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2009"	"2009"	"Nov., 2009"	"2009/11"	13	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2009"	"2009"	"Dec., 2009"	"2009/12"	14	Not Applicable	Not Applicable
+	"New York"	"36"	"2009"	"2009"	"Jan., 2009"	"2009/01"	85	Not Applicable	Not Applicable
+	"New York"	"36"	"2009"	"2009"	"Feb., 2009"	"2009/02"	66	Not Applicable	Not Applicable
+	"New York"	"36"	"2009"	"2009"	"Mar., 2009"	"2009/03"	68	Not Applicable	Not Applicable
+	"New York"	"36"	"2009"	"2009"	"Apr., 2009"	"2009/04"	65	Not Applicable	Not Applicable
+	"New York"	"36"	"2009"	"2009"	"May, 2009"	"2009/05"	74	Not Applicable	Not Applicable
+	"New York"	"36"	"2009"	"2009"	"Jun., 2009"	"2009/06"	72	Not Applicable	Not Applicable
+	"New York"	"36"	"2009"	"2009"	"Jul., 2009"	"2009/07"	77	Not Applicable	Not Applicable
+	"New York"	"36"	"2009"	"2009"	"Aug., 2009"	"2009/08"	90	Not Applicable	Not Applicable
+	"New York"	"36"	"2009"	"2009"	"Sep., 2009"	"2009/09"	96	Not Applicable	Not Applicable
+	"New York"	"36"	"2009"	"2009"	"Oct., 2009"	"2009/10"	77	Not Applicable	Not Applicable
+	"New York"	"36"	"2009"	"2009"	"Nov., 2009"	"2009/11"	89	Not Applicable	Not Applicable
+	"New York"	"36"	"2009"	"2009"	"Dec., 2009"	"2009/12"	89	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2009"	"2009"	"Jan., 2009"	"2009/01"	79	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2009"	"2009"	"Feb., 2009"	"2009/02"	86	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2009"	"2009"	"Mar., 2009"	"2009/03"	78	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2009"	"2009"	"Apr., 2009"	"2009/04"	63	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2009"	"2009"	"May, 2009"	"2009/05"	76	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2009"	"2009"	"Jun., 2009"	"2009/06"	61	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2009"	"2009"	"Jul., 2009"	"2009/07"	72	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2009"	"2009"	"Aug., 2009"	"2009/08"	69	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2009"	"2009"	"Sep., 2009"	"2009/09"	65	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2009"	"2009"	"Oct., 2009"	"2009/10"	64	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2009"	"2009"	"Nov., 2009"	"2009/11"	59	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2009"	"2009"	"Dec., 2009"	"2009/12"	75	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2009"	"2009"	"Jan., 2009"	"2009/01"	Suppressed	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2009"	"2009"	"Feb., 2009"	"2009/02"	Suppressed	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2009"	"2009"	"Mar., 2009"	"2009/03"	0	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2009"	"2009"	"Apr., 2009"	"2009/04"	Suppressed	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2009"	"2009"	"May, 2009"	"2009/05"	0	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2009"	"2009"	"Jun., 2009"	"2009/06"	Suppressed	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2009"	"2009"	"Jul., 2009"	"2009/07"	0	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2009"	"2009"	"Aug., 2009"	"2009/08"	0	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2009"	"2009"	"Sep., 2009"	"2009/09"	Suppressed	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2009"	"2009"	"Oct., 2009"	"2009/10"	0	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2009"	"2009"	"Nov., 2009"	"2009/11"	Suppressed	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2009"	"2009"	"Dec., 2009"	"2009/12"	Suppressed	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2009"	"2009"	"Jan., 2009"	"2009/01"	17	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2009"	"2009"	"Feb., 2009"	"2009/02"	16	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2009"	"2009"	"Mar., 2009"	"2009/03"	44	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2009"	"2009"	"Apr., 2009"	"2009/04"	41	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2009"	"2009"	"May, 2009"	"2009/05"	59	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2009"	"2009"	"Jun., 2009"	"2009/06"	34	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2009"	"2009"	"Jul., 2009"	"2009/07"	64	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2009"	"2009"	"Aug., 2009"	"2009/08"	58	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2009"	"2009"	"Sep., 2009"	"2009/09"	79	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2009"	"2009"	"Oct., 2009"	"2009/10"	75	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2009"	"2009"	"Nov., 2009"	"2009/11"	65	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2009"	"2009"	"Dec., 2009"	"2009/12"	87	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2009"	"2009"	"Jan., 2009"	"2009/01"	51	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2009"	"2009"	"Feb., 2009"	"2009/02"	51	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2009"	"2009"	"Mar., 2009"	"2009/03"	45	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2009"	"2009"	"Apr., 2009"	"2009/04"	54	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2009"	"2009"	"May, 2009"	"2009/05"	56	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2009"	"2009"	"Jun., 2009"	"2009/06"	42	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2009"	"2009"	"Jul., 2009"	"2009/07"	41	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2009"	"2009"	"Aug., 2009"	"2009/08"	37	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2009"	"2009"	"Sep., 2009"	"2009/09"	40	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2009"	"2009"	"Oct., 2009"	"2009/10"	40	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2009"	"2009"	"Nov., 2009"	"2009/11"	49	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2009"	"2009"	"Dec., 2009"	"2009/12"	54	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2009"	"2009"	"Jan., 2009"	"2009/01"	29	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2009"	"2009"	"Feb., 2009"	"2009/02"	38	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2009"	"2009"	"Mar., 2009"	"2009/03"	35	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2009"	"2009"	"Apr., 2009"	"2009/04"	25	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2009"	"2009"	"May, 2009"	"2009/05"	27	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2009"	"2009"	"Jun., 2009"	"2009/06"	25	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2009"	"2009"	"Jul., 2009"	"2009/07"	37	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2009"	"2009"	"Aug., 2009"	"2009/08"	36	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2009"	"2009"	"Sep., 2009"	"2009/09"	27	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2009"	"2009"	"Oct., 2009"	"2009/10"	27	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2009"	"2009"	"Nov., 2009"	"2009/11"	31	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2009"	"2009"	"Dec., 2009"	"2009/12"	17	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2009"	"2009"	"Jan., 2009"	"2009/01"	47	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2009"	"2009"	"Feb., 2009"	"2009/02"	54	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2009"	"2009"	"Mar., 2009"	"2009/03"	52	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2009"	"2009"	"Apr., 2009"	"2009/04"	62	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2009"	"2009"	"May, 2009"	"2009/05"	46	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2009"	"2009"	"Jun., 2009"	"2009/06"	36	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2009"	"2009"	"Jul., 2009"	"2009/07"	41	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2009"	"2009"	"Aug., 2009"	"2009/08"	48	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2009"	"2009"	"Sep., 2009"	"2009/09"	63	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2009"	"2009"	"Oct., 2009"	"2009/10"	35	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2009"	"2009"	"Nov., 2009"	"2009/11"	37	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2009"	"2009"	"Dec., 2009"	"2009/12"	59	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2009"	"2009"	"Jan., 2009"	"2009/01"	Suppressed	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2009"	"2009"	"Feb., 2009"	"2009/02"	Suppressed	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2009"	"2009"	"Mar., 2009"	"2009/03"	Suppressed	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2009"	"2009"	"Apr., 2009"	"2009/04"	Suppressed	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2009"	"2009"	"May, 2009"	"2009/05"	Suppressed	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2009"	"2009"	"Jun., 2009"	"2009/06"	Suppressed	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2009"	"2009"	"Jul., 2009"	"2009/07"	Suppressed	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2009"	"2009"	"Aug., 2009"	"2009/08"	11	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2009"	"2009"	"Sep., 2009"	"2009/09"	10	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2009"	"2009"	"Oct., 2009"	"2009/10"	Suppressed	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2009"	"2009"	"Nov., 2009"	"2009/11"	10	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2009"	"2009"	"Dec., 2009"	"2009/12"	Suppressed	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2009"	"2009"	"Jan., 2009"	"2009/01"	30	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2009"	"2009"	"Feb., 2009"	"2009/02"	16	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2009"	"2009"	"Mar., 2009"	"2009/03"	24	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2009"	"2009"	"Apr., 2009"	"2009/04"	20	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2009"	"2009"	"May, 2009"	"2009/05"	15	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2009"	"2009"	"Jun., 2009"	"2009/06"	13	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2009"	"2009"	"Jul., 2009"	"2009/07"	20	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2009"	"2009"	"Aug., 2009"	"2009/08"	17	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2009"	"2009"	"Sep., 2009"	"2009/09"	23	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2009"	"2009"	"Oct., 2009"	"2009/10"	15	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2009"	"2009"	"Nov., 2009"	"2009/11"	20	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2009"	"2009"	"Dec., 2009"	"2009/12"	21	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2009"	"2009"	"Jan., 2009"	"2009/01"	0	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2009"	"2009"	"Feb., 2009"	"2009/02"	Suppressed	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2009"	"2009"	"Mar., 2009"	"2009/03"	Suppressed	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2009"	"2009"	"Apr., 2009"	"2009/04"	Suppressed	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2009"	"2009"	"May, 2009"	"2009/05"	Suppressed	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2009"	"2009"	"Jun., 2009"	"2009/06"	Suppressed	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2009"	"2009"	"Jul., 2009"	"2009/07"	Suppressed	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2009"	"2009"	"Aug., 2009"	"2009/08"	Suppressed	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2009"	"2009"	"Sep., 2009"	"2009/09"	Suppressed	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2009"	"2009"	"Oct., 2009"	"2009/10"	Suppressed	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2009"	"2009"	"Nov., 2009"	"2009/11"	Suppressed	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2009"	"2009"	"Dec., 2009"	"2009/12"	Suppressed	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2009"	"2009"	"Jan., 2009"	"2009/01"	53	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2009"	"2009"	"Feb., 2009"	"2009/02"	43	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2009"	"2009"	"Mar., 2009"	"2009/03"	42	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2009"	"2009"	"Apr., 2009"	"2009/04"	48	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2009"	"2009"	"May, 2009"	"2009/05"	39	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2009"	"2009"	"Jun., 2009"	"2009/06"	39	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2009"	"2009"	"Jul., 2009"	"2009/07"	43	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2009"	"2009"	"Aug., 2009"	"2009/08"	30	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2009"	"2009"	"Sep., 2009"	"2009/09"	39	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2009"	"2009"	"Oct., 2009"	"2009/10"	40	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2009"	"2009"	"Nov., 2009"	"2009/11"	31	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2009"	"2009"	"Dec., 2009"	"2009/12"	40	Not Applicable	Not Applicable
+	"Texas"	"48"	"2009"	"2009"	"Jan., 2009"	"2009/01"	109	Not Applicable	Not Applicable
+	"Texas"	"48"	"2009"	"2009"	"Feb., 2009"	"2009/02"	84	Not Applicable	Not Applicable
+	"Texas"	"48"	"2009"	"2009"	"Mar., 2009"	"2009/03"	108	Not Applicable	Not Applicable
+	"Texas"	"48"	"2009"	"2009"	"Apr., 2009"	"2009/04"	83	Not Applicable	Not Applicable
+	"Texas"	"48"	"2009"	"2009"	"May, 2009"	"2009/05"	89	Not Applicable	Not Applicable
+	"Texas"	"48"	"2009"	"2009"	"Jun., 2009"	"2009/06"	94	Not Applicable	Not Applicable
+	"Texas"	"48"	"2009"	"2009"	"Jul., 2009"	"2009/07"	70	Not Applicable	Not Applicable
+	"Texas"	"48"	"2009"	"2009"	"Aug., 2009"	"2009/08"	71	Not Applicable	Not Applicable
+	"Texas"	"48"	"2009"	"2009"	"Sep., 2009"	"2009/09"	68	Not Applicable	Not Applicable
+	"Texas"	"48"	"2009"	"2009"	"Oct., 2009"	"2009/10"	104	Not Applicable	Not Applicable
+	"Texas"	"48"	"2009"	"2009"	"Nov., 2009"	"2009/11"	91	Not Applicable	Not Applicable
+	"Texas"	"48"	"2009"	"2009"	"Dec., 2009"	"2009/12"	100	Not Applicable	Not Applicable
+	"Utah"	"49"	"2009"	"2009"	"Jan., 2009"	"2009/01"	28	Not Applicable	Not Applicable
+	"Utah"	"49"	"2009"	"2009"	"Feb., 2009"	"2009/02"	26	Not Applicable	Not Applicable
+	"Utah"	"49"	"2009"	"2009"	"Mar., 2009"	"2009/03"	32	Not Applicable	Not Applicable
+	"Utah"	"49"	"2009"	"2009"	"Apr., 2009"	"2009/04"	30	Not Applicable	Not Applicable
+	"Utah"	"49"	"2009"	"2009"	"May, 2009"	"2009/05"	40	Not Applicable	Not Applicable
+	"Utah"	"49"	"2009"	"2009"	"Jun., 2009"	"2009/06"	31	Not Applicable	Not Applicable
+	"Utah"	"49"	"2009"	"2009"	"Jul., 2009"	"2009/07"	29	Not Applicable	Not Applicable
+	"Utah"	"49"	"2009"	"2009"	"Aug., 2009"	"2009/08"	37	Not Applicable	Not Applicable
+	"Utah"	"49"	"2009"	"2009"	"Sep., 2009"	"2009/09"	24	Not Applicable	Not Applicable
+	"Utah"	"49"	"2009"	"2009"	"Oct., 2009"	"2009/10"	27	Not Applicable	Not Applicable
+	"Utah"	"49"	"2009"	"2009"	"Nov., 2009"	"2009/11"	25	Not Applicable	Not Applicable
+	"Utah"	"49"	"2009"	"2009"	"Dec., 2009"	"2009/12"	18	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2009"	"2009"	"Jan., 2009"	"2009/01"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2009"	"2009"	"Feb., 2009"	"2009/02"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2009"	"2009"	"Mar., 2009"	"2009/03"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2009"	"2009"	"Apr., 2009"	"2009/04"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2009"	"2009"	"May, 2009"	"2009/05"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2009"	"2009"	"Jun., 2009"	"2009/06"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2009"	"2009"	"Jul., 2009"	"2009/07"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2009"	"2009"	"Aug., 2009"	"2009/08"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2009"	"2009"	"Sep., 2009"	"2009/09"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2009"	"2009"	"Oct., 2009"	"2009/10"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2009"	"2009"	"Nov., 2009"	"2009/11"	Suppressed	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2009"	"2009"	"Dec., 2009"	"2009/12"	Suppressed	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2009"	"2009"	"Jan., 2009"	"2009/01"	43	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2009"	"2009"	"Feb., 2009"	"2009/02"	38	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2009"	"2009"	"Mar., 2009"	"2009/03"	42	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2009"	"2009"	"Apr., 2009"	"2009/04"	51	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2009"	"2009"	"May, 2009"	"2009/05"	42	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2009"	"2009"	"Jun., 2009"	"2009/06"	27	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2009"	"2009"	"Jul., 2009"	"2009/07"	37	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2009"	"2009"	"Aug., 2009"	"2009/08"	30	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2009"	"2009"	"Sep., 2009"	"2009/09"	36	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2009"	"2009"	"Oct., 2009"	"2009/10"	45	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2009"	"2009"	"Nov., 2009"	"2009/11"	27	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2009"	"2009"	"Dec., 2009"	"2009/12"	41	Not Applicable	Not Applicable
+	"Washington"	"53"	"2009"	"2009"	"Jan., 2009"	"2009/01"	55	Not Applicable	Not Applicable
+	"Washington"	"53"	"2009"	"2009"	"Feb., 2009"	"2009/02"	54	Not Applicable	Not Applicable
+	"Washington"	"53"	"2009"	"2009"	"Mar., 2009"	"2009/03"	51	Not Applicable	Not Applicable
+	"Washington"	"53"	"2009"	"2009"	"Apr., 2009"	"2009/04"	47	Not Applicable	Not Applicable
+	"Washington"	"53"	"2009"	"2009"	"May, 2009"	"2009/05"	56	Not Applicable	Not Applicable
+	"Washington"	"53"	"2009"	"2009"	"Jun., 2009"	"2009/06"	51	Not Applicable	Not Applicable
+	"Washington"	"53"	"2009"	"2009"	"Jul., 2009"	"2009/07"	54	Not Applicable	Not Applicable
+	"Washington"	"53"	"2009"	"2009"	"Aug., 2009"	"2009/08"	46	Not Applicable	Not Applicable
+	"Washington"	"53"	"2009"	"2009"	"Sep., 2009"	"2009/09"	53	Not Applicable	Not Applicable
+	"Washington"	"53"	"2009"	"2009"	"Oct., 2009"	"2009/10"	55	Not Applicable	Not Applicable
+	"Washington"	"53"	"2009"	"2009"	"Nov., 2009"	"2009/11"	55	Not Applicable	Not Applicable
+	"Washington"	"53"	"2009"	"2009"	"Dec., 2009"	"2009/12"	59	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2009"	"2009"	"Jan., 2009"	"2009/01"	Suppressed	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2009"	"2009"	"Feb., 2009"	"2009/02"	Suppressed	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2009"	"2009"	"Mar., 2009"	"2009/03"	Suppressed	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2009"	"2009"	"Apr., 2009"	"2009/04"	Suppressed	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2009"	"2009"	"May, 2009"	"2009/05"	13	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2009"	"2009"	"Jun., 2009"	"2009/06"	21	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2009"	"2009"	"Jul., 2009"	"2009/07"	20	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2009"	"2009"	"Aug., 2009"	"2009/08"	24	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2009"	"2009"	"Sep., 2009"	"2009/09"	27	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2009"	"2009"	"Oct., 2009"	"2009/10"	Suppressed	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2009"	"2009"	"Nov., 2009"	"2009/11"	13	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2009"	"2009"	"Dec., 2009"	"2009/12"	32	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2009"	"2009"	"Jan., 2009"	"2009/01"	29	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2009"	"2009"	"Feb., 2009"	"2009/02"	44	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2009"	"2009"	"Mar., 2009"	"2009/03"	33	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2009"	"2009"	"Apr., 2009"	"2009/04"	35	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2009"	"2009"	"May, 2009"	"2009/05"	33	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2009"	"2009"	"Jun., 2009"	"2009/06"	29	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2009"	"2009"	"Jul., 2009"	"2009/07"	29	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2009"	"2009"	"Aug., 2009"	"2009/08"	27	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2009"	"2009"	"Sep., 2009"	"2009/09"	38	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2009"	"2009"	"Oct., 2009"	"2009/10"	38	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2009"	"2009"	"Nov., 2009"	"2009/11"	25	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2009"	"2009"	"Dec., 2009"	"2009/12"	22	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2009"	"2009"	"Jan., 2009"	"2009/01"	Suppressed	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2009"	"2009"	"Feb., 2009"	"2009/02"	Suppressed	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2009"	"2009"	"Mar., 2009"	"2009/03"	Suppressed	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2009"	"2009"	"Apr., 2009"	"2009/04"	Suppressed	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2009"	"2009"	"May, 2009"	"2009/05"	Suppressed	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2009"	"2009"	"Jun., 2009"	"2009/06"	Suppressed	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2009"	"2009"	"Jul., 2009"	"2009/07"	Suppressed	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2009"	"2009"	"Aug., 2009"	"2009/08"	Suppressed	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2009"	"2009"	"Sep., 2009"	"2009/09"	Suppressed	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2009"	"2009"	"Oct., 2009"	"2009/10"	Suppressed	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2009"	"2009"	"Nov., 2009"	"2009/11"	0	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2009"	"2009"	"Dec., 2009"	"2009/12"	0	Not Applicable	Not Applicable
+"---"
+"Dataset: Multiple Cause of Death, 1999-2020"
+"Query Parameters:"
+"MCD - ICD-10 Codes: T40.0 (Opium); T40.1 (Heroin); T40.2 (Other opioids); T40.3 (Methadone); T40.4 (Other synthetic narcotics)"
+"UCD - ICD-10 Codes: X40 (Accidental poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics); X41"
+"(Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not"
+"elsewhere classified); X42 (Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not"
+"elsewhere classified); X43 (Accidental poisoning by and exposure to other drugs acting on the autonomic nervous system); X44"
+"(Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances); X60 (Intentional"
+"self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics); X61 (Intentional self-poisoning by and"
+"exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified); X62"
+"(Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified); X63"
+"(Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system); X64 (Intentional"
+"self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances); X85 (Assault by drugs,"
+"medicaments and biological substances); Y10 (Poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics,"
+"undetermined intent); Y11 (Poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic"
+"drugs, not elsewhere classified, undetermined intent); Y12 (Poisoning by and exposure to narcotics and psychodysleptics"
+"[hallucinogens], not elsewhere classified, undetermined intent); Y13 (Poisoning by and exposure to other drugs acting on the"
+"autonomic nervous system, undetermined intent); Y14 (Poisoning by and exposure to other and unspecified drugs, medicaments and"
+"biological substances, undetermined intent)"
+"Year/Month: 2009"
+"Group By: State; Year; Month"
+"Show Totals: Disabled"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: Jul 30, 2024 7:00:50 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/mcd-icd10.html on Jul 30, 2024 7:00:50 AM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when Autopsy, Place of Death, Weekday or Month are grouped by or limited,"
+"due to lack of a valid population. More information: http://wonder.cdc.gov/wonder/help/mcd.html#NotApplicableRates."
+"2. Circumstances in Georgia for the years 2008 and 2009 have resulted in unusually high death counts for the ICD-10 cause of"
+"death code R99, ""Other ill-defined and unspecified causes of mortality."" Caution should be used in interpreting these data."
+"More information: http://wonder.cdc.gov/wonder/help/mcd.html#Georgia-Reporting-Anomalies."
+"3. Circumstances in New Jersey for the year 2009 have resulted in unusually high death counts for the ICD-10 cause of death code"
+"R99, ""Other ill-defined and unspecified causes of mortality"" and therefore unusually low death counts in other ICD-10 codes,"
+"most notably R95, ""Sudden Infant Death Syndrome"" and X40-X49, ""Unintentional poisoning."" Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/mcd.html#New-Jersey-Reporting-Anomalies."
+"4. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Assurance of Confidentiality."
+"5. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Unreliable."
+"6. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#ICD-10 Changes."
